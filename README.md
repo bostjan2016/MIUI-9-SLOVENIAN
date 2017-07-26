@@ -1,7 +1,7 @@
 MA-XML-8.0-SLOVENIAN-master
 ==========================
 
-SLOVENIAN Translation For Xiaomi MIUI V8 Android Based OS
+SLOVENIAN Translation For Xiaomi MIUI V9 Android Based OS
 
 
  MIUI Translation: **BOSTJAN, MARKO**
