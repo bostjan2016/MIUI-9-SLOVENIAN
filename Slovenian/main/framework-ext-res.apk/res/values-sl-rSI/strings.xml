@@ -34,7 +34,7 @@
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
   <string name="default_name">Privzeto</string>
-  <string name="description_title">Brezšumni način</string>
+  <string name="description_title">Tihi način</string>
   <string name="eighthours">8 ur</string>
   <string name="enable_livetalk_summary">Prihranite 70% pri vaših klicih</string>
   <string name="enable_livetalk_title">Vključi paket doplačila</string>
@@ -121,14 +121,14 @@
   <string name="set_password_title">Nastavite geslo</string>
   <string name="shutdown_confirm_title">"Izključim napravo?"</string>
   <string name="shutdown_progress">"Izklop…"</string>
-  <string name="silence_mode">Brezšumni način</string>
+  <string name="silence_mode">Tihi način</string>
   <string name="sim_added_reboot_confirm">Ponovno zaženi</string>
   <string name="sim_added_reboot_title">SIM kartica bo aktivirana po ponovnem zagonu naprave.</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" vključen</string>
-  <string name="standard">Brezšumno</string>
-  <string name="standard_description">[Brezšumno] Melodije zvonenja za dohodne klice in obvestila</string>
-  <string name="standard_title">Brezšumno.</string>
+  <string name="standard">Tiho</string>
+  <string name="standard_description">[Tiho] Melodije zvonenja za dohodne klice in obvestila</string>
+  <string name="standard_title">Tiho.</string>
   <string name="start_security_permission_verify_text">Preverite dovoljenja s svojim Mi Računom</string>
   <string name="status_bar_toggle_ac">Zakl. aplik.</string>
   <string name="status_bar_toggle_auto_brightness">Svetlost</string>
