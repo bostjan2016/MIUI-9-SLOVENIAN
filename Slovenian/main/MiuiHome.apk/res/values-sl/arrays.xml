@@ -47,10 +47,8 @@
         <item>Meglica</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Teme</item>
-        <item>Pripomočki</item>
         <item>Ozadje</item>
-        <item>Efekti</item>
-		<item>Razpored</item>
+        <item>Widgeti</item>
+	<item>Nastavitve</item>
     </string-array>
 </resources> 

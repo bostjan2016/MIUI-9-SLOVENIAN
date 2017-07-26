@@ -1,7 +1,7 @@
 <dl><dd><img src="http://i.imgur.com/JCMdFeD.png" border="0" alt="MIUI9_logo"></a></dd></dl>
 
 
-MA-XML-8.0-SLOVENIAN-master
+MA-XML-9.0-SLOVENIAN-master
 ==========================
 
 SLOVENIAN Translation For Xiaomi MIUI V9 Android Based OS

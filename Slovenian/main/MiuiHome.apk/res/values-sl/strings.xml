@@ -161,17 +161,22 @@
   <string name="lock_screen_success_message">Uporabljeno</string>
   <string name="lock_screen_wallpaper">Ozadje zakl. zaslona</string>
   <string name="menu_add">Dodaj</string>
+  <string name="menu_auto_fill">Samod. izpolni</string>
   <string name="menu_back_desktop">Nazaj na začetni zaslon</string>
+  <string name="menu_cell_setting">Nastavitve zaslona</string>
   <string name="menu_customize">Nastavitve</string>
   <string name="menu_edit">Spremeni začetni zaslon</string>
   <string name="menu_exit_scene">Izhod iz Mi prostora</string>
   <string name="menu_item_add_item">Postavi na začetni zaslon</string>
   <string name="menu_launcher_setting">Nastavitve vmesnika</string>
+  <string name="menu_lock">Zakl. zaslon</string>
+  <string name="menu_more">Več</string>
   <string name="menu_picktheme">Izberi temo</string>
   <string name="menu_reset_scene">Ponastavi na prevzeto postavitev</string>
   <string name="menu_search">Išči</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="menu_sort">Razvrsti aplikacije</string>
+  <string name="menu_trans_effect">Efekt prehoda</string>
   <string name="menu_wallpaper">Ozadje</string>
   <string name="menu_workspace_preview">Predogled začetnih zaslonov</string>
   <string name="mi_wallpaper">MIUI Trgovina Teme</string>
@@ -217,8 +222,8 @@
   <string name="recommend_apps_notice_nodata">Priporočene aplik. (Ni podataka)</string>
   <string name="recommend_apps_switch_title">Priporočene aplik.</string>
   <string name="recommend_apps_tips">"Ta funkcija za normalno delovanje potrebuje povezavo s spletom. Za izključitev te funkcije se dotaknite imena te mape."</string>
-  <string name="reset_scene_prompt">Zaslon bo ponovno nastavljen na privzeto postavitev</string>
-  <string name="screen_locked_toast">Razporeditev Zač. zaslona je zaklenjena</string>
+  <string name="screen_locked_toast">Razpored začetnega zaslona je zaklenjen</string>
+  <string name="reset_scene_prompt">Zaslon se bo vrnil na privzeto.</string>
   <string name="screen_number">Zaslon %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">na strani %1$d, %2$d aplikacij</string>
   <string name="select_all">Izberi vse</string>
@@ -279,4 +284,5 @@
   <string name="widget_favorite_contacts_style">Spremeni velikost</string>
   <string name="widget_gadget_player">Glasba</string>
   <string name="widget_global_search">Išči</string>
+  <string name="widget_quick_function">Hitra opravila</string>
 </resources>
