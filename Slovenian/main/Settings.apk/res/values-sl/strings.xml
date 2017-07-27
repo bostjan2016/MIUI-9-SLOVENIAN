@@ -183,7 +183,7 @@
   <string name="alarm_sound_dialog_title">Izberite zvok alarma</string>
   <string name="alarm_sound_title">Zvok Alarma</string>
   <string name="alarm_stop">Zvok alarma lahko prikine tihi način</string>
-  <string name="alarm_stop_info">Čr alarm zazvoni pred koncem nastavive bo tihi način lahko prekinjen/string>
+  <string name="alarm_stop_info">Čr alarm zazvoni pred koncem nastavive bo tihi način lahko prekinjen</string>
   <string name="alarm_volume_option_title">Glasnost alarma</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Prikazovanje ohranjevalnika zaslona bo povečalo porabo baterije.</string>
