@@ -284,4 +284,5 @@
   <string name="widget_favorite_contacts_style">Spremeni velikost</string>
   <string name="widget_gadget_player">Glasba</string>
   <string name="widget_global_search">Išči</string>
+  <string name="widget_quick_function">Hitro opravilo</string>
 </resources>
