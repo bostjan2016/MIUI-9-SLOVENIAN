@@ -2859,7 +2859,7 @@ Na tej napravi je več uporabnikov.
   <string name="notification_log_details_visibility">vidnost</string>
   <string name="notification_log_no_title">(nič)</string>
   <string name="notification_log_title">Zapisnik obvestil</string>
-  <string name="notification_pulse_title">Utripajoče lučka obvestil</string>
+  <string name="notification_pulse_title">Utripajoča lučka obvestil</string>
   <string name="notification_reboot_btn">Ponovno zaženi</string>
   <string name="notification_reboot_summary_hm">Tapni za ponovni zagon naprave.</string>
   <string name="notification_reboot_title">Ponovno zaženi za uporabo posodobitev</string>
