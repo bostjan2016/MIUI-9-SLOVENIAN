@@ -85,6 +85,8 @@
   <string name="apn_settings_not_available">Nastavitve dostopne točke niso dostupne temu uporabniku</string>
   <string name="app_label">Sistem UI</string>
   <string name="app_process_limit_title">Omejitev procesov v ozadju</string>
+  <string name="as_important">Važno</string>
+  <string name="as_unimportant">Nepomembno</string>
   <string name="audio_effect_custom">Konfiguriraj</string>
   <string name="audio_effect_info">Optimiziraj avdio</string>
   <string name="audio_effect_settings">Določi tip slušalk</string>
@@ -175,6 +177,7 @@
   <string name="camera_key_action_shortcut_title">Bližnjica</string>
   <string name="camera_key_action_shortcut_wake">Zakleni/Zbudi napravo</string>
   <string name="camera_key_action_toggle_title">Sprememba stanja bližnjic</string>
+  <string name="cancel">Prekliči</string>
   <string name="category_personal">Osebno</string>
   <string name="category_work">Delo</string>
   <string name="charge_length_format">pred %1$s</string>
@@ -298,6 +301,7 @@
   <string name="home">Začetni zaslon nastavitev</string>
   <string name="immediately_destroy_activities">Odstranjevanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekine ko jo uporabnik zapusti.</string>
+  <string name="important_desc">Vsa važna obvestila bodo prikazana v plošči obvestil.</string>
   <string name="inactive_app_active_summary">Aktivno. Tapnite za spremembo.</string>
   <string name="inactive_app_inactive_summary">Ni aktivno. Tapnite za spremembo.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
@@ -588,6 +592,9 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="tts_status_ok">%1$s je popolnoma podprt</string>
   <string name="tts_status_requires_network">%1$s zahteva omrežno povezavo</string>
   <string name="tts_status_title">Status privzetega jezika</string>
+  <string name="un_important_notifications">Nepomembna obvestila</string>
+  <string name="unimportant_desc">Vsa nepomembna obvestila se bodo pojavila v zasebni mapi.</string>
+  <string name="unimportant_title">Nepomembno</string>
   <string name="unknown">Neznano</string>
   <string name="usb_accessory_confirm_prompt">Odprem %1$s ko bo USB oprema povezana?</string>
   <string name="usb_accessory_permission_prompt">Dovolim aplikaciji %1$s da dostopa do USB opreme?</string>

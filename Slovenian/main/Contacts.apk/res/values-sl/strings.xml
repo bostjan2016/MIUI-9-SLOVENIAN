@@ -531,6 +531,7 @@ Razlog: \"%s\""</string>
   <string name="hybrid_network_unavaliable">"Ne morem se povezati v omrežje"</string>
   <string name="hybrid_service_unavailiable">Storitev ni dostopna</string>
   <string name="hybrid_try_again">Poskusite ponovno</string>
+  <string name="hybrid_webpage_not_available">Spletna stran ni dostopna</string>
   <string name="ic_menu_back">Nazaj</string>
   <string name="ic_menu_done">Končano</string>
   <string name="imLabelsGroup">IM</string>
