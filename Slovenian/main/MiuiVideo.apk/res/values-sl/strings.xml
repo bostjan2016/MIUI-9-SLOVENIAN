@@ -19,14 +19,14 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z: %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="common_google_play_services_unknown_issue">%1$s ima težave z uslugami Google Playa. Če se problem ponovi poiščite pomoč od programerja.</string>  
+  <string name="common_google_play_services_unknown_issue">%1$s ima težave z storitvami Google Playa. Če se problem ponovi poiščite pomoč od programerja.</string>  
   <string name="app_name">Mi Video</string>
   <string name="load_more_and_more">Naloži več…</string>
   <string name="over_load_more">Naloži več</string>
   <string name="push">Naloži</string>
   <string name="push_load_more">Naloži več</string>
   <string name="albums">Albumi</string>
-  <string name="allow_draw_overlays_title">Omoguočte aplikaciji Player skočno okno v obziru na druge aplikacije</string>
+  <string name="allow_draw_overlays_title">Omogočite aplikaciji Player pojavno okno v odnosu na druge aplikacije</string>
   <string name="allow_sdraw_overlays_description">Aplikacija Player potrebuje dovoljenje za prikazovanje videoposnetkov v pojavnih oknih v odnosu na druge aplikacije.</string>
   <string name="allow_settings_access_brightness_description">Aplikacija Player potrebuje dovoljenje za spremembo načina osvetlitve.</string>
   <string name="allow_settings_access_brightness_title">Omogočite aplikaciji Player da zamenja način osvetlitve</string>
@@ -35,18 +35,18 @@
   <string name="allow_storage_access_description">Aplikacija Player potrebuje dovoljenje za dostop do multimedijskih datotek na tem računalniku.</string>
   <string name="allow_storage_access_title">Omogočite aplikaciji Player dostop do multimedijskih datotek na tem računalniku</string>
   <string name="artists">Umetniki</string>
-  <string name="audio">Avudio</string>
-  <string name="audio_delay">Zamik zvuoa</string>
+  <string name="audio">Avdio</string>
+  <string name="audio_delay">Zamik zvoka</string>
   <string name="back_quit_lock">Pritisnite ponovno za prekinitev videa</string>
   <string name="brightness">Osvetlitev</string>
   <string name="cancel">Prekliči</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="default_text">Privzeto</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_file_tips">Izbrišem to datotekou?</string>
+  <string name="delete_file_tips">Izbrišem to datoteko?</string>
   <string name="details">Podrobnosti</string>
-  <string name="dselect_all">Prekliči izbrano odabir</string>
-  <string name="encountered_error_message">"Aplikacija Player je našala  napako z tem medijem.
+  <string name="dselect_all">Prekliči izbrano</string>
+  <string name="encountered_error_message">"Aplikacija Player je našala  napako na tem mediju.
 Poskusite osvežiti knjižnico medija."</string>
   <string name="encountered_error_title">Napaka pri predvajanju</string>
   <string name="error_text_invalid_progressive_playback">"Ta vrsta datoteke ni podprta."</string>
@@ -89,7 +89,7 @@ Dolžina: %s
 
 "</string>
   <string name="network_stream">Omrežni stream</string>
-  <string name="no_filter_folder_tips">Ni mape filtov</string>
+  <string name="no_filter_folder_tips">Ni mape filtrov</string>
   <string name="no_folder_found">Ne najdem videoposnetkov</string>
   <string name="no_hidden_files_tips">Ni skritih datotek</string>
   <string name="no_search_found">Ni najdenih rezultatov</string>
@@ -135,7 +135,7 @@ Dolžina: %s
   <string name="subtitles">Podnaslovi</string>
   <string name="synchronization">Sinhronizacija</string>
   <string name="toast_player_list_header">Seznam za predvajanje</string>
-  <string name="toast_player_list_none">Nič več ni</string>
+  <string name="toast_player_list_none">Ni več vsebine</string>
   <string name="toast_screen_text_add">Uspešno dodano</string>
   <string name="toast_screen_text_default">Privzeta velikost</string>
   <string name="toast_screen_text_full">Cel zaslon</string>
@@ -145,11 +145,11 @@ Dolžina: %s
   <string name="toast_screen_text_vertical">Pokončno luščenje</string>
   <string name="track_audio">Avdio posnetek</string>
   <string name="track_text">Zapis podnaslova</string>
-  <string name="track_unknown">Nepoznan posnetek</string>
+  <string name="track_unknown">Neznan posnetek</string>
   <string name="track_video">Videoposnetek</string>
-  <string name="unknown_album">Nepoznan album</string>
-  <string name="unknown_artist">Nepoznan izvajalec</string>
-  <string name="unknown_genre">Nepoznan žanr</string>
+  <string name="unknown_album">Neznan album</string>
+  <string name="unknown_artist">Neznan izvajalec</string>
+  <string name="unknown_genre">Neznan žanr</string>
   <string name="unlocked">Odklenjeno</string>
   <string name="unseekable_stream">Stream ki se ne more iskati</string>
   <string name="v7_preference_off">IZKLJUČI</string>
