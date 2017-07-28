@@ -35,9 +35,9 @@
   <string name="button_sort_by_date">Razvrsti po datumu</string>
   <string name="button_sort_by_size">Razvrsti po velikosti</string>
   <string name="cancel">Prekini</string>
+  <string name="choose_open_picture">Izberi opravilo</string>
   <string name="cancel_running_download">Prekliči</string>
   <string name="cancle">Prekliči</string>
-  <string name="choose_open_picture">Opcije</string>
   <string name="choose_open_time">Izberite kdaj bi radi začeli</string>
   <string name="clear_data">Očisti</string>
   <string name="complete_time">Končano:</string>
@@ -230,8 +230,8 @@
   <string name="open_vip_hint">Dotaknite se da postanete Xunlei član</string>
   <string name="open_vip_speedup">Postanite član za povečanje hitrosti &gt;</string>
   <string name="open_xunlei_speed_service">Zaženi Xunlei pospeševalnik prenosov</string>
-  <string name="original_price">Cena</string>
   <string name="other">Ostalo</string>
+  <string name="original_price">Cena</string>
   <string name="other_filter">Ostalo</string>
   <string name="package_filter">Paketi</string>
   <string name="pause_download">Odmor</string>
@@ -418,7 +418,8 @@
   <string name="vip_auto_speedup">Xunlei pospeševalnik prenosa je vključen</string>
   <string name="vip_expire_show_info">Poteklo je Xunlei članstvo."</string>
   <string name="vip_expire_today_show_info">Poteklo je Xunlei članstvo."</string>
-  <string name="vip_show_info">5 miljonov članov.\\nPohitrite prenose na vseh vaših napravah</string>
+  <string name="vip_show_info">5 miljonov članov.
+  Pohitrite prenose na vseh vaših napravah</string>
   <string name="vip_speedup">Pohitritev:</string>
   <string name="web_dialog_cancel">Prekini</string>
   <string name="web_dialog_confirm">V redu</string>
