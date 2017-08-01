@@ -61,7 +61,6 @@ Zadnja sprememba: %s
 Lokacija: %s
 
 "</string>
-  <string name="file_match_detail">[A-Za-z0-9]*</string>
   <string name="filter">Filter</string>
   <string name="filter_file_tips">Filtriram to datoteko?</string>
   <string name="firebase_database_url">https://miuiglobalvideoplayer.firebaseio.com</string>
