@@ -127,7 +127,7 @@
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" vključen</string>
   <string name="standard">Tiho</string>
-  <string name="standard_description">[Tiho] Melodije zvonjenja za dohodne klice in obvestila</string>
+  <string name="standard_description">[Tiho] Utišaj melodije zvonjenja za dohodne klice in obvestila</string>
   <string name="standard_title">Tiho.</string>
   <string name="start_security_permission_verify_text">Preverite dovoljenja s svojim Mi Računom</string>
   <string name="status_bar_toggle_ac">Zakl. aplik.</string>
