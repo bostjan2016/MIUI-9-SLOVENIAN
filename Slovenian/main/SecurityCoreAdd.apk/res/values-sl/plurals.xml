@@ -12,4 +12,8 @@
         <item quantity="other">%d obvestil v drugem prostoru</item>
         <item quantity="one">%d obvestilo v drugem prostoru</item>
     </plurals>
+	     <plurals name="search_app_count_txt_na">
+        <item quantity="other">Išči %d aplikacije</item>
+        <item quantity="one">Išči %d aplikacijo</item>
+     </plurals>
 </resources>

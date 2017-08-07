@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">Sinhroniziram vaše beležke z Mi Računom?</string>
+  <string name="action_folder_description">Prikaži mape</string>
+  <string name="action_mode_switcher_grid_description">Mreža</string>
+  <string name="action_mode_switcher_list_description">Seznam</string>
+  <string name="action_settings_description">Odpri Nastavitve Postavke</string>
   <string name="alarm_bar_title">Opomnik</string>
   <string name="alert_action_edit_anyway">Nadaljuj urejanje</string>
   <string name="alert_edit_action_delete">Odstrani</string>
@@ -205,8 +209,6 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_privacy_mode">Ne morem to narediti za skrite beležke</string>
   <string name="toast_reach_text_limit_attachment">Ne morem dodati nove priponke ker je beležka predolga</string>
   <string name="toast_reach_text_limit_truncate">Beležka je predolga. Del teksta je odrezan na koncu.</string>
-  <string name="toast_unmark_privacy_notes">Uspešno odkrito</string>
-  <string name="toast_unmark_privacy_notes_count">%1$s uspešno odkrito</string>
   <string name="toolbar_check_description">Dodaj potrdni okvir</string>
   <string name="toolbar_delete_description">Izbriši to beležko</string>
   <string name="toolbar_gallery_description">Dodaj sliko</string>
@@ -215,6 +217,8 @@ Tapnite + da napravite mapo"</string>
   <string name="toolbar_share_description">Deli beležko</string>
   <string name="toolbar_theme_description">Izberite temo</string>
   <string name="toolbar_undo_description">Razveljavi</string>
+  <string name="toast_unmark_privacy_notes">Uspešno odkrito</string>
+  <string name="toast_unmark_privacy_notes_count">%1$s uspešno odkrito</string>
   <string name="trash_folder_name">Smeti</string>
   <string name="trash_folder_reminder">Izbrisane beležke bodo trajno odstranjene čez 30 dni.</string>
   <string name="undo">Razveljavi</string>

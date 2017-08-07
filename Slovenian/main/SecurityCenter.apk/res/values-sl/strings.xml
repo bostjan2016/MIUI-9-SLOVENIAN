@@ -29,6 +29,8 @@
   <string name="ac_firstUseApplock_title">Nastavite geslo za zaščito vaše aplikacije</string>
   <string name="ac_summaryOff">Izključeno, geslo ni potrebno za odpiranje aplikacije</string>
   <string name="ac_summaryOn">Vključeno, potrebna je geslo za odpiranje aplikacije</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Geslo bo potrebno za odpiranje aplikacij</string>
+  <string name="access_control_fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa."</string>
   <string name="access_control_need_password">"Uspešno dodano %s zaklepanj
 "</string>
   <string name="access_control_need_to_unlock">"Odklenite s prstnim odtisom 
@@ -164,6 +166,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_install_tips_go_to">Odpri</string>
   <string name="app_install_tips_install_success">%1$s uspešno nameščen</string>
   <string name="app_maanger_app_uninstalled_toast">Ta aplikacija je odstranjena</string>
+  <string name="app_manager_app_ifno_version">Verzija aplikacije</string>
+  <string name="app_manager_app_info_label">Informacije o aplikaciji</string>
+  <string name="app_manager_app_info_name">Ime aplikacije</string>
+  <string name="app_manager_app_info_pkg">APK Ime</string>
   <string name="app_manager_app_lock">Zakl. aplikacije</string>
   <string name="app_manager_app_power">"Poraba baterije: "</string>
   <string name="app_manager_app_storage">"Prostor za shranjevanje: "</string>
@@ -179,6 +185,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_clear_data_dlg_title">Izbrišem podatke aplikacije?</string>
   <string name="app_manager_clear_failed_dlg_message">Ne morem izbrisati podatke aplikacije.</string>
   <string name="app_manager_clear_failed_dlg_title">Izbriši podatke</string>
+  <string name="app_manager_copy_pkg_to_clip">Kopirano v odložišče</string>
   <string name="app_manager_default_close_summary">Ni privzetih nastavitev.</string>
   <string name="app_manager_default_open">Odpri v skladu z nastavitvami</string>
   <string name="app_manager_default_open_summary">Aplikacija se je zagnala zaradi nastavitve nekega opravila.</string>
@@ -196,15 +203,16 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustavim?</string>
   <string name="app_manager_go_to_manger_app">Upravljaj</string>
   <string name="app_manager_have_not_consume">Nič</string>
+  <string name="app_manager_hide_system_server">Skrij sistemske storitve</string>
   <string name="app_manager_instruction">Inštrukcije</string>
   <string name="app_manager_loading_data">Prenašam podatke…</string>
   <string name="app_manager_manage_space">Upravljaj s prostorom</string>
   <string name="app_manager_menu_clear_data">Izbriši podatke</string>
+  <string name="app_manager_more_times">Dostopano 100000+ krat</string>
+  <string name="app_manager_my_app">Moje apliakcije</string>
   <string name="app_manager_net_control_title">Omeji uporabo podatkov</string>
   <string name="app_manager_net_mobile">Podatki</string>
   <string name="app_manager_net_wifi">WiFi</string>
-  <string name="app_manager_more_times">Dostopano 100000+ krat</string>
-  <string name="app_manager_my_app">Moje apliakcije</string>
   <string name="app_manager_not_record">"Ne morem najti aplikacije ki zahtevajo dovoljenja"</string>
   <string name="app_manager_notify_bar">Značke</string>
   <string name="app_manager_notify_floating">Lebdeča obvestila</string>
@@ -239,6 +247,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimiziraj verižni zagon</string>
   <string name="app_manager_reduce_wakepath_summary">Omejitev samod. zagona bo minimalizirala verižno zaganjanje. Omejim samod. zagon za %s?</string>
   <string name="app_manager_reject_count_over">Blokirano 100000+ krat</string>
+  <string name="app_manager_show_all_apps">Prikaži vse aplikacije</string>
   <string name="app_manager_show_detail_infos">Prikaži vse</string>
   <string name="app_manager_sort">Razvrsti po</string>
   <string name="app_manager_start_by">Zagnano od %s</string>
@@ -278,9 +287,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="applock_add_account">Dodaj</string>
   <string name="applock_add_account_info">"Dodajte svoj Mi Račun da lahko prekličete geslo če ga slučajno pozabite"</string>
   <string name="applock_add_account_setting">Račun &amp; zasebnost</string>
+  <string name="applock_bind_account_title">Resetiranje vašega gesla</string>
   <string name="applock_close_dialog_summary">Po izključitvi Zakl. aplikacij aplikacije ne bodo več zaščitene in vaše geslo se bo izbrisalo.</string>
   <string name="applock_close_dialog_title">Izključim Zakl. aplikacij?</string>
   <string name="applock_exit_account_info">Ko se odjavite bo račun samodejno odstranjen</string>
+  <string name="applock_header_text_less_than_half">Premalo prostora za to aplikacijo. Povlecite separator naorej.</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
   <string name="applock_not_add_account">Ne sedaj</string>
   <string name="applock_not_login_account">"Niste prijavljeni"</string>
@@ -859,6 +870,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Nadaljuj</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
+  <string name="goto_set">Nastavi</string>
   <string name="gs_anto_clean_memory_whitelist">Izjeme</string>
   <string name="gs_app_back_self_start">Varčevanje baterije</string>
   <string name="gs_auto_clean_memory">Očisti predspomin</string>
@@ -1033,6 +1045,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="lock_settings_title">Zakl. zaslon in geslo</string>
   <string name="lockpassword_confirm_your_password_header">Potrdite geslo</string>
   <string name="lockpassword_confirm_your_pattern_header">Potrdite vzorec</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"Ne morem prepoznati prstnega odtisa, poskusite ponovno."</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_pattern">Geslo je nepravilno, poskusite ponovno.</string>
   <string name="lockpattern_confirm_button_text">V redu</string>
   <string name="lockpattern_continue_button_text">Naprej</string>
   <string name="lockpattern_need_to_confirm">Ponovno narišite vzorec za potrditev</string>
@@ -1059,6 +1073,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="loding">Prenos podatkov</string>
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Hranite rezultate na seznamu da jih dodate v Izjeme</string>
+  <string name="long_click_dialog_title">Pozor</string>
   <string name="low_memory_clean_dialog_msg">Najprej očistite vsaj 100MB datotek</string>
   <string name="low_memory_clean_dialog_ok_button">V redu</string>
   <string name="low_memory_clean_dialog_title">Ni dovolj prostora</string>
@@ -1153,6 +1168,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">Mb/s</string>
   <string name="memory_check_content">Osvobojeno %s</string>
+  <string name="memory_check_content_none">Prazno</string>
   <string name="memory_clean_btn_click_text">Povečaj hitrost</string>
   <string name="memory_clean_cleaning_title">Brisanje predspomina</string>
   <string name="memory_clean_click_tip">Povečaj hitrost</string>
@@ -1162,7 +1178,6 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="memory_clean_running_process_title">Spremljanje aplikacij (%d)</string>
   <string name="memory_cleaned_memory_info">Dostopno spomina</string>
   <string name="memory_cleaned_memory_up">Povečaj hitrost</string>
-  <string name="memory_check_content_none">Prazno</string>
   <string name="menu_add">Dodaj</string>
   <string name="menu_add_into_contact">Dodaj obstoječemu stiku</string>
   <string name="menu_add_new_contact">Nov stik</string>
@@ -1224,6 +1239,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
   <string name="mian_page_primary_txt">Gostovanje</string>
+  <string name="modify_password_mode">&lt;u&gt;Spremeni vrsto gesla&lt;/u&gt;</string>
   <string name="modifypassword">Zamenjajte geslo</string>
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Več</string>
@@ -1450,6 +1466,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="passwordIncorrect">Napačno uporabniško ime ali geslo</string>
   <string name="password_forget_pattern_confirm">Izdelava var. kopije podatkov</string>
   <string name="password_forget_pattern_message">"Napravite var. kopijo podatkov lokalno, potem pa vrnite napravo na tovarniške nastavitve. Potem boste lahko zamenjali geslo."</string>
+  <string name="password_forget_pattern_message_none">"Aplikacije niso zaklenjene. Lahko resetirate vaše geslo."</string>
+  <string name="password_forget_pattern_reset">Resetiraj</string>
   <string name="password_forget_pattern_title">Napravite var. kopijo podatkov</string>
   <string name="password_promotion_button_text">Dodaj Mi Račun</string>
   <string name="password_promotion_message">Dodajte svoj Mi Račun (%s) da boste lahko preklicali geslo če ga pozabite.</string>
@@ -1473,8 +1491,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="path_securitycenter_settings">Aplikacije sistema/Varnost</string>
   <string name="path_usb_install">Aplikacije sistema/Varnost/Dovoljenja/Namesti preko USB</string>
   <string name="pay_charge">Doplačilo dodatnih podatkov</string>
+  <string name="pc_activity_title">Optimiziraj baterijo</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
-  <string name="pc_activity_title">Optimiraj baterijo</string>
   <string name="pc_install_manager">Namesti preko USB-a</string>
   <string name="pc_to_phone_install">Blokirano (%s) namestitev preko USB-a</string>
   <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
@@ -1533,7 +1551,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_time_to_boot">Čas vklopa</string>
   <string name="power_center_time_to_shutdown">Čas izklopa</string>
   <string name="power_center_title">Baterija</string>
-  <string name="power_consume_hardware_total_format">Strojna oprema: %s</string>
   <string name="power_chooser_check_box_title">Izberi profil</string>
   <string name="power_chooser_sleep_summary">Izklopi vse funkcije (klici, SMS, WiFi in podatkovne podatke), izjema je budilka</string>
   <string name="power_chooser_sleep_title">Spanje</string>
@@ -1544,12 +1561,13 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_chooser_title">Profili baterije</string>
   <string name="power_chooser_user_define_summary">Dodaj profil</string>
   <string name="power_chooser_user_define_title">Dodaj profil</string>
+  <string name="power_consume_hardware_total_format">Strojna oprema: %s</string>
   <string name="power_consume_other">Drugo</string>
   <string name="power_consume_rank_hardware">Strojna oprema</string>
   <string name="power_consume_rank_software">Aplikacije</string>
   <string name="power_consume_rank_title">Uporaba baterije</string>
-  <string name="power_consume_system_idle">Stanje mirovanja</string>
   <string name="power_consume_software_total_format">Aplikacije: %s</string>
+  <string name="power_consume_system_idle">Stanje mirovanja</string>
   <string name="power_customize_giveup_change">Opustim spremembe?</string>
   <string name="power_customizer_cancel">Prekliči</string>
   <string name="power_customizer_delete">Izbriši</string>
@@ -1636,10 +1654,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_optimize_save_mode_not_opened">Varčevanje baterije izključeno</string>
   <string name="power_optimize_save_on_lockscreen">Varčujte energijo kadar je naprava zaklenjena</string>
   <string name="power_phone">Glasovni klici</string>
-  <string name="power_save_mode_auto_exit_summary">Izključite ko je baterija 60% ali popolnoma napolnjena​</string>
-  <string name="power_save_mode_auto_exit_title">Izključite ko je napolnjena​</string>
-  <string name="power_save_mode_close_warn_text">Varčevanje baterije omejuje aktivnost v ozadju in sinhronizacijo. Če jo uporabljate med polnjenjem nekatere stvari morda ne bodo prav delale. Ali želite li da je varčevanje baterije vključeno med polnjenjem ?</string>
-  <string name="power_save_mode_close_warn_title">Varčevanje baterije</string>
   <string name="power_recovery_mode">Preklopi baterijo na %1$s</string>
   <string name="power_save_choose_mode">Izberi profil</string>
   <string name="power_save_choose_recovery_mode">Izberi profil</string>
@@ -1654,6 +1668,10 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Preklopi profil baterije ko je napolnjenost manj kot %1$d%%</string>
   <string name="power_save_low_battery_title">Varčevanje z baterijo</string>
+  <string name="power_save_mode_auto_exit_summary">Izključite ko je baterija 60% ali popolnoma napolnjena​</string>
+  <string name="power_save_mode_auto_exit_title">Izključite ko je napolnjena​</string>
+  <string name="power_save_mode_close_warn_text">Varčevanje baterije omejuje aktivnost v ozadju in sinhronizacijo. Če jo uporabljate med polnjenjem nekatere stvari morda ne bodo prav delale. Ali želite li da je varčevanje baterije vključeno med polnjenjem ?</string>
+  <string name="power_save_mode_close_warn_title">Varčevanje baterije</string>
   <string name="power_save_mode_enable">Varčevanje z baterijo</string>
   <string name="power_save_mode_end_time">Konec</string>
   <string name="power_save_mode_ontime_enabled">Razpored časa za spremembo načina dela</string>
@@ -1887,6 +1905,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="resource_powercenter_powerrank">Baterija &amp; performanse</string>
   <string name="resource_securitycenter">Varnost</string>
   <string name="resource_securitycenter_settings">Varnost</string>
+  <string name="resource_usb_install">Instaliraj preko USB-a</string>
   <string name="restrictbackground_conflict_saving_msg">"Ne morem uporabljati Varčevanje podatkov ko so podatki v ozadju omejeni. Izključim Varčevanje podatkov in omejim podatke v ozadju?"</string>
   <string name="result_autoscan_header">Kontrola plačil</string>
   <string name="result_autoscan_info">Samodejno nadziraj sistem kadar so aplikacije za plačila zagnane</string>
@@ -1939,11 +1958,11 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="safe_result_item_info_wifi_fake">Ni nepravo</string>
   <string name="safepay_alert_dialog_button_continue">Nadaljuj</string>
   <string name="safepay_alert_dialog_button_risk">Popravi</string>
-  <string name="save_energy_text">"Omeji samod. zagon in sinhronizacijo aplikacij v ozadju da dobite največ iz baterije naprave"</string>
-  <string name="save_energy_title">Optimiraj baterijo</string>
   <string name="safepay_alert_dialog_button_unknown">Preveri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Najdeno tveganje! Prekini trenutno plačilo!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne morem preveriti varnost plačila. Povežite se na splet in poskusite ponovno.&lt;/font&gt;"</string>
+  <string name="save_energy_text">"Omeji samod. zagon in sinhronizacijo aplikacij v ozadju da dobite največ iz baterije naprave"</string>
+  <string name="save_energy_title">Optimiraj baterijo</string>
   <string name="saving_conflict_dialog_cancel">Prekini</string>
   <string name="saving_conflict_dialog_ok">V redu</string>
   <string name="saving_conflict_dialog_title">Pozor</string>
@@ -1989,10 +2008,10 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings_choice_no_notification">Izključeno</string>
   <string name="settings_power_save_ontime_title">Razpored</string>
   <string name="shield_keyboard_detail">Dvakrat tapnite tipke da jih spet vključite</string>
-  <string name="shield_keyboard_title">Izključi tipke</string>
   <string name="settings_title_payment_security">Nastavitve varnosti plačil</string>
-  <string name="settings_title_permission">Nastavitve dovoljenja</string>
   <string name="share">Deli</string>
+  <string name="settings_title_permission">Nastavitve dovoljenja</string>
+  <string name="shield_keyboard_title">Izključi tipke</string>
   <string name="show_system_app">Prikaži sistemske animacije</string>
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to funkcijo kadar koli v Poraba podatkov &gt; Nastavitve</string>
   <string name="show_traffic_dialog_title">Prikaži porabo v plošči obvestil</string>
@@ -2121,8 +2140,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_filter_keywords_setting_summary2">"
 (Uporabite \",\" za odvajanje več ključnih besed)"</string>
   <string name="st_filter_keywords_setting_title">Konfiguriraj filter ključnih besed</string>
-  <string name="st_group_list_management">Upravljaj seznam</string>
   <string name="st_filter_sms_button">Filtriraj SMS</string>
+  <string name="st_group_list_management">Upravljaj seznam</string>
   <string name="st_hint_add_head_number">Vnesi predštevilko</string>
   <string name="st_hint_add_phonenumber">Vnesi štev. telefona</string>
   <string name="st_message_SMS_AntiSpam">Blokiraj SMS</string>
@@ -2580,6 +2599,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="uninstall_app_dialog_title">Odstranim sedaj?</string>
   <string name="uninstall_app_done">Uspešno odstranjeno</string>
   <string name="unlike">Ne hvala</string>
+  <string name="unlock_pattern">&lt;u&gt;Obrazec&lt;/u&gt;</string>
+  <string name="unlock_pattern_to_bind_fingerprint">Vnesite geslo za aktiviranje prstnega odtisa</string>
   <string name="updating_diagnostic_botton">Analiza podatkov…</string>
   <string name="usage_sorted_activity_lable">Poraba podatkov</string>
   <string name="usage_sorted_empty_text">Prazno</string>

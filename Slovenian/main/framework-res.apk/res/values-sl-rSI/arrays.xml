@@ -37,10 +37,6 @@
         <item>Ostalo</item>
         <item>Po meri</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>Začetna</item>
         <item>Delo</item>
@@ -120,4 +116,14 @@
         <item></item>
         <item></item>
     </string-array>	
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Za telefoniranje in klicanje preko Wi-Fi-ja, morate zahtevati od mobilnega operaterja da vam vklopi to storitev. Nato ponovno vključite Wi-Fi klice v Nastavitvah.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrirajte se pri mobilnem operaterju</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s WiFi klicanje</item>
+     </string-array>
 </resources>

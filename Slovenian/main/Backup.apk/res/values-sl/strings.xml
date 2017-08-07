@@ -116,6 +116,7 @@ nastavitev in aplikacij"</string>
   <string name="files_backup_info">Vse datoteke na SD kartici (vključno fotografije, pesmi, videoposnetke, podatke aplikacij itd.)</string>
   <string name="findlost_contact">Obnovi stike</string>
   <string name="findlost_contact_online">Obnovi stike iz Mi oblaka</string>
+  <string name="feature_title_antispam">Seznam blokiranih</string>
   <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
   <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne morem uporabiti Mi Mover v načinu Gost."</string>

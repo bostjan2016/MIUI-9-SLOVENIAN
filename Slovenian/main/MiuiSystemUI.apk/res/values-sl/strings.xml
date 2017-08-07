@@ -226,6 +226,7 @@
   <string name="debug_monitoring_category">Nadzor</string>
   <string name="debug_networking_category">Omreževanje</string>
   <string name="debug_view_attributes">Omogoči pregled atributov prikaza</string>
+  <string name="demo_mode">Demo način</string>
   <string name="description_direction_left">Podrsaj levo za %s.</string>
   <string name="description_direction_up">Podrsaj gor za %s.</string>
   <string name="description_target_search">Išči</string>
@@ -474,6 +475,7 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="screenshot_dlg_cancel">Prekliči</string>
   <string name="screenshot_dlg_delete_button">Izbriši</string>
   <string name="screenshot_edit">Uredi</string>
+  <string name="screenshot_failed_text">"Ne morem napraviti posnetka zaslona zaradi omejenega prostora za shranjevanje ali pa to ne dovoli aplikacija."</string>
   <string name="screenshot_failed_text">Ne morem shraniti posnetka zaslona. Pomnilnik je verjetno poln.</string>
   <string name="screenshot_long_screenshot">Nadaljuj</string>
   <string name="screenshot_saved_text">Tapni za ogled posnetka zaslona.</string>
@@ -500,6 +502,7 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="show_all_anrs_summary">Prikaz dialoga o aplik. v ozadju ki ne odgovarja</string>
   <string name="show_cpu_usage">Prikaži uporabo procesorja</string>
   <string name="show_cpu_usage_summary">Na zaslonu se prikazuje izkoriščenost procesorja.</string>
+  <string name="show_demo_mode">Prikaži demo način</string>
   <string name="show_hw_layers_updates">Prikaži posodobitve hardverskih slojev</string>
   <string name="show_hw_layers_updates_summary">Hardverski sloji se bleščijo zeleno pri posodabljanju.</string>
   <string name="show_hw_screen_updates">Prikaži posod. GPU prikaza</string>

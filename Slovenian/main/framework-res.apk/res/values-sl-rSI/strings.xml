@@ -164,6 +164,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="close_button_text">Zapri</string>
   <string name="common_name">Skupno ime:</string>
   <string name="condition_provider_service_binding_label">Ponudnik storitev</string>
+  <string name="conference_call">Konferenčni klic</string>
   <string name="configure_input_methods">Izbira tipkovnic</string>
   <string name="contentServiceSync">Sinhronizacija</string>
   <string name="contentServiceSyncNotificationTitle">Sinhronizacija</string>
@@ -219,6 +220,12 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Številka %1$s je izbrisana</string>
+  <string name="demo_restarting_message">Povrnitev naprave na privzeto…</string>
+  <string name="demo_starting_message">Zagon demo-načina…</string>
+  <string name="demo_user_inactivity_timeout_countdown">Vse spremembe bodo izbrisane, demonstracija se bo ponovno zagnala čez %1$s s…</string>
+  <string name="demo_user_inactivity_timeout_left_button">Prekini</string>
+  <string name="demo_user_inactivity_timeout_right_button">Povrni na privzeto</string>
+  <string name="demo_user_inactivity_timeout_title">Ali želite ponastaviti napravo na privzeto?</string>
   <string name="deny">Zavrni</string>
   <string name="deny_button">Zavrni</string>
   <string name="description_direction_down">Povlecite navzdol za %s.</string>
@@ -1604,7 +1611,7 @@ Preostalo poskusov :"</string>
   <string name="serviceClassData">Podatki</string>
   <string name="serviceClassDataAsync">Asinhrono</string>
   <string name="serviceClassDataSync">Sinhronizacija</string>
-  <string name="serviceClassFAX">FAKS</string>
+  <string name="serviceClassFAX">FAX</string>
   <string name="serviceClassPAD">PAD</string>
   <string name="serviceClassPacket">Paket</string>
   <string name="serviceClassSMS">SMS</string>

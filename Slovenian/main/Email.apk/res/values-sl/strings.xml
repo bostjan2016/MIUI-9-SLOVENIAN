@@ -216,6 +216,10 @@
   <string name="auto_mail_title_note">Najdi možnost \"139 Mailbox samod. nastavitev\" in jo kliknite za začetek.</string>
   <string name="auto_mail_window_description">139 Email Storitev samod. nastavitve</string>
   <string name="auto_mail_window_label">139 Mailbox samod. nastavitev</string>
+  <string name="auto_remind_bind">Dodaj</string>
+  <string name="auto_remind_discribe_text">Vključi za sprejem samodejnega opomnika</string>
+  <string name="auto_remind_text">Samod. opomniki</string>
+  <string name="auto_remind_unbind">Zaustavi</string>
   <string name="auto_sync_off">Samodejna sinhronizacija je izključena.</string>
   <string name="automatic_remind_text">Opomni</string>
   <string name="battery_saver">Varčevanje baterije</string>
@@ -513,6 +517,8 @@
   <string name="hint_quick_reply_all">Odgovori vsem</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Napačno geslo dohodnega strežnika</string>
+  <string name="import_button_text">Uvozi</string>
+  <string name="import_from_other_account">Uvozi iz drugih računov</string>
   <string name="info_actionbar_normal_detail">Podrobnosti</string>
   <string name="info_actionbar_subscribe">Novosti</string>
   <string name="info_item_from">Pošilja </string>
@@ -529,6 +535,7 @@
   <string name="input_password_prompt">Vpišite geslo</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_package">com.android.exchange</string>
+  <string name="interact_with_server_error">"Povezovanje s strežnikom ni uspelo"</string>
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="invalid_recipient_title">Napaka prejemnika</string>
   <string name="kilobytes">%s KB</string>
@@ -553,6 +560,7 @@
   <string name="mail_header_network_not_available">Povezava ni vzpostavljena.</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
   <string name="mailbox_name_display_ad">Oglasi &amp; obvestila</string>
+  <string name="mailbox_name_display_circular">Obvestila</string>
   <string name="mailbox_name_display_drafts">Osnutki</string>
   <string name="mailbox_name_display_inbox">Prejeto</string>
   <string name="mailbox_name_display_junk">Vsiljena pošta</string>
@@ -638,6 +646,7 @@
   <string name="mute">Izključi zvok</string>
   <string name="net_check_title">Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovo.</string>
   <string name="network_error">Ni povezave</string>
+  <string name="network_invaild">"Ne morem se povezati z omrežjem"</string>
   <string name="network_not_available">Povezave ni mogoče vzpostaviti</string>
   <string name="network_tip">Kontrola prepoznave ni uspela, preverite omrežno povezavo</string>
   <string name="network_try_again">Preverite omrežje</string>
@@ -652,6 +661,7 @@
   <string name="no_contacts">Ni stikov.</string>
   <string name="no_content_in_body">[Ni sporočila]</string>
   <string name="no_conversations">Ni sporočil</string>
+  <string name="no_filtrable_email_account">Nema računa za filtriranje</string>
   <string name="no_mails">Ni E-pošte.</string>
   <string name="no_matched_attachment">Ni zadetkov.</string>
   <string name="no_recognize_describe">"Ne morem najti e-pošt ki vsebujejo vstopnice ali rezervacije.
@@ -782,6 +792,7 @@ Poskusite z ostalo pošto."</string>
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
+  <string name="protocol_setting_toast">Pritisnite zgornji desni vogal da greste v Nastavitve po tem ko sprejmete</string>
   <string name="pull_to_refresh">Podrsajte navzdol za osvežitev</string>
   <string name="pull_up_to_load_more">Prenesi več</string>
   <string name="push_wps_better_confirm_download">Prenesi</string>
@@ -929,6 +940,8 @@ Poskusite z ostalo pošto."</string>
   <string name="ser_resp_err_map_pserr">Napačno uporabniško ime ali geslo</string>
   <string name="ser_resp_err_map_serclosed">Strežnik %s je ugasnjen</string>
   <string name="ser_resp_err_map_ssl">Izberite SSL/TLS (Sprejmi vse certifikate) v Varnostnih tipih</string>
+  <string name="service_protocol_discribe">&lt;u&gt;"Prebral sem in se strinjam z Pogodbo o storitvi za WPS Mail"&lt;/u&gt;</string>
+  <string name="service_protocol_title">Pogodba o storitvi</string>
   <string name="set_network">Nastavi omrežje</string>
   <string name="settings_activity_title">Nastavitve</string>
   <string name="share_choose">Izberite datoteko za deljenje</string>
@@ -988,6 +1001,7 @@ Poskusite z ostalo pošto."</string>
   <string name="toast_bar_invalid_account">Ponovno se prijavite</string>
   <string name="toast_bar_no_connection_network">"Niste povezani s spletom"</string>
   <string name="toast_bar_open_gmail_synchronization">Dotaknite se za uporabo proxy strežnika za Gmail</string>
+  <string name="today_text">Danes</string>
   <string name="too_large_to_attach_additional">Velikost datoteke ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_single">"Ne morem priložiti datoteke večje od %1$s."</string>
@@ -1009,7 +1023,10 @@ Poskusite z ostalo pošto."</string>
   <string name="turn_auto_sync_on_dialog_body">Spremembe ki jih naredite za vse aplikacije in račune (ne le za Gmail) se bodo sinhronizirale med spletom, drugimi napravami in vašo napravo %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Vklop</string>
   <string name="turn_auto_sync_on_dialog_title">Vklopim samodejno sinhronizacijo?</string>
+  <string name="unbind_dialog_text">"Po zaustavitvi analize ne boste imeli možnosti sprejeti opomnike.
+Zaustavim sedaj?"</string>
   <string name="undo">Razveljavi</string>
+  <string name="unknow">Neznano</string>
   <string name="unread_string">pogovor neprebran</string>
   <string name="unselected_lable">Več</string>
   <string name="unsent_messages_in_outbox">Št. neposlanih sporočil v mapi %2$s: %1$s</string>
@@ -1050,7 +1067,7 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="wipe_account_fail_title">"Ne morem izbrisati osebne podatke"</string>
   <string name="wrong_password">Geslo ki ste ga vnesli je napačno.</string>
   <string name="yes">Da</string>
-  <string name="yidianzixun">yidianzixun</string>
+  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Pošljem dnevnik z uporabo mobilne podatkovne povezave? Vaš mobilni operater vam to lahko zaračuna.</string>
   <string name="youfuli">Promocija</string>
   <string name="zip_viewer_no_file">Ni datotek.</string>

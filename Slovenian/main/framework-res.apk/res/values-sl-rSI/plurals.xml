@@ -135,5 +135,77 @@
      <plurals name="zen_mode_duration_minutes_summary_short">
         <item quantity="other">%1$d min (do %2$s)</item>
         <item quantity="one">%1$d min (do %2$s)</item>
-     </plurals> 
+     </plurals>
+	      <plurals name="bugreport_countdown">
+        <item quantity="other">Izdelava posnetka zaslona za poročilo o programski napaki čez %d sekund.</item>
+        <item quantity="one">Izdelava posnetka zaslona za poročilo o programski napaki čez %d sekundo.</item>
+     </plurals>
+     <plurals name="duration_days_relative">
+        <item quantity="other">pred %d dnevi</item>
+        <item quantity="one">pred %d dnem</item>
+     </plurals>
+     <plurals name="duration_days_relative_future">
+        <item quantity="other">čez %d dni</item>
+        <item quantity="one">čez %d dan</item>
+     </plurals>
+     <plurals name="duration_days_shortest">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+     </plurals>
+     <plurals name="duration_days_shortest_future">
+        <item quantity="other">in %dd</item>
+        <item quantity="one">in %dd</item>
+     </plurals>
+     <plurals name="duration_hours_relative">
+        <item quantity="other">pred %d urami</item>
+        <item quantity="one">pred %d uro</item>
+     </plurals>
+     <plurals name="duration_hours_relative_future">
+        <item quantity="other">čez %d ur</item>
+        <item quantity="one">čez %d uro</item>
+     </plurals>
+     <plurals name="duration_hours_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+     </plurals>
+     <plurals name="duration_hours_shortest_future">
+        <item quantity="other">in %dh</item>
+        <item quantity="one">in %dh</item>
+     </plurals>
+     <plurals name="duration_minutes_relative">
+        <item quantity="other">pred %d minutami</item>
+        <item quantity="one">pred %d minuto</item>
+     </plurals>
+     <plurals name="duration_minutes_relative_future">
+        <item quantity="other">čez %d minut</item>
+        <item quantity="one">čez %d minuto</item>
+     </plurals>
+     <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+     </plurals>
+     <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">in %dm</item>
+        <item quantity="one">in %dm</item>
+     </plurals>
+     <plurals name="duration_years_relative">
+        <item quantity="other">pred %d leti</item>
+        <item quantity="one">pred %d letom</item>
+     </plurals>
+     <plurals name="duration_years_relative_future">
+        <item quantity="other">čez %d let</item>
+        <item quantity="one">čez %d leto</item>
+     </plurals>
+     <plurals name="duration_years_shortest">
+        <item quantity="other">%dg</item>
+        <item quantity="one">%dg</item>
+     </plurals>
+     <plurals name="duration_years_shortest_future">
+        <item quantity="other">čez %dg</item>
+        <item quantity="one">čez %dg</item>
+     </plurals>
+     <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Nameščeni so izdajatelji certifikatov</item>
+        <item quantity="one">Nameščen je izdajatelj certifikata</item>
+     </plurals>
 </resources>

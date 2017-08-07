@@ -90,6 +90,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="groupshot_mode_use_hint">"Več fotografij bo izbrano za najboljši
 izraz obraza ki bo sintetiziran v fotografijo"</string>
+  <string name="hibernate_hint">Pritisnite zaslon da zbudite kamero</string>
   <string name="find_other_qrcode">Najdite QR kodo</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="install_confirmed">Namesti</string>
@@ -413,6 +414,8 @@ s jasnijim glavnim tijelom in lepši portret"</string>
   <string name="pref_watermark_style_title">Dodaj oznako časa na fotografijo</string>
   <string name="preparing_sd">Pripravljam notranji pomnilnik...</string>
   <string name="record_back_pressed_hint">Ponovno se dotakni če hočeš prenehati s snemanjem</string>
+  <string name="screen_on_proximity_sensor_hint">Za izklop te funkcije istočasno pritisnite tipke "Nazaj" in "Glasnost +".</string>
+  <string name="screen_on_proximity_sensor_summary">"Ne pokrivajte področja slušalk"</string>
   <string name="see_qrcode_detals">Prikaži podrobnosti QR kode</string>
   <string name="setting_top_text">Možnosti</string>
   <string name="simple_mode_button_asd_flash">Končaj zajem bliskavice</string>

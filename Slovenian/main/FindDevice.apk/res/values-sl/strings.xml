@@ -5,6 +5,7 @@
   <string name="app_name">Najdi napravo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne morem odkleniti. %s."</string>
+  <string name="default_debt_msg_words">"Ta naprava je zaklenjena zaradi zamude pri plačilu obroka.\Za podrobnosti kontaktirajte svojega prodajalca."</string>
   <string name="default_lock_msg_words">Ta naprava je povezana z obstoječim Mi računom. Iz varnostnih razlogov je potrebno vnesti geslo za kontrolo naprave.</string>
   <string name="default_lock_msg_words_with_phone">Živjo! Izgubil sam mobitel. Me lahko prosim kontaktirate? Hvala!</string>
   <string name="device_locked">Ta naprava je zaklenjena</string>
@@ -16,6 +17,7 @@
   <string name="enable_find_device_success">Najdi napravo je vključen.</string>
   <string name="find_device">Najdi napravo</string>
   <string name="find_device_crash">Najdi napravo je nepričakovano prekinjen.</string>
+  <string name="find_device_error_access_denied">Dostop je zavrnjen.</string>
   <string name="find_device_error_account_sys_timeout">"Ne morem se povezati v Mi Račun"</string>
   <string name="find_device_error_account_unknown_error">Napaka Mi Računa (%s).</string>
   <string name="find_device_error_network">Napaka omrežja.</string>
@@ -48,6 +50,10 @@
   <string name="phone_locked_account_phone">, povezana številka telefona: %s</string>
   <string name="stop_on_empty_captcha">"Captcha polje ne sme biti prazno"</string>
   <string name="stop_on_empty_password">"Polje geslo ne sme biti prazno"</string>
+  <string name="sys_notification_async_open_failed_content">Pritisni za ponovni poizkus ali odnehaj.</string>
+  <string name="sys_notification_async_open_failed_title">"Ne morem vključiti Najdi napravo"</string>
+  <string name="sys_notification_async_verify_content">Naša ažurirana varnostna pravila zahtevajo da je Najdi napravo ponovno aktiviran.</string>
+  <string name="sys_notification_async_verify_title">Ponovno aktiviraj Najdi napravo</string>
   <string name="time_correction_failure">"Ne morem popraviti časa. %s"</string>
   <string name="time_correction_success">Čas je popravljen</string>
   <string name="unlock">Aktiviraj</string>

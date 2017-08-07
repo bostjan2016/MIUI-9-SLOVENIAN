@@ -544,10 +544,10 @@
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
   <string name="bind_xiaomi_account_dialog_summery">"Dodali boste Mi Račun %s. Če ste pozabili geslo, lahko uporabite ta račun da ga prekličete."</string>
   <string name="bind_xiaomi_account_success">Mi Račun uspešno dodan</string>
+  <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="biometric_weak_improve_matching_title">Izboljšaj ujemanje obraza</string>
   <string name="biometric_weak_liveliness_summary">Potreben je pomežik med odklepanjem</string>
   <string name="biometric_weak_liveliness_title">Potreben je pomežik med odklepanjem živosti</string>
-  <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="ble_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno zaznajo naprave Bluetooth. To lahko spremenite v LINK_BEGINnastavitvah iskanjaLINK_END.</string>
   <string name="block_list_connected_devices">Povezane naprave</string>
   <string name="block_list_diaglog_cancle">Prekliči</string>
@@ -1294,6 +1294,7 @@
   <string name="delete_rule">Odstrani pravila</string>
   <string name="delete_saved_network">Izbriši shranjeno omrežje</string>
   <string name="demo_mode">Demo način</string>
+  <string name="demo_mode_summary">Prikaži ikone določene statusne vrste za demo</string>
   <string name="deny">Zavrni</string>
   <string name="deny_sms_message">"Zavrni pošiljanje SMS sporočil"</string>
   <string name="deny_sms_title">Zakleni SMS</string>
@@ -2578,9 +2579,12 @@ Na tej napravi je več uporabnikov.
   <string name="miui_disturb_title">Ne moti</string>
   <string name="miui_enable_service_title">Storitev bo opravljala:</string>
   <string name="miui_experience_optimization">Vključi MIUI optimizacijo</string>
+  <string name="miui_lab_feature_applied">Nastavljeno</string>
   <string name="miui_lab_feature_off">Izključi</string>
   <string name="miui_lab_feature_on">Uključi</string>
   <string name="miui_lab_features">MIUI laboratorijske funkcije</string>
+  <string name="miui_lab_gallery_search_desc">Izboljšano pregledovanje slik</string>
+  <string name="miui_lab_gallery_search_title">Najdi fotografije u Galeriji</string>
   <string name="miui_lab_settings">MIUI laboratorij</string>
   <string name="miui_lab_slogan">Naučite se. Raziščite. Odkrijte.</string>
   <string name="miui_lab_taplus_desc">Pritisnite in držite da boste zagnali bližnjice</string>
@@ -3528,6 +3532,9 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_cellinfo_label">Podatki o celici:</string>
   <string name="radio_info_current_network_label">Trenutno omrežje:</string>
   <string name="radio_info_data_attempts_label">Podatkovni poskusi:</string>
+  <string name="radio_info_data_connection_disable">Onemogoči podatkovno povezavo</string>
+  <string name="radio_info_data_connection_enable">Omogoči podatkovno povezavo</string>
+  <string name="radio_info_data_network_type_label">Vrsta podatkovnega omrežja:</string>
   <string name="radio_info_data_successes_label">Uspešne podatkovne operacije:</string>
   <string name="radio_info_dcrtinfo_label">Diagnostične informacije:</string>
   <string name="radio_info_gprs_service_label">Storitev GPRS:</string>
@@ -3544,6 +3551,7 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_ppp_received_label">Prejeto s protokolom PPP:</string>
   <string name="radio_info_ppp_resets_label">Število ponastavitev PPP od zagona:</string>
   <string name="radio_info_ppp_sent_label">Poslano s protokolom PPP:</string>
+  <string name="radio_info_radio_power">Moč mob. radija</string>
   <string name="radio_info_radio_resets_label">Ponastavitve radia:</string>
   <string name="radio_info_roaming_label">Gostovanje:</string>
   <string name="radio_info_set_perferred_label">Nastavite vrsto prednostnega omrežja:</string>

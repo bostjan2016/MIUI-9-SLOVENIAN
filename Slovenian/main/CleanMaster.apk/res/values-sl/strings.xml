@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activate_find_device_success">Najdi napravo je omogočen.</string>
   <string name="activity_title_ad">Reklama</string>
   <string name="activity_title_apk">Paketi</string>
   <string name="activity_title_brightness_image">Svetlost slike</string>
@@ -106,6 +107,8 @@
   <string name="clipboard">Odložišče</string>
   <string name="close">Zapri</string>
   <string name="close_debug_mode">Kliknite %1$d da zaprete debug sprožilec</string>
+  <string name="cloud_find_device_off">Izključi</string>
+  <string name="cloud_find_device_on">Vključi</string>
   <string name="confirm_auto_cleaner">V redu</string>
   <string name="conn_of_function_safe">Mrežno povezovanje za varnost</string>
   <string name="connecting">Povezovanje…</string>
@@ -189,6 +192,12 @@
   <string name="engine_tm">Tencent</string>
   <string name="file">Datoteka</string>
   <string name="file_not_found">Datoteka ni najdena</string>
+  <string name="find_device_operation_failure_rpc">"Opravila ni mogoče izvršiti zaradi RPC napake. "</string>
+  <string name="find_device_pref_alert_content">"Najdi napravo je povezan z vašim Mi Računom. Nastaviti morate geslo ali pa vnesti nastavljeno geslo. Pazite da si vedno zapomnite svoj ID Mi Računa in geslo. Odhodno SMS sporočilo bo mogoče potrebno za aktiviranje te storitve. Vaš ponudnik storitve vam bo zaračunal to sporočilo. Kadar zamenjate SIM kartice bo samodejno poslano sporočilo za ponovno aktiviranje te storitve."</string>
+  <string name="find_device_pref_alert_negtive">Ne hvala</string>
+  <string name="find_device_pref_alert_positive">V redu</string>
+  <string name="find_device_pref_alert_title">Zapomnite se svoj ID Mi Računa in geslo</string>
+  <string name="find_device_pref_initializing">Zagon…</string>
   <string name="flow_rank_title">Uporaba podatkov</string>
   <string name="function_app_lock_title">%d aplik. vsebuje varnostno tveganje​</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
@@ -296,6 +305,21 @@
   <string name="menu_clear">Očisti</string>
   <string name="menu_install">Namesti to aplikacijo</string>
   <string name="menu_view">Prikaži u mapi</string>
+  <string name="micloud_find_device_close_alert_content">"Če izključite to funkcijo ne boste mogli najti napravo če jo izgubite."</string>
+  <string name="micloud_find_device_close_alert_negtive">Izključi vseeno</string>
+  <string name="micloud_find_device_close_alert_positive">Pusti vključeno</string>
+  <string name="micloud_find_device_close_alert_title">Izključim Najdi napravo?</string>
+  <string name="micloud_find_device_close_fail">"Ne morem izključiti Najdi napravo"</string>
+  <string name="micloud_find_device_close_progress">Izključevanje Najdi napravo…</string>
+  <string name="micloud_find_device_guide_alert_content">"Najdi napravo je povezan z vašim Mi Računom. Nastaviti morate geslo ali pa vnesti nastavljeno geslo. Pazite da si vedno zapomnite svoj ID Mi Računa in geslo."</string>
+  <string name="micloud_find_device_guide_alert_negtive">Ne hvala</string>
+  <string name="micloud_find_device_guide_alert_negtive_activate">Ne hvala</string>
+  <string name="micloud_find_device_guide_alert_positive">V redu</string>
+  <string name="micloud_find_device_guide_alert_title">Zapomnite si svoj ID Mi Računa in geslo</string>
+  <string name="micloud_find_device_verify_button">Ponovno aktiviraj Najdi napravo</string>
+  <string name="micloud_find_device_verify_close">Izključi Najdi napravo</string>
+  <string name="micloud_find_device_verify_fail">"Ne morem ponovno aktivirati Najdi napravo"</string>
+  <string name="micloud_find_device_verify_progress">Ponovno aktiviranje Najdi napravo…</string>
   <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Preverjam za posodobitve…</string>
   <string name="msg_cleanup_db_update_time_unknown">Zadnja posodobitev nepoznana</string>

@@ -1041,4 +1041,54 @@
         <item>Naravno</item>
         <item>Standardno</item>
      </string-array>
+	      <string-array name="select_logd_size_lowram_titles">
+        <item>Izključeno</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Izključeno</item>
+        <item>64 KB medpomnilnika</item>
+        <item>256 KB medpomnilnika</item>
+        <item>1 MB medpomnilnika</item>
+        <item>4 MB medpomnilnika</item>
+        <item>16 MB medpomnilnika</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>Izključeno</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Kapaciteta baterije</item>
+        <item>Zadnja kamera</item>
+        <item>Velikost zaslona</item>
+        <item>Resolucija</item>
+        <item>Android verzija</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 835</item>
+        <item>3350mAh(tip)</item>
+        <item>12MP + 12MP</item>
+        <item>5.15"</item>
+        <item>1920 × 1080</item>
+        <item>6.0.1</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>Polnjenje</item>
+        <item>MTP (protokol za prenos medija)</item>
+        <item>PTP (protokol za prenos fotografij)</item>
+        <item>RNDIS (USB ethernet)</item>
+        <item>Audio vir</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Prednost ima WiFi omrežje</item>
+        <item>Prednost ima mob. omrežje</item>
+     </string-array>
 </resources>

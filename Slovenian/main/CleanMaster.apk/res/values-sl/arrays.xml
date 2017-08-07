@@ -16,6 +16,7 @@
         <item>Vsak dan</item>
         <item>Vsake 3 dni</item>
         <item>Vsakih 7 dni</item>
+		<item>Vsakih 15 dni</item>
     </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>

@@ -7,12 +7,7 @@
         <item>Vikend</item>
         <item>Prilagojeno</item>
 	 </string-array>
-	 <string-array name="alarm_repeat_type_no_workdays">
-        <item>Enkrat</item>
-        <item>Vsak dan</item>
-        <item>Vikend</item>
-        <item>Prilagojeno</item>
-    </string-array>
+	 
 	  <string-array name="date_of_app">
          <item>Včeraj (podatki)</item>
          <item>Danes (podatki)</item>
@@ -102,17 +97,15 @@
         <item>"Mobilni podatki "</item>
 		<item>"WiFi uporaba "</item>
      </string-array>	     
+<string-array name="alarm_repeat_type_no_workdays">
+        <item>Enkrat</item>
+        <item>Vsak dan</item>
+        <item>Vikend</item>
+        <item>Prilagojeno</item>
+     </string-array>
 	 <string-array name="long_add_menu">
          <item>Dodaj v izjeme</item>
-     </string-array>
-	 <string-array name="sort_title">
-        <item>Razvrsti po statusu</item>
-        <item>Razvrsti po imenu aplikacije</item>
-        <item>Razvrsti po pogostosti uporabe</item>
-        <item>Razvrsti po izkor. pros. za shranjevanje</item>
-        <item>Razvrsti po uporabi podatkov</item>
-        <item>Razvrsti po porabi baterije</item>
-     </string-array>
+    </string-array>
 	<string-array name="sort_type">
     	<item>Status</item>
         <item>Ime aplikacije</item>
@@ -121,8 +114,22 @@
         <item>Uporaba podatkov</item>
         <item>Poraba baterije</item>
     </string-array>		     
+	 <string-array name="sort_title">
+        <item>Razvrsti po statusu</item>
+        <item>Razvrsti po imenu aplikacije</item>
+        <item>Razvrsti po pogostosti uporabe</item>
+        <item>Razvrsti po izkor. pros. za shranjevanje</item>
+        <item>Razvrsti po uporabi podatkov</item>
+        <item>Razvrsti po porabi baterije</item>
+     </string-array>
 	 <string-array name="sms_report_type">
          <item>Uporaba podatkov</item>
          <item>Stanje računa</item>
 	 </string-array> 
+	     <string-array name="title_app_info">
+        <item>Vir namestitve</item>
+        <item>Čas namestitve</item>
+        <item>Vir zadnje posodobitve</item>
+        <item>Čas zadnje posodobitve</item>
+     </string-array>
 </resources>

@@ -34,6 +34,7 @@
 Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="config_suggest_suffix_title">MIUI Varčevanje z baterijo (priporočilo)</string>
   <string name="config_suggest_title">MIUI Varčevanje z baterijo</string>
+  <string name="confirm">Potrdi</string>
   <string name="disable_hide_mode">Onemogoči MIUI Varčevanje baterije</string>
   <string name="disable_hide_mode_warning">Onemogočanje MIUI Varčevanje baterije lahko povzroči večjo porabo energije</string>
   <string name="disabled">Izklj.</string>
@@ -55,6 +56,7 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="high">Performanse</string>
   <string name="hints_loading_text">Nalaganje…</string>
   <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
+  <string name="important_warning">Opozorilo</string>
   <string name="location_disable_description">Aplikacije v ozadju lahko dobijo lokacijo samo kratek čas, stalni dostop je omejen</string>
   <string name="location_disable_title">Omeji</string>
   <string name="location_enable_description">Aplikacije lahko dobijo lokacijo v ozadju</string>
@@ -200,4 +202,5 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="vip_feedback_apply_msg">Prosimo kontaktirajte qiufeng@xiaomi.com za uporabo Vip Feedback</string>
   <string name="vip_feedback_enable">Omogoči Vip Auto Feedback</string>
   <string name="warm_configure">Nastavi nadzor toplote</string>
+  <string name="warm_performance_tip">Pri delu z veliko obremenitvijo je temperatura mobilnega telefona večja kot pri privzetem načinu dela</string>
 </resources>
