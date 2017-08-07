@@ -209,7 +209,7 @@
     <string-array name="app_ops_summaries">
         <item>približna lokacija</item>
         <item>natančna lokacija</item>
-        <item>gps</item>
+        <item>GPS</item>
         <item>vibriranje</item>
         <item>branje stikov</item>
         <item>pisanje stikov</item>
@@ -252,21 +252,25 @@
         <item>spremljanje lokacije z visoko porabo energije</item>
         <item>dobivanje statistike o uporabi</item>
         <item>izklop/vklop mikrofona</item>
-        <item>toast okna</item>
+        <item>prikaz sporočila</item>
         <item>projekcija medijev</item>
-        <item>aktiviraj VPN</item>
-        <item>spreminjanje Wifi-ja</item>
-        <item>spreminjanje bluetootha</item>
-        <item>pošiljanje MMS-a</item>
-        <item>branje MMS-a</item>
-        <item>pisanje MMS-a</item>
-        <item>avto start</item>
-        <item>spreminjanje nfc-a</item>
-        <item>brisanje SMS-a</item>
-        <item>brisanje MMS-a</item>
-        <item>brisanje stikov</item>
-        <item>brisanje seznama klicev</item>
-        <item>sprememba podatkov</item>
+        <item>aktiviranje VPN-a</item>
+        <item>ozadna slika za pisanje</item>
+        <item>pomožna struktura</item>
+        <item>pomožen posnetek zaslona zaslona</item>
+        <item>branje stanja telefona</item>
+        <item>dodajanje govorne pošte</item>
+        <item>uporaba SIP-a</item>
+        <item>obdelava izhodnega klica</item>
+        <item>prstni odtis</item>
+        <item>biometrijski senzorji</item>
+        <item>oddajanje na mobitele</item>
+        <item>lažiranje lokacije</item>
+        <item>Branje shrambe</item>
+        <item>pisanje v shrambo</item>
+        <item>vklop zaslona</item>
+        <item>sprejem računa</item>
+        <item>izvajanje v ozadju</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Lokacija</item>
@@ -317,18 +321,22 @@
         <item>Toast okno</item>
         <item>Projektiraj medij</item>
         <item>Aktiviraj VPN</item>
-        <item>Spremeni WiFi</item>
-        <item>Spremeni Bluetooth</item>
-        <item>Pošlji MMS</item>
-        <item>Beri MMS</item>
-        <item>Piši MMS</item>
-        <item>Avto start</item>
-        <item>Spremeni Nfc</item>
-        <item>Izbriši SMS</item>
-        <item>Izbriši MMS</item>
-        <item>Izbriši stike</item>
-        <item>Izbriši seznam klicev</item>
-        <item>Spremeni podatke</item>
+        <item>Ozadna slika za pisanje</item>
+        <item>Pomožna struktura</item>
+        <item>Pomožen posnetek zaslona</item>
+        <item>Preberi stanje telefona</item>
+        <item>Dodaj govorno pošto</item>
+        <item>Uporabi SIP</item>
+        <item>Uredi odhodni klic</item>
+        <item>Prstni odtis</item>
+        <item>Biometrijski senzorji</item>
+        <item>Oddajanje na mobitele</item>
+        <item>Lažiraj lokacijo</item>
+        <item>Preberi shrambo</item>
+        <item>Piši v shrambo</item>
+        <item>Vključi zaslon</item>
+        <item>Prejmi račune</item>
+        <item>Izvajaj v ozadju</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kratko</item>
@@ -1030,6 +1038,7 @@
         <item>Dotik - opravilo dvojni dotik</item>
         <item>Podrsanje - opravilo podrsanja</item>
         <item>Dotik - opravilo dotik</item>
+	<item>Dotik - opravilo dolgega dotika</item>
       </string-array>
      <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>
