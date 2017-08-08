@@ -29,8 +29,10 @@
   <string name="abc_shareactionprovider_share_with_application">Skupna raba z: %s</string>
   <string name="abc_toolbar_collapse_description">Stisni</string>
   <string name="action_example">Primer opravila</string>
-  <string name="action_nothing">Čekaj na test</string>
+  <string name="action_nothing">Čakaj na test</string>
   <string name="add_fingerprint">Dodaj prstni odtis</string>
+  <string name="audio_spk_cal_wait">Kalibriranje, počakajte…</string>
+  <string name="audio_spk_def">Kalibriranje zvočnika</string>
   <string name="baterry_percent">"Napolnjenost baterije: "</string>
   <string name="baterry_temperature">"Temperatura baterije: "</string>
   <string name="begin_to_save_finger_data">Začetek shranjevanja prstnega odtisa</string>

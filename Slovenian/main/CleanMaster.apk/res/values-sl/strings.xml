@@ -402,10 +402,23 @@
   <string name="privacy_search_desc">Zgodovina iskanja</string>
   <string name="privacy_search_type">Google iskanje</string>
   <string name="promotion">Reklama</string>
+  <string name="qq_cache_files">QQ predpomnilnik</string>
+  <string name="qq_clean">QQ čistilec</string>
+  <string name="qq_clean_exit_confirm_msg">Ustavim pregled in izhod?</string>
+  <string name="qq_data_type_cache">QQ predpomnilnik</string>
+  <string name="qq_data_type_cache_desc">"Te  datoteke boste lako povrnili ko se povežete na splet."</string>
+  <string name="qq_data_type_chat">Zgodovina razgovorov razgovora</string>
+  <string name="qq_data_type_chat_desc">"Ne morete povrniti zgodovine razgovorov."</string>
+  <string name="qq_data_type_normal">Smeti</string>
+  <string name="qq_data_type_normal_clean_tips">"To so tehnične datoteke. Njihovo brisanje ne bo vplivalo na vašo uporabo."</string>
+  <string name="qq_data_type_normal_desc">"Njihovo brisanje ne bo vplivalo na vašo uporabo."</string>
+  <string name="qq_data_type_other">Ostalo</string>
+  <string name="qq_data_type_other_desc">Bodite pazljivi, morda ne boste mogli obnoviti teh datotek ko jih izbrišete.</string>
   <string name="recommend_news">Priporočeni viri</string>
   <string name="recommend_the_following">Sledite tem korakom da dobite največ iz vaše naprave</string>
   <string name="recommended">Priporočeno</string>
   <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; se še nekaj datotek lahko izbriše. Sprostite več prostora.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;Lahko očistite &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; predspomina ki ga generira QQ&lt;/Data&gt;" "</string>
   <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; od WeChat predspomina. Sprostite več prostora.&lt;/Data&gt;" "</string>
   <string name="safety_check_detail">%1$d krat, dobljeno %2$d točk</string>
   <string name="safety_rank">Pred %d%% MIUI uporabniki glede varnosti</string>

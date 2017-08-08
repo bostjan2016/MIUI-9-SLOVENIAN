@@ -242,6 +242,7 @@ Podaci neće biti izbrisani."</string>
      <string name="set_network_title">Poveži se na WiFi omrežje</string>
      <string name="set_only_wifi">Uporabi samo WiFi</string>
      <string name="share">Deli</string>
+  <string name="share_desc">MIUI verzija je posodobljena na %1$s, poglejte spremembe na: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
      <string name="share_qq">Objavi na Tencent Weibo</string>
      <string name="share_sina">Objavi na Sina Weibo</string>
      <string name="share_title">Podijeli sa</string>
