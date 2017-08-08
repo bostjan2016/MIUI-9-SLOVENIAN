@@ -19,7 +19,8 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z: %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="common_google_play_services_unknown_issue">%1$s ima težave z storitvami Google Playa. Če se problem ponovi poiščite pomoč od programerja.</string>  
+  <string name="common_google_play_services_unknown_issue">%1$s ima težave z storitvami Google Playa. Če se problem ponovi poiščite pomoč pri programerju.</string>  
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="app_name">Mi Video</string>
   <string name="load_more_and_more">Naloži več…</string>
   <string name="over_load_more">Naloži več</string>
