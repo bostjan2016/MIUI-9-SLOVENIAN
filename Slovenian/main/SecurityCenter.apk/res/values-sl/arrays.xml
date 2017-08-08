@@ -10,7 +10,7 @@
          <item>"Danes "</item>
          <item>"Ta mesec "</item>
      </string-array>
-	 <string-array name="date_of_traffic_cmcc">
+     <string-array name="date_of_traffic_prefix_cmcc">
          <item>"Ta teden "</item>
          <item>"Danes "</item>
          <item>"Ta mesec "</item>
@@ -87,7 +87,7 @@
         <item>Čez 5 minut</item>
         <item>Čez 10 minut</item>
 		<item>Čez 30 minut</item>
-        <item>Nikad</item>
+        <item>Nikoli</item>
      </string-array>
     <string-array name="alarm_repeat_type">
         <item>Enkrat</item>
