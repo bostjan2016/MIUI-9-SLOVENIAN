@@ -127,7 +127,7 @@
      <string-array name="show_non_rect_clip_entries">
         <item>Izključeno</item>
         <item>Modro nepravokotno področje izseka</item>
-        <item>Testirane ukaze povdari zeleno</item>
+        <item>Testirane ukaze poudari zeleno</item>
      </string-array>
      <string-array name="track_frame_time_entries">
         <item>Izključeno</item>

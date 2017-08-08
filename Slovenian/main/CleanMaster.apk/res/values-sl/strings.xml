@@ -196,7 +196,7 @@
   <string name="find_device_pref_alert_content">"Najdi napravo je povezan z vašim Mi Računom. Nastaviti morate geslo ali pa vnesti nastavljeno geslo. Pazite da si vedno zapomnite svoj ID Mi Računa in geslo. Odhodno SMS sporočilo bo mogoče potrebno za aktiviranje te storitve. Vaš ponudnik storitve vam bo zaračunal to sporočilo. Kadar zamenjate SIM kartice bo samodejno poslano sporočilo za ponovno aktiviranje te storitve."</string>
   <string name="find_device_pref_alert_negtive">Ne hvala</string>
   <string name="find_device_pref_alert_positive">V redu</string>
-  <string name="find_device_pref_alert_title">Zapomnite se svoj ID Mi Računa in geslo</string>
+  <string name="find_device_pref_alert_title">Zapomnite si svojo ID Mi Računa in geslo</string>
   <string name="find_device_pref_initializing">Zagon…</string>
   <string name="flow_rank_title">Uporaba podatkov</string>
   <string name="function_app_lock_title">%d aplik. vsebuje varnostno tveganje​</string>

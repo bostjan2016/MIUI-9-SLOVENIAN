@@ -211,8 +211,8 @@
   <string name="bluetooth_disable_absolute_volume_summary">Onemogoči funkcijo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
   <string name="bluetooth_disconnected">Prekinjena povezava</string>
   <string name="bluetooth_disconnecting">Prekinjanje povezave ...</string>
-  <string name="bluetooth_dun_profile_summary_connected">Connected to Dun Server</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network access</string>
+  <string name="bluetooth_dun_profile_summary_connected">Povezano na Dun strežnik</string>
+   <string name="bluetooth_dun_profile_summary_use_for">Uporabi za dial-up dostop do omrežja</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezava s profilom za zvok telefona vzpostavljena</string>
   <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezava z vnosno napravo je vzpostavljena</string>
@@ -235,7 +235,7 @@
   <string name="bluetooth_pan_profile_summary_use_for">Uporabi za dostop do spleta</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Povezava z napravo za spletni dostop</string>
   <string name="bluetooth_profile_a2dp">Zvok predstavnosti</string>
-  <string name="bluetooth_profile_dun">Dial-up Network Access</string>
+  <string name="bluetooth_profile_dun">Dial-up dostop do omrežja</string>
   <string name="bluetooth_profile_headset">Zvok telefona</string>
   <string name="bluetooth_profile_hid">Vnosna naprava</string>
   <string name="bluetooth_profile_map">Dostop do sporočil</string>
@@ -1164,8 +1164,8 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="no_internet_available">Za vzpostavitev spletnega klica rabite spletno povezavo</string>
   <string name="no_internet_available_title">Ni spletne povezave</string>
   <string name="no_mobile_data">Mobilni podatki niso omogočeni</string>
-  <string name="no_mobile_data_roaming">Data roaming is not available</string>
-  <string name="no_more">Ne več</string>
+  <string name="no_mobile_data_roaming">Podatki v gostovanju nisou dostopni</string>
+  <string name="no_more">Nič več</string>
   <string name="no_number">Ni številke telefona</string>
   <string name="no_product_list">Prazno</string>
   <string name="no_sim_card">Ni SIM kartice</string>
