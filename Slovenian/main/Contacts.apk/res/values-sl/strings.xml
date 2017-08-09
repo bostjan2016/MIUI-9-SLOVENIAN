@@ -88,6 +88,7 @@
   <string name="call_radio">"Pokliči radio"</string>
   <string name="call_record_setting_miui">Nastavitve snemanja zvoka</string>
   <string name="call_settings">Nastavitve</string>
+  <string name="call_settings_primary_user_only">Nastavitve klicalahko spremeni samo primarni uporabnik..</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Klic iz SIM1</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -1259,10 +1260,12 @@ Napravite varnostno kopijo stikov."</string>
   <string name="type_outgoing">Odhodni klic</string>
   <string name="type_voicemail">Glasovna pošta</string>
   <string name="unable_get_device_id">"Ne morem dobiti IMEI"</string>
+  <string name="unfold_all">odkrij vse</string>
   <string name="unknow_phone_number_call_failed">"Ne morem klicati neznane številke"</string>
   <string name="unknow_phone_number_mms_failed">"Ne morem poslati SMS na neznano številko"</string>
   <string name="unknown">Neznano</string>
   <string name="unknown_contact_name">Neznan stik</string>
+  <string name="unknown_details_new_contact">Nov stik</string>
   <string name="update_sim_contact_photo_toast">"Ne morem nastaviti fotografije za SIM kontakte"</string>
   <string name="upgrade_in_progress">Seznam stikov se posodablja.</string>
   <string name="upgrade_out_of_memory">Stiki so v postopku nadgradnje.      
