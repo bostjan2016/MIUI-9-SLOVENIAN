@@ -88,7 +88,7 @@
   <string name="call_radio">"Pokliči radio"</string>
   <string name="call_record_setting_miui">Nastavitve snemanja zvoka</string>
   <string name="call_settings">Nastavitve</string>
-  <string name="call_settings_primary_user_only">Nastavitve klicalahko spremeni samo primarni uporabnik..</string>
+  <string name="call_settings_primary_user_only">Nastavitve klica lahko spremeni samo primarni uporabnik..</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Klic iz SIM1</string>
   <string name="call_sim2_description">SIM 2</string>
