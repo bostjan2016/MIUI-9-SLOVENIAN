@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
      <string name="about_device">Vizitka telefona</string>
      <string name="active_xiaomi_account">Aktiven</string>
@@ -26,16 +25,16 @@
      <string name="auto_update">Posodobi samodejno</string>
      <string name="auto_update_sum">Uporabi pametni algoritem za določanje časa posodobitve</string>
      <string name="autosetmode">Nastavitve</string>
-     <string name="battery_islow">&lt;font color=#f37981&gt;Priključite punjač&lt;/font&gt;</string>
-     <string name="battery_islow_desc">Razina napunjenosti baterije preniska je kako biste sigurno instalirali zip datoteku, priključite punjač i pokušajte ponovo kasnije!</string>
+     <string name="battery_islow">&lt;font color=#f37981&gt;Priključite polnilec&lt;/font&gt;</string>
+     <string name="battery_islow_desc">Raven napolnjenosti baterije je prenizka za varno namestitev zip datoteke, priključite polnilec in poskusite kasneje!</string>
      <string name="best_update">Najboljša posodobitev doslej</string>
      <string name="boot_recovery">Ponovni zagon v obnovitvenem (Recovery) načinu?</string>
      <string name="btn_changelog">Changelog</string>
-     <string name="btn_download">Preuzmi</string>
-     <string name="btn_install">Instaliraj</string>
-     <string name="btn_no">Odustani</string>
-     <string name="btn_ok">U redu</string>
-     <string name="btn_share">Podijeli</string>
+     <string name="btn_download">Prenesi</string>
+     <string name="btn_install">Namesti</string>
+     <string name="btn_no">Prekliči</string>
+     <string name="btn_ok">V redu</string>
+     <string name="btn_share">Skupna raba</string>
      <string name="btn_yes">Da</string>
      <string name="button_delay_update_reboot">Ponovno zaženi &amp; posodobi</string>
      <string name="button_text_check">Preveri za posodobitve</string>
@@ -83,18 +82,18 @@
      <string name="download_cancel">Prekliči</string>
      <string name="download_current_rom">Ponovno zaženi za aktiviranje posodobitve </string>
      <string name="download_diff">Prenos razlike</string>
-     <string name="download_done">Uspješno preuzeto!</string>
+     <string name="download_done">Uspešno prenešeno!</string>
      <string name="download_error">Nekaj ni v redu. Počakajte minuto ali dve in poskusite znova.</string>
-     <string name="download_fail">Pogreška prilikom preuzimanja!</string>
-     <string name="download_fail_desc">MD5 Sum se ne podudara…</string>
+     <string name="download_fail">Napaka med prenosom!</string>
+     <string name="download_fail_desc">MD5 Sum se ne ujema…</string>
      <string name="download_failed">Ne morem prenesti</string>
      <string name="download_full">Prenos končan</string>
      <string name="download_success_reboot_immediately">Ponovno zaženi za uveljavitev</string>
      <string name="download_title">Prenašam (%s)</string>
      <string name="download_title_first">Pridobivanje informacij…</string>
      <string name="download_title_full_download">Pridobivanje informacij…</string>
-     <string name="downloading">Preuzimanje…</string>
-     <string name="downloading_desc">U tijeku je preuzimanje, provjerite status u području obavijesti.</string>
+     <string name="downloading">Prenos…</string>
+     <string name="downloading_desc">Poteka prenos, preverite status v področju obvestil.</string>
      <string name="edit_comment">Dodaj komentarje</string>
      <string name="edit_comment_title">Uredi komentar</string>
      <string name="edit_text_default">Napišite komentar</string>
@@ -111,23 +110,23 @@
      <string name="go_on_download">Prenesi</string>
      <string name="important_suggestion">Pravilnik o zasebnosti se je spremenil</string>
      <string name="install">Namesti</string>
-     <string name="install_desc">"Uređaj će se ponovno pokrenuti u recovery i instalirati odabranu datoteku: %1$s
+     <string name="install_desc">"Naprava se bo ponovno zagnala v TWRP in namestila izbrano datoteko: %1$s
 Podaci neće biti izbrisani."</string>
      <string name="install_failed">Posodobitev ni uspela</string>
-     <string name="install_file_explorer">Morate namestiti raziskovalca datotek</string>
+     <string name="install_file_explorer">Morate namestiti aplikacijo Raziskovalec</string>
      <string name="install_local">Namestite lokalno</string>
      <string name="install_qq">Pridobi Tencent Weibo aplikacijo</string>
-     <string name="install_title">Jeste li sigurni da želite nastaviti?</string>
+     <string name="install_title">Ste prepričani da želite nadaljevati?</string>
      <string name="internal_build">Interno</string>
      <string name="later">Pozneje</string>
      <string name="loading">Nalagam…</string>
      <string name="log_share">Deli</string>
      <string name="menu_more_button">Meni</string>
      <string name="menu_title_apply_for_alpha">Prijavite se v program testiranja Beta verzije</string>
-     <string name="menu_title_current_version_log">Kaj je novo</string>
+     <string name="menu_title_current_version_log">Kaj je novega</string>
      <string name="menu_title_download_current_rom">Prenesi posodobitev</string>
      <string name="menu_title_pick_rom_file">Izberite paket posodobitve</string>
-     <string name="menu_title_recovery">Ponovni zagon v Recovery način</string>
+     <string name="menu_title_recovery">Ponovni zagon v TWRP recovery</string>
      <string name="miui_BBS">" &lt;a href=http://bbs.miui.com&gt;Pojdi na MIUI forum&lt;/a&gt; "</string>
      <string name="miui_summary_has_new_version">" Posodobitev je na voljo "</string>
      <string name="miui_summary_no_new_version">Posodobitev ni na voljo</string>
@@ -142,22 +141,22 @@ Podaci neće biti izbrisani."</string>
      <string name="my_worst_update">Najslabša posodobitev</string>
      <string name="network_error">Prišlo je do napake omrežja</string>
      <string name="new_updates_found_notification_title">Posodobitev na voljo</string>
-     <string name="new_version">Pronađena je nova verzija!</string>
+     <string name="new_version">Najdena je nova verzija!</string>
      <string name="next">Naprej</string>
      <string name="no_log">Povzetek ni na voljo</string>
-     <string name="no_network">Nema mrežnog pristupa.</string>
-     <string name="no_update">Sve je ažurno!</string>
+     <string name="no_network">Ni omrežnega dostopa.</string>
+     <string name="no_update">Vse je posodobljeno!</string>
      <string name="no_wifi_msg">"Uporaba mobilne podatkovne povezave lahko povzroči dodatne stroške. Povežite se preko WiFi za prenos posodobitve".</string>
      <string name="no_wifi_title">Poveži se na WiFi</string>
      <string name="not_open">Ne</string>
-     <string name="notif_cancel">Odustani</string>
-     <string name="notif_install">Instaliraj</string>
-     <string name="notif_new_summary">Dodirni za dobivanje pojedinosti</string>
-     <string name="notif_new_title">Dostupna je nova verzija!</string>
+     <string name="notif_cancel">Prekliči</string>
+     <string name="notif_install">Namesti</string>
+     <string name="notif_new_summary">Tapni za pridobivanje podrobnosti</string>
+     <string name="notif_new_title">Dostopna je nova verzija!</string>
      <string name="notification_auto_reboot_seccess_title">Naprava je samodejno posodobljena</string>
      <string name="notification_delay_update_button">Posodobi čez 2 ure</string>
      <string name="notification_delay_update_cancel">"Ne posodabljaj nocoj"</string>
-     <string name="notification_delay_update_low_power">Kaže da je nocoj baterija bila preslaba</string>
+     <string name="notification_delay_update_low_power">Kaže da je bila nocoj baterija preslaba</string>
      <string name="notification_delay_update_msg">Naprava se bo ponovo zagnala &amp; posodobiti čez​ %ssek</string>
      <string name="notification_delay_update_no_update">"Posodobitev ni uporabljena"</string>
      <string name="notification_delay_update_shutdown">Kaže da je nocoj naprava bila izključena</string>
@@ -185,15 +184,15 @@ Podaci neće biti izbrisani."</string>
      <string name="open_now">Da</string>
      <string name="particular_build">Posebno</string>
      <string name="pause">Premor</string>
-     <string name="permdesc_cache_filesystem">Aplikaciji omogućuje pisanje datoteka u /predmemoriju.</string>
-     <string name="permdesc_reboot">Aplikaciji omogućuje ponovno pokretanje uređaja.</string>
-     <string name="permlab_cache_filesystem">Pristup predmemoriji</string>
-     <string name="permlab_reboot">Pristup ponovnom pokretanju</string>
-     <string name="pick_not_found">Nije pronađen odgovarajući upravitelj datoteka.</string>
-     <string name="pick_title">Odaberi pomoću:</string>
+     <string name="permdesc_cache_filesystem">Aplikaciji omogoča pisanje datotek v / predspomin.</string>
+     <string name="permdesc_reboot">Aplikaciji omogoča ponovni zagon naprave.</string>
+     <string name="permlab_cache_filesystem">Dostop do predspomina</string>
+     <string name="permlab_reboot">Dostop do ponovnega zagona</string>
+     <string name="pick_not_found">Ne najdem upravitelja datotek.</string>
+     <string name="pick_title">Izberi:</string>
      <string name="pm_root_acquired_button">ROOT dostop</string>
      <string name="pm_root_acquired_notification_title">Pridobitev ROOT dostopa</string>
-     <string name="pm_root_acquired_rooting">Pridobitev ROOT dostopa %s</string>
+     <string name="pm_root_acquired_rooting">Pridobivnje ROOT dostopa %s</string>
      <string name="pm_root_checking">Preverjanje informacij sistema…</string>
      <string name="pm_root_fail_button_retry">Poskusi ponovno</string>
      <string name="pm_root_fail_msg">Ta aplikacija ne more dobiti ROOT dostop. Poskusite ponovno.</string>
@@ -215,7 +214,7 @@ Podaci neće biti izbrisani."</string>
      <string name="provision_toast_server_error">Povezava s strežnikom ni uspela. Počakajte trenutek in poskusite ponovno.</string>
      <string name="provision_toast_timeout">Povezava je potekla. Preverite omrežne nastavive.</string>
      <string name="reboot">Ponovni zagon</string>
-     <string name="recovery_desc">Uređaj će se sada ponovno pokrenuti u Recovery. Ako niste upoznati s tim načinom otkažite buduće radnje. Nastaviti?</string>
+     <string name="recovery_desc">Naprava se bo ponovno zagnala v TWRP. Nadaljujem?</string>
      <string name="recovery_failed_button">V redu</string>
      <string name="recovery_failed_msg">"Vaša naprava nima dovolj pomnilnika za vstop v obnovitveni način (Recovery) in posodobitev sistema. Poskusite z Mi PC Suite:
     http://zhushou.xiaomi.com"</string>
@@ -224,20 +223,20 @@ Podaci neće biti izbrisani."</string>
      <string name="recovery_power_need_plugged">Priključite polnilec da posodobite</string>
      <string name="recovery_power_not_enough_msg">Napolnite napravo najmanj 15% za posodobitev</string>
      <string name="recovery_power_not_enough_title">Slaba baterija</string>
-     <string name="recovery_power_plugged_warning">Preverite ali je polnolec priključen na napravo med posodabljanjem</string>
+     <string name="recovery_power_plugged_warning">Preverite ali je polnilec priključen na napravo med posodabljanjem</string>
      <string name="repeat">Poskusite znova</string>
      <string name="root_acquired">Dovoli ROOT dostop</string>
      <string name="root_agree_check_box_title">Razumem tveganje ROOT dostopa</string>
      <string name="root_dangerous_msg">Dovolitev ROOT dostopa je zelo nevarna in lahko privede do zlorabe vaših podatkov in naprave. S tem soglašate da ste sami odgovorni za izgubo podatkov ali kakršnokoli drugo škodo na napravi.</string>
-     <string name="server_error">Poslužitelj ne reagira, aplikacija možda neće ispravno raditi!</string>
+     <string name="server_error">Strežnik ne reagira, aplikacija morda ne bo pravilno delala!</string>
      <string name="set_auto">Samodejno preveri za posodobitev</string>
-     <string name="set_auto_msg">"Prenesem posodobitve ko bo povezano na WiFi in jih namestim ponoči?"</string>
+     <string name="set_auto_msg">"Prenesem posodobitve ko bo povezano na WiFi in jih namestim ponoči ?"</string>
      <string name="set_auto_update_title">Posodobim samodejno?</string>
      <string name="set_installfail_full_msg">Trenutno ne morem posodobiti. Pritisnite V redu za prijavo te napake.</string>
-     <string name="set_installfail_msg">Uporabi mobilno podatkovno povezavo da prenesete posodobitev, povečala se bo poraba mobilnih podatkov in operater vam lahko dodatno zaračuna</string>
+  <string name="set_installfail_msg">Niste povezani na WiFi omrežje. Uporaba vaše mobilne podatkovne povezave za prenos posodobitve bo povečala uporabo podatkov. Vaš operater vam bo to zaračunal</string>
      <string name="set_installfail_title">Poskusim ponovno prenesti posodobitev?</string>
      <string name="set_installfail_title_full">Ne morem posodobiti</string>
-     <string name="set_network_msg">Poveži se z omrežjem WiFi pred prenosom posodobitev.</string>
+     <string name="set_network_msg">Poveži se z omrežjem WiFi za prenos posodobitev.</string>
      <string name="set_network_root_msg">Za odobritev ROOT dostopa se povežite na WiFi.</string>
      <string name="set_network_title">Poveži se na WiFi omrežje</string>
      <string name="set_only_wifi">Uporabi samo WiFi</string>
@@ -245,9 +244,9 @@ Podaci neće biti izbrisani."</string>
   <string name="share_desc">MIUI verzija je posodobljena na %1$s, poglejte spremembe na: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
      <string name="share_qq">Objavi na Tencent Weibo</string>
      <string name="share_sina">Objavi na Sina Weibo</string>
-     <string name="share_title">Podijeli sa</string>
+     <string name="share_title">Deli z</string>
      <string name="share_update">Deli informacije o posodobitvi sistema</string>
-     <string name="share_update_content_sign">Posodobil sem MIUI na %1$s! Bil sem %2$s oseba za posodobitev. Za podroben seznam sprememb pojdite na %3$s</string>
+     <string name="share_update_content_sign">Posodobil sem MIUI na %1$s! Moj status posodabljanja je: %2$s. Za podroben seznam sprememb pojdite na %3$s</string>
      <string name="share_update_content_unsign">Posodobil sem MIUI na %1$s! Za podroben seznam sprememb pojdite na %2$s</string>
      <string name="sina_share_fail">Ne morem poslati</string>
      <string name="sina_share_fail_content_repeat">"To ste že delili."</string>
@@ -261,8 +260,8 @@ Podaci neće biti izbrisani."</string>
      <string name="sogou_uninstall_title">Ustreznost tipkovnice</string>
      <string name="space_not_enough_msg">Ni dovolj prostora za prenos te posodobitve. Sprostite pomnilnik in poskusite ponovno</string>
      <string name="space_not_enough_title">Ni dovolj prostora</string>
-     <string name="stable">Stabilna</string>
-     <string name="stable_build">Stabilna</string>
+     <string name="stable">Stabilno</string>
+     <string name="stable_build">Stabilno</string>
      <string name="submit">Pošlji</string>
      <string name="submit_fail">Ne morem poslati</string>
      <string name="submit_progress">Pošiljam…</string>
@@ -283,35 +282,35 @@ Podaci neće biti izbrisani."</string>
      <string name="update_feedback_end">Zamudili ste tedensko glasovanje.</string>
      <string name="update_feedback_end_sum">Lahko se pridružite vsak ponedeljek.</string>
      <string name="update_feedback_expired">"Zamudili ste tedensko glasovanje.
-   Lahko sodelujete naslednji teden."</string>
+   Lahko sodelujete naslednji ponrdeljek."</string>
      <string name="update_feedback_need_account">Morate se najprej prijaviti v svoj Mi Račun</string>
      <string name="update_feedback_need_network">Najprej se povežite na omrežje</string>
      <string name="update_feedback_need_update">Posodobiti morate svoj sistem na najnovejšo različico.</string>
      <string name="update_feel">Kaj menite?</string>
      <string name="update_general">Tako-tako</string>
      <string name="update_happy">Zadovoljen!</string>
-     <string name="update_monthly_build_only">Mesečno nadgrajuj posodobitev</string>
+     <string name="update_monthly_build_only">Mesečno nadgrajuj posodobitve</string>
      <string name="update_sad">Razočaran</string>
-     <string name="update_success">Posodobitev končana</string>
+  <string name="update_success">Naprava je posodobljena</string>
      <string name="update_success_body">Verzija: %s</string>
      <string name="update_success_reboot_immediately">Posodobitev je prenešena</string>
-     <string name="update_success_title">Naprava posodobljena</string>
-     <string name="updater_nolog">Ni dnevnika sprememb</string>
-     <string name="updater_nonetwork">Ne morem se povezati v omrežje</string>
-     <string name="updater_nonetwork_clause">Ne morem se povezati v omrežje</string>
+     <string name="update_success_title">Naprava je posodobljena</string>
+  <string name="updater_nolog">Ni povzetka posodobitev</string>
+     <string name="updater_nonetwork">Ne morem se povezati na omrežje</string>
+     <string name="updater_nonetwork_clause">Ne morem se povezati na omrežje</string>
      <string name="updater_service_busy_msg">Ta aplikacija uporablja Storitev posodabljanja za pridobitev ROOT dostopa.</string>
      <string name="updater_service_busy_title">Storitev posodabljanja je zasedena</string>
      <string name="updater_wait_for_unzip">Odpiranje posodobitve…</string>
      <string name="upgrade_close">Zapri</string>
      <string name="upgrade_kernel">Jedro sistema (Kernel) je potrebno posodobiti</string>
-     <string name="upgrade_kernel_msg">"Različica jedra ki jo uporabljate Ne odgovarja MIUI ROM-u. Ročno je potrebno nadgraditi jedro. Poglejte Xiaomi postopek nadgradnje: 
+     <string name="upgrade_kernel_msg">"Različica jedra ki jo uporabljate Ne odgovarja MIUI ROM-u. Ročno morate nadgraditi jedro. Poglejte Xiaomi postopek nadgradnje: 
 "</string>
      <string name="user_begin">Prenašam</string>
-     <string name="user_intertup_download_msg">Prenosi so bili začasno ustavljeni. Lahko jih aktivirate kadarkoli v Updater aplikaciji.</string>
-     <string name="user_intertup_download_title">Prenos posodobitev je zaustavljen</string>
+     <string name="user_intertup_download_msg">Prenosi so bili začasno ustavljeni. Lahko jih aktivirate kadarkoli v aplikaciji Posodobitev.</string>
+     <string name="user_intertup_download_title">Prenos je zaustavljen</string>
      <string name="validate_pkg_failed_msg">Ne morem preveriti vira posodobitve. Poskusite s ponovnim prenosom.</string>
      <string name="validate_pkg_failed_title">Ni mogoče preveriti posodobitev</string>
-     <string name="version">Trenutno instalirano:</string>
+     <string name="version">Trenutno nameščeno:</string>
      <string name="view_upgrade_tutorial">Prikaži</string>
      <string name="vote_beta">Beta Program Povratne informacije</string>
      <string name="vote_error1">"Kaže da vi niste član
@@ -321,8 +320,8 @@ Podaci neće biti izbrisani."</string>
      <string name="vote_error3">"Ne morem se prijaviti.
     Poskusite se ponovno prijaviti v vaš Mi Račun."</string>
      <string name="vote_error4">Ste že poslali Povratne informacije</string>
-     <string name="vote_error5">"Ne morem poslati     
-   Povratne informacije"</string>
+     <string name="vote_error5">"Nekaj ni v redu 
+   Ne morem poslati Povratne informacije"</string>
      <string name="vote_error_nonetwork">Ne morem se povezati na omrežje</string>
      <string name="vote_experience">Forumske izkušnje</string>
      <string name="vote_hint">Dobite 20 točk izkušenj na MIUI forumu po glasovanju</string>
@@ -330,7 +329,7 @@ Podaci neće biti izbrisani."</string>
      <string name="vote_not_recommend">Ne priporočam</string>
      <string name="vote_recommend">Priporočam to posodobitev</string>
      <string name="vote_submit">Pošlji</string>
-     <string name="weekly">Tjedna</string>
+     <string name="weekly">Tedensko</string>
      <string name="weekly_build">Tedensko</string>
      <string name="welcom_button">V redu</string>
      <string name="welcom_message">Žur se začenja</string>

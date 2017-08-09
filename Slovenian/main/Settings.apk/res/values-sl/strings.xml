@@ -1581,7 +1581,7 @@
   <string name="enable_service_password_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi geslo.</string>
   <string name="enable_service_pattern_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi vzorec.</string>
   <string name="enable_service_pin_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi kodo PIN.</string>
-  <string name="enable_service_title">Uporabim %1$s?</string>
+  <string name="enable_service_title">Usluga bo napravila ta opravila:</string>
   <string name="enable_snapshot_screenlock">Daljši pritisk na tipko nazaj za zajem fotografije</string>
   <string name="enable_terminal_summary">Omogočanje terminalske aplikacije za dostop do lokalne lupine</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
@@ -1624,13 +1624,13 @@
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Razen odklepanja s prstnim odtisom napravo lahko dodatno zaščitite z zahtevanjem PIN-a za zagon. Dokler se naprava ne zažene ne more sprejemati klicev, sporočil in obvestil, vključno alarme. 
 
     Tako se zaščiti podatke na izgubljenih ali ukradenih napravah."</string>
+  <string name="encryption_progress_summary">"Šifriranje, ne zaganjajte naprave ponovno."</string>
   <string name="enforce_read_external_confirm_message">Ko je zunanji pomnilnik zaščiten morajo aplikacije zahtevati dovoljenje za branje podatkov iz njega.  
 
     Nekatere aplikacije morda ne bodo delovale dokler ne bodo posodobljene.</string>
   <string name="enforce_read_external_confirm_title">Zaščitim zunanji pomnilnik?</string>
   <string name="enforce_read_external_summary">Aplikacije morajo prositi za dovoljenje za branje zunanjega pomnilnika</string>
   <string name="enforce_read_external_title">Zaščiti zunanji pomnilnik</string>
-  <string name="encryption_progress_summary">"Šifriranje, ne smete ponovno zagnati naprave."</string>
   <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podatkov zaradi izboljšanja glasovnih postavk in komunikacije (priporočeno)</string>
   <string name="enhanced_4g_lte_mode_title">Izboljšan 4G LTE način</string>
   <string name="enter_password">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave po ponovnem zagonu</string>
@@ -2928,9 +2928,9 @@ Na tej napravi je več uporabnikov.
   <string name="open_miui_optimization_warning_message">Vaša naprava se bo ponovno zagnala za uveljavitev sprememb</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Zapri</string>
-  <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati Smart asistenta in prejemati posodobitev. Izključim zdaj?"</string>
-  <string name="open_personal_assistant_dialog_title">Izključi Smart assistant</string>
-  <string name="open_personal_assistant_title">Vključi Smart assistant</string>
+  <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati QuickCard in prejemati posodobitev. Izključim zdaj?"</string>
+  <string name="open_personal_assistant_dialog_title">Izključi QuickCard</string>
+  <string name="open_personal_assistant_title">Vključi QuickCard</string>
   <string name="open_sdcard_optimization_title">Odpri emulirano optimizacijo SD kartice</string>
   <string name="open_sdcard_optimization_warning_message">Vaša naprava se bo ponovno zagnala.</string>
   <string name="open_wifi_connect_summary">"Dotaknite se za urejanje"</string>

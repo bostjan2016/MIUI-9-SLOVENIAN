@@ -409,12 +409,12 @@
   <string name="enumeration_delimiter">" | "</string>
   <string name="error">Napaka</string>
   <string name="exception_cancel">"
-        Ta dogodek je odpovedan
-        za:
+     Ta dogodek je odpovedan
+     za:
 %s "</string>
   <string name="exception_updated">"
-       Podobnosti tega dogodka so se spremenile
-        za:
+    Podobnosti tega dogodka so se spremenile
+    za:
 %s "</string>
   <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>

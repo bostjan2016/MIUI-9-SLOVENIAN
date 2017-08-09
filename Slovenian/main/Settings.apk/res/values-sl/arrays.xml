@@ -257,7 +257,7 @@
         <item>aktiviranje VPN-a</item>
         <item>ozadna slika za pisanje</item>
         <item>pomožna struktura</item>
-        <item>pomožen posnetek zaslona zaslona</item>
+        <item>pomožen posnetek zaslona</item>
         <item>branje stanja telefona</item>
         <item>dodajanje govorne pošte</item>
         <item>uporaba SIP-a</item>
@@ -316,10 +316,10 @@
         <item>Zadrži v aktivnem stanju</item>
         <item>Lokacija</item>
         <item>Lokacija</item>
-        <item>Dobi statistike o uporabi</item>
+        <item>Dobivanje statistike o uporabi</item>
         <item>Izključi/vključi mikrofon</item>
-        <item>Toast okno</item>
-        <item>Projektiraj medij</item>
+        <item>Prikaži sporočilo</item>
+        <item>Projektiraj medijske vsebine</item>
         <item>Aktiviraj VPN</item>
         <item>Ozadna slika za pisanje</item>
         <item>Pomožna struktura</item>
@@ -1090,7 +1090,7 @@
      </string-array>
      <string-array name="usb_configuration_titles">
         <item>Polnjenje</item>
-        <item>MTP (protokol za prenos medija)</item>
+        <item>MTP (protokol za prenos medijev)</item>
         <item>PTP (protokol za prenos fotografij)</item>
         <item>RNDIS (USB ethernet)</item>
         <item>Audio vir</item>
