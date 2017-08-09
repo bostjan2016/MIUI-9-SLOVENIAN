@@ -736,7 +736,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_bindConditionProviderService">Imetniku omogoča povezovanje z vmesnikom storitve ponudnika pogojev najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindDreamService">Imetniku omogoča povezovanje z vmesnikom storitve sanjarjenja najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindNotificationListenerService">Lastniku omogoča povezovanje z vmesnikom storitve poslušalca obvestil najvišje ravni. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
-  <string name="permdesc_bind_connection_service">Lastniku omogoča povezovanje z telefonskimi uslugami za vzpostavljanje in prejemanje klicev.</string>
+  <string name="permdesc_bind_connection_service">Lastniku omogoča povezovanje z telefonskimi storitvami za vzpostavljanje in prejemanje klicev.</string>
   <string name="permdesc_bind_incall_service">Lastniku omogoča upravljanje s časom in načinom prikazovanja zaslona med klicem.</string>
   <string name="permdesc_bluetooth">Aplikaciji omogoča ogled konfiguracije Bluetootha telefona ter ustvarjanje in sprejemanje povezave s seznanjenimi napravami.</string>
   <string name="permdesc_bluetoothAdmin">Aplikaciji omogoča konfiguriranje lokalnega telefona s tehnologijo Bluetooth ter odkrivanje oddaljenih naprav in povezovanje z njimi.</string>

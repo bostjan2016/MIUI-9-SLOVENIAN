@@ -872,7 +872,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_batteryStats">Aplikaciji omogoča branje podatkov o trenutni nizki napolnjenosti akumulatorja. Aplikaciji lahko tudi dovoli dostop do podrobnosti o tem katere aplikacije uporabljate.</string>
   <string name="permdesc_bindAccessibilityService">Lastniku omogoča povezovanje z vmesnikom najvišje ravni storitve za ljudi s posebnimi potrebami. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindCarrierMessagingService">Lastniku omogoča povezovanje z vmesnikom najvišje ravni storitve mobilnega operaterja za pošiljanje sporočil. Ni potrebno za normalne aplikacije.</string>
-  <string name="permdesc_bindCarrierServices">Lastniku omogoča povezovanje z uslugami mobilnega operaterja. Ni potrebno za normalne aplikacije.</string>
+  <string name="permdesc_bindCarrierServices">Lastniku omogoča povezovanje z storitvami mobilnega operaterja. Ni potrebno za normalne aplikacije.</string>
   <string name="permdesc_bindConditionProviderService">Lastniku omogoča povezovanje z vmesnikom največje ravni usluge. Ni potrebno za normalne aplikacije.</string>
   <string name="permdesc_bindDeviceAdmin">Omogoča lastniku da pošlje namere skrbniku naprave. Nikoli se ne uporablja za navadne aplikacije.</string>
   <string name="permdesc_bindDreamService">Imetniku omogoča povezovanje z vmesnikom storitve sanjarjenja najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>

@@ -595,13 +595,13 @@ predvsem nudi Ultimate Inc.</string>
   <string name="online_music_enabled_summary">Poslušajte in prenesite priljubljene pesmi. Poglejte najboljše pesmi in trenutni seznam kjerkoli!</string>
   <string name="online_music_enabled_title">Brezplačen stream je tukaj</string>
   <string name="online_my">Moje</string>
-  <string name="online_play_tips">Pesem je online vsebina, zato morate odpreti online usluge v nastavitvah za poslušanje</string>
+  <string name="online_play_tips">Pesem je online vsebina, zato morate odpreti online storitve v nastavitvah za poslušanje</string>
   <string name="online_playlist_is_empty">Seznam predvajanja je prazen</string>
-  <string name="online_service_open_tip">Vključena je usluga online glasbe</string>
-  <string name="online_service_title">Online usluge</string>
+  <string name="online_service_open_tip">Vključena je storitev online glasbe</string>
+  <string name="online_service_title">Online storitve</string>
   <string name="online_recommend">Seznam</string>
   <string name="online_special">Posebno</string>
-  <string name="online_switch">Usluga online vsebine</string>
+  <string name="online_switch">Storitev online vsebine</string>
   <string name="online_switch_message">Izklop omrežnih storitev bo vplival na VIP usluge in priporočila. Vseeno izključim?</string>
   <string name="online_switch_setting">Nastavitve online vsebine</string>
   <string name="open_download">Odpri</string>

@@ -76,7 +76,7 @@
   <string name="recognition_error_cancel">Odpovedano</string>
   <string name="recognition_error_download_cancel">Kasneje</string>
   <string name="recognition_error_download_fail">Prenos ni uspel. Prevjerite omrežne nastavitve</string>
-  <string name="recognition_error_download_msg">Morate prenesti program prepoznavanja da bo usluga dostopna.</string>
+  <string name="recognition_error_download_msg">Morate prenesti program prepoznavanja da bo storitev dostopna.</string>
   <string name="recognition_error_download_ok">Prenesi</string>
   <string name="recognition_error_download_title">Manjka program prepoznavanja</string>
   <string name="recognition_error_downloading">Prenos</string>

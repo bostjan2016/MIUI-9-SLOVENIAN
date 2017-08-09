@@ -24,7 +24,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z:</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="about_ad_service_instructions">O uslugah oglasov in zasebnosti​</string>
+  <string name="about_ad_service_instructions">O storitvah oglasov in zasebnosti​</string>
   <string name="about_phone_enter_xiaomi_net">Izvedite več</string>
   <string name="about_settings">Vizitka telefona</string>
   <string name="about_settings_summary">Ogled pravnih informacij, stanja, različice programske opreme</string>
@@ -1383,7 +1383,7 @@
   <string name="disable_overlays">Onemogoči deljenje spomina</string>
   <string name="disable_overlays_summary">Za sestavljanje slike vedno uporabi graf. procesor</string>
   <string name="disable_power_key_long_press_under_keyguard">Onemogoči meni in tipko za vklop</string>
-  <string name="disable_service_message">Če tapnete \"V redu\" se bo usluga %1$s ustavila.</string>
+  <string name="disable_service_message">Če tapnete \"V redu\" se bo storitev %1$s ustavila.</string>
   <string name="disable_service_title">Želite izklopiti %1$s?</string>
   <string name="disable_text">Onemogoči</string>
   <string name="disable_wifi_master_key_service">Izključi</string>
@@ -1581,7 +1581,7 @@
   <string name="enable_service_password_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi geslo.</string>
   <string name="enable_service_pattern_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi vzorec.</string>
   <string name="enable_service_pin_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi kodo PIN.</string>
-  <string name="enable_service_title">Usluga bo napravila ta opravila:</string>
+  <string name="enable_service_title">Storitev bo napravila ta opravila:</string>
   <string name="enable_snapshot_screenlock">Daljši pritisk na tipko nazaj za zajem fotografije</string>
   <string name="enable_terminal_summary">Omogočanje terminalske aplikacije za dostop do lokalne lupine</string>
   <string name="enable_terminal_title">Lokalni terminal</string>

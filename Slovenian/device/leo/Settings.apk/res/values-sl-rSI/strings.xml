@@ -3152,7 +3152,7 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_data_connection_enable">Omogoči podatkovno povezavo</string>
   <string name="radio_info_data_network_type_label">Vrsta podatkovnega omrežja:</string>
   <string name="radio_info_dcrtinfo_label">Informacije o podatkovnem povezovanju v realnem času:</string>
-  <string name="radio_info_gprs_service_label">Podatkovna usluga:</string>
+  <string name="radio_info_gprs_service_label">Podatkovna storitev:</string>
   <string name="radio_info_gsm_service_label">Storitev GSM:</string>
   <string name="radio_info_http_client_test">Preizkus odjemalca HTTP:</string>
   <string name="radio_info_imei_label">IMEI:</string>
@@ -4617,7 +4617,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="virtual_sim_description">Preverjena mednarodna storitev ostovanja</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
   <string name="virtual_sim_global_description">SIM kartica ni potrebna za povezovanje z podatkovnim omrežjem</string>
-  <string name="virtual_sim_global_title">Usluga mobilnih podatkov</string>
+  <string name="virtual_sim_global_title">Storitev mobilnih podatkov</string>
   <string name="virtual_sim_title">Gostovanje omrežja podatkov</string>
   <string name="virus_scan">Iskanje virusov</string>
   <string name="virus_scan_app_continue">Nadaljuj iskanje</string>

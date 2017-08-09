@@ -1101,7 +1101,7 @@
   <string name="video_operation_need_login">Prijavite se da to napravite</string>
   <string name="video_parse_btn">Start</string>
   <string name="video_parse_error_repeated">"Ne nalagaj podobnih videoposnetkov"</string>
-  <string name="video_parse_error_unknown">"Ta video usluga ni podprta, poskusite z drugo"</string>
+  <string name="video_parse_error_unknown">"Ta video storitev ni podprta, poskusite z drugo"</string>
   <string name="video_parse_hint">Podprte aplikacije: WeChat, Weibo, Youku.</string>
   <string name="video_parse_success">Uspešno pregledano</string>
   <string name="video_parse_timeout">Nekaj je narobe, poskusite ponovno</string>

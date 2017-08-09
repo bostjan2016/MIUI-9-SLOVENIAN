@@ -766,7 +766,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Poslušalec obvestil</string>
   <string name="notification_messaging_title_template">%1$s: %2$s</string>
-  <string name="notification_ranker_binding_label">Usluga rangiranja obvestil</string>
+  <string name="notification_ranker_binding_label">Storitev rangiranja obvestil</string>
   <string name="notification_title">Napaka pri prijavi v račun %1$s</string>
   <string name="notification_work_profile_content_description">Delovni profil</string>
   <string name="now_string_shortest">zdaj</string>

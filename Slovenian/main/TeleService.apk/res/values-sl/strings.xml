@@ -516,7 +516,7 @@
   <string name="connect_later">S tem omrežjem trenutno ni mogoče vzpostaviti povezave. Poskusite znova pozneje.</string>
   <string name="connected_via_passpoint">Povezano preko %1$s</string>
   <string name="connected_via_wfa">Povezano preko pomočnika za WiFi</string>
-  <string name="connection_service_default_label">Vgrajena usluga povezovanja</string>
+  <string name="connection_service_default_label">Vgrajena storitev povezovanja</string>
   <string name="contactAddFailed">Na SIM ni mogoče dodati stika</string>
   <string name="contactAddSuccess">Dodan stik na SIM</string>
   <string name="contactPhoto">fotografija stika</string>
@@ -807,7 +807,7 @@
   <string name="fdn_full">"FDN ni posodobljen ker je poln."</string>
   <string name="fdn_invalid_number">FDN ni bil posodobljen ker število ne sme presegati 20 mest.</string>
   <string name="fdn_list_with_label">Seznam FDN (%s)</string>
-  <string name="fdn_service_unavailable">FDN usluga ni dostopna.</string>
+  <string name="fdn_service_unavailable">FDN storitev ni dostopna.</string>
   <string name="fdn_summary">Omejite odhodne klice navedene na FDN ali na številke z določenimi predponami</string>
   <string name="fdn_with_label">Številke za preusmeritev (%s)</string>
   <string name="feedback">Povratna informacija</string>
