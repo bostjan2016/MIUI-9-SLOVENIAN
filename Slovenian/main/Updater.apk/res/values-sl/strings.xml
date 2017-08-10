@@ -146,6 +146,8 @@ Podaci neće biti izbrisani."</string>
      <string name="no_log">Povzetek ni na voljo</string>
      <string name="no_network">Ni omrežnega dostopa.</string>
      <string name="no_update">Vse je posodobljeno!</string>
+  <string name="no_xioamieu">"Ne uporabljate MIUI ROM napravljen s strani Xiaomi.eu tima!
+Posodobitve niso dostopne za vas!"</string>
      <string name="no_wifi_msg">"Uporaba mobilne podatkovne povezave lahko povzroči dodatne stroške. Povežite se preko WiFi za prenos posodobitve".</string>
      <string name="no_wifi_title">Poveži se na WiFi</string>
      <string name="not_open">Ne</string>
@@ -282,7 +284,7 @@ Podaci neće biti izbrisani."</string>
      <string name="update_feedback_end">Zamudili ste tedensko glasovanje.</string>
      <string name="update_feedback_end_sum">Lahko se pridružite vsak ponedeljek.</string>
      <string name="update_feedback_expired">"Zamudili ste tedensko glasovanje.
-   Lahko sodelujete naslednji ponrdeljek."</string>
+Lahko sodelujete naslednji ponrdeljek."</string>
      <string name="update_feedback_need_account">Morate se najprej prijaviti v svoj Mi Račun</string>
      <string name="update_feedback_need_network">Najprej se povežite na omrežje</string>
      <string name="update_feedback_need_update">Posodobiti morate svoj sistem na najnovejšo različico.</string>
@@ -335,4 +337,5 @@ Podaci neće biti izbrisani."</string>
      <string name="welcom_message">Žur se začenja</string>
      <string name="welcom_title">Dobrodošli v MIUI 7</string>
      <string name="worst_update">Najslabša posodobitev doslej</string>
+  <string name="wifi_recommended">Ni WiFi povezave za varno prenašanje!</string>
 </resources>
