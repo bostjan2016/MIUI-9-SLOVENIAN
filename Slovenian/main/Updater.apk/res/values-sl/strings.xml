@@ -337,5 +337,5 @@ Lahko sodelujete naslednji ponrdeljek."</string>
      <string name="welcom_message">Žur se začenja</string>
      <string name="welcom_title">Dobrodošli v MIUI 7</string>
      <string name="worst_update">Najslabša posodobitev doslej</string>
-  <string name="wifi_recommended">Ni WiFi povezave za varno prenašanje!</string>
+  <string name="wifi_recommended">Ni WiFi povezave za  prenašanje posodobitev!</string>
 </resources>

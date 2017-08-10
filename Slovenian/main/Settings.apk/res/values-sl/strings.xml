@@ -2239,7 +2239,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_notifications_interstitial_title_profile">Obvestila o profilu</string>
   <string name="lock_screen_notifications_summary_disable">Ne prikazuj obvestil</string>
   <string name="lock_screen_notifications_summary_disable_profile">Ne prikazuj obvestil za delovni profil</string>
-  <string name="lock_screen_notifications_summary_hide">Skrij občutljivo vsebino obvestil</string>
+  <string name="lock_screen_notifications_summary_hide">Prikaži obvestila ampak skrij vsebino</string>
   <string name="lock_screen_notifications_summary_hide_profile">Skrij občutljivo vsebino obvest. za delovni profil</string>
   <string name="lock_screen_notifications_summary_show">Pokaži vso vsebino obvestil</string>
   <string name="lock_screen_notifications_summary_show_profile">Pokaži vso vsebino obvestil za delovni profil</string>
@@ -2812,6 +2812,8 @@ Na tej napravi je več uporabnikov.
   <string name="no_updates_warning2">Sprostite se. Obvestili vas bomo če obstaja posodobitev</string>
   <string name="no_vr_listeners">Nobena nameščena aplikacija ni zahtevala zagon kot pomožna storitev za navidezno resničnost.</string>
   <string name="noise_suppression">Odpravljanje šuma v okolju</string>
+  <string name="normal">Normalna</string>
+  <string name="normal_info">Glasnost normalna</string>
   <string name="normal_date_format">Regionalno (%s)</string>
   <string name="normal_smartcover_title">Neprozorni sprednji pokrov</string>
   <string name="not_battery_optimizing">Ne uporablja optimizacijo baterije</string>
@@ -4227,10 +4229,11 @@ To velja za vse uporabnike telefona."</string>
   <string name="shut_down_find_device_network_failure_content">"Ne morem izključiti Najdi napravo. Preverite ali je naprava povezana s spletom."</string>
   <string name="shut_down_find_device_network_failure_title">"Ne morem se povezati na omrežje"</string>
   <string name="shuting_down_find_device">Izklop Najdi napravo…</string>
+  <string name="silent_duration">Trajanje</string>
   <string name="silent_mode">Tihi način</string>
   <string name="silent_mode_title">Tihi način</string>
   <string name="silent_off">Izključi</string>
-  <string name="silent_settings">Tihi način</string>
+  <string name="silent_settings">Tihi način/DND</string>
   <string name="silent_standard">Tiho</string>
   <string name="silent_time">Trajanje tihega načina</string>
   <string name="silent_total">DND</string>
