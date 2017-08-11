@@ -117,11 +117,11 @@
   <string name="bluetooth_sap_profile_summary_use_for">Uporabi za dostop do SIM-a</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Posnemi vse Bluetooth HCI pakete v datoteki</string>
-  <string name="btn_text_full_scan">Popolno skeniranje</string>
+  <string name="btn_text_full_scan">Popolno preverjanje</string>
   <string name="btn_text_install_new_version">Zadnja verzija</string>
   <string name="btn_text_install_origin">Originalna verzija</string>
   <string name="btn_text_install_security_version_in_appstore">Zamenjaj z varno verzijo</string>
-  <string name="btn_text_scaning">Skeniranje…</string>
+  <string name="btn_text_scaning">Preverjanje</string>
   <string name="btn_text_security_install">Zamenjaj z varno verzijo</string>
   <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
   <string name="bugreport_in_power_summary">Prikaži gumb za izdelavo poročila o programskih napakah v meniju zagona</string>
@@ -321,9 +321,9 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="message_appstore_verify_has_new_version">Novejša verzija te aplikacije je dostopna v App Store. Jo želite namestiti?</string>
   <string name="message_appstore_verify_inconsistent">"Ta aplikacija ima drugačen podpis od tistega v App Store, bolje da jo namestite od tam."</string>
   <string name="message_appstore_verify_ok">Verzija te aplikacije iz App Store je opravila naše varnostne teste, bolje da jo namestite od tam.</string>
-  <string name="message_full_scanning">Popolno skeniranje…</string>
+  <string name="message_full_scanning">Popolno preverjanje..</string>
   <string name="message_install_in_market">Priporočamo vam da namestite aplikacijo iz AppStore</string>
-  <string name="message_quick_scanning">Hitro skeniranje…</string>
+  <string name="message_quick_scanning">Hitro preverjanje</string>
   <string name="message_security_scaning">Kontrola…</string>
   <string name="message_staging">Predogled aplikacije…</string>
   <string name="miui_app_danger">"Ta aplikacija ni varna, izbrišite jo."</string>

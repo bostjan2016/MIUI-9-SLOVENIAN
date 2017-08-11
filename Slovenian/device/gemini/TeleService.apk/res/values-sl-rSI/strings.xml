@@ -1988,7 +1988,7 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="wifi_disabled_wifi_failure">povezava preko WiFi ni uspela</string>
   <string name="wifi_display_certification">Potrjevanje brezžičnega prikaza</string>
   <string name="wifi_display_certification_summary">Prikaži možnosti za potrjevanje brezžičnega prikaza</string>
-  <string name="wifi_fail_to_scan">Skeniranje omrežja ni možno</string>
+  <string name="wifi_fail_to_scan">Preverjanje omrežja ni možno</string>
   <string name="wifi_no_internet">Ni dostopa do spleta.</string>
   <string name="wifi_no_internet_no_reconnect">Dostop do spleta ni najden. Ni samodejnega ponovnega povezovanja.</string>
   <string name="wifi_not_in_range">Ni v dosegu</string>

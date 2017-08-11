@@ -12,8 +12,8 @@
   <string name="AD_Info">Oglasi</string>
   <string name="AD_Info_Hint">Adware uporabljajo neodvisna podjetja za pošiljanje oglasov na vašo napravo</string>
   <string name="AD_NOT_BLOCK">Dovoljeno</string>
-  <string name="AD_SCANNING">Skeniranje…</string>
-  <string name="AD_SCAN_BUTTON">Skeniraj</string>
+  <string name="AD_SCANNING">Preverjanje…</string>
+  <string name="AD_SCAN_BUTTON">Preveri</string>
   <string name="AD_TITLE_COUNT">Aplikacija vsebuje adware: %d</string>
   <string name="AD_TITLE_NON_COUNT">Ni najdenih oglasov</string>
   <string name="AD_Unistall">Odstrani</string>

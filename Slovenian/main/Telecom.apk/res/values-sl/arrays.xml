@@ -2,7 +2,7 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Skeniranje…</item>
+        <item>preverjanje…</item>
         <item>Povezovanje…</item>
         <item>Avtentikacija…</item>
         <item>Pridobivanje IP naslova</item>
@@ -16,7 +16,7 @@
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Skeniranje…</item>
+        <item>preverjanje</item>
         <item>Povezovanje na omrežje %1$s…</item>
         <item>Avtentikacija z omrežjem %1$s…</item>
         <item>Pridobivanje IP naslova omrežja %1$s…</item>

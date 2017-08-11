@@ -139,11 +139,11 @@
   <string name="retry_to_load_file_info">Želite ponovno poskusiti poslati to datoteko?</string>
   <string name="save_to_kuaipan">Shrani na MiDrive</string>
   <string name="scan_2d_code">Skeniraj 2D kodo</string>
-  <string name="scan_file">Skeniraj datoteko</string>
+  <string name="scan_file">Preveri datoteko</string>
   <string name="scan_tip">"Prepričajte se da je prejemnik omogočil povezavo
 in lahko prejme datoteke."</string>
   <string name="scan_title">Osredotoči se na 2D kodo</string>
-  <string name="scanning">Skeniram…</string>
+  <string name="scanning">Preverjam</string>
   <string name="sdcard_invalid">SD kartica je nedostopna</string>
   <string name="sdcard_unavailable">SD kartica ni na voljo</string>
   <string name="select_all">Izberite vse</string>

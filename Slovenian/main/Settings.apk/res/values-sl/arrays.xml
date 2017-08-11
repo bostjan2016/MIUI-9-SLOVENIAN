@@ -78,7 +78,7 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Skeniranje…</item>
+        <item>Preverjanje…</item>
         <item>Povezovanje…</item>
         <item>Avtentifikacija…</item>
         <item>Pridobivanje IP naslova…</item>
@@ -92,7 +92,7 @@
      </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Skeniranje…</item>
+        <item>Preverjanje</item>
         <item>Povezovanje na omrežje %1$s…</item>
         <item>Avtentifikacija z omrežjem %1$s…</item>
         <item>Pridobivanje IP naslova iz omrežja %1$s…</item>
@@ -217,9 +217,9 @@
         <item>pisanje seznama klicev</item>
         <item>branje koledarja</item>
         <item>spreminjanje koledarja</item>
-        <item>skeniranje WiFi</item>
+        <item>preverjanje WiFi</item>
         <item>obvestilo</item>
-        <item>skeniranje celice</item>
+        <item>preverjanje celice</item>
         <item>telefonski klic</item>
         <item>branje SMS-a</item>
         <item>pisanje SMS-a</item>

@@ -77,7 +77,7 @@
      <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
         <item>WakeLock</item>
-        <item>WiFi skeniranje</item>
+        <item>WiFi preverjanje</item>
         <item>GPS</item>
         <item>CPU</item>
         <item>Bujenje</item>

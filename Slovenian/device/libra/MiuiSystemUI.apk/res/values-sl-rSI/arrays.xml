@@ -153,9 +153,9 @@
      </string-array>
      <string-array name="wifi_status">
         <item></item>
-        <item>Skeniranje…</item>
+        <item>Preverjanje…</item>
         <item>Povezovanje…</item>
-        <item>Autentikacija…</item>
+        <item>Avtentikacija…</item>
         <item>Sprejem IP naslova…</item>
         <item>Povezano</item>
         <item>Zaustavljeno</item>
@@ -167,7 +167,7 @@
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Skeniranje…</item>
+        <item>Preverjanje</item>
         <item>Povezava na omrežje %1$s…</item>
         <item>Autentikacija z omrežjem %1$s…</item>
         <item>Sprejem IP naslova z omrežja %1$s…</item>

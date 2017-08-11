@@ -196,8 +196,8 @@ ni podprt!"</string>
   <string name="recognize">Prepoznaj</string>
   <string name="recommend">Priporočilo</string>
   <string name="running_notification">Xiaomi MiKey</string>
-  <string name="scan_fail">Skeniranje ni uspelo!</string>
-  <string name="scan_result">Rezultati skeniranja</string>
+  <string name="scan_fail">Preverjanje ni uspelo!</string>
+  <string name="scan_result">Rezultati preverjanja</string>
   <string name="screenkey_disabled">Gumb zaslona onemogočen</string>
   <string name="screenkey_enabled">Gumb zaslona omogočen</string>
   <string name="screenkey_title">Zaščitni gumb</string>

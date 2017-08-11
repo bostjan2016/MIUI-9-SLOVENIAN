@@ -2067,7 +2067,7 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="wifi_disabled_wifi_failure">Povezovanje z WiFini uspelo</string>
   <string name="wifi_display_certification">Certifikacija brežičnega prikaza</string>
   <string name="wifi_display_certification_summary">Prikaži možnosti za certifikacijo brežičnega prikaza</string>
-  <string name="wifi_fail_to_scan">Skeniranje omrežij ni možno</string>
+  <string name="wifi_fail_to_scan">preverjanje omrežij ni možno</string>
   <string name="wifi_no_internet">Ni spletnega dostopa.</string>
   <string name="wifi_no_internet_no_reconnect">Dostop do spleta ni najden. Ni ponovnega samodejnega povezovanja.</string>
   <string name="wifi_not_in_range">Ni v dosegu</string>

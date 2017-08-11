@@ -129,7 +129,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="need_set_second_space_desc">Dodajte geslo Drugega prostora pred dodajanjem prstnega odtisa Drugega prostora</string>
   <string name="need_set_second_space_pwd_first">Nastavite najprej geslo Drugega prostora</string>
   <string name="newSecondSpace">Vključi Drugi prostor</string>
-  <string name="no_match_repate_scanner">"Ne najdem odgovarjajočih prstnih odtisov, skenirajte ponovno"</string>
+  <string name="no_match_repate_scanner">"Ne najdem odgovarjajočih prstnih odtisov, skeniraj ponovno"</string>
   <string name="next_setp">Naprej</string>
   <string name="normal_app">Prvi prostor</string>
   <string name="not_support_air_space">"Ta funkcija ni podprta na vašem telefonu"</string>
@@ -177,7 +177,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="same_qr_code_enter_space">Pojdi v Delovni prostor</string>
   <string name="same_qr_code_title">%s že obstaja</string>
   <string name="scanner_fingerprint">Skeniranje prstnega odtisa…</string>
-  <string name="scanner_fingerprint_enter_second">"Skenirajte prstni odtis Drugega prostora 
+  <string name="scanner_fingerprint_enter_second">"Skeniraj prstni odtis Drugega prostora 
 za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="scanner_fingerprint_error_tips_desc">"Ne najdem odgovarjajočih prstnih odtisov. Dodam prstni odtis za Drugi prostor?"</string>
   <string name="scanner_fingerprint_error_tips_title">Ne najdem odgovarjajočih prstnih odtisov</string>

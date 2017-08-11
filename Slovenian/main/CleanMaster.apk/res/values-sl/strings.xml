@@ -16,7 +16,7 @@
   <string name="activity_title_news">Novice</string>
   <string name="activity_title_privacy_cache">Predpomnilnik zasebnosti</string>
   <string name="activity_title_residual">Ostanki</string>
-  <string name="activity_title_scanfinish">Skeniranje končano</string>
+  <string name="activity_title_scanfinish">Preverjanje končano</string>
   <string name="activity_title_screenshot">Posnetek zaslona</string>
   <string name="activity_title_settings">Nastavitve</string>
   <string name="activity_title_similar_image">Dvojniki fotografij</string>
@@ -158,9 +158,9 @@
   <string name="dialog_msg_add_white_list_error">"Datoteka ne podpira dodajanja v izjeme"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potrdim var. kopijo in odstranim izbrane aplikacije?</string>
   <string name="dialog_msg_check_all">Potrdi izbrano %1$s ki vsebuje %2$d postavk</string>
-  <string name="dialog_msg_esc_cleanmaster">Ustavim skeniranje?</string>
+  <string name="dialog_msg_esc_cleanmaster">Ustavim preverjanje?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Orodje za čiščenje je pokvarjeno, morate ponovno namestiti ROM!</string>
-  <string name="dialog_msg_stop_scan">"Zaustavim skeniranje pred dokončanjem?"</string>
+  <string name="dialog_msg_stop_scan">"Zaustavim preverjanje pred dokončanjem?"</string>
   <string name="dialog_msg_uninstall_apps">Odstranim te aplikacije?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Odstranim te aplikacije vključno z njihovimi dvojnimi aplikacijami?</string>
   <string name="dialog_ok_add_white_list_error">V redu</string>
@@ -170,7 +170,7 @@
   <string name="dialog_title_delete_image">Izbriši izbrane slike</string>
   <string name="dialog_title_esc_cleanmaster">Zaustavi Clean Master</string>
   <string name="dialog_title_load_cleanup_engine_error">Nekaj ni v redu</string>
-  <string name="dialog_title_stop_scan">Ustavi skeniranje</string>
+  <string name="dialog_title_stop_scan">Ustavi preverjanje</string>
   <string name="dialog_title_uninstall_apps">Odstrani</string>
   <string name="download">Prenesi</string>
   <string name="downloading">Prenos…</string>
@@ -220,10 +220,10 @@
   <string name="hints_cache_msd_title">Delta posodobitev</string>
   <string name="hints_cleanfinish">Čiščenje je končano</string>
   <string name="hints_deepclean_list_item_from">Od %s</string>
-  <string name="hints_deepclean_scanning">Skeniranje %s</string>
+  <string name="hints_deepclean_scanning">Preverjanje %s</string>
   <string name="hints_finish_quick_cleanup">Končano</string>
   <string name="hints_finish_quick_cleanup_title">Očiščeno %s smeti</string>
-  <string name="hints_finish_quick_scan">Skeniranje končano</string>
+  <string name="hints_finish_quick_scan">Preverjanje končano</string>
   <string name="hints_garbage_cleanup_result_danger">Očistite notranji pomnilnik</string>
   <string name="hints_garbage_cleanup_result_risk">Očistite notranji pomnilnik</string>
   <string name="hints_garbage_cleanup_result_safe">Vse izgleda čisto</string>
@@ -256,10 +256,10 @@
   <string name="hints_quick_cleanning">Čiščenje…</string>
   <string name="hints_quick_cleanuping">Čiščenje…</string>
   <string name="hints_quick_deep_clean">Očisti zdaj</string>
-  <string name="hints_quick_deep_scanning">Skeniranje…</string>
+  <string name="hints_quick_deep_scanning">Preverjanje</string>
   <string name="hints_quick_deep_uninstall">Izbriši zdaj</string>
   <string name="hints_quick_prepare">Priprava…</string>
-  <string name="hints_quick_scanning">Skeniranje…</string>
+  <string name="hints_quick_scanning">Preverjanje</string>
   <string name="hints_residual_header_left">Ostanki</string>
   <string name="hints_scan_has_finish">Čiščenje končano</string>
   <string name="hints_scanfinish">Ni smeti</string>
@@ -283,7 +283,7 @@
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Nič</string>
   <string name="label_preserve_the_best_image">Shrani najostrejše fotografije</string>
-  <string name="last_check_canceled">Zadnje skeniranje je odpovedano</string>
+  <string name="last_check_canceled">Zadnje preverjanje je odpovedano</string>
   <string name="load_only_under_wlan">Naloži novice kadar je povezano na WiFi</string>
   <string name="location_not_found">"Ne najdem datoteke"</string>
   <string name="login_immediately">Prijavite se</string>
@@ -356,7 +356,7 @@
   <string name="pref_category_title_auto_clean_settings">Opozori za čiščenje</string>
   <string name="pref_category_title_auto_update_cleanup_db">Dodatne nastavitve</string>
   <string name="pref_category_title_cleanup_white_list">Izjeme</string>
-  <string name="pref_category_title_engine_settings">Skeniraj nastavitve definicij</string>
+  <string name="pref_category_title_engine_settings">Preveri nastavitve definicij</string>
   <string name="pref_category_title_garbage_cleanup_check">Obvestila</string>
   <string name="pref_category_title_other_clean_settings">Dodatne nastavitve</string>
   <string name="pref_content_cleanup_white_list_none">Nič</string>
@@ -385,7 +385,7 @@
   <string name="pref_title_garbage_cleanup_size">Omejitev velikosti smeti</string>
   <string name="pref_title_garbage_process_mode">Obvestila</string>
   <string name="pref_title_manual_check_cleanup_db_update">Preveri za posodobitve</string>
-  <string name="pref_title_open_optimizer_cloud_scan">Skeniraj imena datotek</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Preveri imena datotek</string>
   <string name="pref_title_open_optimizer_memory_scan">Izberite aplikacije samodejno</string>
   <string name="privacy_app_desc">Račun in geslo</string>
   <string name="privacy_app_desc_message">Račun, gesla in sporočila</string>
@@ -451,14 +451,14 @@
   <string name="tips_of_auto_launch_manage">Preprečite redko uporabljanim aplikacijam samodejni zagon</string>
   <string name="tips_of_cloud_service">Prijavite se s svojim Mi Računom za uporabo več Mi Uslug</string>
   <string name="tips_of_connect">Povežite se na splet za uporabo celega sklopa varnosti</string>
-  <string name="tips_of_garbage_cloud_scan">Najdite skrite smeti z Cloud skeniranjem</string>
+  <string name="tips_of_garbage_cloud_scan">Najdite skrite smeti z Cloud preverjanjem</string>
   <string name="tips_of_garbage_data_set">Posodobite bazo podatkov Čistilca da poiščete še več smeti v napravi</string>
   <string name="tips_of_network_speed_set">Prikaz hitrosti omrežja v vrstici obvestil</string>
   <string name="tips_of_operators_set">Prilagodite statistiko uporabe podatkov samodejno</string>
   <string name="tips_of_package_set">Nastavite svoj plan podatkov in kontrolirajte količino opravljenega prometa</string>
   <string name="tips_of_traffic_notification">Prikaz statistike mobilnih podatkov v vrstici obvestil</string>
   <string name="tips_of_traffic_pack_threshold">"Kupite več prenosa podatkov ko boste blizu mesečne omejitve"</string>
-  <string name="tips_of_virus_scan">Redno skenirajto vašo napravo da jo obvarujete pred virusi</string>
+  <string name="tips_of_virus_scan">Redno preverjajte vašo napravo da jo obvarujete pred virusi</string>
   <string name="title_auto_cleaner">Opomni za čišenje</string>
   <string name="title_delete_cache">Očisti predpomnilnik aplik.</string>
   <string name="title_delete_clipboard">Vsebina predpomnilnika</string>
@@ -467,7 +467,7 @@
   <string name="title_of_app_manage">Aplik.</string>
   <string name="title_of_auto_launch_manage">Samodejni zagon</string>
   <string name="title_of_cloud_service">Cloud usluge</string>
-  <string name="title_of_garbage_cloud_scan">Cloud skeniranje</string>
+  <string name="title_of_garbage_cloud_scan">Cloud Preverjanje</string>
   <string name="title_of_garbage_data_set">Posodobitev baze podatkov Čistilca</string>
   <string name="title_of_network_speed_set">Prikaz hitrosti omrežja v vrstici obvestil</string>
   <string name="title_of_operators_set">Nastavitve operaterja</string>
@@ -499,7 +499,7 @@
   <string name="traffic_top">TOP 5 aplik. porabnikov podatkov</string>
   <string name="unlike">Ne hvala</string>
   <string name="update_date_format">dd. MMM. yyyy</string>
-  <string name="virus_scan">Skeniranje</string>
+  <string name="virus_scan">Preverjanje</string>
   <string name="white_list_ad_header">Stare datoteke: %d</string>
   <string name="white_list_apk_header">Instal. aplik.: %d</string>
   <string name="white_list_cache_header">Predpomnilnik: %d</string>

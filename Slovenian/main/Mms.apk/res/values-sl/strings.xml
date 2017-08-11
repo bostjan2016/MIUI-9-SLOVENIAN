@@ -707,7 +707,7 @@
   <string name="url_fraud_title">Možna lažna stran</string>
   <string name="url_fraud_visit">&lt;u&gt;Vseeno obišči&lt;/u&gt;</string>
   <string name="url_result_safe">Ta povezava je varna</string>
-  <string name="url_scanning">Skeniranje povezave…</string>
+  <string name="url_scanning">Preverjanje povezave…</string>
   <string name="user_agreement1">Previdno preberite veljavne pogoje preden naložite dodatno programsko opremo ali pa uporabite ta izdelek.</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement3">in</string>
