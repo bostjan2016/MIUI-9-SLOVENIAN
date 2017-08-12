@@ -194,8 +194,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="unit">Enota</string>
   <string name="unit_temperature">Enota temperature</string>
   <string name="unit_wind">Enota hitrosti vetra</string>
-  <string name="update_night_setting_summary_text">Ne bo posodobil samodejno 23:00-07: 00 po izhodu</string>
-  <string name="update_night_setting_title_text">Posodobi samodejno ponoči</string>
+  <string name="update_night_setting_summary_text">Po izhodu ne bo samodejnih posodobitev 23:00-07:00</string>
+  <string name="update_night_setting_title_text">Samodejno posodobi ponoči</string>
   <string name="update_setting_title_text">Nastavitve posodabljanja</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>

@@ -1168,7 +1168,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="delete_fingerprint_text">Odstrani</string>
   <string name="delete_legacy_fingerprint">Izbriši</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrišem podatke o prstnem odtisu?</string>
-  <string name="delete_saved_network">Izbriši shranjeno omrežje</string>
+  <string name="delete_saved_network">Izbriši shranjena omrežja</string>
   <string name="demo_mode">Demo mode</string>
   <string name="deny">Zavrni</string>
   <string name="deny_sms_message">"Zavrni pošiljanje SMS sporočil"</string>
@@ -3294,7 +3294,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Ni zahtevanih dovoljenj</string>
   <string name="save">Shrani</string>
   <string name="saved_network">Shranjeno: %1$s</string>
-  <string name="saved_wifi">Shranjeno omrežje</string>
+  <string name="saved_wifi">Shranjena omrežja</string>
   <string name="saved_wifi_delete">Izbriši</string>
   <string name="scan_list_label">Rezultati iskanja:</string>
   <string name="screen">Zaslon</string>

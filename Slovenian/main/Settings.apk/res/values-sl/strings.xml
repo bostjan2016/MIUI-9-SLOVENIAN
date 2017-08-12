@@ -1292,7 +1292,7 @@
   <string name="delete_legacy_fingerprint">Izbriši</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrišem podatke o prstnem odtisu?</string>
   <string name="delete_rule">Odstrani pravila</string>
-  <string name="delete_saved_network">Izbriši shranjeno omrežje</string>
+  <string name="delete_saved_network">Izbriši shranjena omrežja</string>
   <string name="demo_mode">Demo način</string>
   <string name="demo_mode_summary">Prikaži ikone določene statusne vrste za demo</string>
   <string name="deny">Zavrni</string>
@@ -2584,7 +2584,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_lab_feature_on">Uključi</string>
   <string name="miui_lab_features">MIUI laboratorijske funkcije</string>
   <string name="miui_lab_gallery_search_desc">Izboljšano pregledovanje slik</string>
-  <string name="miui_lab_gallery_search_title">Najdi fotografije u Galeriji</string>
+  <string name="miui_lab_gallery_search_title">Najdi fotografije v Galeriji</string>
   <string name="miui_lab_settings">MIUI laboratorij</string>
   <string name="miui_lab_slogan">Naučite se. Raziščite. Odkrijte.</string>
   <string name="miui_lab_taplus_desc">Pritisnite in držite da boste zagnali bližnjice</string>

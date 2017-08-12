@@ -114,7 +114,7 @@
   <string name="baby_album">Otroški album</string>
   <string name="baby_album_change_background">Zamenjaj fotografijo ozadja</string>
   <string name="baby_album_needs_auto_backup_tip">"Ne morem izključiti Var. kopijo za otroški album"</string>
-  <string name="baby_album_new_photo_remind">Imate nove fotografije u vašem otroškem albumu.</string>
+  <string name="baby_album_new_photo_remind">Imate nove fotografije v vašem otroškem albumu.</string>
   <string name="baby_album_setting_title">Informacije o otroku</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
 %3$s %4$s je podelil %5$s album s teboj"</string>
