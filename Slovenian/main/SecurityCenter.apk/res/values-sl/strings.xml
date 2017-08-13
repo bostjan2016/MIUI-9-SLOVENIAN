@@ -2210,6 +2210,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="start_game">Start</string>
   <string name="start_install">Namesti zdaj</string>
   <string name="start_tc_button">Kalibriraj</string>
+  <string name="still_retain_btn">Zadrži</string>
   <string name="stop_app_button">Ustavi</string>
   <string name="suffix_pay_risk_count_bottom">tveganj</string>
   <string name="suffix_pay_risk_count_top">plačilo</string>
@@ -2426,8 +2427,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_permission_yes">Upravitelj dovoljenj vklopljen</string>
   <string name="title_power_optimizer">Varčevanje z baterijo</string>
   <string name="title_realname_verify">Preverjanje ID </string>
-  <string name="title_share_link">Deli povezavo</string>
   <string name="title_saving_switch">Varčevanje podatkov</string>
+  <string name="title_share_link">Deli povezavo</string>
   <string name="title_show_notification">Kontrole vrstice obvestil</string>
   <string name="title_telecom_operator">Samodejno nastavi</string>
   <string name="title_usb_no">USB odpravljanje napak je vklopljeno</string>
@@ -2460,11 +2461,11 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_shortcut_install">Bližnjica postavljena na začetni zaslon</string>
   <string name="toast_shortcut_uninstall">Bližnjica odstranjena</string>
   <string name="toast_show_notification">Dodano v obvestilno vrstico</string>
+  <string name="toast_virus_cloudscan">Preverjanje virusov bo uporabljalo online definicije</string>
+  <string name="toast_virus_in_cloud_scanning">"Ne morem ustaviti cloud preverjanja"</string>
   <string name="top_game">Najboljše igre</string>
   <string name="top_load_fail_detail">Ne morem naložiti, tapni za ponovni poskus</string>
-  <string name="top_no_network_detial">Ne morem naložiti, preverite omrežno povetavo in poskusite ponovno</string>
-  <string name="toast_virus_cloudscan">Preverjanje virusov bo uporabilo spletne nastavitve</string>
-  <string name="toast_virus_in_cloud_scanning">Ne morem ustaviti preverjanja cloud-a</string>
+  <string name="top_no_network_detial">Ne morem naložiti, preverite omrežno povezavo in poskusite ponovno</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Mesečni načrt spremenjen v %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Posodobljen načrt podatkov</string>
   <string name="traffic_alert_auto_modify_package_summary">"Samodejno prilagodi paket podatkov skladno z informacijami mobilnega operaterja"</string>
@@ -2596,6 +2597,10 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="uninstall_app_dialog_msg">Odstranitev aplikacije bo odstranila vse podatke aplikacije.</string>
   <string name="uninstall_app_dialog_title">Odstranim sedaj?</string>
   <string name="uninstall_app_done">Uspešno odstranjeno</string>
+  <string name="uninstall_danagerous_btn">Odstrani</string>
+  <string name="uninstall_danagerous_desc">\"%s\" lahko poškoduje vašo napravo</string>
+  <string name="uninstall_danagerous_msg">\"%s\" lahko poškoduje vašo napravo, zmanjša njeno učinkovitost ali povzroči ponovni zagon.</string>
+  <string name="uninstall_danagerous_title">Odstrani zlonamerne aplikacije</string>
   <string name="unlike">Ne hvala</string>
   <string name="unlock_pattern">&lt;u&gt;Obrazec&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Vnesite geslo za aktiviranje prstnega odtisa</string>

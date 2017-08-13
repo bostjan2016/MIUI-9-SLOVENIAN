@@ -2372,6 +2372,7 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="lockscreen_glogin_checking_password">Preverjanje…</string>
   <string name="lockscreen_glogin_password_hint">Geslo</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
+  <string name="lockscreen_magazine">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">Prepreči vnos odgovora ali drugega teksta v obvestila kadar je naprava zaklenjena</string>
   <string name="login_account_dialog_message">Prijavite se z Mi Računom in vključite sinhronizacijo z Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se z Mi Računom</string>
@@ -2653,8 +2654,8 @@ Na tej napravi je več uporabnikov.
   <string name="mtp_ptp_mode_summary">Funkcija MTP ali PTP je aktivna</string>
   <string name="multi_touch_points_category_title">Multi-touch točke</string>
   <string name="multi_touch_points_preference">Nastavitev bo začela veljati ko boste ponovno zagnali napravo</string>
-  <string name="music_app_unavailable">Odvisno od aplikacije za glasbo, preverite če je dostopna</string>
   <string name="music_HiFi_title">HiFi avdio</string>
+  <string name="music_app_unavailable">Odvisno od aplikacije za glasbo, preverite če je dostopna</string>
   <string name="music_audio_effect_optimize">Avdio nastavitve</string>
   <string name="music_audio_effect_optimize_summary">Dirac, slušalke in ostale zvočne nastavitve</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Zvok, slušalke in ostale nastavitve zvoka</string>

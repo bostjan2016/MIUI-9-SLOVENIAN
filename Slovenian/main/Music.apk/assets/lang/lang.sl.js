@@ -109,7 +109,7 @@
   "one_month":"1 mjesec",
   "too_freq":"Preveč zahtjev poslanih s te naprave.",
   "tos":"Pogoji ponudnika storitev",
-  "auto_payment":"Avtom. obnovi",
+  "auto_payment":"Samod. obnovi",
   "pay_now":"Prikaz podrobnosti predplačila",
   "vip_renew_title":"Predplačilo bo kmalu poteklo",
   "vip_renew_message":"Predplačilo poteče jutri. Potem boste lahko streamali navadno kvaliteto zvoka. Nekatere pesmi morda niso dostopne zaradi zahtev založnika.",

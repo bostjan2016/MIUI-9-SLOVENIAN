@@ -22,6 +22,13 @@
         <item>10 minut</item>
         <item>30 minut</item>
     </string-array>
+	<string-array name="silent_mode_duration_text">
+         <item>Vedno</item>
+         <item>30 minut</item>
+         <item>1 ura</item>
+         <item>2 uri</item>
+         <item>8 ur</item>
+     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nikoli</item>
         <item>15 sekund</item>

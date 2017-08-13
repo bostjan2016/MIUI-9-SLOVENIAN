@@ -19,7 +19,7 @@
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Tapnite ponovno za izhod</string>
   <string name="auto_start_warning_allow">Dovoli</string>
   <string name="auto_start_warning_deny">Zavrni</string>
-  <string name="auto_start_warning_title">Dovolim %s avtom. zagon?</string>
+  <string name="auto_start_warning_title">Dovolim %s samod. zagon?</string>
   <string name="button_text_cancel">Prekliči</string>
   <string name="button_text_delete">Izbriši</string>
   <string name="button_text_delete_timer">Izbriši (%d)</string>

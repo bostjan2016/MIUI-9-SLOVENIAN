@@ -85,8 +85,8 @@
         <item quantity="one">Izbrišem to fotografijo %2$s?</item>
      </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">Izbrišem %1$d videozapisov %2$s?</item>
-        <item quantity="one">Izbrišem ta videozapis %2$s?</item>
+        <item quantity="other">Izbrišem %1$d videoposnetkov %2$s?</item>
+        <item quantity="one">Izbrišem ta videoposnetek %2$s?</item>
     </plurals>		     
     <plurals name="delete_media_msg_format">
         <item quantity="other">Izbrisati %1$d postavk %2$s?</item>
@@ -145,8 +145,8 @@
         <item quantity="one">1 fotografija čaka izdelavo Var. kopije</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">(%1$d) videozapisov čaka izdelavo Var. kopije</item>
-        <item quantity="one">1 videozapis čaka izdelavo Var. kopije</item>
+        <item quantity="other">(%1$d) videoposnetkov čaka izdelavo Var. kopije</item>
+        <item quantity="one">1 videoposnetek čaka izdelavo Var. kopije</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">(%1$d) postavk čaka izdelavo Var. kopije</item>

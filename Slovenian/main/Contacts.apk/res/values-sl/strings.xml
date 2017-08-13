@@ -578,7 +578,7 @@ Razlog: \"%s\""</string>
   <string name="importing_vcard_canceled_title">"Uvoz %s preklican"</string>
   <string name="importing_vcard_description">Uvažanje %s</string>
   <string name="importing_vcard_finished_title">"Končan uvoz vCard %s"</string>
-  <string name="in_call_show">Videozapis</string>
+  <string name="in_call_show">Videoposnetek</string>
   <string name="in_call_show_camera_open_error">"Ne morem odpreti kamere"</string>
   <string name="in_call_show_delete_message">Izbrišem vaš videoposnetek?</string>
   <string name="in_call_show_delete_title">Izbrišem videoposnetek?</string>

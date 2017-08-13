@@ -20,7 +20,7 @@
   <string name="abc_shareactionprovider_share_with_application">Deli z %s</string>
   <string name="abc_toolbar_collapse_description">Stisni</string>
   <string name="ac_gree">Gree A/C</string>
-  <string name="ac_mode_auto">Avto</string>
+  <string name="ac_mode_auto">Samodejno</string>
   <string name="ac_mode_cold">Hladno</string>
   <string name="ac_mode_dry">Suho</string>
   <string name="ac_mode_fan">Ventilator</string>

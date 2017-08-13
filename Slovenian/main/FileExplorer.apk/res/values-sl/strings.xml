@@ -1062,7 +1062,7 @@
   <string name="user_setting_hot_comment_tip">Ko bodo vaši komentarji izpostavljeni boste obveščeni</string>
   <string name="user_setting_logout">Odjava</string>
   <string name="user_setting_new_comment">Obvestilo novega komentarja</string>
-  <string name="user_setting_new_comment_tip">Dobili boste obvestilo o odgovorih na vaše komentarje in videozapise</string>
+  <string name="user_setting_new_comment_tip">Dobili boste obvestilo o odgovorih na vaše komentarje in videoposnetke</string>
   <string name="user_setting_new_liked">Hvalite za obvestilo o novem sporočilu</string>
   <string name="user_setting_new_liked_tip">Ko je nekomu všeč vaš videoposnetek ali komentar, boste obveščeni</string>
   <string name="user_setting_play_num">Obvestila o ogledih</string>

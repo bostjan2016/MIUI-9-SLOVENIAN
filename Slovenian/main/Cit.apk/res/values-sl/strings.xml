@@ -466,7 +466,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Omogoči zapis 3A Switch</string>
   <string name="cit_tool_enable_display_3A_log">Omogoči Display 3A log</string>
-  <string name="cit_tool_exit_modem_mbn">Vrni na avto MBN</string>
+  <string name="cit_tool_exit_modem_mbn">Vrni na samod. MBN</string>
   <string name="cit_tool_log">Zapisi</string>
   <string name="cit_tool_log_bugreport">Poročilo o napakah</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
