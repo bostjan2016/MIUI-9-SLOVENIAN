@@ -114,8 +114,8 @@
   <string name="recently_shortcut_label">Nedavne bližnjice</string>
   <string name="release_to_exit">Spusti za izhod</string>
   <string name="release_to_input">Spusti za prikaz vrste iskanja</string>
-  <string name="remove_from_history">Ali želite odstraniti to postavko iz zgodovine iskanja?</string>
-  <string name="remove_from_history_failed">Ne morem odstraniti postavke iz zgodovine.</string>
+  <string name="remove_from_history">Ali želite odstraniti to stvar iz zgodovine iskanja?</string>
+  <string name="remove_from_history_failed">Ne morem odstraniti stvari iz zgodovine.</string>
   <string name="right_protection_title">Posebna izjava</string>
   <string name="search_apps">Išči aplikacije</string>
   <string name="search_button">Išči</string>

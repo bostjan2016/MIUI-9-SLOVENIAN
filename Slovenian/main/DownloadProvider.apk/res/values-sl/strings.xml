@@ -44,7 +44,7 @@
   <string name="notif_title_single_downloading">Prenašanje: %1$s</string>
   <string name="notification_download_complete">Prenos končan.</string>
   <string name="notification_download_failed">Prenos ni uspel.</string>
-  <string name="notification_download_failed_more">"Ne morem prenesti %1$d postavk"</string>
+  <string name="notification_download_failed_more">"Ne morem prenesti %1$d stvari"</string>
   <string name="notification_download_success_more">%1$d prenešeno</string>
   <string name="notification_need_wifi_for_size">Velikost prenosa zahteva uporabo WiFi omrežja.</string>
   <string name="notification_paused_in_background">Zaustavljeno v ozadju.</string>

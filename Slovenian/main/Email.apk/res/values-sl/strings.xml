@@ -208,7 +208,7 @@
   <string name="auto_advance_help_title">"Po brisanju sporočil prikaži…</string>
   <string name="auto_advance_label">Izbriši potek sporočila</string>
   <string name="auto_advance_summary">Izberite kaj prikazati po brisanju sporočila</string>
-  <string name="auto_mail_describe">139 Email Storitev samod. nastavitev vam lahko pomaga da izpolnite podatke za prijavu v poštni nabiralnik. Želite omogočiti to funkcijo?</string>
+  <string name="auto_mail_describe">139 Email Storitev samod. nastavitev vam lahko pomaga da izpolnite podatke za prijavo v poštni nabiralnik. Želite omogočiti to funkcijo?</string>
   <string name="auto_mail_disable_txt">Onemogočeno</string>
   <string name="auto_mail_enable_txt">Začetne nastavitve</string>
   <string name="auto_mail_go_email">Mailbox</string>
@@ -683,7 +683,7 @@ Poskusite z ostalo pošto."</string>
   <string name="oauth_error_description">"Ne morem preveriti avtentičnosti"</string>
   <string name="oauth_gmail_login_notify">"Vnesite svoje uporabniško ime in geslo Google računa na naslednji strani za prijavo"</string>
   <string name="oauth_login_continue">Nadaljuj</string>
-  <string name="oauth_login_continue_qq">Pridobitev pri kontroli za prijavu &gt;</string>
+  <string name="oauth_login_continue_qq">Pridobitev pri kontroli za prijavo &gt;</string>
   <string name="ok">V redu</string>
   <string name="okay_action">V redu</string>
   <string name="outbox_alert_button_no_resend">Ne pošlji</string>
@@ -927,7 +927,7 @@ Poskusite z ostalo pošto."</string>
   <string name="sending">Pošiljanje...</string>
   <string name="sending_message">Pošiljanje sporočila...</string>
   <string name="sending_quick_reply">Pošiljanje \"%s\"</string>
-  <string name="sent_folder_selection_title">Izberite mapo za poslane postavke strežnika za %s</string>
+  <string name="sent_folder_selection_title">Izberite mapo za poslane stvari strežnika za %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Ne morem potrditi certifikata strežnika
 \u0009 (Prepričajte se da je Samodejna sinhronizacija vklopljena v Nastavitvah)"</string>
   <string name="ser_resp_err_map_landing_more_failure">Preveč neuspelih poskusov prijave</string>

@@ -489,7 +489,7 @@ Vrnite se za nadaljevanje"</string>
   <string name="match_dvd_name_stop">Ustavi</string>
   <string name="match_fail_frame">"Ne morem seznaniti daljinec %1$d"</string>
   <string name="match_fail_model_hint">Vnesite številko modela daljinca</string>
-  <string name="match_failed">Ni več postavk, vrnite se ali poskusite ponovno</string>
+  <string name="match_failed">Ni več stvari, vrnite se ali poskusite ponovno</string>
   <string name="match_fan_intro_open">Sprostite ko se ventilator vključi</string>
   <string name="match_fan_name_open">Vključi</string>
   <string name="match_guide_main_frame">Usmerite daljinec na %1$s</string>
@@ -582,7 +582,7 @@ počakajte trenutek po opravilu"</string>
   <string name="my_notification">Obvesti</string>
   <string name="my_room">Moja soba</string>
   <string name="my_room_underline">Moja soba</string>
-  <string name="my_setting">Postavke</string>
+  <string name="my_setting">Nastavitve</string>
   <string name="nearby">V bližini</string>
   <string name="network_diagnosis">Testiraj omrežje</string>
   <string name="network_no_connection">"Ne morem se povezati na omrežje. Preverite omrežno povezavo in poskušajte ponovno."</string>

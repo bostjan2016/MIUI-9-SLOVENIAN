@@ -197,7 +197,7 @@
   <string name="modem_tool_log_stop_toast">"Ustavi zapis modema iz %s"</string>
   <string name="module_communication">Komunikacija</string>
   <string name="module_data">Prostor za shranjevanje &amp; Dvojne aplik.</string>
-  <string name="module_desktop">Začetni zaslon &amp; Postavke</string>
+  <string name="module_desktop">Začetni zaslon &amp; Nastavitve</string>
   <string name="module_finance">Finance &amp; Mi Denarnica</string>
   <string name="module_item_less">Skrij</string>
   <string name="module_item_more">Več</string>
@@ -208,8 +208,8 @@
   <string name="module_security">Varnost &amp; Mi Cloud</string>
   <string name="module_system">Sistem</string>
   <string name="module_tools">Sistemska orodja</string>
-  <string name="modules">Izberi postavko</string>
-  <string name="multi_graph_more">Skupaj postavk: %d</string>
+  <string name="modules">Izberi stvar</string>
+  <string name="multi_graph_more">Skupaj stvari: %d</string>
   <string name="network_err">"Ne morem se povezati na omrežje."</string>
   <string name="network_errorbtntip_custom">Poskusite ponovno</string>
   <string name="network_errorbtntip_login">Prijavite se</string>
@@ -285,7 +285,7 @@
   <string name="toast_feedbackservice_in_submit">Urejanje predhodnih informacij…</string>
   <string name="toast_fill_brackets">V vašem poročilu manjkajo nekatere informacije</string>
   <string name="toast_log_not_exists">"Iskani zapis ne obstaja ali pa je izbrisan"</string>
-  <string name="toast_module_required">Izberi postavko</string>
+  <string name="toast_module_required">Izberi stvar</string>
   <string name="toast_network_unavailable">"Ne morem poslati. Ne morem se povezati na omrežje."</string>
   <string name="toast_pending_log_collection">Še vedno pridobivam dnevnike...</string>
   <string name="toast_pic_not_exists">Shranjeni image je izbrisan</string>

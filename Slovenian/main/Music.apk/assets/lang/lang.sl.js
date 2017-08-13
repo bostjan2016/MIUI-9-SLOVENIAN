@@ -94,7 +94,7 @@
   "upgrade_services":"Posodobitve",
   "monthly_price":"Mi Krediti",
   "expires":"Poteče ta mesec:",
-  "song_unit":"postavk",
+  "song_unit":"stvari",
   "pay":"Plačaj:",
   "upgrade":"Nadgradnja:",
   "upgrade_to":"Nadgradi na",

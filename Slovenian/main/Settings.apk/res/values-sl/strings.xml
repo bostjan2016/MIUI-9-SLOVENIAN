@@ -1631,7 +1631,7 @@
   <string name="enforce_read_external_confirm_title">Zaščitim zunanji pomnilnik?</string>
   <string name="enforce_read_external_summary">Aplikacije morajo prositi za dovoljenje za branje zunanjega pomnilnika</string>
   <string name="enforce_read_external_title">Zaščiti zunanji pomnilnik</string>
-  <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podatkov zaradi izboljšanja glasovnih postavk in komunikacije (priporočeno)</string>
+  <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podatkov zaradi izboljšanja glasovnih nastavitev in komunikacije (priporočeno)</string>
   <string name="enhanced_4g_lte_mode_title">Izboljšan 4G LTE način</string>
   <string name="enter_password">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave po ponovnem zagonu</string>
   <string name="enter_pattern">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
@@ -1991,7 +1991,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="install_unknown_applications">Dovoli namestitev aplikacij iz neznanih virov</string>
   <string name="install_unknown_applications_title">Omogoča nameščanje aplikacij iz virov ki niso Google Play</string>
   <string name="install_whole_rom">Prenesi ROM</string>
-  <string name="instruction_privacy_password">To geslo ščiti naslednje postavke</string>
+  <string name="instruction_privacy_password">To geslo ščiti naslednje stvari</string>
   <string name="instruction_title">Navodila</string>
   <string name="insufficient_storage">Ni dovolj prostora za shranjevanje.</string>
   <string name="intent_sender_account_label">Račun:</string>
@@ -2426,7 +2426,7 @@ Trenutno ste prijavljeni v naslednje račune:
 "</string>
   <string name="master_clear_all">To opravilo briše vse podatke iz notranjega pomnilnika kot so: Google račun, podatke sistema in aplikacij, prenesene aplikacije</string>
   <string name="master_clear_apply_step_1">"Vračanje na tovarniško stanjebo izbrisalo vse podatke na telefonu, vključno z fotografijami, skladbami, beležkami in drugimi osebnimi podatko. Poskrbite za varnostno kopijo vseh pomembnih stvari na svojem računalniku."</string>
-  <string name="master_clear_apply_step_2">"Prepričajte se da ste napravili Var. kopijo vseh pomembnih postavk na računalnik. Vsi podatki o tej napravi bodo izbrisani po resetiranju. V kolikor niste naredili var. kopije, podatkov ne boste mogli povrniti."</string>
+  <string name="master_clear_apply_step_2">"Prepričajte se da ste napravili Var. kopijo vseh pomembnih stvari na računalnik. Vsi podatki o tej napravi bodo izbrisani po resetiranju. V kolikor niste naredili var. kopije, podatkov ne boste mogli povrniti."</string>
   <string name="master_clear_apply_title">Pozor</string>
   <string name="master_clear_button_text">Ponovni zagon in izbris telefona</string>
   <string name="master_clear_confirm_title">Ponovni zagon</string>
@@ -3753,7 +3753,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Povezovanje s spletom</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Posodobi popis aplikacij ki samodejno uporabljajo način branja</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Posodobi samodejno</string>
-  <string name="screen_pinning_description">"Ko je ta postavka vključena lahko s pripenjanjem zadržite trenutni zaslon v prvem planu dokler ga ne odpnete.
+  <string name="screen_pinning_description">"Ko je ta nastavitev vključena lahko s pripenjanjem zadržite trenutni zaslon v prvem planu dokler ga ne odpnete.
 
   Za pripenjanje zaslona:
 
@@ -4679,7 +4679,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="sync_menu_sync_now">Sinhroniziraj</string>
   <string name="sync_now">Sinhroniziraj</string>
   <string name="sync_one_time_sync">"Pritisnite če želite sinhronizirati %1$s"</string>
-  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Dobro došli v Googlovo sinhronizacijo!&lt;/font&gt;"Googlov pristop sinhronizaciji podatkov za možnost dostopa do stikov, sestankov in drugih postavk od kjerkoli."</string>
+  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Dobro došli v Googlovo sinhronizacijo!&lt;/font&gt;"Googlov pristop sinhronizaciji podatkov za možnost dostopa do stikov, sestankov in drugih stvari od kjerkoli."</string>
   <string name="sync_settings">Sinhronizacija</string>
   <string name="sync_wifi_label">WiFi</string>
   <string name="sync_wifi_only">Samo WiFi</string>

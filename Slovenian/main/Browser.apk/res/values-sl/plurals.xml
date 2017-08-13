@@ -17,8 +17,8 @@
         <item quantity="one">%d ujemanje</item>
     </plurals>
 	<plurals name="adblock_rules_number_text">
-       <item quantity="other">Blokirano postavk: %d</item>
-       <item quantity="one">%d postavka blokirana</item>
+       <item quantity="other">Blokirano stvari: %d</item>
+       <item quantity="one">%d stvar blokirana</item>
     </plurals>    
    <plurals name="video_subtitle_last_message">
          <item quantity="other">Preostalo je %d min.</item>
@@ -33,8 +33,8 @@
         <item quantity="one">Uspešno odstranjen %1$d videoposnetek.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
-        <item quantity="other">Izbrišem %1$d postavk iz zgodovine?</item>
-        <item quantity="one">Izbrišem %1$d postavko iz zgodovine?</item>
+        <item quantity="other">Izbrišem %1$d stvari iz zgodovine?</item>
+        <item quantity="one">Izbrišem %1$d stvar iz zgodovine?</item>
     </plurals>
     <plurals name="video_history_clear_info">
         <item quantity="other">Uspešno izbrisano %1$d predmetov iz zgodovine.</item>

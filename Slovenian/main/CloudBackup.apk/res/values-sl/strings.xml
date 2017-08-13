@@ -39,7 +39,7 @@
   <string name="cloud_app_restore_success">Aplikacije obnovljene</string>
   <string name="cloud_app_restore_wifi_prompt">Za obnovitev vaših aplikacij in uporabniških podatkov se povežite na WiFi omrežje.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Te postavke bodo kopirane na vaš Mi Cloud kadar boste povezani na WiFi: 
+  <string name="cloud_back_up_detail_discription">"Te stvari bodo kopirane na vaš Mi Cloud kadar boste povezani na WiFi: 
 *\u0009\u0009\u0009Aplikacije, izgled zač. zaslona in slike za ozadje
 *\u0009\u0009\u0009Nastavitve alarma, ur in časa 
 *\u0009\u0009\u0009Nastavitve obvestil

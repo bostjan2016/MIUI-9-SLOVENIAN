@@ -45,12 +45,12 @@
          <item quantity="one">%d pesem</item>
      </plurals>
      <plurals name="dirty_browser_count">
-         <item quantity="other">%d postavke brskalnika</item>
-         <item quantity="one">%d postavka brskalnika</item>
+         <item quantity="other">%d nastavitve brskalnika</item>
+         <item quantity="one">%d nastavitev brskalnika</item>
      </plurals>
      <plurals name="dirty_calendar_count">
-         <item quantity="other">%d postavke koledarja</item>
-         <item quantity="one">%d postavka koledarja</item>
+         <item quantity="other">%d nastavitve koledarja</item>
+         <item quantity="one">%d nastavitev koledarja</item>
      </plurals>
      <plurals name="dirty_blocklist_count">
          <item quantity="other">%d vnosov liste blokiranja</item>

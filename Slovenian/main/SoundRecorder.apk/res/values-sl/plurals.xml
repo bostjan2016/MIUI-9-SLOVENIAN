@@ -5,8 +5,8 @@
         <item quantity="one">%d posnetek prenešen</item>
     </plurals>
     <plurals name="local_records_count">
-        <item quantity="other">Postavk: %d</item>
-        <item quantity="one">Postavk: %d</item>
+        <item quantity="other">Stvari: %d</item>
+        <item quantity="one">Stvari: %d</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d ni sinhr.</item>

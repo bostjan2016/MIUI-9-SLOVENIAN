@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="data_item_count">
-        <item quantity="other">Postavk: %d</item>
-        <item quantity="one">%d postavka</item>
+        <item quantity="other">Stvari: %d</item>
+        <item quantity="one">%d stvar</item>
      </plurals>
 <plurals name="trans_time_format_minute">
         <item quantity="other">%d min.</item>

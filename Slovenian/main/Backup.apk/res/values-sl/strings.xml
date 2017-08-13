@@ -78,7 +78,7 @@ nastavitev in aplikacij"</string>
   <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">Telefon</string>
   <string name="current_sim">Trenutna SIM kartica</string>
-  <string name="custom_progress">%d postavk</string>
+  <string name="custom_progress">%d stvari</string>
   <string name="data_item_desc">Podatki</string>
   <string name="data_no_enough_space_message">Na vaši napravi ni dovolj notranjega pomnilnika.</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
@@ -303,7 +303,7 @@ nastavitev in aplikacij"</string>
     Imejte obe napravi blizu skupaj."</string>
   <string name="trans_receiving_completed">Uspešno prejeto</string>
   <string name="trans_restoring">Vračanje…</string>
-  <string name="trans_restoring_no_items">Sinhr. postavk</string>
+  <string name="trans_restoring_no_items">Sinhr. stvari</string>
   <string name="trans_retry">Pokusite ponovno</string>
   <string name="trans_scan_invalid_qrcode">Neveljavna  QR koda</string>
   <string name="trans_scan_qr_code_tips">Skenirajte QR kodo z vašo novo napravo</string>

@@ -12,7 +12,7 @@
   <string name="batch_download_start_toast">Prenašanje…</string>
   <string name="bluetooth_device">Bluetooth naprava</string>
   <string name="broadcasting">"Oddajanje: "</string>
-  <string name="buffering">Buffering…</string>
+  <string name="buffering">Nalaganje…</string>
   <string name="cancel">Prekliči</string>
   <string name="category_account">RAČUN</string>
   <string name="category_data_usage">UPORABA PODATKOV</string>

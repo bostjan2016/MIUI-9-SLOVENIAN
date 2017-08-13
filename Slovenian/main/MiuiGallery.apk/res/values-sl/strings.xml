@@ -134,7 +134,7 @@
   <string name="baby_suffix">Otrok</string>
   <string name="backup_automatically_summary">Izdelaj Var. kopijo fotografij in videoposnetkov na vseh napravah na Mi Cloud. Lahko varno pregledujete, sortirate, urejate in delite fotografije in videoposnetke na vseh napravah.</string>
   <string name="backup_automatically_title">Samodejno izdelaj Var.kopijo</string>
-  <string name="backup_battery_low_desc">Še vedno lahko izberete nadaljevanje izdelave Var. kopije postavk</string>
+  <string name="backup_battery_low_desc">Še vedno lahko izberete nadaljevanje izdelave Var. kopije stvari</string>
   <string name="backup_battery_low_title">Izdelava Var. kopije je zaustavljena zaradi prazne baterije</string>
   <string name="backup_close">Zapri Var. kopijo</string>
   <string name="backup_cloud_space_low_btn_text">Pridobite več</string>
@@ -171,7 +171,7 @@
   <string name="backup_sync_dialog_title">Sinhronizacija je izključena</string>
   <string name="backup_sync_error_btn_text">Poskusi ponovno</string>
   <string name="backup_sync_error_desc">"Ne morem se povezati na Mi Cloud"</string>
-  <string name="backup_sync_error_title">"Postavk ne morem sinhronizirati"</string>
+  <string name="backup_sync_error_title">"Stvari ne morem sinhronizirati"</string>
   <string name="backup_sync_off_btn_text">Vključi</string>
   <string name="backup_sync_off_desc">Vključite sinhr. z Mi Cloudom za izdelavo var. kopiranja fotografij in videoposnetkov</string>
   <string name="backup_sync_off_title">Sinhr. z Mi Cloud je izključena</string>
@@ -225,7 +225,7 @@
   <string name="cloud_storage_ok_desc">Mi Cloud prostor %s</string>
   <string name="cloud_storage_ok_title">Dovolj prostora za shranjevanje na Mi Cloudu</string>
   <string name="cloud_storage_photo_title">Fotografije</string>
-  <string name="cloud_storage_subtitle">Vse postavke so shranjene na Mi Cloud</string>
+  <string name="cloud_storage_subtitle">Vse stvari so shranjene na Mi Cloud</string>
   <string name="cloud_storage_title">Mi Cloud prostor</string>
   <string name="cloud_storage_video_title">Videoposnetki</string>
   <string name="cloud_storage_warn_desc">Kupite VIP Cloud za dodatni prostor za shranjevanje</string>
@@ -283,7 +283,7 @@
   <string name="custom_select_title_deselect_all">Prekliči izbrano</string>
   <string name="custom_select_title_quickly_share">Deli</string>
   <string name="custom_select_title_select_all">Izberi vse</string>
-  <string name="custom_select_title_select_item">Izberi postavke</string>
+  <string name="custom_select_title_select_item">Izberi stvari</string>
   <string name="debugging_tip">Generiranje debug podatkov</string>
   <string name="defalt_local_mobile">Mobilno</string>
   <string name="default_album_name">Novi album</string>
@@ -719,7 +719,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="remove_from_other_albums_tip">Premestim ta album iz albuma Ostalo?</string>
   <string name="remove_from_secret_fail">"Ne morem odstraniti iz skritega albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne morem odstraniti iz skritega albuma. %1$s."</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">"%2$s postavk ne more biti odstranjeno iz skritega albuma. %1$s."</string>
+  <string name="remove_from_secret_failed_with_reason_and_count">"%2$s stvari ne more biti odstranjeno iz skritega albuma. %1$s."</string>
   <string name="remove_from_secret_successful">Odstranjeno iz skritega albuma</string>
   <string name="remove_to_album_title">Združi z</string>
   <string name="remove_to_other_album">Združi z drugo osebo</string>
@@ -764,7 +764,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="search_error_and_retry">Prišlo je do napake, pritisnite za ponovitev</string>
   <string name="search_hint">Išči slike​</string>
   <string name="search_image_result_title">Rezultati iskanja</string>
-  <string name="search_load_complete">Postavk ni več</string>
+  <string name="search_load_complete">Ni več stvari</string>
   <string name="search_load_failed">"Ne morem prenesti podatkov, pritisnite za ponovno"</string>
   <string name="search_loading">Samo trenutek</string>
   <string name="search_loading_dots">Samo trenutek…</string>

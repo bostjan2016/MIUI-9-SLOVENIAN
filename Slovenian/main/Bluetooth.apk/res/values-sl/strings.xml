@@ -147,7 +147,7 @@
   <string name="permlab_handoverStatus">Sprejmi Bluetooth oddajanje prenosov.</string>
   <string name="process"/>
   <string name="progress_scanning">Iščem</string>
-  <string name="reset_function_msg">Ponastavitev te postavke lahko prepreči normalno delo %1$s.</string>
+  <string name="reset_function_msg">Ponastavitev te nastavitve lahko prepreči normalno delo %1$s.</string>
   <string name="sharedUserId"/>
   <string name="some_app_taking">(%1$s že uporablja to funkcijo…)</string>
   <string name="start_server">Zaženi TCP server</string>

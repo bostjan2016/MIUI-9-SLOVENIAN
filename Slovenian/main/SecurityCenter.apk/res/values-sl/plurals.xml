@@ -146,8 +146,8 @@
          <item quantity="one">Najdena %d težava baterije, popravite jo</item>
      </plurals>
     <plurals name="app_check_title_text">
-        <item quantity="other">%d postavk se lahko optimira</item>
-        <item quantity="one">%d postavka se lahko optimira</item>
+        <item quantity="other">%d stvari se lahko optimira</item>
+        <item quantity="one">%d stvar se lahko optimira</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">(%d) aplikacij s Samodejnim zagonom</item>
@@ -275,8 +275,8 @@
          <item quantity="one">najdena ena neuradna aplikacija</item>
      </plurals>
     <plurals name="sp_settings_exception_count">
-         <item quantity="other">Postavk: %d</item>
-         <item quantity="one">1 postavka</item>
+         <item quantity="other">Stvari: %d</item>
+         <item quantity="one">1 stvar</item>
     </plurals>
 	<plurals name="sp_back_title_text">
         <item quantity="other">%s tveganih plačil</item>

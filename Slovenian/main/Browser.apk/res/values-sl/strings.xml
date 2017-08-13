@@ -871,7 +871,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="version_update_file_not_found">"Ne najdem posodobitev"</string>
   <string name="video_activity_name">Priljubljeno</string>
   <string name="video_buffering_percent">"Nalaganje "</string>
-  <string name="video_buffering_percent_string">"Buffering "</string>
+  <string name="video_buffering_percent_string">"Nalaganje "</string>
   <string name="video_collect_cancel">Odznači</string>
   <string name="video_collect_success">Priljubljeno</string>
   <string name="video_download_complete">Prenos končan.</string>

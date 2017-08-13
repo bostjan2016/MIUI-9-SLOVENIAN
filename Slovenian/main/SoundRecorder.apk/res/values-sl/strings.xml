@@ -5,11 +5,11 @@
   <string name="alert_message_delete_record_title">Izbriši posnetek</string>
   <string name="app_name">Snemanje</string>
   <string name="back">Nazaj</string>
-  <string name="btn_clear_records">Izbriši posnetke(postavke %d)</string>
+  <string name="btn_clear_records">Izbriši posnetke(stvari %d)</string>
   <string name="button_queue_for_wifi">Počakaj</string>
   <string name="button_start_now">Nalagam</string>
   <string name="call_record">Posneti klici</string>
-  <string name="choose_call_records_count">postavke %d</string>
+  <string name="choose_call_records_count">stvari %d</string>
   <string name="clear_records">Izbriši sinhronizirane zapise</string>
   <string name="cloud_record">%d sinhnorizirano</string>
   <string name="cloud_record_open">Sinhr. posnetkov</string>
@@ -39,7 +39,7 @@
   <string name="error_sdcard_access">Ne morem dostopati do pomnilnika</string>
   <string name="error_sdcard_unmounted">Vstavite SD kartico </string>
   <string name="export_to_note">Izvozi v Beležko</string>
-  <string name="head_set_tip_dialog_msg">izključite svoje slušalke da boste lahko posneli zvok z določenimi postavkami (na primer, Glasba, Glas).</string>
+  <string name="head_set_tip_dialog_msg">izključite svoje slušalke da boste lahko posneli zvok z določenimi stvarmi (na primer, Glasba, Glas).</string>
   <string name="head_set_tip_dialog_ok">Razumem</string>
   <string name="head_set_tip_dialog_title">Uporabi notranji mikrofon</string>
   <string name="invalid_argument">Neveljaven argument</string>

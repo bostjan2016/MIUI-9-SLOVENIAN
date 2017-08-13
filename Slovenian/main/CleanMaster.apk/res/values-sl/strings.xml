@@ -157,7 +157,7 @@
   <string name="dialog_content_select_all_confirm">Shranim kopijo te fotografije?</string>
   <string name="dialog_msg_add_white_list_error">"Datoteka ne podpira dodajanja v izjeme"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potrdim var. kopijo in odstranim izbrane aplikacije?</string>
-  <string name="dialog_msg_check_all">Potrdi izbrano %1$s ki vsebuje %2$d postavk</string>
+  <string name="dialog_msg_check_all">Potrdi izbrano %1$s ki vsebuje %2$d stvari</string>
   <string name="dialog_msg_esc_cleanmaster">Ustavim preverjanje?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Orodje za čiščenje je pokvarjeno, morate ponovno namestiti ROM!</string>
   <string name="dialog_msg_stop_scan">"Zaustavim preverjanje pred dokončanjem?"</string>
