@@ -144,9 +144,12 @@
   <string name="find_device_io_error">"Ne morem se povezati na omrežje"</string>
   <string name="find_device_locked_account_email" formatted="false">%s, povezana e-pošta:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, povezana telefonska številka:%s</string>
+  <string name="find_device_message">Trenutna naprava je zaklenjena, sporočil: %1$s, kontaktni telefon: %2$s.</string>
   <string name="find_device_null_credential_error">"Ne morem dobiti informacije o napravi, kontaktirajte Xiaomi službo za pomoč uporabnikom"</string>
   <string name="find_device_operation_failed_error">Prišlo je do napake strežnika, počakajte minuto ali dve in poskusite ponovno</string>
   <string name="find_device_operation_failed_error_unknown">Prišlo je do napake, poskusite ponovno kasneje</string>
+  <string name="find_device_owner_phone">Trenutna naprava je zaklenjena, kontaktni telefon: %1$s.</string>
+  <string name="find_device_prompt_message">Trenutna naprava je zaklenjena, sporočil: %1$s.</string>
   <string name="find_device_remote_exception">RPC napaka</string>
   <string name="find_device_request_error">"Prišlo je do napake strežnika, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="find_device_request_prepare_error">"Ne morem dobiti statusa, poskusite ponovno kasneje"</string>

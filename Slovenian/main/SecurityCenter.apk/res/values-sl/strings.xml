@@ -2061,8 +2061,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_empty_title_sign_exception">Pritisnite in držite aplikacijo na strani z rezultati za dodajanje na seznam izjem</string>
   <string name="sp_monitored_apps_count_zero">Ni zaščitenih aplikacij za plačevanje</string>
   <string name="sp_monitored_apps_list_title">Nastavitve nadziranja</string>
-  <string name="sp_network_privacy_dialog_message">"Aplikacija Varnost ne more preveriti plačila ker ste ji omejili povezovanje s spletom. Dovolim povezavo?"</string>
-  <string name="sp_network_privacy_dialog_title">"Ne morem preveriti plačila"</string>
+  <string name="sp_network_privacy_dialog_message">"Aplikacija Varnost ne more pravilno delovati ker ste ji omejili povezovanje s spletom. Dovolim povezavo?"</string>
+  <string name="sp_network_privacy_dialog_title">"Ne morem uporabiti varnostno preverjanje"</string>
   <string name="sp_safe_score_text">Plačilo je varno</string>
   <string name="sp_scan_item_monitor">Nadziranje plačila</string>
   <string name="sp_scan_item_url_antispam">Zaščita pred zlonamernimi povezavami</string>
@@ -2088,6 +2088,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="spinner_title">%1$s - Mobilni podatki: %2$s</string>
   <string name="sponsored">Sponzorirano</string>
   <string name="sponsored_sec_fb">Sponzorirano</string>
+  <string name="ss_activity_main_support_text">Ponuja %s</string>
   <string name="st_advanced_setting_group">Napredno</string>
   <string name="st_antispam_black_adress_add">Dodaj lokacije</string>
   <string name="st_antispam_bw_adress_add">Dodaj lokacije</string>

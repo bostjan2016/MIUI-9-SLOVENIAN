@@ -417,6 +417,7 @@
   <string name="card_title_outgoing_barred">Omejeni odhodni klici</string>
   <string name="card_title_redialing">Vnovično klicanje</string>
   <string name="card_title_unconditionalCF">Preusmeritev vseh klicev je vklopljena</string>
+  <string name="carrier_info">Informacije o ponudniku storitev</string>
   <string name="carrier_name">(Ime operaterja)</string>
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>

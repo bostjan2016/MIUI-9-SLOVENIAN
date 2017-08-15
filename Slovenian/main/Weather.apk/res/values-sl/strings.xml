@@ -134,7 +134,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="more_details">Več podrobnosti</string>
   <string name="network_not_available">"Ne morem se povezati z omrežjem"</string>
   <string name="network_unavailable">Ne morem se povezati z omrežjem.</string>
-  <string name="night_not_disturb_settings_summary">Ne bo sprejemal vremenska obvestila od 23:00 do 07:00 naslednjega dne</string>
+  <string name="night_not_disturb_settings_summary">Ne obveščaj od 23:00 do 07:00</string>
   <string name="night_not_disturb_settings_title">Ne moti ponoči</string>
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="no_vote_ratio">Proti %1$s%%</string>
@@ -178,9 +178,9 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
-  <string name="traffic_control_daty_after_tomorrow_numbers">Pojutrišnjem: %1$s %2$s</string>
-  <string name="traffic_control_today_numbers">Danes: %1$s %2$s</string>
-  <string name="traffic_control_tomorrow_numbers">Jutri: %1$s %2$s</string>
+  <string name="traffic_control_daty_after_tomorrow_numbers">Pojutrišnjem: %1$s</string>
+  <string name="traffic_control_today_numbers">Danes: %1$s</string>
+  <string name="traffic_control_tomorrow_numbers">Jutri: %1$s</string>
   <string name="traffic_controls">Kontrola prometa</string>
   <string name="tts_report_aqi"/>
   <string name="tts_report_city_name"/>
@@ -194,7 +194,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="unit">Enota</string>
   <string name="unit_temperature">Enota temperature</string>
   <string name="unit_wind">Enota hitrosti vetra</string>
-  <string name="update_night_setting_summary_text">Po izhodu ne bo samodejnih posodobitev 23:00-07:00</string>
+  <string name="update_night_setting_summary_text">Ne posodabljaj od 23:00-07:00</string>
   <string name="update_night_setting_title_text">Samodejno posodobi ponoči</string>
   <string name="update_setting_title_text">Nastavitve posodabljanja</string>
   <string name="video_dialog_no_play"/>

@@ -2395,6 +2395,7 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="manage_condition_providers_summary_zero">Nobena aplikacija ne zagotavlja pogojev</string>
   <string name="manage_device_admin">Skrbniki naprav</string>
   <string name="manage_device_admin_summary">Ogled ali izklop skrbnikov naprave</string>
+  <string name="manage_fakecell_settings">Zaščita pred nepravimi baznimi postajami</string>
   <string name="manage_fingerprint_text">Upravljaj s prstnimi odtisi</string>
   <string name="manage_mobile_plan_title">Naročniški paket za mobilno napravo</string>
   <string name="manage_notification_access">Dostop do obvestil</string>
@@ -4456,6 +4457,8 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Vrstica</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Stran</string>
   <string name="status_bar_settings_toggle_position">Položaji bližnjic</string>
+  <string name="status_bar_settings_user_fold">Mapa obvestil</string>
+  <string name="status_bar_settings_user_fold_summary">Vsa nevažna obvestila se bodo pojavila v zasebni mapi</string>
   <string name="status_bar_style_list">Kombinirano</string>
   <string name="status_bar_style_page">Ločeno</string>
   <string name="status_bar_style_settings">Obvestila</string>
@@ -4853,6 +4856,13 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="turn_off_radio">Izklopi radio</string>
   <string name="turn_off_security_lock">Izključi Zakl. zaslona</string>
   <string name="turn_on_keyguard_password">Vključi geslo Zakl. zaslona</string>
+  <string name="turn_on_keyguard_password_alert">"Zapomnite si geslo. Če ga pozabite, ga ne boste mogli obnoviti."</string>
+  <string name="turn_on_keyguard_password_alert_choose">"Zapomnite si geslo. Če ga pozabite, boste morali izbrisati vse podatke iz naprave da boste nastavili novo."</string>
+  <string name="turn_on_keyguard_password_alert_foget_cacel">Ne zdaj</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok">Razumem</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">Razumem(%d sek.)</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">"Zapomnite si geslo za zaklepanje zaslona. Če ga pozabite, boste morali izbrisati vse podatke iz naprave, tudi fotografije in stike, potem pa nastaviti novo."</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">"Če ga pozabite, ga ne boste mogli obnoviti."</string>
   <string name="turn_on_radio">Vklopi radio</string>
   <string name="turn_on_security_lock">Izberite Zakl. zaslona</string>
   <string name="turn_on_wifi_dialog_text">WiFi je izključen kadar je Prenosna dostopna točka aktivna. Za vklop WiFi izključite Prenosno dostopno točko.</string>

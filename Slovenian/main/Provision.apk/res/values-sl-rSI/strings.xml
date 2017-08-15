@@ -3,6 +3,7 @@
   <string name="agree">Strinjam se</string>
   <string name="agree_terms">"Strinjam se s Pogoji uporabe in Pravili o Zasebnosti"</string>
   <string name="app_name">Določila</string>
+  <string name="application_permissions">Dovoljenja aplikacije</string>
   <string name="back">Nazaj</string>
   <string name="cm_terms_content">"Z namenom izboljšanja uslug ki vam jih ponuja operater mobilnega omrežja po vaši izbiri lahko prebere vaše osebne podatke in informacije o tej napravi na svojih strežnikih ki uporabljajo Wifi omrežje ali mobilno podatkovno povezavo. Informacije se bodo uporabile izključno v statistične namene da bi se izboljšala kvaliteta storitev in da vam ponudi več osebnih vsebin. Podatki se ne bodo uporabljali za vašo osebno identifikacijo in ne bodo dani na vpogled tretjim osebam."</string>
   <string name="cm_terms_title">Sporazum operaterja mobilnega omrežja</string>
