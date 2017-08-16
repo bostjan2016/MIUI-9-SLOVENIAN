@@ -69,8 +69,6 @@
   <string name="birthday_event_description_a_week_later">Teden kasneje</string>
   <string name="birthday_event_description_day_after_tomorrow">Pojutrišnjem</string>
   <string name="birthday_event_description_day_before_yesterday">Predvčerajšnim</string>
-  <string name="birthday_event_description_days_ago">Pred %1$d dni</string>
-  <string name="birthday_event_description_days_later">%1$d dni do</string>
   <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Danes ima</string>
@@ -175,7 +173,6 @@
   <string name="dropdown_delete_button_desc">Izbriši %s iz prejemnikov</string>
   <string name="edit_date_calculate_days_backward_error_hint">Ne morem izračunati naprej</string>
   <string name="edit_date_calculate_days_empty_hint">Vnesite število dni</string>
-  <string name="edit_date_calculate_days_error_hint">Vnesite pravilne dni znotraj %1$d</string>
   <string name="edit_date_calculate_days_forward_error_hint">Ne morem izračunati nazaj</string>
   <string name="edit_event_all_day_label">Cel dan</string>
   <string name="edit_event_anniversary_name_empty_hint">Vnesi ime dogodka</string>

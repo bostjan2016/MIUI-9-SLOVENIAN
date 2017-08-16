@@ -4,6 +4,18 @@
          <item quantity="other">%1$d dnevi</item>
          <item quantity="one">%1$d dnem</item>
     </plurals>
+	<plurals name="birthday_event_description_days_ago">
+         <item quantity="other">pred %1$d dnevi</item>
+         <item quantity="one">pred %1$d dnem</item>
+     </plurals>
+     <plurals name="birthday_event_description_days_later">
+         <item quantity="other">%1$d dni do</item>
+         <item quantity="one">%1$d dan do</item>
+     </plurals>
+     <plurals name="edit_date_calculate_days_error_hint">
+         <item quantity="other">Lahko vnesete do %1$d dni</item>
+         <item quantity="one">Lahko vnesete %1$d dan</item>
+     </plurals>
     <plurals name="Ndays_after_at">
          <item quantity="other">%1$d dneh</item>
          <item quantity="one">%1$d dan</item>

@@ -45,6 +45,7 @@ Posodobitve niso dostopne za vas!"</string>
      <string name="notif_install">Namesti</string>
      <string name="notif_new_summary">Tapni za pridobivanje podrobnosti</string>
      <string name="notif_new_title">Dostopna je nova verzija!</string>
+  <string name="notifications_switch">Pokaži obvestila</string>
      <string name="permdesc_cache_filesystem">Aplikaciji omogoča pisanje datotek v / predspomin.</string>
      <string name="permdesc_reboot">Aplikaciji omogoča ponovni zagon naprave.</string>
      <string name="permlab_cache_filesystem">Dostop do predspomina</string>

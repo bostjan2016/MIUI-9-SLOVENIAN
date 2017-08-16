@@ -205,7 +205,7 @@
   <string name="oauth_title">Prijavite se z Mi Računom</string>
   <string name="other_devices_title">Ostale naprave</string>
   <string name="passport_access_denied">Dostop zavrnjen</string>
-  <string name="passport_account_hint_text">Email ali telefonska številka</string>
+  <string name="passport_account_hint_text">Naslov e-pošte, telefonska številka ali ID Mi računa</string>
   <string name="passport_account_identity_title">Potrdite svojo identiteto</string>
   <string name="passport_account_label">Mi Račun</string>
   <string name="passport_account_name">Račun: %1$s</string>
@@ -213,7 +213,7 @@
   <string name="passport_account_not_actived">Vaš račun ni aktiviran</string>
   <string name="passport_account_notice">Račun</string>
   <string name="passport_account_set_password">Nastavi geslo</string>
-  <string name="passport_account_set_password_prompt">Nastavi geslo za naslednjo prijavo.</string>
+  <string name="passport_account_set_password_prompt">Nastavi geslo za svoj račun da se lahko naslednjič prijaviš.</string>
   <string name="passport_account_set_password_title">Nastavi geslo</string>
   <string name="passport_active_email_visit">Preverite svojo pošto na %s</string>
   <string name="passport_activing_account">Aktivacija…</string>
@@ -264,6 +264,7 @@
   <string name="passport_error_invalid_phone_num">Neveljavna telefonska številka</string>
   <string name="passport_error_login">Ne morem se prijaviti</string>
   <string name="passport_error_network">Ne morem se povezati v omrežje</string>
+  <string name="passport_error_no_password_user">"Niste še nastavili gesla. Prijavite se preko SMS-a."</string>
   <string name="passport_error_no_sms_service">Ne morem poslati sporočila. Mobilno omrežje ni na voljo.</string>
   <string name="passport_error_phone_error">Neveljavna telefonska številka</string>
   <string name="passport_error_server">Napaka na strežniku</string>
@@ -271,6 +272,8 @@
   <string name="passport_error_ssl_hand_shake">"Ne morem se povezati na strežnik"</string>
   <string name="passport_error_unknown">Ne morem se vpisati v</string>
   <string name="passport_error_user_name">Neveljavno uporabniško ime</string>
+  <string name="passport_error_verify_activator_phone_message">Preverite ali je storitev SIM kartice aktivirana in da je naprava povezana z omrežjem.</string>
+  <string name="passport_error_verify_activator_phone_title">"Ne morem preveriti telefonske številke"</string>
   <string name="passport_error_verify_code">Koda ki ste jo vnesli je napačna</string>
   <string name="passport_failed_to_send_activate_email">Ne morem poslati aktivacijski e-mail</string>
   <string name="passport_find_password_on_web_msg">Obišči account.mi.com za ponastavitev gesla.</string>
@@ -278,7 +281,7 @@
   <string name="passport_forget_password_no_underline">Pozabljeno geslo</string>
   <string name="passport_get_back_pwd">Pridobi geslo računa</string>
   <string name="passport_get_verify_code">Pridobi kodo</string>
-  <string name="passport_getting_activator_phone">Dobivanje podrobnosti SIM kartice telefona…</string>
+  <string name="passport_getting_activator_phone">Sprejem podatkov o SIM kartice telefona…</string>
   <string name="passport_getting_verify_code">Prejemam</string>
   <string name="passport_i_know">Razumem</string>
   <string name="passport_identification_expired">Koda za potrditev je potekla, začnite znova</string>
@@ -297,7 +300,7 @@
   <string name="passport_login_instead_reg">Uporabi to telefonsko številko</string>
   <string name="passport_login_instead_reg_with_email">Uporabi ta Email</string>
   <string name="passport_login_notice">Vpisujem se...</string>
-  <string name="passport_login_other_account">Prijavite se v drugi račun</string>
+  <string name="passport_login_other_account">Drugi račun</string>
   <string name="passport_login_prompt">En Mi Račun. Vse Mi storitve.</string>
   <string name="passport_login_title">Prijavite se v svoj Mi račun</string>
   <string name="passport_login_using_other_ways">Drugi načini za prijavo</string>
@@ -306,16 +309,16 @@
   <string name="passport_next">Naslednja</string>
   <string name="passport_notification_title">Napaka pri vpisu v %1$s</string>
   <string name="passport_password">Vnesite geslo</string>
-  <string name="passport_password_phone_login">Prijavite se</string>
+  <string name="passport_password_phone_login">Prijavite se z Mi Računom</string>
   <string name="passport_password_req_notice">Geslo mora imeti 8-16 znakov, vključevati mora številke in črke (tudi male črke).</string>
   <string name="passport_phone_num_hint_text">Telefonska številka</string>
   <string name="passport_phone_num_notice">Telefonska številka</string>
-  <string name="passport_phone_ticket_login">Prijavite se</string>
+  <string name="passport_phone_ticket_login">Prijavite se s SMS om</string>
   <string name="passport_prev">Nazaj</string>
   <string name="passport_privacy_policy">Pravilnik o zasebnosti</string>
   <string name="passport_pwd_generate_failure">"Ne morem generirati gesla"</string>
   <string name="passport_pwd_generating">Generiranje…</string>
-  <string name="passport_querying_phone_info">Povpraševanje za informacije o telefonu…</string>
+  <string name="passport_querying_phone_info">Povpraševanje po podatkih o računu…</string>
   <string name="passport_quick_login">Prijavite se</string>
   <string name="passport_quick_login_dialog_step2_title">2 stopenjsko preverjanje</string>
   <string name="passport_quick_login_dialog_title">Ponovi geslo</string>
@@ -325,7 +328,7 @@
   <string name="passport_re_get_verify_code">Ponovno pridobi kodo</string>
   <string name="passport_re_register">Prijavite se znova</string>
   <string name="passport_recycle_account_prompt">Je to vaš Mi Račun?</string>
-  <string name="passport_recycle_login_other_account">Ni moj, prijavite se na drugi račun</string>
+  <string name="passport_recycle_login_other_account">Niso moji. Uporabili bodo drugi.</string>
   <string name="passport_reg_btn_using_other_phone">Uporabi alternativno številko telefona</string>
   <string name="passport_reg_failed">Ne morem nastaviti računa</string>
   <string name="passport_reg_new">Ustvari Mi Račun</string>
@@ -347,7 +350,7 @@
   <string name="passport_register_by_email">&lt;u&gt;Ustvarite račun s pomočjo e-poštnega naslova&lt;/u&gt;</string>
   <string name="passport_register_restricted">Preveč računov povezanih s to številko, poskusite z drugo</string>
   <string name="passport_register_restricted_title">"Ne morem uporabiti te številke telefona"</string>
-  <string name="passport_registered_phone_num">Telefon:%s</string>
+  <string name="passport_registered_phone_num">Telefon: %s</string>
   <string name="passport_registered_phone_user_ID">ID uporabnika: %s</string>
   <string name="passport_registered_phone_user_name">Uporabniško ime: %s</string>
   <string name="passport_reject_recycle_account">Ne</string>
@@ -364,11 +367,11 @@
   <string name="passport_restart_register_title">Izdelaj Mi Račun</string>
   <string name="passport_retry">Poskusi ponovno</string>
   <string name="passport_select_reg_ways_title">Drugi načini za prijavo</string>
-  <string name="passport_select_the_login_account">Izberite tistega s katerim se prijavljate</string>
-  <string name="passport_select_the_recycle_phone_login">Izberite tistega ki vam pripada</string>
-  <string name="passport_select_the_register_phone">Izberite tistega ki ste ga izdelali</string>
+  <string name="passport_select_the_login_account">Izberite račun za prijavo</string>
+  <string name="passport_select_the_recycle_phone_login">Izberite vaš račun</string>
+  <string name="passport_select_the_register_phone">Izberite telefonsko številko za izdelavo računa</string>
   <string name="passport_send_too_many_code">Preveč kod za preverjanje poslano na to številko. Počakajte 24 ur in poskusite ponovno.</string>
-  <string name="passport_send_vcode_failed">Ne morem poslati</string>
+  <string name="passport_send_vcode_failed">"Ne morem poslati kode"</string>
   <string name="passport_sending_vcode">Pošiljam kodo…</string>
   <string name="passport_set">Nastavi</string>
   <string name="passport_setting">Nastavljanje…</string>

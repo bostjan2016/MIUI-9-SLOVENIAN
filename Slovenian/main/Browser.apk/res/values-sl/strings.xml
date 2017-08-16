@@ -487,6 +487,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Preverite %s1 nastavitve proxyja %s2.</string>
   <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Izbriši predspomin (%s1Nastavitve%s2 - Izbriši podatke).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Izbriši predspomin in piškotke (%s1Nastavitve%s2 - Izbriši podatke; podatki o vašemu računu bodo izgubljeni).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Izbriši predspomin in piškotke (podatki o vašem računu se lahko zbrišejo).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Izbriši predspomin.</string>
   <string name="miuichromium_error_page_suggestion_connect_and_retry">Ponovno naloži po povezavi na splet</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">Obrnite se na skrbnika sistema.</string>
   <string name="miuichromium_error_page_suggestion_correct_url">"Preverite naslov ki ste ga vnesli in poskusite ponovno s pravilno povezavo."</string>
@@ -670,6 +672,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pull_to_refresh_pull_label">Potegni za osvežitev…</string>
   <string name="pull_to_refresh_release_label">Potegni za priporočeno in osvežitev</string>
   <string name="qr_code_title">QR koda</string>
+  <string name="qr_description">Skeniraj QR kodo</string>
   <string name="quicklink_bookmark_save">Shrani v</string>
   <string name="quicklink_cannot_save_url">"Ta povezava se ne more dodati."</string>
   <string name="quicklink_folder_text">Najboljše</string>
@@ -781,12 +784,13 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="skip_current_version">Preskoči to verzijo</string>
   <string name="snapshot">Lokalno</string>
   <string name="snapshot_failed">Ni bilo mogoče shraniti strani</string>
-  <string name="snapshot_successed">Stran uspešno shranjena</string>
+  <string name="snapshot_successed">Odpri Oznake/Zgodovina-&gt;LOKALNO za prikaz strani</string>
   <string name="ssl_bad_clock_date_settings">Nastavi datum</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Zasebno povezavo z %s1 ni mogoče vzpostaviti ker datum in ura vaše naprave (%s2) nista točna."</string>
   <string name="ssl_certificate">Varnostni certifikat</string>
   <string name="ssl_certificate_is_valid">Ta certifikat je veljaven.</string>
   <string name="ssl_continue">Nadaljuj</string>
+  <string name="ssl_date_error_warnings_header">"Certifikat te strani je potekel ali pa še ni veljaven. Svetujemo vam da zapustite stran."</string>
   <string name="ssl_date_invalid">Ta certifikat ima neveljaven datum</string>
   <string name="ssl_expired">Ta certifikat je potekel</string>
   <string name="ssl_go_back">Nazaj</string>
@@ -920,6 +924,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="view_document_downloaded_files">Prikaži prenesene datoteke v Prenosi</string>
   <string name="voice_check_network">Preverite omrežje in poskusite ponovo</string>
   <string name="voice_connect_network">Ne morem se povezati na omrežje</string>
+  <string name="voice_description">Glasovno iskanje</string>
   <string name="voice_network_connection">Za uporabo glasovnega iskanja je potrebna omrežna povezava, preverite jo</string>
   <string name="voice_search_permission">Glasovno iskanje zahteva dostop do mikrofona za normalno delo</string>
   <string name="voice_semantic_analysis">Brskalnik bo lahko analiziral semantiko ko mu omogoćite povezavo.</string>

@@ -1229,6 +1229,10 @@ Napravite varnostno kopijo stikov."</string>
   <string name="strequentList">Priljubljene</string>
   <string name="success_message_import_from_account">Stik uvožen</string>
   <string name="summary_kind_title">Povzetek</string>
+  <string name="t9_search_empty_create_contact">Nov stik</string>
+  <string name="t9_search_empty_edit_contact">Dodaj stiku</string>
+  <string name="t9_search_empty_send_sms">Pošlji sporočilo</string>
+  <string name="t9_search_empty_video_call">Video klic</string>
   <string name="t9_search_guide_pinyin_title1">Hitro iskanje stikov s pomočjo vnosa številk</string>
   <string name="t9_search_guide_pinyin_title2">Vnesite 6 in 2 za iskanje Miui SLO</string>
   <string name="t9_search_guide_zhuyin_title1">Hitro iskanje stikov s pomočjo vnosa številk</string>

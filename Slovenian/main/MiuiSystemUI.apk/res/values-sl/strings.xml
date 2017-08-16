@@ -251,6 +251,7 @@
   <string name="dlg_error_title">USB opravilo neuspešno</string>
   <string name="dlg_ok">V redu</string>
   <string name="dock_forced_resizable">Aplikacija morda ne bo delovala z deljenim zaslonom.</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">Aplikacija KeyGuard ne podpira deljeni zaslon, izhod iz načina del. zaslona.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Aplikacija ne podpira deljeni zaslon</string>
   <string name="drive_mode_tip">Ste v načinu avta</string>
   <string name="enable_adb">Odpravljanje napak preko USB</string>
