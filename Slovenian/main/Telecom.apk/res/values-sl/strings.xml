@@ -97,6 +97,7 @@
   <string name="bugreport_in_power">Bližnjica za por. o napakah</string>
   <string name="bugreport_in_power_summary">Prikaz gumba za ustvarjanje poročila o napakah v meniju</string>
   <string name="button_convert_fbe">Izbriši in preklopi …</string>
+  <string name="callFailed_simError">Napaka SIM kartice</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Ne morem poslati videoklica dokler poteka glasovni klic"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne morem izbirati med videoklicem"</string>
   <string name="category_personal">Osebno</string>
@@ -110,6 +111,7 @@
   <string name="charge_length_format">Pred %1$s</string>
   <string name="choose_profile">Izbira profila</string>
   <string name="clear_adb_keys">Odpoklic avtorizacije za odpravljanje napak preko USB</string>
+  <string name="close">Zapri</string>
   <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev funkcije za zaščito naprave v tej napravi ne bodo delovale.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
   <string name="connected_via_passpoint">Vzpostavljena povezava preko %1$s</string>
@@ -194,6 +196,8 @@
   <string name="inactive_app_inactive_summary">Neaktivno. Dotaknite se za preklop.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
   <string name="incall_error_call_failed">"Ni možno usmerjanje klica."</string>
+  <string name="incall_error_power_off">Za klicanje izključite letalski način.</string>
+  <string name="incall_error_supp_service_unknown">"Ta usluga ni podprta."</string>
   <string name="incoming_call_failed_low_battery">Dohodni klic spodletel zaradi slabe baterije.</string>
   <string name="keep_screen_on">Brez zaklepanja</string>
   <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli zaklenil</string>

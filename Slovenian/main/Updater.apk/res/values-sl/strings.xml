@@ -45,7 +45,7 @@ Posodobitve niso dostopne za vas!"</string>
      <string name="notif_install">Namesti</string>
      <string name="notif_new_summary">Tapni za pridobivanje podrobnosti</string>
      <string name="notif_new_title">Dostopna je nova verzija!</string>
-  <string name="notifications_switch">Pokaži obvestila</string>
+  <string name="notifications_switch">Opozori na novo različico</string>
      <string name="permdesc_cache_filesystem">Aplikaciji omogoča pisanje datotek v / predspomin.</string>
      <string name="permdesc_reboot">Aplikaciji omogoča ponovni zagon naprave.</string>
      <string name="permlab_cache_filesystem">Dostop do predspomina</string>
@@ -57,8 +57,8 @@ Posodobitve niso dostopne za vas!"</string>
      <string name="server_error">Strežnik ne reagira, aplikacija morda ne bo pravilno delala!</string>
   <string name="share_desc">MIUI verzija je posodobljena na %1$s, poglejte spremembe na: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
      <string name="share_title">Deli z</string>
-  <string name="version">Trenutno nameščeno:</string>
-     <string name="stable">Stabilno</string>
+  <string name="stable">Stabilna</string>
+  <string name="version">Nameščena verzija</string>
      <string name="weekly">Tedensko</string>
   <string name="wifi_recommended">Ni WiFi povezave za  prenašanje posodobitev!</string>
 </resources>

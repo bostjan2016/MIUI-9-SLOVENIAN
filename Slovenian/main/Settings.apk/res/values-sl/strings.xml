@@ -2452,6 +2452,7 @@ Na tej napravi je več uporabnikov.
   <string name="master_clear_progress_title">Brisanje</string>
   <string name="master_clear_summary">Izbriše vse podatke na telefonu</string>
   <string name="master_clear_title">Povrnitev na tovarniške nastavitve</string>
+  <string name="max_aspect_settings_all_app_display_loading">Samo trenutek…</string>
   <string name="max_cpu10_info">"10 jedrni "</string>
   <string name="max_cpu2_info">"2 jedrni "</string>
   <string name="max_cpu4_info">"4 jedrni "</string>
@@ -3638,6 +3639,7 @@ Na tej napravi je več uporabnikov.
   <string name="restore_default_apn_completed">Ponastavitev privzetih nastavitev APN-jev končana</string>
   <string name="restr_pin_enter_admin_pin">Vnesite skrbniški PIN</string>
   <string name="restrict_background_blacklisted">Podatki v ozadju so izključeni</string>
+  <string name="restrict_max_aspect_ratio_title">Predlagamo da onemogočite maks. razmerje slike</string>
   <string name="restrict_background_data_dialog_summary">Aplikacije ki se izvajajo v ozadju ne morejo prejemati sporočil</string>
   <string name="restrict_background_data_notification_summary">Aplikacije se ne morejo povezati z omrežjem če so podatki v ozadju omejeni</string>
   <string name="restrict_background_data_title">Omeji podatke v ozadju</string>
@@ -3719,6 +3721,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_key_press">Pritisnite navigacijske tipke</string>
   <string name="screen_key_press_action">Funkcija sprožilca</string>
   <string name="screen_locking_sounds_title">Zvoki zaklepanja zaslona</string>
+  <string name="screen_max_aspect_ratio_desc">Aplikacija Vreme se lahko prikaže na celem zaslonu</string>
+  <string name="screen_max_aspect_ratio_title">Nastavitve mak. razmerja slike</string>
   <string name="screen_monochrome_mode_apps_loading">Samo trenutek…</string>
   <string name="screen_monochrome_mode_apps_title">Uporabi monokromatski način dela</string>
   <string name="screen_monochrome_mode_global_summary">Uporabi monokromatski način dela za vse aplikacije</string>
@@ -4408,8 +4412,10 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_filter_item_description">Če želite konfigurirati obvestila pojdite v Nastavitve &gt; Obvestila &gt; Upravljanje obvestil</string>
   <string name="status_bar_filter_item_preview_image">Predogled</string>
   <string name="status_bar_key_position_custom">Zamenjajte položaj tipke</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Podrsaj gor za prikaz tipk zaslona</string>
   <string name="status_bar_screen_button_desc">Podrsaj dol da skrijete tipko zaslona</string>
   <string name="status_bar_screen_button_key">Tipke zaslona</string>
+  <string name="status_bar_screen_button_key_force_immersive">Skrij tipke zaslona</string>
   <string name="status_bar_screen_button_key_can_hide">Tipke zaslona se lahko skrijejo</string>
   <string name="status_bar_screen_key_back">Tipka nazaj</string>
   <string name="status_bar_screen_key_home">Tipka domov</string>
@@ -4635,6 +4641,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="storageuse_settings_title">Uporaba pomnilnika</string>
   <string name="strict_mode">Strog način je omogočen</string>
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Predlagamo da omogočite maks. razmerje</string>
   <string name="sub_activate_failed">Aktivacija ni uspela.</string>
   <string name="sub_activate_not_supported">Aktivacija ni podprta</string>
   <string name="sub_activate_success">Uspešno aktivirano.</string>
@@ -4955,6 +4962,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="unlock_set_unlock_summary">Nastavi zaklepanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Ko nastavite zaklepanje zaslona lahko tudi nastavite prstni odtis v »Nastavitve &gt; Varnost«.</string>
   <string name="unmount_inform_text">Pomnilnik USB bo izpet.</string>
+  <string name="unrestrict_max_aspect_ratio_title">Maks. razmerje je podprto</string>
   <string name="unrestricted_app_summary">Dovoli neomejen dostop do podatkov ko je Varčevanje podatkov vključeno</string>
   <string name="unrestricted_app_title">Neomejena poraba prenosa podatkov</string>
   <string name="unrestricted_data_saver">Neomejen dostop do prenosa podatkov</string>

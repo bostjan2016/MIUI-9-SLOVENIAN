@@ -1,7 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <plurals name="incorrect_pukcode_remaining_attempts">
+         <item quantity="other">Napačna PUK koda, ostane vam še %d poskusov</item>
+         <item quantity="one">Napačna PUK koda, ostane vam še %d poskus</item>
+     </plurals>
+     <plurals name="incorrect_pincode_remaining_attempts">
+         <item quantity="other">Napačna PIN koda, ostane vam še %d poskusov</item>
+         <item quantity="one">Napačna PIN koda, ostane vam še %d poskus</item>
+     </plurals>
+     <plurals name="phone_locked_timeout_seconds_string">
+         <item quantity="other">Počakajte %d sek. in poskusite ponovno.</item>
+         <item quantity="one">Počakajte %d sek. in poskusite ponovno</item>
+     </plurals>
+     <plurals name="phone_locked_timeout_minutes_string">
+         <item quantity="other">Počakajte %d min. in poskusite ponovno</item>
+         <item quantity="one">Počakajte %d min. in poskusite ponovno</item>
+     </plurals>
    <plurals name="new_notifications_msg">
         <item quantity="other">Novih obvestil: %d</item>
         <item quantity="one">%d novo obvestilo</item>
     </plurals>
+	<plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+         <item quantity="other">Še %d min. do polne baterije​​</item>
+         <item quantity="one">Še %d min. do polne baterije​​</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+         <item quantity="other">Še %d hr %d min. do polne baterije</item>
+         <item quantity="one">Še %d hr %d min. do polne baterije</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_charging_full_need_time__text">
+         <item quantity="other">Še %d hr %d min. do polne baterije</item>
+         <item quantity="one">Še %d hr %d min. do polne baterije</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_could_use_min_time_text">
+         <item quantity="other">Preostalo okoli %d min</item>
+         <item quantity="one">Preostalo okoli %d min</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_could_use_hour_time_text">
+         <item quantity="other">Preostalo okoli %d hr</item>
+         <item quantity="one">Preostalo okoli %d hr</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_could_use_time_text">
+         <item quantity="other">Preostalo okoli %d hr %d min</item>
+         <item quantity="one">Preostalo okoli %d hr %d min</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_hour_time_format">
+         <item quantity="other">%d ur</item>
+         <item quantity="one">%d ura</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_min_time_format">
+         <item quantity="other">%d min.</item>
+         <item quantity="one">%d min.</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_time_format">
+         <item quantity="other">%1$d hrs %2$d min.</item>
+         <item quantity="one">%1$d hr %2$d min.</item>
+     </plurals>
 </resources> 
