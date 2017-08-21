@@ -313,6 +313,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="apps_list_header_title_sms_access">Omeji dostop na kode za potrditev</string>
   <string name="auto_atsk_condition_battery_level_text_down">Ko baterija doseže %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Ko je baterija napolnjena do %s</string>
+  <string name="auto_clean_close">Samodejna čiščenja so izključena</string>
   <string name="auto_handle_title">Splošno</string>
   <string name="auto_import_games">Potavite vse vaše igre na eno mesto</string>
   <string name="auto_task_condition_choose_battery_level_down">Ko baterija doseže določen nivo</string>
@@ -425,6 +426,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="battery_status_unknown">Neznana napaka</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Datum ponastavitve uporabe</string>
+  <string name="best_booster_status">Na volje je povečanje hitrosti.</string>
   <string name="bind_xiaomi_account_cancel">Prekini</string>
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
   <string name="bind_xiaomi_account_dialog_summery">"Dodali boste Mi Račun %s. Če ste pozabili geslo, lahko uporabite ta račun da ga razveljavite. Račun bo samodejno odstranjen če se odjavite."</string>
@@ -535,6 +537,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_datasave_summary">Strni podatke da prihranite do 20%</string>
   <string name="card_main_datasave_title">Prihranek podatkov</string>
   <string name="card_main_deepclean_action">Očisti</string>
+  <string name="card_main_deepclean_qq_title">QQ čistilec</string>
   <string name="card_main_deepclean_summary">Izbriši nepotrebne datoteke</string>
   <string name="card_main_deepclean_title">Globinsko čiščenje</string>
   <string name="card_main_gamebooster_summary">Izboljšate hitrost &amp; nadgradite doživetje igranja</string>
@@ -763,6 +766,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dlg_white_antispam_message">Dodam to sporočilo v izjeme?</string>
   <string name="dns_exception_summary">"Preverite DNS nastavitve routerja."</string>
   <string name="dns_exception_title">Kontrola nastavitev DNS-a</string>
+  <string name="do_clean">Čiščenje…</string>
   <string name="domestic_roaming_setting">Domače gostovanje</string>
   <string name="dont_bore">"Ne dovolite da vas tipke in obvestila motijo"</string>
   <string name="dont_bore_text">Utišaj obvestila in izključi tipke za odstanitev motenj</string>
@@ -839,6 +843,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="foreground_traffic">Prednja stran %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
   <string name="forget_pattern">&lt;u&gt;Pozabljen vzorec?&lt;/u&gt;</string>
+  <string name="free_send_net_booster">Brezplačno povečanje hitrosi omrežja</string>
+  <string name="free_send_net_booster_tip">Uživajte v tekočem igranju z brezplačnim povečanjem hitrosti omrežja.</string>
   <string name="free_time_traffic">Izklj. maks. omejitev podatkov</string>
   <string name="free_time_traffic_hint">Vnesite Izklj. maks. omejitev podatkov</string>
   <string name="free_time_traffic_settings">Izklj. maks. omejitev podatkov</string>
@@ -993,6 +999,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="item_dev_mode">Možnost za razvijalce</string>
   <string name="item_install_monitor">Namestite monitor</string>
   <string name="item_mms">Izloči nezaželena sporočila</string>
+  <string name="item_system_auto_download">Prenesi posodobitve samodejno</string>
   <string name="item_usb_debug">USB odpravljanje napak</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Samodejno posodabljanje virusnih informacij</string>
@@ -1177,6 +1184,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="memory_clean_running_process_title">Spremljanje aplikacij (%d)</string>
   <string name="memory_cleaned_memory_info">Dostopno spomina</string>
   <string name="memory_cleaned_memory_up">Povečaj hitrost</string>
+  <string name="memory_clear_unused">Očisti predspomin (%s)</string>
   <string name="menu_add">Dodaj</string>
   <string name="menu_add_into_contact">Dodaj obstoječemu stiku</string>
   <string name="menu_add_new_contact">Nov stik</string>
@@ -1229,6 +1237,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
+  <string name="menu_text_optimize_manage">Povečaj hitrost</string>
   <string name="menu_text_power_manager">Poraba baterije</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
@@ -1248,7 +1257,16 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="msg_update_error_code_success">Končano</string>
   <string name="msg_update_up">Skrij</string>
   <string name="name">Ime</string>
+  <string name="net_booster">Povečanje hitrosti omrežja</string>
+  <string name="net_booster_expire_notification">Seja povečanja hitrosti omrežja bo kmalu končana</string>
+  <string name="net_booster_expire_notification_tip">Preostalo %d d pred koncem seje. Obnovite sejo da se izognete težavam hitrosti omrežja.</string>
+  <string name="net_booster_overdue_notification">Seja povečanja hitrosti omrežja bo kmalu končana</string>
+  <string name="net_booster_overdue_notification_tip">Seja povečanja hitrosti omrežja bo kmalu končana. Obnovim sejo?</string>
+  <string name="net_booster_tip">Vključite povečanje hitrosti omrežja da napravite WiFi povezavo stabilnejšo in zmanjšate zamude omrežja.</string>
+  <string name="net_booster_title">Povečaj hitrost omrežja</string>
+  <string name="net_boosting">Povečanje hitrosti…</string>
   <string name="net_delay_title">Odloži</string>
+  <string name="net_overdue">Seja se je končala</string>
   <string name="network_assistant_upgraded_body">Tapnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Posodobljeno</string>
   <string name="network_blocked_connected_open_wifi">Povezovanje z javnim omrežjem</string>
@@ -1864,6 +1882,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="reach_daily_limit_value_body_open_traffic_saving">Tapnite za vključitev Varčevanja podatkov.</string>
   <string name="reach_daily_limit_value_title">Dosežena omejitev dnevnih podatkov</string>
   <string name="read_all_sms">Preberi vse</string>
+  <string name="receive_now">Sprejmi</string>
   <string name="read_number">86 predmetov</string>
   <string name="read_unit">"predmetov"</string>
   <string name="recently_reject_message">Zavrnjena namestitev (%1$s) in drugih aplikacij (%2$d)</string>
@@ -1874,8 +1893,10 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="reject_all">Omejitev za vse</string>
   <string name="reject_countdown">Zavrni (%d)</string>
   <string name="reject_usb_install">Zavrnjen pristop namestitve teh aplikacij preko USB-a</string>
+  <string name="release_meminfo">Osvobodite %dMB</string>
   <string name="release_memory">Očisti predspomin</string>
   <string name="renew_ip">Poskusi ponovno</string>
+  <string name="renew_now">Obnovi</string>
   <string name="repair">Obnovi</string>
   <string name="repair_loading_text">Nalaganje…</string>
   <string name="repeated_marked_number_summary">"Ne blokiraj drugi klic iz iste prijavljene številke v roku 3 minut."</string>
@@ -2006,10 +2027,10 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings_category_overheat">Pregrevanje</string>
   <string name="settings_choice_no_notification">Izključeno</string>
   <string name="settings_power_save_ontime_title">Razpored</string>
-  <string name="shield_keyboard_detail">Dvakrat tapnite tipke da jih spet vključite</string>
-  <string name="settings_title_payment_security">Nastavitve varnosti plačil</string>
+  <string name="settings_title_payment_security">Nastavitve varnosti plačanja</string>
+  <string name="settings_title_permission">Nastavitve dovoljenj</string>
   <string name="share">Deli</string>
-  <string name="settings_title_permission">Nastavitve dovoljenja</string>
+  <string name="shield_keyboard_detail">Dvakrat tapnite tipke da jih ponovno vključite</string>
   <string name="shield_keyboard_title">Izključi tipke</string>
   <string name="show_system_app">Prikaži sistemske animacije</string>
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to funkcijo kadar koli v Poraba podatkov &gt; Nastavitve</string>
@@ -2035,8 +2056,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="skin_change_close_toast">Spremembe bodo uporabljene ko naslednjič zaženete aplik. Varnost</string>
   <string name="sms_address">Seznam blokiranih predštevilk</string>
   <string name="sms_blacklist">Seznam blokiranih SMS-ov</string>
-  <string name="sms_cloud_block">Cloud seznam blokiranih</string>
-  <string name="sms_contact_block">Blokiraj SMS - je od</string>
+  <string name="sms_contact_block">Blokiraj SMS od stikov</string>
+  <string name="sms_cloud_block">Cloud Seznam blokiranih</string>
   <string name="sms_delete_hint">Izbrišem vsa blokirana sporočila s te številke?</string>
   <string name="sms_delete_title">Izbriši sporočila</string>
   <string name="sms_filter">Smart Filter</string>
@@ -2284,6 +2305,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tab_blacklist">Seznam blokiranih</string>
   <string name="tab_block_log_unKnowNumber">Zasebna številka</string>
   <string name="tab_call">Klici</string>
+  <string name="tab_gift">Darilo</string>
+  <string name="tab_guide">Vodič</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Seznam blokiranih</string>
   <string name="tc_diagnostic_all_error_notification_summary">Tapnite da prijavite težavo</string>
@@ -2390,6 +2413,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_app_lock_disable">Zakl. aplikacij</string>
   <string name="title_app_update">Dostopne posodobitve</string>
   <string name="title_auto_update">Posodobi samodejno</string>
+  <string name="title_chain_start">Omeji verižni zagon</string>
   <string name="title_cleaner_cloudscan">Naložite imena map</string>
   <string name="title_cloud_account">Mi Račun</string>
   <string name="title_cloud_service">Mi Cloud</string>
@@ -2399,16 +2423,20 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_consume_power">Najdene težave baterije</string>
   <string name="title_consume_power_rank">Uporaba baterije</string>
   <string name="title_data_flow">Nastavi opozorilo o porabi podatkov</string>
+  <string name="title_data_flow_monitor">Nadzor uporabe podatkov je vključen</string>
+  <string name="title_dev_model_off">"Možnosti načina za razv. izključene"</string>
   <string name="title_default_app">"MIUI %s ni nastavljena kot privzeta aplikacija"</string>
   <string name="title_dev_no">Možnost za razvijalce je vklopljena</string>
   <string name="title_dev_yes">Možnost za razvijalce je izklopljena</string>
-  <string name="title_find_device">Vključi \"Najdi napravo\"</string>
+  <string name="title_device_not_root">"ROOT dostop ni odobren"</string>
+  <string name="title_find_device">Najdi napravo</string>
   <string name="title_flow_notification">Obvestilo porabe podatkov</string>
   <string name="title_flow_purchase">Čas za nakup</string>
   <string name="title_flow_rank">Uporaba mobilnih podatkov</string>
   <string name="title_flow_verify">Primerjaj izračune</string>
   <string name="title_flow_verify_failed">"Ne morem nastaviti 5 dni zapored"</string>
   <string name="title_garbage_clean">Velikost predpomnilnika aplik. dosegla %s</string>
+  <string name="title_garbage_less">Predspomin aplikacije je majhen</string>
   <string name="title_garbage_lib">Posodobi definicije smeti</string>
   <string name="title_install_virus_no">Namestitev nadzora izključena</string>
   <string name="title_install_virus_yes">Namestitev nadzora vključena</string>
@@ -2416,11 +2444,13 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_live_talk_purchase">Doplačajte zdaj</string>
   <string name="title_mifi_insurance">podaljšano jamstvo</string>
   <string name="title_miui_update">Dostupna posodobitev</string>
+  <string name="title_miui_update_latest">MIUI je posodobljen</string>
   <string name="title_mms_no">Filter za sporočila je izključen</string>
   <string name="title_mms_yes">Filter za sporočila je vklopljen</string>
   <string name="title_network_switch">Dovoli povezovanje na splet</string>
   <string name="title_of_app_manage">Aplikacije</string>
   <string name="title_of_auto_launch_manage">Samod. zagon</string>
+  <string name="title_payment_protection">Plačanje je varno</string>
   <string name="title_of_operators_set">Nastavitve ponudnika storitve</string>
   <string name="title_of_package_set">Nastavitev načrta prenosa podatkov</string>
   <string name="title_payment_risk">Najdena plačilna tveganja</string>
@@ -2432,6 +2462,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_saving_switch">Varčevanje podatkov</string>
   <string name="title_share_link">Deli povezavo</string>
   <string name="title_show_notification">Kontrole vrstice obvestil</string>
+  <string name="title_system_auto_download">Posodobitve bodo samodejno prenešene</string>
   <string name="title_telecom_operator">Samodejno nastavi</string>
   <string name="title_usb_no">USB odpravljanje napak je vklopljeno</string>
   <string name="title_usb_yes">USB odpravljanje napak je izklopljeno</string>
@@ -2633,11 +2664,11 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="usbsharenet_exception_title">Test povezave preko USB-ja</string>
   <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. 
   Preverite spletno povezavo vašega računalnika."</string>
-  <string name="virus_auto_update_engine">Samodejno posodobi: %s</string>
   <string name="use_immediately">Uporabi</string>
   <string name="user_define_title">Dodaj pravilo</string>
   <string name="virus_ad_icon_text">Oglas</string>
   <string name="virus_already_update">Definicije so posodobljene</string>
+  <string name="virus_auto_update_engine">Samod. posodobi: %s</string>
   <string name="virus_dp_update_title">Posodobitev definicij</string>
   <string name="virus_list_header_title">Najdeno virusov (%d)</string>
   <string name="virus_scan">Preverjanje virusov</string>
@@ -2649,10 +2680,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Dovolim %1$s odpiranje %2$s?</string>
   <string name="warning_open_mi_sim">Vključi Mi SIM</string>
-  <string name="white_list_risk_app_header">Nevarne aplik.: %d</string>
-  <string name="wlan_change_protection_detail">"Ne menjaj samodejno na WiFi kadar je povezano na mobilno omrežje"</string>
-  <string name="wlan_change_protection_title">Prepreči zamenjavo omrežij</string>
   <string name="website">Spletna stran</string>
+  <string name="white_list_risk_app_header">Nevarne aplik.: %d</string>
   <string name="white_list_trojan_header">Trojanci: %d</string>
   <string name="whitelist_prefix_add_hint">Dodaj vse številke s predštevilko v izjeme</string>
   <string name="wifi_exception_summary">Test dostopnih WiFi omrežij</string>
@@ -2665,7 +2694,13 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="wifi_item_title_encryption">WiFi šifriranje</string>
   <string name="wifi_item_title_fake">Odkrij nepravi WiFi</string>
   <string name="wifi_network_blocked_notification_title">Ni povezave s spletom</string>
+  <string name="wifi_optizition_loading">Vklop Xunyou povečanje hitrosti…</string>
+  <string name="wifi_optizition_tip">Vključite povečanje hitrosti omrežja da napravite WiFi povezavo stabilnejšo. Uporabljena bo majhna količina mobilnih podatakov.</string>
+  <string name="wifi_optizition_title">Povečaj WiFi hitrost</string>
   <string name="wl_no_whitelist">Ni izjem.</string>
+  <string name="wlan_booster">Povečaj WiFi hitrost</string>
+  <string name="wlan_change_protection_detail">"Ne zamenjaj samodejno na WiFi ko je povezano na mobilno omrežje"</string>
+  <string name="wlan_change_protection_title">Prepreči menjavo omrežij promjenu mreža</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite še</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obvestila Mi Data plana</string>
   <string name="xiaomi_traffic_pass_exhausted">"Ni dostopnih mobilnih podatkovna vašem Mi Data načrtu. Prestavljeno na načrt podatkov vašega mobilnega operaterja."</string>
@@ -2690,4 +2725,5 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="xiaomi_traffic_pass_used">Izkoriščeno %s vašega Mi Data plana</string>
   <string name="xiaomi_traffic_pass_warning">Ni dostopnih mobilnih podatkov v vašem Mi Data planu</string>
   <string name="xiaomi_traffic_return">Nazaj</string>
+  <string name="xunyou_pay_webview">Xunyou usluge</string>
 </resources>

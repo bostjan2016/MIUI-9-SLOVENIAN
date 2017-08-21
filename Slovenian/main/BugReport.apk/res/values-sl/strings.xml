@@ -55,6 +55,7 @@
   <string name="feedback_choose_module">Izberi predmet</string>
   <string name="feedback_choose_module_hint">Potrebno</string>
   <string name="feedback_collect_log_failed">"Ne morem dobiti zapise"</string>
+  <string name="feedback_contact_info_hint">Št. telefona/E-pošta</string>
   <string name="feedback_continue">Nadaljuj s povr. informacijo</string>
   <string name="feedback_description">Opis</string>
   <string name="feedback_description_bugreport_hint">V nekaterih primerih (…) se telefon slabo odziva (…).</string>
@@ -199,6 +200,7 @@
   <string name="module_data">Prostor za shranjevanje &amp; Dvojne aplik.</string>
   <string name="module_desktop">Začetni zaslon &amp; Nastavitve</string>
   <string name="module_finance">Finance &amp; Mi Denarnica</string>
+  <string name="module_google_apps">Google aplikacije</string>
   <string name="module_item_less">Skrij</string>
   <string name="module_item_more">Več</string>
   <string name="module_medias">Mediji</string>

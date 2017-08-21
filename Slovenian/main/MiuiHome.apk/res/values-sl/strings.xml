@@ -183,6 +183,7 @@
   <string name="mtzgadget_missing_text">"Pripomoček ni dostopen"</string>
   <string name="multi_selecting_tips">Če hočete premakniti aplikacijo, odvlecite njeno ikono in jo izpustite tu</string>
   <string name="no_detail_page">Ni podrobnosti strani</string>
+  <string name="no_space_toast">Ni prostora</string>
   <string name="normal_wallpaper">Slika ozadja</string>
   <string name="notification_installed">Uspešno nameščeno</string>
   <string name="notification_open_button">Odpri</string>

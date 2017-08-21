@@ -1127,6 +1127,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="search_wipe_data">Organiziraj;Stiki</string>
   <string name="searching_vcard_message">"Iskanje vCard podatkov v pomnilniku…"</string>
   <string name="select_all">"Izberi vse"</string>
+  <string name="select_all_exceed">"Izberite ne več od %1$d, ne morete izbrati vse"</string>
+  <string name="select_exceed">Izberite ne več od %1$d</string>
   <string name="select_done">Vse je izbrano</string>
   <string name="select_groups">Izberi skupine</string>
   <string name="select_none">Nič ni izbrano</string>
