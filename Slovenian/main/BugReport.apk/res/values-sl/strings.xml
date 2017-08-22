@@ -75,11 +75,12 @@
   <string name="feedback_report_remind_login_desc2">Lahko pogledate napredek poročila v \"Moja poročila\"."</string>
   <string name="feedback_retest_label">Koraki za reprodukcijo</string>
   <string name="feedback_select_images">Dodajte slike</string>
+  <string name="feedback_select_modem_log">Dodaj modem zapis</string>
   <string name="feedback_select_problem">Težave</string>
   <string name="feedback_select_suggestion">Predlogi</string>
-  <string name="feedback_select_upload_log">Dodajte zapise</string>
+  <string name="feedback_select_upload_log">Dodaj zapise</string>
   <string name="feedback_status_answered">Odgovorjeno</string>
-  <string name="feedback_status_change_notification_title">"Vaš napredak poročila je posodobljen je ažuriran"</string>
+  <string name="feedback_status_change_notification_title">"Vaš napredek poročila je posodobljen"</string>
   <string name="feedback_status_commit_failed_title">"Ne morem poslati poročila"</string>
   <string name="feedback_status_commit_succ_title">Poslano</string>
   <string name="feedback_status_commit_uploading_title">Pošiljam…</string>

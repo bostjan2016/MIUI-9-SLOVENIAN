@@ -629,6 +629,8 @@
   <string name="sp_conversation_title">Obvestila</string>
   <string name="sp_mark_as_read">Označim vsa sporočila kot prebrana?</string>
   <string name="sp_mark_as_read_menu_title">Označi kot prebrano</string>
+  <string name="sqlite_disk_full">Baza podatakov ali Disk je poln/a</string>
+  <string name="sqlite_low_memory">Malo spomina</string>
   <string name="sp_mark_as_read_progress">Delam...</string>
   <string name="sp_mark_as_read_title">Označim vse kot prebrano?</string>
   <string name="status_failed">Neuspešno</string>
