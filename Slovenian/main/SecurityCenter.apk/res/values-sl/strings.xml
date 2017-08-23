@@ -46,7 +46,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activate_fingerprint_dialog_message">"Ta prstni odtis ni aktiven. Vnesite geslo da boste aktivirali ta prstni odtis."</string>
   <string name="activate_fingerprint_dialog_title">Vnesite geslo</string>
   <string name="activity_title_antispam">AntiSpam</string>
-  <string name="activity_title_antivirus">Varnostno preverjanje</string>
+  <string name="activity_title_antivirus">Varnost</string>
   <string name="activity_title_apps_manager">Aplikacije</string>
   <string name="activity_title_auto_start_manager">Samodejni zagon</string>
   <string name="activity_title_create_shortcut">Uredi bližnjice</string>
@@ -259,14 +259,14 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_stop_wp_dialog_cancel">Prekini</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Odstrani</string>
   <string name="app_manager_system_mobile_disable">Izključi podatke</string>
-  <string name="app_manager_title">Upravljaj z aplikacijami</string>
+  <string name="app_manager_title">Aplikacije</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Ustrezne  dvojne aplikacije bodo odstranjene skupaj s podatki aplikacij.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Odstranitev dvojne aplikacije bo odstranila tudi vse podatke aplikacije.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Odstranim dvojno aplikacijo?</string>
   <string name="app_manager_unstall_application">Odstrani</string>
   <string name="app_manager_update_label_text">Novo</string>
   <string name="app_manager_usage_record_title">Uporaba aplikacije</string>
-  <string name="app_manager_wake_path_card_title">Verižni začetek zgodovine (2 dni)</string>
+  <string name="app_manager_wake_path_card_title">Zgodovina verižnega zagona (2 dni)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Razumem</string>
   <string name="app_manager_wakepath_dialog_summary">Verižni zagon se zgodi, ko neka aplikacija zažene drugo aplikacijo v ozadju. To lahko porabi baterijo in zmanjša zmogljivost sistema. Običajno bi MIUI blokiral verižni zagon.</string>
   <string name="app_manager_wakepath_dialog_title">O verižnem zagonu</string>
@@ -542,6 +542,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_deepclean_title">Globinsko čiščenje</string>
   <string name="card_main_gamebooster_summary">Izboljšate hitrost &amp; nadgradite doživetje igranja</string>
   <string name="card_main_gamebooster_title">Izboljšajte hitrost igranja</string>
+  <string name="card_main_hbassistant_summary">Pohitrite in izboljšajte reakcijo iger</string>
+  <string name="card_main_hbassistant_title">Pohitri igre</string>
   <string name="card_main_monthreport_action">Prikaži</string>
   <string name="card_main_monthreport_summary">Prikaži mesečna poročila</string>
   <string name="card_main_monthreport_title">Varnostna statistika</string>
@@ -842,6 +844,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
   <string name="foreground_traffic">Prednja stran %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
+  <string name="forget_password_button_text_normal">Pozabljeno geslo</string>
   <string name="forget_pattern">&lt;u&gt;Pozabljen vzorec?&lt;/u&gt;</string>
   <string name="free_send_net_booster">Brezplačno povečanje hitrosi omrežja</string>
   <string name="free_send_net_booster_tip">Uživajte v tekočem igranju z brezplačnim povečanjem hitrosti omrežja.</string>
@@ -1225,7 +1228,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_restore">Vrni v prejeto</string>
   <string name="menu_sms">Pošlji SMS</string>
   <string name="menu_text_antispam">Seznam blokad</string>
-  <string name="menu_text_antivirus">Varnostno preverjanje</string>
+  <string name="menu_text_antivirus">Varnost</string>
   <string name="menu_text_garbage_cleanup">Čiščenje</string>
   <string name="menu_text_garbage_cleanup_danger">%s preseženo</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
@@ -1257,7 +1260,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="msg_update_error_code_success">Končano</string>
   <string name="msg_update_up">Skrij</string>
   <string name="name">Ime</string>
-  <string name="net_booster">Povečanje hitrosti omrežja</string>
+  <string name="net_booster">Povečaj hitrost omrežja</string>
   <string name="net_booster_expire_notification">Seja povečanja hitrosti omrežja bo kmalu končana</string>
   <string name="net_booster_expire_notification_tip">Preostalo %d d pred koncem seje. Obnovite sejo da se izognete težavam hitrosti omrežja.</string>
   <string name="net_booster_overdue_notification">Seja povečanja hitrosti omrežja bo kmalu končana</string>
@@ -1511,7 +1514,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pc_activity_title">Optimiziraj baterijo</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Namesti preko USB-a</string>
-  <string name="pc_to_phone_install">Blokirano (%s) namestitev preko USB-a</string>
+  <string name="pc_to_phone_install">Blokirana namestitev (%s) preko USB-a</string>
   <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
   <string name="percent_formatted_text">%s%%</string>
   <string name="percent_symbol">%</string>

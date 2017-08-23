@@ -6,7 +6,7 @@
   <string name="anim_gamebooster_text">Samo trenutek…</string>
   <string name="anti_disturb_msg_detail">Izključi vsa obvestila razen za dohodne klice</string>
   <string name="anti_disturb_msg_title">Ne moti</string>
-  <string name="app_name">Vtičnik Storitve varnosti</string>
+  <string name="app_name">Pohitri igre</string>
   <string name="app_not_installed_toast">"Aplikacija ni nameščena na vaši napravi."</string>
   <string name="application_item_already_permission">Dovoljeno</string>
   <string name="application_item_disable">Omejeno</string>
@@ -34,7 +34,7 @@
   <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Pojdite na službeno MIUI spletno stran da prenesete program za odklepanje.</string>
   <string name="function_close">Izključi</string>
-  <string name="game_booster">Pohitritev hitrosti igranja</string>
+  <string name="game_booster">Pohitri igre</string>
   <string name="game_booster_intro">O Pohitritev hitrosti igranja</string>
   <string name="game_booster_title">Pospešek</string>
   <string name="game_booster_total">Hitrost pospešena %1$s krat, dodano %2$s časa igranja</string>
@@ -103,6 +103,7 @@
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="ok_button">V redu</string>
   <string name="open_browser">Odpri v brskalniku</string>
+  <string name="open_game">Odpri</string>
   <string name="other">Ostale nastavitve</string>
   <string name="pc_activity_title">Optimiraj baterijo</string>
   <string name="pm_lable_name">O ROOT dostopu</string>
@@ -125,6 +126,7 @@
   <string name="sys_title_gamebooster_unit_gb">G</string>
   <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="title_share_link">Podeli povezavo</string>
+  <string name="top_game">Najboljše igre</string>
   <string name="top_load_fail_detail">Ne morem prenesti, poskusite ponovno</string>
   <string name="top_no_network_detial">Ne morem prenesti, poskusite ponovno</string>
   <string name="try_game">Poskusite</string>
