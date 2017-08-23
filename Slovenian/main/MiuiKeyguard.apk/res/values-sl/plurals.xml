@@ -25,8 +25,8 @@
          <item quantity="one">Še %d min. do polne baterije​​</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-         <item quantity="other">Še %d hr %d min. do polne baterije</item>
-         <item quantity="one">Še %d hr %d min. do polne baterije</item>
+         <item quantity="other">Še %d hr. do polne baterije</item>
+         <item quantity="one">Še %d hr. do polne baterije</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_time__text">
          <item quantity="other">Še %d hr %d min. do polne baterije</item>
