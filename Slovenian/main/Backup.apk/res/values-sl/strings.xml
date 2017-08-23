@@ -43,8 +43,11 @@ nastavitev in aplikacij"</string>
   <string name="backup_new">Novo:</string>
   <string name="backup_progress">Izdelava Var. kopije…</string>
   <string name="backup_report">Poglej podrobnosti</string>
+  <string name="backup_security_tips_message">Nekatere aplikacije morda ne bodo kopirane ali obnovljene.</string>
+  <string name="backup_security_tips_title">Var. kopije morda ne bodo delovale</string>
   <string name="backup_update">Posodobi</string>
   <string name="batch_delete_backup_confirm">Izbrišem izbrane Var.kopije?</string>
+  <string name="btn_got_it">Razumem</string>
   <string name="button_backup">Varnostno kopiraj</string>
   <string name="button_cancel">Prekliči</string>
   <string name="button_continue">Nadaljuj</string>
@@ -307,6 +310,8 @@ nastavitev in aplikacij"</string>
   <string name="trans_retry">Pokusite ponovno</string>
   <string name="trans_scan_invalid_qrcode">Neveljavna  QR koda</string>
   <string name="trans_scan_qr_code_tips">Skenirajte QR kodo z vašo novo napravo</string>
+  <string name="trans_security_tips_message">"Nekatere aplikacije ne podpirajo Mi Mover."</string>
+  <string name="trans_security_tips_title">Mi Mover kompatibilnost</string>
   <string name="trans_select_data">Izberite podatke</string>
   <string name="trans_select_data_no_space">"Premalo prostora na novi napravi.
  Izberite datoteke ponovno ali osvobodite %s prostora na novi napravi"</string>

@@ -3252,6 +3252,7 @@ Na tej napravi je več uporabnikov.
   <string name="pointer_location_summary">Prekriv. zaslona prikazuje tren. podatke za dotik</string>
   <string name="pointer_settings_category">Miška/sledilna ploščica</string>
   <string name="pointer_speed">Hitrost kazalca</string>
+  <string name="popup_window">Dovoli pojavna okna</string>
   <string name="power_autorun_apps_empty">Prazno</string>
   <string name="power_autorun_empty">Prazno</string>
   <string name="power_bluetooth">Bluetooth</string>
