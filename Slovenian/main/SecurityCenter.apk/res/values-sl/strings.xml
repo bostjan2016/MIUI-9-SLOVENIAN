@@ -29,6 +29,7 @@
   <string name="ac_firstUseApplock_title">Nastavite geslo za zaščito vaše aplikacije</string>
   <string name="ac_summaryOff">Izključeno, geslo ni potrebno za odpiranje aplikacije</string>
   <string name="ac_summaryOn">Vključeno, potrebna je geslo za odpiranje aplikacije</string>
+  <string name="access_control_app_is_launching">Aplikacija se zaganja</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Geslo bo potrebno za odpiranje aplikacij</string>
   <string name="access_control_fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa."</string>
   <string name="access_control_need_password">"Uspešno dodano %s zaklepanj
@@ -382,6 +383,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_operation_vibration">Vibriranje</string>
   <string name="auto_task_operation_wifi">WiFi</string>
   <string name="back">Nazaj</string>
+  <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju tej aplikaciji lahko povzroči težave pri delovanju, sprejemanju obvestil, prenosu vsebin itd. Omejim vseeno?</string>
   <string name="background_traffic">V ozadju %s</string>
   <string name="backsound_set_hint">Nastavi svoje sporočilo \"Sem odsoten\" za %s?</string>
   <string name="battery_capacity_title">Kapaciteta baterije</string>
@@ -493,6 +495,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="button_text_disconnect_now">Prekini povezavo</string>
   <string name="button_text_fix">Popravi</string>
   <string name="button_text_fix_now">Popravi</string>
+  <string name="button_text_forbid_now">Prepovej</string>
   <string name="button_text_ignore">Zanemari</string>
   <string name="button_text_ignore_alert_title">Spregledam to opozorilo?</string>
   <string name="button_text_known">V redu</string>
@@ -799,6 +802,10 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="examination_score_80_100_with_recommend">Elementov (%d) se lahko optimira</string>
   <string name="examination_score_80_60">Nekaj stvari je lahko optimiranih</string>
   <string name="examination_score_has_virus">Zaznanih je bilo nekaj sumljivih aplikacij.</string>
+  <string name="exception_dialog_message">"Zaradi napake ne morem izračunati statistike porabe. Brez točne statistike aplikacija Varnost ne more spremljati porabo podatkov. Ponovno zaženem da povrnete to funkcijo?"</string>
+  <string name="exception_dialog_ok_button">Ponovno zaženi</string>
+  <string name="exception_notify_message">"Zaradi napake ne morem izračunati statistične podatke. Ponovno zaženite napravo zaradi povrnitve."</string>
+  <string name="exception_titile">Prišlo je do napake</string>
   <string name="exit">Izhod</string>
   <string name="finger_remind_message">Zakl. aplikacija podpira odklepanje s pomočjo prstnih odtisov. Dodam prstni odtis?</string>
   <string name="fingerprint_identify_msg">Preverjanje prstnega odtisa…</string>
@@ -1101,12 +1108,15 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_alert_message_slot_no_data_connection">"Reža SIM kartice ne podpira 
   podatkovne povezave"</string>
   <string name="main_bill_remained">Stanje računa</string>
+  <string name="main_button_mi_sim_close">Aktiviraj Mi SIM</string>
+  <string name="main_button_mi_sim_open">Prikaz podrobnosti</string>
   <string name="main_button_usage_adjust">Sinhr. porabe podatkov</string>
   <string name="main_button_usage_adjust_manual">Nastavite omejitev porabe podatkov</string>
   <string name="main_button_usage_adjusting">Sprememba…</string>
   <string name="main_button_usage_adjusting_bill">Sprememba…</string>
   <string name="main_button_usage_package_setting">Nastavite omejitev porabe podatkov</string>
   <string name="main_daily_package">Dnevna omejitev podatkov</string>
+  <string name="main_indicator_title">Aktivacija</string>
   <string name="main_leisure_remained">Preostalo podatkov</string>
   <string name="main_month_total_used">Porabljeno ta mesec</string>
   <string name="main_month_used">Mob. podatki</string>
@@ -1225,6 +1235,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_item_virus_lib_auto_update_summary">Posodobljeno na %s</string>
   <string name="menu_mark">Prijavi številko</string>
   <string name="menu_remove">Izbriši</string>
+  <string name="menu_report">Prijavi napako</string>
   <string name="menu_restore">Vrni v prejeto</string>
   <string name="menu_sms">Pošlji SMS</string>
   <string name="menu_text_antispam">Seznam blokad</string>
@@ -1857,6 +1868,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="preferred_app_entries_music">Glasba</string>
   <string name="privacy_declare_dialog_message">"Z uporabo te storitve se strinjate z Opera &lt;a href=%s&gt; Pogoji Nudenja storitve&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Pogoji Nudenja storitev</string>
+  <string name="privacy_dialog_message">"Ko se povežete na splet bo to sporočilo skupaj z informacijami o mobilnem operaterju šifrirano in poslana na Mi strežnike da bomo izboljšali nadzor nad uporabo podatkov."</string>
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_prompt_tc_sms_report_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da bi se posodobile informacije porabe podatkov."</string>
   <string name="privacy_prompt_traffic_adjust_message">"Ta funkcija mora poslati IMEI vaše naprave, številko telefona in podatke vašega mobilnega operaterja na Mi strežnike da bi dobili statistiko o porabi podatkov vašega mobilnega operaterja.</string>
@@ -1885,9 +1897,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="reach_daily_limit_value_body_open_traffic_saving">Tapnite za vključitev Varčevanja podatkov.</string>
   <string name="reach_daily_limit_value_title">Dosežena omejitev dnevnih podatkov</string>
   <string name="read_all_sms">Preberi vse</string>
-  <string name="receive_now">Sprejmi</string>
   <string name="read_number">86 predmetov</string>
-  <string name="read_unit">"predmetov"</string>
+  <string name="read_unit">" predmetov"</string>
+  <string name="receive_now">Prejmi</string>
   <string name="recently_reject_message">Zavrnjena namestitev (%1$s) in drugih aplikacij (%2$d)</string>
   <string name="recently_reject_message_one">Zavrnjena (%1$s) zahteva za namestitev</string>
   <string name="recommend_app">Priporočene aplikacije</string>
@@ -2059,10 +2071,12 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="skin_change_close_toast">Spremembe bodo uporabljene ko naslednjič zaženete aplik. Varnost</string>
   <string name="sms_address">Seznam blokiranih predštevilk</string>
   <string name="sms_blacklist">Seznam blokiranih SMS-ov</string>
-  <string name="sms_contact_block">Blokiraj SMS od stikov</string>
   <string name="sms_cloud_block">Cloud Seznam blokiranih</string>
+  <string name="sms_contact_block">Blokiraj SMS od stika</string>
   <string name="sms_delete_hint">Izbrišem vsa blokirana sporočila s te številke?</string>
   <string name="sms_delete_title">Izbriši sporočila</string>
+  <string name="sms_detail_fragment_title_bill">Stanje računa</string>
+  <string name="sms_detail_fragment_title_traffic">Preostali podatki</string>
   <string name="sms_filter">Smart Filter</string>
   <string name="sms_keywords">Seznam blokiranih ključnih besed</string>
   <string name="sms_malicious_url">Blokiraj SMS je z zlonamernimi povezavami</string>
@@ -2427,8 +2441,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_consume_power_rank">Uporaba baterije</string>
   <string name="title_data_flow">Nastavi opozorilo o porabi podatkov</string>
   <string name="title_data_flow_monitor">Nadzor uporabe podatkov je vključen</string>
-  <string name="title_dev_model_off">"Možnosti načina za razv. izključene"</string>
   <string name="title_default_app">"MIUI %s ni nastavljena kot privzeta aplikacija"</string>
+  <string name="title_dev_model_off">"Možnost za razvijalce izključena"</string>
   <string name="title_dev_no">Možnost za razvijalce je vklopljena</string>
   <string name="title_dev_yes">Možnost za razvijalce je izklopljena</string>
   <string name="title_device_not_root">"ROOT dostop ni odobren"</string>
@@ -2453,9 +2467,9 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_network_switch">Dovoli povezovanje na splet</string>
   <string name="title_of_app_manage">Aplikacije</string>
   <string name="title_of_auto_launch_manage">Samod. zagon</string>
-  <string name="title_payment_protection">Plačanje je varno</string>
   <string name="title_of_operators_set">Nastavitve ponudnika storitve</string>
   <string name="title_of_package_set">Nastavitev načrta prenosa podatkov</string>
+  <string name="title_payment_protection">Plačilo je varno</string>
   <string name="title_payment_risk">Najdena plačilna tveganja</string>
   <string name="title_permission_no">Upravitelj dovoljenj je izklopljen</string>
   <string name="title_permission_root">ROOT dostop</string>
@@ -2610,6 +2624,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="traffic_setting_fragment_brand">Znamka</string>
   <string name="traffic_setting_fragment_button1_text">Opusti</string>
   <string name="traffic_setting_fragment_button2_text">Shrani</string>
+  <string name="traffic_setting_fragment_city">Mesto</string>
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Ne veste operaterja?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne morem se povezati na omrežje. Preverite svojo podatkovno povezavo in poskusite ponovno."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne prikazuj ponovo"</string>
@@ -2681,6 +2696,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="virus_update_tips_title">Poveži preko WiFi</string>
   <string name="virus_wait_network_dialog_message">Posodobitev je velika. Vklopite WiFi za prenos</string>
   <string name="voltage_symbol">V</string>
+  <string name="vpn_disabled_by_user">Določena podatkovna povezava je izključena</string>
+  <string name="vpn_unbale_get_phonenum">"Ne morem dobiti telefonskih številk s pomočjo določenik podatkovnih povezav"</string>
   <string name="wakepath_confirm_start_activity">Dovolim %1$s odpiranje %2$s?</string>
   <string name="warning_open_mi_sim">Vključi Mi SIM</string>
   <string name="website">Spletna stran</string>

@@ -45,6 +45,7 @@
   <string name="operation_delete">Izbriši</string>
   <string name="operation_send">Pošlji</string>
   <string name="quit_recording">Izhod iz Snemalca zaslona</string>
+  <string name="recording_failure">Zadnje snemanje ni uspelo, ponovno zaženite snemanje zaslona</string>
   <string name="resolution">Resolucija</string>
   <string name="resolution_summary">Videoposnetki z večjo resolucijo izgledajo ostreje</string>
   <string name="screen_orientation">Orientacija</string>
@@ -59,7 +60,9 @@
   <string name="sound_source">Vir zvoka</string>
   <string name="sound_source_summary">Sistemski zvoki ali mikrofon</string>
   <string name="start">Začni</string>
+  <string name="start_recording">Začni snemanje</string>
   <string name="stop_by_second_space">Zamenjava prostora bo zaustavila snemanje</string>
+  <string name="stop_recording">Ustavi snemanje</string>
   <string name="stop_record_while_locking">Ustavi snemanje ob zakl. zaslona</string>
   <string name="stop_record_while_locking_summary">Končaj snemanje in shrani videoposnetek ko se zaklene zaslon</string>
   <string name="timer_format">%s</string>

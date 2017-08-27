@@ -9,18 +9,18 @@
   <string name="activate_feature_default_name">Mi storitev</string>
   <string name="activate_feature_find_device">Najdi napravo</string>
   <string name="activate_feature_live_talk">Paket doplačil</string>
+  <string name="activate_feature_mi_roaming">Mi Gostovanje</string>
   <string name="activate_feature_mms_sync">Sinhr. SMS sporočil</string>
-  <string name="activate_feature_mi_roaming">Mi gostovanje</string>
   <string name="activate_feature_mx">Mi Sporočila</string>
   <string name="activate_feature_mx_and_voip">Mi Sporočila in Zvok</string>
   <string name="activate_feature_register_xiaomi_account">Nastavitev Mi Računa</string>
   <string name="activate_feature_remote_assist">Oddaljena pomoč</string>
   <string name="activate_feature_verify_mx_token">Preveritev Mi Računa</string>
-  <string name="activate_history_success">Uspešno</string>
   <string name="activate_history_canceled_overview">Aktiviranje SIM kartice je preklicano. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_multisim_canceled_overview">Aktiviranje SIM kartice %2$d je preklicano. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_multisim_success_overview">SIM kartica %2$d uspešno aktivirana. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_sms">SMS sporočilo poslano ob aktivaciji.</string>
+  <string name="activate_history_success">Uspešno</string>
   <string name="activate_history_success_overview">SIM kartica uspešno aktivirana. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_title">Aktiviranje SIM kartice</string>
   <string name="activate_phone_cancel_notif_title">Aktiviranje SIM kartice preklicano</string>
@@ -105,9 +105,16 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="activate_status_desc_wait_for_sms_success">Sprejet aktivacijski SMS s strežnika</string>
   <string name="activate_status_title_activating">Aktivacija SIM kartice…</string>
   <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %s…</string>
+  <string name="agree">Strinjam se</string>
   <string name="app_name">Aktivacija SIM kartice</string>
   <string name="explain_send_sms_permission_button">Preveri</string>
   <string name="explain_send_sms_permission_msg">Da vključite %s, bo Xiaomi Service Framework poslal SMS da preveri vašo številko telefona. Vaš operater vam bo to sporočilo zaračunal.</string>
   <string name="explain_send_sms_permission_title">Potrdite vašo številko telefona</string>
+  <string name="phone_get_processing">Sprejem…</string>
+  <string name="phone_get_text">Strinjate se da %1$s dobi vašo telefonsko številko: %2$s</string>
+  <string name="phone_get_title">Strinjam se da %1$s dobi mojo telefonsko številko</string>
+  <string name="phone_verify_processing">Preverjanje…</string>
+  <string name="phone_verify_text">%1$s ne bo dobil vaše telefonske številke, samo preverite ujemanje.</string>
+  <string name="phone_verify_title">Strinjam se da %1$s preveri mojo telefonsko številko</string>
   <string name="sim_unactivated_title">"Vaša SIM kartica ni aktivirana"</string>
 </resources>

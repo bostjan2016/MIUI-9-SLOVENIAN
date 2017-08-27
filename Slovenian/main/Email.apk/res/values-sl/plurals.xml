@@ -176,4 +176,11 @@
          <item quantity="other">%d mesecev</item>
          <item quantity="one">%d mesec</item>
      </plurals>
+	 <plurals name="confirm_delete_draft">
+        <item quantity="other">Izbrišem skice: %1$d</item>
+     </plurals>
+     <plurals name="conversation_msg_header_count">
+        <item quantity="other">… %1$d oseb</item>
+        <item quantity="one">… %1$d oseba</item>
+     </plurals>
 </resources>

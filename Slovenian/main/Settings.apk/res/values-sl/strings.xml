@@ -607,6 +607,7 @@
   <string name="bluetooth_device_context_pair_connect">Seznanitev in povezava</string>
   <string name="bluetooth_device_context_unpair">Prekliči seznanitev</string>
   <string name="bluetooth_device_details">Nastavitve naprave</string>
+  <string name="bluetooth_device_misc_title">Redko uporabljene naprave Bluetooth</string>
   <string name="bluetooth_device_name">Ime naprave</string>
   <string name="bluetooth_device_searchable">Viden</string>
   <string name="bluetooth_devices">Naprave Bluetooth</string>
@@ -816,8 +817,10 @@
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Zajemi vse pakete Bluetooth HCI v datoteko</string>
+  <string name="bt_rarely_used_device_title">Redko uporabljene naprave (%d)</string>
   <string name="bt_trace_log">Dovoli Bluetooth Trace zapisnik</string>
   <string name="bt_trace_log_summary">Bluetooth Trace zapisnik</string>
+  <string name="bug_report_settings">Povratne inf.</string>
   <string name="bugreport_in_power">Bližnjica za por. o napakah</string>
   <string name="bugreport_in_power_summary">Prikaz gumba za ustvarjanje poročila o napakah v meniju</string>
   <string name="bugreport_tool_log">Zajemite poročilo o napaki</string>
@@ -951,6 +954,7 @@
   <string name="clear_failed_dlg_title">Počisti podatke</string>
   <string name="clear_uri_btn_text">Izbriši dostop</string>
   <string name="clear_user_data_text">Počisti podatke</string>
+  <string name="close_app">Zapri trenutno aplikacijo</string>
   <string name="close_dialog">U redu</string>
   <string name="close_gesture">Premik za zapiranje</string>
   <string name="close_install_and_connect">Ne hvala</string>
@@ -1379,6 +1383,7 @@
   <string name="dirac_mode_piston_2">Mi piston-2</string>
   <string name="dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="disableNetwork">disableNetwork</string>
+  <string name="disable_continue">Onemogoči</string>
   <string name="disable_data_string">Onemogoči podatkovno povezavo</string>
   <string name="disable_overlays">Onemogoči deljenje spomina</string>
   <string name="disable_overlays_summary">Za sestavljanje slike vedno uporabi graf. procesor</string>
@@ -1518,6 +1523,7 @@
   <string name="domain_urls_title">Povezave aplikacij</string>
   <string name="done">Končano</string>
   <string name="done_button">Končano</string>
+  <string name="double_click_power_key">Double Click Power Key</string>
   <string name="download_current_rom">Pridobite najnovejšo različico MIUI</string>
   <string name="downloading_description">Prenašanje...</string>
   <string name="doze_summary">Preklop zaslona iz stanja pripravljenosti ko primete napravo ali prejmete obvestila</string>
@@ -1667,6 +1673,8 @@
   <string name="external_storage_turn_on">Zunanji pomnilnik je vključen</string>
   <string name="extreme_threats_summary">Prejem. opozoril o skrajnih grožnjah za življenje in premoženje</string>
   <string name="extreme_threats_title">Skrajne grožnje</string>
+  <string name="face_unlock_disable">Odklepanje z obrazom je izključeno</string>
+  <string name="face_unlock_enable">Odklepanje z obrazom je vključeno</string>
   <string name="factory_reset_summary">Izbriši vse podatke iz notranjega pomnilnika telefona</string>
   <string name="failed_to_check_find_device_status_content">"Ne morem preveriti statusa Najdi napravo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="failed_to_check_find_device_status_title">"Ne morem preveriti statusa"</string>
@@ -1704,6 +1712,7 @@
   <string name="fingerprint_enable_keyguard_toggle_title">zaklepanje zaslona</string>
   <string name="fingerprint_enroll_button_add">Dodaj še enega</string>
   <string name="fingerprint_enroll_button_next">Naprej</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Biometrija (nastavite geslo za Zakl. zaslona pred uporabo)</string>
   <string name="fingerprint_first_open_screen_password_tittle">Prstni odtis (pred uporabo nastavite geslo Zakl.  zaslona)</string>
   <string name="fingerprint_for_keyguard_disabled">Prstni odtis je onemogočen s strani varnostnih nastavitev.</string>
   <string name="fingerprint_identificating_msg">Preverjanje prstnega odtisa…</string>
@@ -1719,6 +1728,7 @@
   <string name="fingerprint_lock_second">Odkleni Drugi prostor</string>
   <string name="fingerprint_manage">Upravljaj s Prstnimi odtisi</string>
   <string name="fingerprint_manage_category_title">Urejanje prst. odtisov</string>
+  <string name="fingerprint_manage_tittle">Prstni odtis</string>
   <string name="fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa. Vnesite svoje geslo"</string>
   <string name="fingerprint_not_recognized">Ni prepoznano</string>
   <string name="fingerprint_removal_failed">"Ne morem odstraniti prstnega odtisa, poskusite kasneje"</string>
@@ -1768,6 +1778,10 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="force_allow_on_external_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsako aplikacijo zapisati v zunanjo shrambo</string>
   <string name="force_hw_ui">Vsili upodabljanje z GPE-jem</string>
   <string name="force_hw_ui_summary">Za risanje 2D vsili uporabo grafičnega procesorja</string>
+  <string name="force_immersive_compatibility_dont_hide">"Ne skrivaj"</string>
+  <string name="force_immersive_compatibility_hide">Skrij</string>
+  <string name="force_immersive_compatibility_hint_message">Nekatere aplikacije mogoče ne bodo delovale pravilno če izbereti Skrij tipke zaslona.</string>
+  <string name="force_immersive_compatibility_hint_title">Težave s kompatibilnostjo</string>
   <string name="force_msaa">Vsili 4x MSAA</string>
   <string name="force_msaa_summary">V aplikacijah OpenGL ES 2.0 omogoči 4x MSAA</string>
   <string name="force_resizable_activities">Vsili povečanje velikosti za aktivnosti</string>
@@ -1848,6 +1862,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="global_font_change_title">Spremenjena velikost pisave</string>
   <string name="global_locale_change_title">Spremenjen jezik</string>
   <string name="go_back_button_label">Natrag</string>
+  <string name="go_to_sleep">Mirovanje</string>
   <string name="google_backup_enable">Vključi var. kopije</string>
   <string name="google_backup_section_title">Google Varnostno kopiranje in ponastavitev</string>
   <string name="google_title">Google</string>
@@ -2021,9 +2036,20 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keep_screen_on">Brez zaklepanja</string>
   <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli zaklenil</string>
   <string name="kernel_version">Različica jedra</string>
+  <string name="key_combination_power_back">Tipka Power + Nazaj</string>
+  <string name="key_combination_power_home">Tipka Power + Domov</string>
+  <string name="key_combination_power_menu">Tipka Power + Meni</string>
+  <string name="key_gesture_function_dialog_message">%1$s je nastavljen za %2$s, zamenjan s %3$s</string>
+  <string name="key_gesture_function_dialog_negative">Prekini</string>
+  <string name="key_gesture_function_dialog_positive">Zamenjaj</string>
+  <string name="key_gesture_function_optional">Geste in tipke</string>
+  <string name="key_gesture_function_preview">Pregled gest in tipk</string>
+  <string name="key_gesture_function_shortcut">Funkcija bližnice</string>
+  <string name="key_none">nič</string>
   <string name="key_position_cat">Položaj tipk</string>
   <string name="key_settings">Tipke</string>
   <string name="key_settings_title">Tipke</string>
+  <string name="key_system_control">Kontrola sistema</string>
   <string name="keyboard_and_input_methods_category">Tipkovnica in načini vnosa</string>
   <string name="keyboard_assistance_category">Pomoč za tipkovnico</string>
   <string name="keyboard_layout_default_label">Privzeto</string>
@@ -2103,9 +2129,12 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="later">Kasnije</string>
   <string name="lattice_smartcover_title">Rešetkasti sprednji pokrov</string>
   <string name="launch_by_default">Privzeto odpiranje</string>
+  <string name="launch_camera">Zaženi kamero</string>
   <string name="launch_count_label">Štetje</string>
   <string name="launch_defaults_none">Ni privzetih nastavitev</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
+  <string name="launch_google_search">Zaženi Google Iskanje</string>
+  <string name="launch_voice_assistant">Zaženi glasovni pomočnik</string>
   <string name="launcher_auto_fill_empty_title">Samodejno popolni prazna mesta</string>
   <string name="launcher_settings_title">MIUI zaganjalnik</string>
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
@@ -2373,10 +2402,16 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="lockscreen_glogin_password_hint">Geslo</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">Prepreči vnos odgovora ali drugega teksta v obvestila kadar je naprava zaklenjena</string>
   <string name="login_account_dialog_message">Prijavite se z Mi Računom in vključite sinhronizacijo z Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se z Mi Računom</string>
   <string name="login_action">Prijavite se</string>
+  <string name="long_press_back_key">Dolg pritisk tipka Nazaj</string>
+  <string name="long_press_buttom_key">Dolg pritisk tipke Meni na Zaklj. zaslonu</string>
+  <string name="long_press_home_key">Dolg pritisk tipke Domov</string>
+  <string name="long_press_menu_key">Dolg pritisk tipke Meni</string>
+  <string name="long_press_menu_key_when_lock">Dolg pritisk tipke Meni na Zaklj. zaslonu</string>
   <string name="long_press_volume_down">Dolgo pritisnite na zmanjševanje glasnosti</string>
   <string name="lte_4g_settings_4gdisable_summary">4G onemogočen</string>
   <string name="lte_4g_settings_4genable_summary">4G omogočen</string>
@@ -2395,6 +2430,7 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="manage_condition_providers_summary_zero">Nobena aplikacija ne zagotavlja pogojev</string>
   <string name="manage_device_admin">Skrbniki naprav</string>
   <string name="manage_device_admin_summary">Ogled ali izklop skrbnikov naprave</string>
+  <string name="manage_facerecoginition_text">Upravljaj z obrazi</string>
   <string name="manage_fakecell_settings">Zaščita pred nepravimi baznimi postajami</string>
   <string name="manage_fingerprint_text">Upravljaj s prstnimi odtisi</string>
   <string name="manage_mobile_plan_title">Naročniški paket za mobilno napravo</string>
@@ -2670,6 +2706,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_dirac_mode_general_earbuds">Splošno</string>
   <string name="music_dirac_mode_general_inear">Splošno</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
+  <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
   <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
@@ -2816,8 +2853,8 @@ Na tej napravi je več uporabnikov.
   <string name="no_vr_listeners">Nobena nameščena aplikacija ni zahtevala zagon kot pomožna storitev za navidezno resničnost.</string>
   <string name="noise_suppression">Odpravljanje šuma v okolju</string>
   <string name="normal">Normalna</string>
-  <string name="normal_info">Glasnost normalna</string>
   <string name="normal_date_format">Regionalno (%s)</string>
+  <string name="normal_info">Glasnost normalna</string>
   <string name="normal_smartcover_title">Neprozorni sprednji pokrov</string>
   <string name="not_battery_optimizing">Ne uporablja optimizacijo baterije</string>
   <string name="not_installed">Ni nameščeno</string>
@@ -3640,10 +3677,10 @@ Na tej napravi je več uporabnikov.
   <string name="restore_default_apn_completed">Ponastavitev privzetih nastavitev APN-jev končana</string>
   <string name="restr_pin_enter_admin_pin">Vnesite skrbniški PIN</string>
   <string name="restrict_background_blacklisted">Podatki v ozadju so izključeni</string>
-  <string name="restrict_max_aspect_ratio_title">Predlagamo da onemogočite maks. razmerje slike</string>
-  <string name="restrict_background_data_dialog_summary">Aplikacije ki se izvajajo v ozadju ne morejo prejemati sporočil</string>
+  <string name="restrict_background_data_dialog_summary">"Aplikacije v ozadju ne bodo imele možnost prevzeti nova obvestila."</string>
   <string name="restrict_background_data_notification_summary">Aplikacije se ne morejo povezati z omrežjem če so podatki v ozadju omejeni</string>
-  <string name="restrict_background_data_title">Omeji podatke v ozadju</string>
+  <string name="restrict_background_data_title">Omejitev podatkov v ozadju</string>
+  <string name="restrict_max_aspect_ratio_title">Predlagamo da onemogočite maks. merilo slike</string>
   <string name="restriction_bluetooth_config_summary">Dovoli spreminjanje seznanjanj in nastavitev naprav Bluetooth</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Aplikacije lahko uporabljajo podatke o vaši lokaciji</string>
@@ -3786,6 +3823,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_resolution_title">Resolucija zaslona</string>
   <string name="screen_resolution_ultrahigh_format">Ultravisoka (%1$s)</string>
   <string name="screen_saturation">Nasičenost</string>
+  <string name="screen_shot">Posnemi Posnetek zaslona</string>
   <string name="screen_timeout">Stanje pripravljenosti</string>
   <string name="screen_timeout_summary">Ko mine %1$s neaktivnosti</string>
   <string name="screen_timeout_title">Zaslon se izključi</string>
@@ -4218,6 +4256,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="show_ime_summary">Zadrži se na zaslonu dokler je fizična tipkovnica aktivna</string>
   <string name="show_magnifier_when_input">Povečava za besedilo</string>
   <string name="show_mem_info_title">Prikaži podatke o spominu</string>
+  <string name="show_menu">Prikaži Meni</string>
   <string name="show_non_rect_clip">Odpr. težav s postopki nepravokotnega izrezovanja</string>
   <string name="show_owner_info_on_lockscreen_label">Prikaži informacije o lasniku na Zakl. zaslonu</string>
   <string name="show_password">Gesla so vidna</string>
@@ -4384,6 +4423,7 @@ Morda je koda PIN napačna."</string>
   <string name="spellchecker_language">Jezik</string>
   <string name="spellchecker_quick_settings">Nastavitve</string>
   <string name="spellchecker_security_warning">Ta pregledovalnik črkovanja bo morda lahko zbral vse besedilo ki ga vnesete, vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. Pregledovalnik je iz aplikacije %1$s. Ga želite uporabiti?</string>
+  <string name="spellchecker_switch_title">Vključi Kontrolo pravopisa</string>
   <string name="spellcheckers_settings_title">Črkovalnik</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Nadzor omrežja</string>
@@ -4413,11 +4453,11 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_filter_item_description">Če želite konfigurirati obvestila pojdite v Nastavitve &gt; Obvestila &gt; Upravljanje obvestil</string>
   <string name="status_bar_filter_item_preview_image">Predogled</string>
   <string name="status_bar_key_position_custom">Zamenjajte položaj tipke</string>
-  <string name="status_bar_screen_button_force_immersive_desc">Podrsaj gor za prikaz tipk zaslona</string>
   <string name="status_bar_screen_button_desc">Podrsaj dol da skrijete tipko zaslona</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Podrsajte navzdol za prikaz tipk zaslona</string>
   <string name="status_bar_screen_button_key">Tipke zaslona</string>
-  <string name="status_bar_screen_button_key_force_immersive">Skrij tipke zaslona</string>
   <string name="status_bar_screen_button_key_can_hide">Tipke zaslona se lahko skrijejo</string>
+  <string name="status_bar_screen_button_key_force_immersive">Skrij tipke zaslona</string>
   <string name="status_bar_screen_key_back">Tipka nazaj</string>
   <string name="status_bar_screen_key_home">Tipka domov</string>
   <string name="status_bar_screen_key_menu">Tipka meni</string>
@@ -4642,7 +4682,6 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="storageuse_settings_title">Uporaba pomnilnika</string>
   <string name="strict_mode">Strog način je omogočen</string>
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti</string>
-  <string name="suggest_unrestrict_max_aspect_ratio_title">Predlagamo da omogočite maks. razmerje</string>
   <string name="sub_activate_failed">Aktivacija ni uspela.</string>
   <string name="sub_activate_not_supported">Aktivacija ni podprta</string>
   <string name="sub_activate_success">Uspešno aktivirano.</string>
@@ -4650,6 +4689,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="sub_deactivate_not_supported">Deaktivacija ni podprta</string>
   <string name="sub_deactivate_success">Uspešno deaktivirano.</string>
   <string name="subs_settings">SUBS Status</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Predlagamo da omogočite maks. razmerje</string>
   <string name="suggested_fingerprint_lock_settings_summary">Odklepanje s prstnim odtisom</string>
   <string name="suggested_lock_settings_summary">Zaščitite svojo napravo</string>
   <string name="suggested_lock_settings_title">Zaklepanje zaslona</string>
@@ -4756,6 +4796,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="tethering_settings_not_available">Zamenjaj nastavitve deljenja povezave v privzetem prostoru</string>
   <string name="tethering_settings_summary">"Delite mobilno podatkovno omrežje vaše naprave preko USB-a ali mobilnoe dostopne točke"</string>
   <string name="theme_settings_title">Teme</string>
+  <string name="three_gesture_down">Tri geste dol</string>
   <string name="time_picker_title">Čas</string>
   <string name="time_zone_auto_stub">Izberite časovni pas</string>
   <string name="timed_titlei">Pravilo po razporedu %d</string>
@@ -4862,6 +4903,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="turn_off_keyguard_password_wait_dialog">Zapiranje gesla</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla ne boste mogli odkleniti naprave s prstnim odtisom</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Ko izključite geslo Zaklj. zaslona, Bodo posneti prstni odtisi zbrisani. Naprave ne boste mogli odkleniti s pomočjo prstnega odtisa."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Po izključitvi gesla Zaklj. zaslona se bodo zbrisali prstni odtisi in napravo ne boste mogli odkleniti s pomočjo prstnih odtisov."</string>
   <string name="turn_off_radio">Izklopi radio</string>
   <string name="turn_off_security_lock">Izključi Zakl. zaslona</string>
   <string name="turn_on_keyguard_password">Vključi geslo Zakl. zaslona</string>
@@ -4874,6 +4916,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="turn_on_keyguard_password_alert_forget_title">"Če ga pozabite, ga ne boste mogli obnoviti."</string>
   <string name="turn_on_radio">Vklopi radio</string>
   <string name="turn_on_security_lock">Izberite Zakl. zaslona</string>
+  <string name="turn_on_torch">Vključi svetilko</string>
   <string name="turn_on_wifi_dialog_text">WiFi je izključen kadar je Prenosna dostopna točka aktivna. Za vklop WiFi izključite Prenosno dostopno točko.</string>
   <string name="turn_on_wifi_dialog_title">Vključi WiFi</string>
   <string name="turn_update_keyguard_password_wait_dialog">Menjava gesla</string>

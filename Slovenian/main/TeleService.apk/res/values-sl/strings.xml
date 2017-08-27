@@ -880,6 +880,7 @@
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
   <string name="incall_error_call_failed">Ni mogoče izvesti klica</string>
   <string name="incall_error_cannot_add_call">Klic trenutno ni mogoč.</string>
+  <string name="incall_error_ecm_emergency_only">Izključite način nujnih klicev da lahko kličete normalno.</string>
   <string name="incall_error_emergency_only">Ni registriran na omrežju.</string>
   <string name="incall_error_local_low_battery">Klic ni uspel zaradi slabe baterije!!!.</string>
   <string name="incall_error_low_battery">Klic ni uspel zaradi slabe baterije daljinca!!!.</string>
@@ -1593,6 +1594,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="rates_correspond">Odgovarjajoče cene.</string>
   <string name="rc_unlock_failed">RUIM odklep neuspešen</string>
   <string name="rc_unlock_success">RUIM odklep uspešen</string>
+  <string name="rcs_not_supported">"Rcs ni podprt"</string>
   <string name="reading_settings">Nastavitve branja…</string>
   <string name="refueling_package_a">Paket A</string>
   <string name="refueling_package_b">Paket B</string>
@@ -1729,6 +1731,8 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="settings_label">Omrežne nastavitve</string>
   <string name="show_all_anrs">Prikaži vse ANR-je</string>
   <string name="show_all_anrs_summary">Prikaz sporočil o izvajanju aplk. v ozadju ki ne odgovarja</string>
+  <string name="show_cpu_usage">Prikaži porabo procesorja</string>
+  <string name="show_cpu_usage_summary">Povzetek porabe procesorja</string>
   <string name="show_hw_layers_updates">Prikaži posodobitev slojev str. opreme</string>
   <string name="show_hw_layers_updates_summary">Sloji strojne opreme utripajo zeleno pri posodabljanju</string>
   <string name="show_hw_screen_updates">Prikaži posodobitev GPU pogleda</string>

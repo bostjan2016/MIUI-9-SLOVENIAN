@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Tapnite da odprete vrtiljak slik za ozadje</string>
+  <string name="btn_camera">Fotografirajte svoj obraz</string>
   <string name="click_to_enter_text">Dotaknite se za pregled</string>
   <string name="confirm_pin_msg">Ponovno vnesi PIN</string>
   <string name="custom_lock_wallpaper_enter">Odpri</string>
@@ -15,6 +16,49 @@
   <string name="experimental_validate_thanks">Hvala!</string>
   <string name="experimental_validate_username">Uporabniško ime</string>
   <string name="experimental_validate_warning">Hvala ker ste pomagali narediti MIUI boljši!</string>
+  <string name="face_data_input_camera_fail">"Ne morem naložiti kamere"</string>
+  <string name="face_data_input_camera_ok">Nalaganje kamere…</string>
+  <string name="face_data_input_cancel">Prekini</string>
+  <string name="face_data_input_cancel_msg">"Ne morem dodati obraz"</string>
+  <string name="face_data_input_msg">Postavite obraz v okvir</string>
+  <string name="face_data_input_ok">Končano</string>
+  <string name="face_data_input_ok_msg">Vključite zaslon da odklenete napravo s pomočjo obraza.</string>
+  <string name="face_data_input_ok_title">Uspešno dodano</string>
+  <string name="face_data_input_title">Dodajte svoj obraz</string>
+  <string name="face_data_introduction_msg">Obraz se lahko uporabi za odklepanje naprave ali potrditev vaše identitete. Dodajte geslo Zaklj. zaslona pred dodajanjem obraza.</string>
+  <string name="face_data_introduction_next">Naprej</string>
+  <string name="face_data_introduction_title">Prepoznavanje obraza</string>
+  <string name="face_data_manage_delete">Izbrišem obraz?</string>
+  <string name="face_data_manage_delete_msg">Izbriši</string>
+  <string name="face_data_manage_delete_sure">"Po brisanju obraza napravo ne boste mogli odkleniti s pomočjo prepoznavanja obraza."</string>
+  <string name="face_data_manage_delete_title">Obraz</string>
+  <string name="face_data_manage_unlock_msg">Odklenite svojo napravo s pomočjo prepoznavanja vašega obraza</string>
+  <string name="face_data_manage_unlock_title">Odklenite z uporabo obraza</string>
+  <string name="face_data_suggesstion_first">Odklepanje s pomočjo obraza je majn varno od uporabe gesla za Zaklj. zaslon. Vaša naprava se bo mogoče odklenila osebi ki vam je podobna.</string>
+  <string name="face_data_suggesstion_second">"preverite da deli vašega obraza niso prekriti in da so jasno vidni. Vaš obraz bi moral biti tudi dobro osvetljen."</string>
+  <string name="face_unlock_adjust_distance">Preverite če je oddaljenost med obrazom in napravo optimalna.</string>
+  <string name="face_unlock_be_on_the_screen">Držite napravo pred obrazom</string>
+  <string name="face_unlock_by_notification_screen_on_msg">You can unlock the device using face data whenever the screen lights up for incoming notifications. This may drain the battery faster.</string>
+  <string name="face_unlock_by_notification_screen_on_title">Dovoli Odklepanje z obrazom ko se zaslon vključi</string>
+  <string name="face_unlock_check_failed">"Ne morem vas prepoznati"</string>
+  <string name="face_unlock_close_screen">Pribljižajte se zaslonu</string>
+  <string name="face_unlock_down">Dvignite glavo</string>
+  <string name="face_unlock_identify_error">Prišlo je do napake pri prepoznavanju</string>
+  <string name="face_unlock_not_found">"Ne morem vas prepoznati"</string>
+  <string name="face_unlock_offset_bottom">Spustite malo telefon</string>
+  <string name="face_unlock_offset_left">Pomaknite se v desno</string>
+  <string name="face_unlock_offset_right">Pomaknite se v levo</string>
+  <string name="face_unlock_offset_top">Dvignite malo telefon</string>
+  <string name="face_unlock_open_eye">Malo bolj odprite oči</string>
+  <string name="face_unlock_passwork">Uporabi geslo</string>
+  <string name="face_unlock_passwork_and_fingerprint">Uporabi geslo ali prepoznavanje obraza</string>
+  <string name="face_unlock_quality">"Ne morem jasno vidjeti vašega obraza"</string>
+  <string name="face_unlock_reveal_eye">Napravite svoje oči vidnejše</string>
+  <string name="face_unlock_reveal_mouth">Napravite svoje usnice vidljivejše</string>
+  <string name="face_unlock_rise">Spustite glavo</string>
+  <string name="face_unlock_rotated_left">Obrnite glavo na desno</string>
+  <string name="face_unlock_rotated_right">Obrnite glavo na levo</string>
+  <string name="face_unlock_stay_away_screen">Stojte 25 do 40 cm oddaljeni od zaslona</string>
   <string name="find_device_turn_off_flight_mode">Izklopi letalski način</string>
   <string name="fingerprint_add_text">Vmesnik prstnih odtisov je posodobljen. Ponovno dodajte svoj pstni odtis.</string>
   <string name="fingerprint_add_title">Dodajte prstni odtis</string>
@@ -99,10 +143,6 @@
   <string name="open_remote_center_hint_text">Povlecite desno za Telefon</string>
   <string name="open_wifi_settings">Odpri omrežno povezavo</string>
   <string name="phone_locked_foget_password">Pozabljeno geslo?</string>
-  <string name="phone_locked_foget_password_mehod_back">Nazaj</string>
-  <string name="phone_locked_foget_password_method">Pozabljeno geslo?</string>
-  <string name="phone_locked_foget_password_method_content">Morate <font color="#a5220e">izbrisati vse podatke </font> iz vaše naprave, tudi fotografije in stike, potem pa nastavite novo geslo Zakl. zaslona.</string>
-  <string name="phone_locked_foget_password_method_next">Naprej</string>
   <string name="phone_locked_foget_password_content">"Lahko se prijavite na i.mi.com s pomočjo Mi Računa ki je povezan s to napravo in izbrišete vse podatke.
 To bo izbrisalo vse osebne podatke shranjene na tej napravi. Kasneje lahko ponovno zaženete napravo in vrnete stike, sporočila, fotografije in druge stvari iz Mi Clouda.
 
@@ -111,13 +151,19 @@ Tega ne morete narediti če niste prijavljeni na svoj Mi Račun v tej napravi. d
   
 Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritisnite "Izbriši napravo"."</string>
   <string name="phone_locked_foget_password_header">Kaj storiti če sem pozabil svoje geslo?</string>
-  
+  <string name="phone_locked_foget_password_mehod_back">Nazaj</string>
+  <string name="phone_locked_foget_password_method">Pozabljeno geslo?</string>
+  <string name="phone_locked_foget_password_method_content">Morate izbrisati vse podatke na vaši napravi, vključno fotografije in stike, nato pa nastavite novo geslo Zaklj. zaslona.</string>
+  <string name="phone_locked_foget_password_method_next">Naprej</string>
   <string name="phone_locked_foget_password_ok">Razumem</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">Izključite napravo, pritisnite in držite <font color="#a5220e">tipko za vklop</font> in <font color="#a5220e">Glasnost + </font>istovremeno dok ne vidite MI.</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Izberite <font color="#a5220e">\"Izbriši &amp; obnovi\"</font> in počakajte da se naprava ponovno zažene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
-  <string name="phone_locked_string">Telefon je bil zaklenjen</string>
+  <string name="phone_locked_string">Telefon je zaklenjen</string>
   <string name="set_lock_wallpaper_failed">Ni novih slik za ozadje</string>
+  <string name="unlock_camera_steady">Bodite mirni</string>
+  <string name="unlock_failed">Interna napaka</string>
+  <string name="unlock_failed_face_not_found">Detekcija</string>
   <string name="unlock_sim_string">Odkleni SIM</string>
   <string name="unlock_string">Odkleni</string>
   <string name="unlocking_sim_card">Odkleni SIM kartico</string>

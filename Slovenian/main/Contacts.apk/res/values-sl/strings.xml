@@ -23,6 +23,7 @@
   <string name="add_contact_dlg_message_fmt">Dodam \"%s\" med stike?</string>
   <string name="add_display_photo_entry">Dodaj fotografijo profila</string>
   <string name="add_field">Dodaj novo polje</string>
+   <string name="add_field_toast">Ni več polja za dodajanje.</string>
   <string name="add_incall_show_entry">Dodaj video</string>
   <string name="add_new_account">Dodaj nov račun</string>
   <string name="add_new_entry_for_section">Dodaj novo</string>
@@ -101,6 +102,8 @@
   <string name="call_work">Pokliči službo</string>
   <string name="call_work_mobile">"Pokliči službo (mobilno)"</string>
   <string name="call_work_pager">"Pokliči službeni pozivnik"</string>
+  <string name="calllog_call_note_menu">Beležke klicev</string>
+  <string name="calllog_call_record_menu">Posneti klici</string>
   <string name="calllog_menu_blacklist">Blokiraj</string>
   <string name="calllog_menu_edit_before_call">"Uredi"</string>
   <string name="calllog_menu_send_sms">"Pošlji sporočilo"</string>
@@ -507,6 +510,8 @@ Razlog: \"%s\""</string>
   <string name="group_delete_success_toast">Skupina izbrisana</string>
   <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Ime skupine</string>
+  <string name="group_member_remove_fail_toast">Ni odstranjen iz skupine</string>
+  <string name="group_member_remove_success_toast">Odstranjen iz skupine</string>
   <string name="group_member_remove_toast">Odstranjeno iz skupine</string>
   <string name="group_move_fail_toast">"Ne morem premestiti stikov"</string>
   <string name="group_name">Prijatelji</string>
@@ -1256,6 +1261,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="toast_for_saving_nickname">Vzdevek shranjen</string>
   <string name="toast_join_with_empty_contact">Vnesite ime stika preden ga združite z drugim</string>
   <string name="toast_making_personal_copy">Ustvarjam osebno kopijo...</string>
+  <string name="toast_start_intent_failed">Za obdelavo tega opravila ni najdena nobena aplikacije</string>
   <string name="toast_text_copied">Besedilo kopirano</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>

@@ -113,6 +113,7 @@
   <string name="sd_invalid">Vaša SD kartica je poškodovana.</string>
   <string name="send_to_midrive_failed">"Ta vrsta datotek ni podprta."</string>
   <string name="slashes">/</string>
+  <string name="source_file_missing">Majnka datoteka.</string>
   <string name="space_full">Ni dovolj prostora v oblaku.</string>
   <string name="start_use_xiaomi_account">Začnite uporabljati Mi Drive</string>
   <string name="system_alert">Spletno povezovanje</string>

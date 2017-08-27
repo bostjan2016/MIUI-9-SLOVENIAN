@@ -144,4 +144,12 @@
          <item quantity="other">Preskočeno %d pesmi. Vključite online vsebine v nastavitvah za poslušanje</item>
          <item quantity="one">Preskočena %d pesem. Vključite online vsebine v nastavitvah za poslušanje</item>
      </plurals>
+     <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Izključuje optimizacijo albuma in teksta. Želite povrniti optimizirane informacije, album in tekst %d pesmi?</item>
+        <item quantity="one">Izključuje optimizacijo albuma in teksta. Želite povrniti optimizirane informacije, album in tekst %d pesmi?</item>
+     </plurals>
+     <plurals name="songs_count">
+        <item quantity="other">Pesmi: %d</item>
+        <item quantity="one">%d pesem</item>
+     </plurals>
 </resources> 

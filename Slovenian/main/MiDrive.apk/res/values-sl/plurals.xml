@@ -137,7 +137,15 @@
          <item quantity="many">%1$d dni</item>
     </plurals>
     <plurals name="des_running_trans">
-        <item quantity="other">"%1$d datotek ni prenešeno."</item>
-        <item quantity="one">"%1$d datoteka ni prenešena."</item>
+        <item quantity="other">"%1$d datotek ni poslano."</item>
+        <item quantity="one">"%1$d datoteka ni poslana."</item>
+	</plurals>
+		<plurals name="delete_files">
+        <item quantity="other">Izbrišem datoteke: %1$d?</item>
+        <item quantity="one">Izbrišem to datoteko?</item>
+     </plurals>
+     <plurals name="delete_folders">
+        <item quantity="other">Izbrišem mape: %1$d?</item>
+        <item quantity="one">Izbrišem to mapo?</item>
     </plurals>
 </resources>

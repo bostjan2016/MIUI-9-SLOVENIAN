@@ -75,6 +75,7 @@
   <string name="preference_tip_rename">Ročno poimenuj posnetek</string>
   <string name="recognition_error_cancel">Odpovedano</string>
   <string name="recognition_error_download_cancel">Kasneje</string>
+  <string name="recognition_error_download_data_msg">Prenesite orodje za prepoznavanje da bo ta storitev dostopna. To bo porabilo okoli 20 MB mobilnih podatkov.</string>
   <string name="recognition_error_download_fail">Prenos ni uspel. Prevjerite omrežne nastavitve</string>
   <string name="recognition_error_download_msg">Morate prenesti program prepoznavanja da bo storitev dostopna.</string>
   <string name="recognition_error_download_ok">Prenesi</string>
@@ -95,6 +96,7 @@
   <string name="record_downloading_notification">Prenašanje...</string>
   <string name="record_downloading_notification_complete">Prenos končan</string>
   <string name="record_downloading_notification_count">%d prenešeno</string>
+  <string name="record_format_preference_title">Format snemanja</string>
   <string name="record_list">Posnetki</string>
   <string name="record_list_call">Posneti klici</string>
   <string name="record_list_category_title_format">MMMM yyyy</string>
@@ -106,6 +108,7 @@
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
   <string name="record_quliaty_preference_title">Kvaliteta snemanja</string>
+  <string name="record_resotre">Obnovi posnetke</string>
   <string name="recording">Snemanje</string>
   <string name="recording_quality_high">Visoka</string>
   <string name="recording_quality_low">Nizka</string>
@@ -148,6 +151,13 @@
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s lahko snemam za toliko %2$s</string>
   <string name="toast_uninstall_fileexplorer">Aplikacija Raziskovalec ni nameščena</string>
+  <string name="webview_check_network">Omrežne nastavitve</string>
+  <string name="webview_data_error">Prišlo je do napake</string>
+  <string name="webview_locating_fail">"Ne morem najti vaše lokacije"</string>
+  <string name="webview_network_access_denied">Dostop do omrežja je zavrnjen</string>
+  <string name="webview_network_unavaliable">"Ne morem se povezati na omrežje"</string>
+  <string name="webview_service_unavailiable">Storitev nedostopna</string>
+  <string name="webview_try_again">Poskusite ponovno</string>
   <string name="wifi_recommended_body" formatted="false">"Z uporabo mobilne podatkovne povezave in prenosom te datoteke (%s) se bo povečala uporaba podatkov.
   Če greste čez mejo uporabe podatkov vašega zakupa lahko vaš ponudnik zaračuna dodaten strošek. Če želite počakati na povezavo WiFi za prenos datoteke pritisnite %s.</string>
   <string name="wifi_recommended_title">Opozorilo uporabe podatkov</string>

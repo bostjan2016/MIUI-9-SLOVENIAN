@@ -320,6 +320,7 @@
   <string name="micloud_find_device_verify_close">Izključi Najdi napravo</string>
   <string name="micloud_find_device_verify_fail">"Ne morem ponovno aktivirati Najdi napravo"</string>
   <string name="micloud_find_device_verify_progress">Ponovno aktiviranje Najdi napravo…</string>
+  <string name="micloud_main_save_battery_on">Način dela za varčevanje z baterijo je vključen. Lahko je vzrok za prekinitev sinhronizacije.</string>
   <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Preverjam za posodobitve…</string>
   <string name="msg_cleanup_db_update_time_unknown">Zadnja posodobitev nepoznana</string>

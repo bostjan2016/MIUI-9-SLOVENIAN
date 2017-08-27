@@ -208,6 +208,7 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_notes_unhidden_count">%1$s odkrit uspešno</string>
   <string name="toast_privacy_mode">Ne morem to narediti za skrite beležke</string>
   <string name="toast_reach_text_limit_attachment">Ne morem dodati nove priponke ker je beležka predolga</string>
+  <string name="toast_reach_text_limit_checkbox">"Potrditveno okno ni mogoče dodati ker je beležka predolga"</string>
   <string name="toast_reach_text_limit_truncate">Beležka je predolga. Del teksta je odrezan na koncu.</string>
   <string name="toolbar_check_description">Dodaj potrdni okvir</string>
   <string name="toolbar_delete_description">Izbriši to beležko</string>

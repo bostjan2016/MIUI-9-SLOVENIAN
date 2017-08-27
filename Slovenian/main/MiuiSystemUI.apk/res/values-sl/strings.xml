@@ -165,6 +165,7 @@
   <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
   <string name="button_convert_fbe">Izbriši i pretvori…</string>
   <string name="call_status_dialing">Klicanje</string>
+  <string name="call_status_holding">Na čakanju</string>
   <string name="call_status_ringing">Zvonjenje</string>
   <string name="camera_key_action_app_title">Odpri aplikacijo</string>
   <string name="camera_key_action_category_title">Uporabi če aplikacija kamere ni odprta</string>

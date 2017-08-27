@@ -182,6 +182,7 @@
   <string name="contextmenu_dial_dot">Kličem...</string>
   <string name="contextmenu_download_image">Shrani sliko</string>
   <string name="contextmenu_download_image_as">Shrani sliko kot</string>
+  <string name="contextmenu_manually_block_ad">Označi kot oglas</string>
   <string name="contextmenu_map">Zemljevid</string>
   <string name="contextmenu_openlink">Odpri</string>
   <string name="contextmenu_openlink_newwindow">Odpri v novem zavihku</string>
@@ -413,6 +414,7 @@ Zapustim to stran?"</string>
   <string name="miui_content_select">Izberi</string>
   <string name="miui_content_select_all">Izberi vse</string>
   <string name="miui_content_share">Deli</string>
+  <string name="miui_content_translate">Prevedi</string>
   <string name="miui_content_web_search">Išči</string>
   <string name="miui_quicksearch_enable_pref_summary">Vedno prikaži iskalno polje brskalnika v obvestilni vrstici</string>
   <string name="miui_quicksearch_enable_pref_title">Iskalno polje v obvestilni vrstici</string>
@@ -568,8 +570,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hiter vnos povezave</string>
   <string name="pref_adblock_counts">Blokirano %d</string>
   <string name="pref_adblock_title">Blokada reklam</string>
+  <string name="pref_advert_null">Neoznačeno oglašavanje, lahko pritisnite nalepko na strani</string>
   <string name="pref_auto_update_under_wifi">Posodobi z uporabo WiFi</string>
   <string name="pref_automatic_matching_searchengines_title">Prestavili ste na pogosto iskanje</string>
+  <string name="pref_cancel_screen">Prekliči zaslon</string>
   <string name="pref_category_hint">Kategorija</string>
   <string name="pref_check_security_url_summary">Pošlji povezavo Xiaomi strežnikom da preverijo če je varen</string>
   <string name="pref_check_security_url_summary_international">Da dobite boljšo uslugo priporočil, dovolite brskalniku dobivanje dostopa do vaše povezave</string>
@@ -613,6 +617,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_force_userscalable_summary">Povozi prošnjo spletne strani za krmiljenje povečave besedila</string>
   <string name="pref_general_title">Splošno</string>
   <string name="pref_key_gesture_title">Tipke &amp; kretnje</string>
+  <string name="pref_label_advert_manager">Upravitelj je označil oglase</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Telefon</string>
   <string name="pref_nav_mode_title">Način Brskalnika</string>
@@ -914,6 +919,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="video_push_multi_message">Dostopna posodobitev: %1$d</string>
   <string name="video_push_multi_title">Dostopna posodobitev</string>
   <string name="video_push_single_message">Dotaknite se za posodobitev na %1$d</string>
+  <string name="video_service_notification_title">Predvajanje videoposnetka</string>
   <string name="video_subtitle_last_message1">Preostalo je manj od 1 minute</string>
   <string name="video_subtitle_prefix1">Gledano</string>
   <string name="video_subtitle_prefix2">"Gledano "</string>

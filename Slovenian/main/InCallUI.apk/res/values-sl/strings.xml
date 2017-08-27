@@ -237,6 +237,7 @@
   <string name="onscreen_rcs_text">Sporočila</string>
   <string name="onscreen_swap_calls_text">Zamenjaj</string>
   <string name="onscreen_switch_camera">Zamenjaj</string>
+  <string name="package_not_available">\"%s\" ni dostopen</string>
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_yes">Da</string>
   <string name="payphone">Govorilnica</string>

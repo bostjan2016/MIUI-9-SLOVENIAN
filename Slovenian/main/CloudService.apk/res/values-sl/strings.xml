@@ -230,7 +230,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_find_device_guide_title">"Prijavite se v %s da najdete, zaklenete ali uničite svojo napravo."</string>
   <string name="micloud_find_device_open_fail">"Ne morem vključiti Najdi napravo"</string>
   <string name="micloud_find_device_opened">Najdi napravo vključeno</string>
-  <string name="micloud_find_device_opened_content">Najdite napravo na %s</string>
+  <string name="micloud_find_device_opened_content">Prijavite se na %s da najdete svojo napravo</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_first_login_summary"/>
@@ -286,7 +286,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_sync_exception">Napaka sinhr.</string>
   <string name="micloud_main_sync_init">Zbiranje informacij</string>
   <string name="micloud_main_sync_need_charge">Napolnite baterijo svoje naprave</string>
-  <string name="micloud_main_sync_need_charge_or_sleep">Priključite polnilec in izključite zaslon za sinhronizacijo</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Priključite polnilec in izključite zaslon</string>
   <string name="micloud_main_sync_now">Sinhroniziraj</string>
   <string name="micloud_main_sync_on">Sinhr. vključena</string>
   <string name="micloud_main_sync_on_wifi">Čakam WiFi</string>
