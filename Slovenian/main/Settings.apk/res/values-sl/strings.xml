@@ -1523,7 +1523,7 @@
   <string name="domain_urls_title">Povezave aplikacij</string>
   <string name="done">Končano</string>
   <string name="done_button">Končano</string>
-  <string name="double_click_power_key">Double Click Power Key</string>
+  <string name="double_click_power_key">Dvoklik tipke Vklop</string>
   <string name="download_current_rom">Pridobite najnovejšo različico MIUI</string>
   <string name="downloading_description">Prenašanje...</string>
   <string name="doze_summary">Preklop zaslona iz stanja pripravljenosti ko primete napravo ali prejmete obvestila</string>
@@ -4902,8 +4902,8 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="turn_off_keyguard_password_confirm_msg">Nekatere funkcija zaščite naprave ne bodo delovale brez vašega gesla.</string>
   <string name="turn_off_keyguard_password_wait_dialog">Zapiranje gesla</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla ne boste mogli odkleniti naprave s prstnim odtisom</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Ko izključite geslo Zaklj. zaslona, Bodo posneti prstni odtisi zbrisani. Naprave ne boste mogli odkleniti s pomočjo prstnega odtisa."</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Po izključitvi gesla Zaklj. zaslona se bodo zbrisali prstni odtisi in napravo ne boste mogli odkleniti s pomočjo prstnih odtisov."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Ko izključite geslo Zakl. zaslona bodo posneti prstni odtisi zbrisani. Naprave ne boste mogli odkleniti s pomočjo prstnega odtisa."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Po izključitvi gesla Zakl. zaslona se bodo zbrisali prstni odtisi in napravo ne boste mogli odkleniti s pomočjo prstnih odtisov."</string>
   <string name="turn_off_radio">Izklopi radio</string>
   <string name="turn_off_security_lock">Izključi Zakl. zaslona</string>
   <string name="turn_on_keyguard_password">Vključi geslo Zakl. zaslona</string>

@@ -38,7 +38,7 @@
   <string name="face_data_suggesstion_second">"preverite da deli vašega obraza niso prekriti in da so jasno vidni. Vaš obraz bi moral biti tudi dobro osvetljen."</string>
   <string name="face_unlock_adjust_distance">Preverite če je oddaljenost med obrazom in napravo optimalna.</string>
   <string name="face_unlock_be_on_the_screen">Držite napravo pred obrazom</string>
-  <string name="face_unlock_by_notification_screen_on_msg">You can unlock the device using face data whenever the screen lights up for incoming notifications. This may drain the battery faster.</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Lahko odklenete napravo s pomočjo obraza ko se vključi zaslon za dohodna obvestila. To povečuje porabo baterije.</string>
   <string name="face_unlock_by_notification_screen_on_title">Dovoli Odklepanje z obrazom ko se zaslon vključi</string>
   <string name="face_unlock_check_failed">"Ne morem vas prepoznati"</string>
   <string name="face_unlock_close_screen">Pribljižajte se zaslonu</string>
@@ -156,8 +156,8 @@ Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritis
   <string name="phone_locked_foget_password_method_content">Morate izbrisati vse podatke na vaši napravi, vključno fotografije in stike, nato pa nastavite novo geslo Zaklj. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Naprej</string>
   <string name="phone_locked_foget_password_ok">Razumem</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">Izključite napravo, pritisnite in držite <font color="#a5220e">tipko za vklop</font> in <font color="#a5220e">Glasnost + </font>istovremeno dok ne vidite MI.</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">Izberite <font color="#a5220e">\"Izbriši &amp; obnovi\"</font> in počakajte da se naprava ponovno zažene.</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">Izključite napravo, pritisnite in držite &lt;font color="#a5220e"&gt;Tipko za vklop&lt;/font&gt; in &lt;font color="#a5220e"&gt;Glasnost + &lt;/font&gt;istočasno dokler ne vidite MI.</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">Izberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; obnovi\"&lt;/font&gt; in počakajte da se naprava ponovno zažene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaklenjen</string>
   <string name="set_lock_wallpaper_failed">Ni novih slik za ozadje</string>

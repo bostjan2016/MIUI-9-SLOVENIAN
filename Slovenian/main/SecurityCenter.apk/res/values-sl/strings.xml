@@ -180,6 +180,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_apps_generatioin">Posodobitve</string>
   <string name="app_manager_apps_generation_summary">Posodobite, da lahko uporabljate najnovejše funkcije</string>
   <string name="app_manager_appupdate_remind">Obvesti o posodobitvah</string>
+  <string name="app_manager_back">Nazaj</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
   <string name="app_manager_card_permission_title">Dovoljenja</string>
   <string name="app_manager_clear_data_dlg_message">Vsi podatki aplikacije bodo trajno izbrisani. To vključuje vse datoteke, nastavitve, račune, baze podatkov itd.</string>
@@ -2718,7 +2719,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="wifi_optizition_tip">Vključite povečanje hitrosti omrežja da napravite WiFi povezavo stabilnejšo. Uporabljena bo majhna količina mobilnih podatakov.</string>
   <string name="wifi_optizition_title">Povečaj WiFi hitrost</string>
   <string name="wl_no_whitelist">Ni izjem.</string>
-  <string name="wlan_booster">Povečaj WiFi hitrost</string>
+  <string name="wlan_booster">WiFi optimizacija</string>
   <string name="wlan_change_protection_detail">"Ne zamenjaj samodejno na WiFi ko je povezano na mobilno omrežje"</string>
   <string name="wlan_change_protection_title">Prepreči menjavo omrežij promjenu mreža</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite še</string>

@@ -72,7 +72,7 @@
   <string name="download_succ_ok">Odpri</string>
   <string name="download_success">%1$s Prejemanje končano.</string>
   <string name="download_title">Prenos datotek</string>
-  <string name="empty_file_notification_sent">Bluetooth deljenje: Oddaljena zavrnitev datoteke %1$s</string>
+  <string name="empty_file_notification_sent">Bluetooth deljenje: Oddaljena zavrnitev datoteke nične dolžine %1$s</string>
   <string name="enabling_progress_content">Vklapljam Bluetooth...</string>
   <string name="enabling_progress_title">Prosimo, počakajte...</string>
   <string name="goto_package">Odpri %1$s</string>
