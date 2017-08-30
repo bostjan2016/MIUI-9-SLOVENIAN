@@ -374,8 +374,8 @@
   <string name="need_download">Sinhroniziram…</string>
   <string name="network_error">Omrežna napaka</string>
   <string name="networking_allow_continue">V redu</string>
-  <string name="networking_allow_desc">"Smart sporočila vam omogočajo pošiljanje brezplačnih sporočil in zvoka, prepoznavanje neznanih številk, filtriranje nezaželjenih sporočil itd. Z uporabo se strinjate z Xiaomi %1$s i %2$s. Morate vključiti Yellow Pages in se povezati se na splet za uporabo te usluge."</string>
-  <string name="networking_allow_desc_without_mx">"Smart sporočila vam omogočajo prepoznavanje neznanih številk, filtriranje nezaželjenih sporočil itd. Z uporabo se strinjate z Xiaomi %1$s i %2$s. Morate vključiti Yellow Pages in se povezati na splet."</string>
+  <string name="networking_allow_desc">"Mi sporočila potrebuje povezavo s spletom za normalno delovanje. Da boste prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge storitve, Mi sporočila potrebuje Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
+  <string name="networking_allow_desc_without_mx">"Mi sporočila potrebuje povezavo s spletom za normalno delovanje. Da boste ponudili brezplačne tekstualne in govorne usluge, prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge storitve, Mi sporočila potrebuje Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
   <string name="networking_allow_title">Pozor</string>
   <string name="new_message">Novo sporočilo</string>
   <string name="new_message_arrived">Imate novo sporočilo</string>

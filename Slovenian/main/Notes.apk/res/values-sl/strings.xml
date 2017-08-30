@@ -13,7 +13,7 @@
   <string name="alert_message_delete_note">Izbrišem to beležko?</string>
   <string name="alert_message_edit_anyway">Če urejate to beležko se lahko nekatere njene vsebine izgubijo.</string>
   <string name="alert_message_restore">"Te beležke ne morem odpreti. Za urejanje jo morate obnoviti."</string>
-  <string name="alert_title_delete">Izbrišem beležko?</string>
+  <string name="alert_title_delete">Izbriši beležko</string>
   <string name="alert_title_edit_anyway">Ta beležka vsebuje nepodprto vsebino</string>
   <string name="alert_title_hidden_note">Prejet opomnik skrite beležke</string>
   <string name="alert_title_restore">Obnovi beležko</string>

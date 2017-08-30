@@ -21,7 +21,7 @@
      <string name="download_title">Prenašam (%s)</string>
      <string name="download_title_first">Pridobivanje informacij…</string>
      <string name="download_title_full_download">Pridobivanje informacij…</string>
-     <string name="downloading">Prenos…</string>
+  <string name="downloading">Prenos:</string>
      <string name="downloading_desc">Poteka prenos, preverite status v področju obvestil.</string>
      <string name="install_desc">"Naprava se bo ponovno zagnala v TWRP in namestila izbrano datoteko: %1$s
 Podatki ne bodo izbrisani."</string>

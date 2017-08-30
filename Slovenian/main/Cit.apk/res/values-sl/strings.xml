@@ -35,6 +35,7 @@
   <string name="audio_spk_def">Kalibriranje zvočnika</string>
   <string name="baterry_percent">"Napolnjenost baterije: "</string>
   <string name="baterry_temperature">"Temperatura baterije: "</string>
+  <string name="battery_info">Povezane informacije o polnjenju baterije</string>
   <string name="begin_to_save_finger_data">Začetek shranjevanja prstnega odtisa</string>
   <string name="button_cancel">Prekliči</string>
   <string name="button_ok">V redu</string>
