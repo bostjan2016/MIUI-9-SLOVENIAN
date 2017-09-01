@@ -24,11 +24,11 @@
   <string name="activate_history_success_overview">SIM kartica uspešno aktivirana. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_title">Aktiviranje SIM kartice</string>
   <string name="activate_phone_cancel_notif_title">Aktiviranje SIM kartice preklicano</string>
-  <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM kartice %s preklicano</string>
+  <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM kartice %d preklicano</string>
   <string name="activate_phone_failed_notif_title">"Ne morem aktivirati SIM kartico"</string>
-  <string name="activate_phone_failed_notif_title_msim">"Ne morem aktivirati SIM kartico %s"</string>
+  <string name="activate_phone_failed_notif_title_msim">"Ne morem aktivirati SIM kartico %d"</string>
   <string name="activate_phone_success_notif_title">SIM kartica aktivirana</string>
-  <string name="activate_phone_success_notif_title_msim">SIM kartica %s aktivirana</string>
+  <string name="activate_phone_success_notif_title_msim">SIM kartica %d aktivirana</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Poskusi ponovno</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Poskusi ponovno</string>
   <string name="activate_popup_confirm_error_device_id">Poskusi ponovno</string>
@@ -104,7 +104,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="activate_status_desc_wait_for_sms_fail">"Ni bilo mogoče sprejeti aktivacijskega SMS s strežnika"</string>
   <string name="activate_status_desc_wait_for_sms_success">Sprejet aktivacijski SMS s strežnika</string>
   <string name="activate_status_title_activating">Aktivacija SIM kartice…</string>
-  <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %s…</string>
+  <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %d…</string>
   <string name="agree">Strinjam se</string>
   <string name="app_name">Aktivacija SIM kartice</string>
   <string name="explain_send_sms_permission_button">Preveri</string>
