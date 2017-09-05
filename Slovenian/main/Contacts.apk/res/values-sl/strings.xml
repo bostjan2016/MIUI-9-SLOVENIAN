@@ -1182,6 +1182,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="sim_error_password_error">Geslo ki ste ga vnesli je napačno</string>
   <string name="sim_error_storage_full">SIM kartica je polna</string>
   <string name="sim_error_text_too_long">Ime je predolgo</string>
+  <string name="sim_export_error">SIM ni pripravljena, poskusite ponovno kasneje</string>
   <string name="sim_export_loading">Berem SIM kartico...</string>
   <string name="sim_indexed_contact_not_exist">Položaj %1$d na SIM kartici ni pravilen. Položaj mora biti med %2$d in %3$d.</string>
   <string name="sim_no_contact">Na SIM kartici ni stikov</string>

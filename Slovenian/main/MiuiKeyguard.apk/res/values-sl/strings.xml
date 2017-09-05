@@ -79,6 +79,7 @@
   <string name="input_password_after_boot_msg">"Da odklenete napravo vnesite geslo"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne morem zamenjati prostore med klicem"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Po ponovnem zagonu morate vstopiti v Prvi prostor</string>
+  <string name="input_password_handle_sdcard_fs">Izključite "Optimizacija emulirane SD kartice" pred vstopom v Drugi prostor.</string>
   <string name="input_password_hint_text">Vnesi geslo</string>
   <string name="input_pattern_hint_text">Narišite vzorec za odklepanje</string>
   <string name="input_pin_code">Vnesi PIN</string>
@@ -156,7 +157,7 @@ Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritis
   <string name="phone_locked_foget_password_method_content">Morate izbrisati vse podatke na vaši napravi, vključno fotografije in stike, nato pa nastavite novo geslo Zaklj. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Naprej</string>
   <string name="phone_locked_foget_password_ok">Razumem</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">Izključite napravo, pritisnite in držite &lt;font color="#a5220e"&gt;Tipko za vklop&lt;/font&gt; in &lt;font color="#a5220e"&gt;Glasnost + &lt;/font&gt;istočasno dokler ne vidite MI.</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">Izključite napravo, pritisnite in držite &lt;font color="#a5220e"&gt;Tipko za vklop&lt;/font&gt; in &lt;font color="#a5220e"&gt;Glasnost + &lt;/font&gt;istočasno dokler ne vidite MI logo.</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Izberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; obnovi\"&lt;/font&gt; in počakajte da se naprava ponovno zažene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaklenjen</string>

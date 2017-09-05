@@ -175,7 +175,7 @@
   <string name="expire_on">Poteče: %s</string>
   <string name="exporting_progress_private_message">Izvažam...</string>
   <string name="fail_to_add_attachment">"Ne morem dodati priponke"</string>
-  <string name="fail_to_view_attachment">Priponka ni dostopna</string>
+  <string name="fail_to_view_attachment">"Priponka ni dostopna"</string>
   <string name="failed_to_add_media">Ne morete dodati %1$s vašemu sporočilu.</string>
   <string name="failed_to_resize_image">Velikost slike ni spremenjena.</string>
   <string name="fake_cell_alert_hint">Kaže da je bilo to sporočilo poslano s telefona ki se razlikuje od prikazanega. Bodite previdni pri SMS-ih ki vsebujejo finančne zahteve.</string>
@@ -373,9 +373,9 @@
   <string name="mx_type_guide">Mi sporočila vam ponuja pošiljanje sporočil drugim MIUI uporabnikom ne da bi nastali SMS stroški.</string>
   <string name="need_download">Sinhroniziram…</string>
   <string name="network_error">Omrežna napaka</string>
-  <string name="networking_allow_continue">V redu</string>
-  <string name="networking_allow_desc">"Mi sporočila potrebuje povezavo s spletom za normalno delovanje. Da boste prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge storitve, Mi sporočila potrebuje Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
-  <string name="networking_allow_desc_without_mx">"Mi sporočila potrebuje povezavo s spletom za normalno delovanje. Da boste ponudili brezplačne tekstualne in govorne usluge, prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge storitve, Mi sporočila potrebuje Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
+  <string name="networking_allow_continue">Dovoli</string>
+  <string name="networking_allow_desc">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi ponudili brezplačne tekstne in govorne storitve, prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge funkcije, Mi Sporočila uporabljajo Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
+  <string name="networking_allow_desc_without_mx">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge funkcije, Mi Sporočila uporablja Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
   <string name="networking_allow_title">Pozor</string>
   <string name="new_message">Novo sporočilo</string>
   <string name="new_message_arrived">Imate novo sporočilo</string>

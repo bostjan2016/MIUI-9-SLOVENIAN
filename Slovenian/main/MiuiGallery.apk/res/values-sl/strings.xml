@@ -380,6 +380,7 @@
   <string name="error_connect_timeout_msg">Povežite se s drugim omrežjem in poskusite ponovno.</string>
   <string name="error_connect_timeout_tip">Povezava je potekla.</string>
   <string name="error_decode_tip">"Format datoteke ni podprt ali pa so datoteke poškodovane."</string>
+  <string name="error_download_tip">"Ne morem prenesti"</string>
   <string name="error_external_sdcard_write_action">Spremeni shrambo</string>
   <string name="error_external_sdcard_write_msg">Pojdite v Nastavitve &gt; Shramba, zamenjajte shrambo in poskusite ponovno.</string>
   <string name="error_external_sdcard_write_tip">"Ni možno shraniti datoteke na SD kartico."</string>

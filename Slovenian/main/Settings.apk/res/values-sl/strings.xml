@@ -4900,7 +4900,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="turn_off_common_password_confirm_msg">Zakl. zaslona bo tudi izključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Izključi</string>
   <string name="turn_off_keyguard_password_confirm_msg">Nekatere funkcija zaščite naprave ne bodo delovale brez vašega gesla.</string>
-  <string name="turn_off_keyguard_password_wait_dialog">Zapiranje gesla</string>
+  <string name="turn_off_keyguard_password_wait_dialog">Izklop gesla…</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla ne boste mogli odkleniti naprave s prstnim odtisom</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Ko izključite geslo Zakl. zaslona bodo posneti prstni odtisi zbrisani. Naprave ne boste mogli odkleniti s pomočjo prstnega odtisa."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Po izključitvi gesla Zakl. zaslona se bodo zbrisali prstni odtisi in napravo ne boste mogli odkleniti s pomočjo prstnih odtisov."</string>
@@ -4911,15 +4911,15 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="turn_on_keyguard_password_alert_choose">"Zapomnite si geslo. Če ga pozabite, boste morali izbrisati vse podatke iz naprave da boste nastavili novo."</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Ne zdaj</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Razumem</string>
-  <string name="turn_on_keyguard_password_alert_foget_ok_time">Razumem(%d sek.)</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">Razumem (%d sek.)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">"Zapomnite si geslo za zaklepanje zaslona. Če ga pozabite, boste morali izbrisati vse podatke iz naprave, tudi fotografije in stike, potem pa nastaviti novo."</string>
-  <string name="turn_on_keyguard_password_alert_forget_title">"Če ga pozabite, ga ne boste mogli obnoviti."</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">Zapomnite si vaše geslo</string>
   <string name="turn_on_radio">Vklopi radio</string>
   <string name="turn_on_security_lock">Izberite Zakl. zaslona</string>
   <string name="turn_on_torch">Vključi svetilko</string>
   <string name="turn_on_wifi_dialog_text">WiFi je izključen kadar je Prenosna dostopna točka aktivna. Za vklop WiFi izključite Prenosno dostopno točko.</string>
   <string name="turn_on_wifi_dialog_title">Vključi WiFi</string>
-  <string name="turn_update_keyguard_password_wait_dialog">Menjava gesla</string>
+  <string name="turn_update_keyguard_password_wait_dialog">Sprememba gesla…</string>
   <string name="twohours">1 ura</string>
   <string name="uicc_eject">Izključi UICC pomnilnik</string>
   <string name="uicc_eject_summary">Izključite UICC pomnilnik, tako da ga lahko odstanite na varen način</string>

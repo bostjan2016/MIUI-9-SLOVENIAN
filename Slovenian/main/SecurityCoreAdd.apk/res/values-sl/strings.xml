@@ -169,6 +169,8 @@ Lahko jih prenesete tudi ločeno."</string>
   Drugače ne boste mogli v Drugi prostor iz Zakl. zaslona.</string>
   <string name="privacyContactsSummary">Prikaži zasebne nastavitve v Drugem prostoru</string>
   <string name="privacyContactsTitle">Zasebna sporočila in stiki</string>
+  <string name="privacy_password_fingerprint_dialog_message">Postavite prst na senzor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Skeniraj prstni odtis</string>
   <string name="private_sms_show_sub_title">Podatki sporočil se bodo delili med dvema prostoroma</string>
   <string name="private_sms_show_title">Zasebna sporočila so prikazana v Drugem prostoru</string>
   <string name="private_space_setting">Urejaj</string>
@@ -230,10 +232,14 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="settings_status_icon_title">Ikona Drugega prostora</string>
   <string name="settings_switch_shortcut_summary">Prikaži bližnjico zač. zaslona v Prvem prostoru</string>
   <string name="settings_switch_shortcut_title">Tapnite bližnjico za menjavo</string>
-  <string name="show_normal_content">"Ne prikazuj zasebne podatke"</string>
+  <string name="show_decktop_quick_switch_icon">Bližnjica zač. zaslona</string>
+  <string name="show_decktop_quick_switch_icon_detail">Pokaži bližnjico za spremembo prostora na zač. zaslonu v prvem prostoru</string>
+  <string name="show_normal_content">"Ne kaži zasebne podatke"</string>
   <string name="show_noti_from_owner">Obvestila Prvega prostora</string>
-  <string name="show_noti_quick_switch_icon">Bližnica za preklop med prostori</string>
-  <string name="show_noti_setting">Prikaži Drugi prostor v panelu obvestil</string>
+  <string name="show_noti_from_owner_detail">Prejmi obvestila v trenutnem prostoru kadar pridejo iz drugega prostora</string>
+  <string name="show_noti_quick_switch_icon">Bližnjica plošče obvestil</string>
+  <string name="show_noti_quick_switch_icon_detail">Pokaži bližnjico za spremembo prostora v plošči obvestil</string>
+  <string name="show_noti_setting">Prikaži Drugi prostor v plošči obvestil</string>
   <string name="show_private_content">Prikaži zasebno vsebino</string>
   <string name="show_private_msg">Prikaži zasebna sporočila</string>
   <string name="show_private_msg_summary">Prikaži zasebna sporočila v Drugem prostoru</string>

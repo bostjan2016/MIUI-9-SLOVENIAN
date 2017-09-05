@@ -22,6 +22,7 @@
   <string name="account_and_calendar_to_display">Izberi koledarje za prikaz</string>
   <string name="accounts">Računi &amp; sinhronizacija</string>
   <string name="acct_not_synced">Ta račun ni sinhroniziran zato morda vaši koledarji niso posodobljeni.</string>
+  <string name="action_bar_more_menu_view_description">Več</string>
   <string name="acessibility_cal_notification">Obvestila koledarja</string>
   <string name="acessibility_selected_marker_description">Izbran dogodek</string>
   <string name="acessibility_snooze_notification">Odloži obvestila</string>
