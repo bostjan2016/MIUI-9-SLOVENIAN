@@ -61,7 +61,7 @@
   <string name="can_not_use">"Ne morem uporabiti"</string>
   <string name="cancel">Prekliči</string>
   <string name="card_title_answering">Odgovor na klic</string>
-  <string name="card_title_answering_fail">"Ne morem odgovoriti na klic, poskusite ponovno."</string>
+  <string name="card_title_answering_time_out">"Ne morem odgovoriti na klic, poskusite ponovno."</string>
   <string name="card_title_call_ended">"Klic končan "</string>
   <string name="card_title_conf_call">"Konferenčni klic "</string>
   <string name="card_title_dialing">Kličem</string>
