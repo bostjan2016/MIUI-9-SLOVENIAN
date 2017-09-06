@@ -1371,7 +1371,7 @@
   <string name="dialog_title_hdmi_color_calibration">Nastavljanje korekcije barv</string>
   <string name="dialog_title_login">Prijavite se v svoj Mi račun</string>
   <string name="dialog_yes">Da</string>
-  <string name="dirac_control">Optimirajte kakovost zvoka</string>
+  <string name="dirac_control">Optimizirajte kakovost zvoka</string>
   <string name="dirac_mode_earbuds">Mi slušalke</string>
   <string name="dirac_mode_general">Splošno</string>
   <string name="dirac_mode_general_earbuds">Splošno</string>

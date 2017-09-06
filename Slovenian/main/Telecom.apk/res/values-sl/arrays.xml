@@ -169,6 +169,6 @@
     <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>
         <item>Naravno doživetje barv doživljaj boje</item>
-        <item>Barve optimirane za digitalno vsebino</item>
+        <item>Barve optimizirane za digitalno vsebino</item>
     </string-array>
 </resources>

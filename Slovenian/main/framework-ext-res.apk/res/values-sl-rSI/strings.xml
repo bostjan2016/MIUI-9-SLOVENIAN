@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_package_delete_confirm_title">Važno opozorilo</string>
+  <string name="activity_package_delete_confirm_title">Pomembno opozorilo</string>
   <string name="add_frequent_phrases">Dodaj pogoste izraze</string>
   <string name="all_call_livetalk_enable">Uporaba paketa doplačila za domače in mednarodne klice</string>
   <string name="all_call_livetalk_remain_mins">Preostalo minut: %1$s domači | %2$s mednarodni</string>
-  <string name="always">Zmeraj</string>
+  <string name="always">Vedno</string>
   <string name="alwaysUsePrompt">"Zapomni si izbrano"</string>
   <string name="apply_password_action">V redu</string>
   <string name="apply_password_confirm_dlg_msg">Uporabim trenutno geslo za zaklepanje zaslona za dostop do %s​?</string>
   <string name="apply_password_confirm_dlg_title">%s geslo</string>
-  <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogočene, dvakrat tapnite katerokoli tipko da jih ponovno vključite</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogočene, dvakrat tapnite katerokoli tipko, da jih ponovno vključite</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke onemogočene</string>
   <string name="auto_disable_screenbuttons_float_text">Tapnite za onemogočanje Navigacijskih tipk</string>
   <string name="auto_disable_screenbuttons_prompts_message">Dvakrat tapnite katerokoli tipko da vključite Navigacijske tipke kadarkoli.</string>
@@ -45,7 +45,7 @@
   <string name="force_exit_message">Prisilno zaprta aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne morem izključiti %1$s ker jo uporablja sistem."</string>
   <string name="fourhours">2 uri</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">S pritiskom na tipko Domov se lahko vrnete na začetni zaslon. To funkcijo lahko Vključite/izključite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke &gt; Pritisnite tipko Domov za vrnitev na Začetni zaslon.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">S pritiskom na tipko Domov se lahko vrnete na začetni zaslon. To funkcijo lahko Vključite/Izključite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke &gt; Pritisnite tipko Domov za vrnitev na Začetni zaslon.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, hvala</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vključi</string>
   <string name="fp_nav_center_action_choose_dlg_title">Vključi Hitri dotik</string>
@@ -75,10 +75,10 @@
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
   <string name="lockscreen_access_pattern_start">Vzorec se začenja</string>
   <string name="maml_component_customization_title">Nastavitve</string>
-  <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimirana.</string>
+  <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimizirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Dostopno: %2$sB"</string>
   <string name="miui">miui</string>
-  <string name="miui_screen_ratio_hint">Problem z razmerjem zaslona</string>
+  <string name="miui_screen_ratio_hint">Težava z razmerjem zaslona</string>
   <string name="miui_screen_ratio_hint_dont_show_again">"Ne kaži več"</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Pojdi v Nastavitve</string>
   <string name="miui_screen_ratio_hint_message">Ta aplikacija se ne more zagnati na celem zaslonu, kar lahko povzroči napačno prikazovanje. To lahko spremenite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke.</string>
@@ -143,7 +143,7 @@
   <string name="status_bar_toggle_cast">Predvajaj</string>
   <string name="status_bar_toggle_data">Podatki</string>
   <string name="status_bar_toggle_divider">Več</string>
-  <string name="status_bar_toggle_drive_mode">Avto</string>
+  <string name="status_bar_toggle_drive_mode">Samod.</string>
   <string name="status_bar_toggle_edit">Razvrsti</string>
   <string name="status_bar_toggle_flight_mode">Letalo</string>
   <string name="status_bar_toggle_gps">GPS</string>
@@ -153,7 +153,7 @@
   <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_network_type">Omrežje</string>
   <string name="status_bar_toggle_paper_mode">Način branja</string>
-  <string name="status_bar_toggle_power_mode">Performanse</string>
+  <string name="status_bar_toggle_power_mode">Zmogljivost</string>
   <string name="status_bar_toggle_privacy_mode">Gost</string>
   <string name="status_bar_toggle_quiet_mode">Ne moti</string>
   <string name="status_bar_toggle_reboot">Ponovni zagon</string>
@@ -169,7 +169,7 @@
   <string name="status_bar_toggle_vibrate">Vibracija</string>
   <string name="status_bar_toggle_wifi">WiFi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-  <string name="switch_brand_desc_tv">Varnostne usluge ponuja Graphite</string>
+  <string name="switch_brand_desc_tv">Varnostne storitve ponuja Graphite</string>
   <string name="switch_desc_tv">Dva prostora. Ena naprava.</string>
   <string name="switching_tv">Sprememba…</string>
   <string name="total">DND</string>

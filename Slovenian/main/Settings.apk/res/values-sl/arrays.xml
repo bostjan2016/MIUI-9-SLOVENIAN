@@ -672,7 +672,7 @@
         <item>Standardno</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimiranje kontrasta z dostopno svetlobo</item>
+        <item>Optimiziranje kontrasta z dostopno svetlobo</item>
         <item>"Povečanje kontrasta zaslona"</item>
         <item>Kontrast bo ostal konstanten</item>
     </string-array>
