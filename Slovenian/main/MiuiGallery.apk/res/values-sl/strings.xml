@@ -959,7 +959,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="slideshow_interval_title">Prikaži vsak posnetek na</string>
   <string name="slideshow_interval_value">%1$d sek.</string>
   <string name="slim_after_backuped_summary">Zamenjajte fotografije polne resolucije v napravi z optimiziranimi verzijami ko ste jih shranili na Mi Cloud. Fotografije v polni resoluciji bodo še dalje dostopne na Mi Cloudu. To prihrani mnogo lokalnega prostora za shranjevanje.</string>
-  <string name="slim_after_backuped_title">Optimiraj lokalno shrambo po izdelavi var. kopije</string>
+  <string name="slim_after_backuped_title">Optimiziraj lokalno shrambo po izdelavi var. kopije</string>
   <string name="slim_introduce">Zamenjajte fotografije/videoposnetke polne resolucije v lokalnem pomnilniku z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani več od 90% prostora za shranjevanje (potreben Mi Račun).</string>
   <string name="slim_introduce_with_specific_size">Zamenjajte fotografije/videoposnetke polne resolucije v lokalni shrambi z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani %1$s (potreben Mi Račun).</string>
   <string name="slim_now">Zmanjšaj sedaj</string>
@@ -967,7 +967,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="slim_result_title">Uspešno zmanjšano</string>
   <string name="slim_tip_msg">Albumi se bodo zmanjšali samodejno ko je povezan na WiFi. Prenesite datoteke polne ločljivosti s klikom na "Prenesi izvorno fotografijo" v iskalniku.</string>
   <string name="slim_tip_title">O zmanjševanju velikosti fotografij</string>
-  <string name="slimming">Optimiranje…</string>
+  <string name="slimming">Optimiziranje…</string>
   <string name="square">Kvadrat</string>
   <string name="start_debug">Odpravi nepravilnosti Galerije</string>
   <string name="start_to_use_face_albumset">Razporedi po osebah</string>

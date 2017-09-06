@@ -69,7 +69,7 @@
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
   <string name="lockscreen_access_pattern_start">Vzorec se začenja</string>
   <string name="maml_component_customization_title">Nastavitve</string>
-  <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimirana.</string>
+  <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimizirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Dostopno: %2$sB"</string>
   <string name="miui">miui</string>
   <string name="package_delete_confirm_step_1">Izbrišem %s?</string>

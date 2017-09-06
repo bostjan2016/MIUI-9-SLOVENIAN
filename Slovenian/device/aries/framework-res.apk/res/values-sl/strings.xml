@@ -63,9 +63,9 @@
   <string name="allow">Dovoli</string>
   <string name="alwaysUse">Privzeta uporaba za to dejanje.</string>
   <string name="android_system_label">Sistem Android</string>
-  <string name="android_upgrading_apk">Optimiranje aplikacije %1$d od %2$d.</string>
+  <string name="android_upgrading_apk">Optimiziranje aplikacije %1$d od %2$d.</string>
   <string name="android_upgrading_complete">Dokončevanje zagona.</string>
-  <string name="android_upgrading_fstrim">Optimiranje pomnilnika.</string>
+  <string name="android_upgrading_fstrim">Optimiziranje pomnilnika.</string>
   <string name="android_upgrading_starting_apps">Zagon aplikacij.</string>
   <string name="android_upgrading_title">Poteka nadgradnja Androida ...</string>
   <string name="anr_activity_application">%2$s se ne odziva</string>

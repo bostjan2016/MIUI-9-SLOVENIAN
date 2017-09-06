@@ -146,8 +146,8 @@
          <item quantity="one">Najdena %d težava baterije, popravite jo</item>
      </plurals>
     <plurals name="app_check_title_text">
-        <item quantity="other">%d stvari se lahko optimira</item>
-        <item quantity="one">%d stvar se lahko optimira</item>
+        <item quantity="other">%d stvari se lahko optimizira</item>
+        <item quantity="one">%d stvar se lahko optimizira</item>
     </plurals>
 	<plurals name="title_virus_clean">
          <item quantity="other">Izbrisano %d virusov</item>

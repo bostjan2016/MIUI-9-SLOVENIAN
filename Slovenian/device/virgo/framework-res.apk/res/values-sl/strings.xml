@@ -65,9 +65,9 @@
   <string name="android_preparing_apk">Pripravljanje aplikacije %1$s.</string>
   <string name="android_start_title">Android se zaganja …</string>
   <string name="android_system_label">Sistem Android</string>
-  <string name="android_upgrading_apk">Optimiranje aplikacije %1$d od %2$d.</string>
+  <string name="android_upgrading_apk">Optimiziranje aplikacije %1$d od %2$d.</string>
   <string name="android_upgrading_complete">Dokončevanje zagona.</string>
-  <string name="android_upgrading_fstrim">Optimiranje pomnilnika.</string>
+  <string name="android_upgrading_fstrim">Optimiziranje pomnilnika.</string>
   <string name="android_upgrading_starting_apps">Zagon aplikacij.</string>
   <string name="android_upgrading_title">Poteka nadgradnja Androida ...</string>
   <string name="anr_activity_application">"Aplikacija %2$s se ne odziva.
