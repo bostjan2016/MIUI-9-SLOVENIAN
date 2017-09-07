@@ -3965,6 +3965,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_handy_mode">Delo z eno roko;Delo z eno roko;Delo z eno roko;Ena roka</string>
   <string name="search_hint">Nastavitve iskanja</string>
   <string name="search_home_key">Začetna</string>
+  <string name="search_input_hint">Nastavitve iskanja</string>
   <string name="search_key">Tipke;Tipke</string>
   <string name="search_lab_functions_title">Beta funkcije,Lab funkcije</string>
   <string name="search_label">Nastavitve</string>
@@ -5533,7 +5534,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifi_hotspot_message">%1$s zahteva spletno prijavo pred povezavo v omrežje.</string>
   <string name="wifi_hotspot_title">Ali se želite prijaviti da se lahko povežete?</string>
   <string name="wifi_in_airplane_mode">V načinu Letalo</string>
-  <string name="wifi_info_reconnect">Napaka gesla, poskusite ponovno!</string>
+  <string name="wifi_info_reconnect">Povezava ni uspela, poskusite ponovno!</string>
   <string name="wifi_install_credentials">Namestitev potrdil</string>
   <string name="wifi_ip_address">Naslov IP</string>
   <string name="wifi_ip_settings">Nastavitve naslova IP</string>
