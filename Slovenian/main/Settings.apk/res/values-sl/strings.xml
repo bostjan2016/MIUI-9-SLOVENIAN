@@ -925,7 +925,8 @@
   <string name="charge_length_format">Pred toliko časa: %1$s</string>
   <string name="charging_sounds_title">Zvoki polnjenja</string>
   <string name="check_find_device_status_failure_confirm">V redu</string>
-  <string name="check_update">Preveri za posodobitev</string>
+  <string name="check_importance">Preveri važne</string>
+  <string name="check_update">Preveri posodobitve</string>
   <string name="checkbox_notification_same_as_incoming_call">Za obvestila uporabljaj glasnost dohodnih klicev</string>
   <string name="checking_decryption">Preverjanje ...</string>
   <string name="checking_find_device_status">Preverjanje statusa Najdi napravo…</string>
@@ -4542,6 +4543,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_wifi_mac_address">Naslov MAC vmesnika WiFi</string>
   <string name="status_wimax_mac_address">Naslov 4G MAC</string>
   <string name="status_write_success">Uspešno.</string>
+  <string name="statusbar_permission_desc">Dovoljenja so dostopna samo za važna obvestila</string>
   <string name="storage_detail_apps">Aplikacije</string>
   <string name="storage_detail_audio">Zvok</string>
   <string name="storage_detail_cached">Predpomnjeni podatki</string>
@@ -4937,6 +4939,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="uicc_mount_summary"/>
   <string name="uicc_unmount_inform_text">UICC pomnilnik bo izključen.</string>
   <string name="under_keyguard">Na izključenem zaslonu</string>
+  <string name="unimportant">Nevažne</string>
   <string name="uninstall_all_users_text">Odstrani za vse uporabnike</string>
   <string name="uninstall_device_admin">Odstrani aplikacijo</string>
   <string name="uninstall_dlg_msg">Odstranitev bo odstranila vse podatke aplikacije.</string>
