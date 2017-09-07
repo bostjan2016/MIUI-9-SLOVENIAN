@@ -24,7 +24,7 @@
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_button">Zoom</string>
   <string name="audio_focus_exit_button_text">Izključi</string>
-  <string name="beauty_fragment_tab_name_beauty">Oleepšaj</string>
+  <string name="beauty_fragment_tab_name_beauty">Olepšaj</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>
   <string name="burst_shoot_exit_button_text">Izključi</string>
   <string name="button_fisheye_camera_title">Ribje oko</string>
@@ -43,7 +43,7 @@
   <string name="cannot_connect_camera_volte_call">Videoklic poteka, poskusite kasneje.</string>
   <string name="cannot_move_warning_message">Zajemam sliko, napravo držite pri miru.</string>
   <string name="color_effect_entry_berry">Sadje</string>
-  <string name="color_effect_entry_blackwhite">B&amp;W</string>
+  <string name="color_effect_entry_blackwhite">Č&amp;B</string>
   <string name="color_effect_entry_cookie">Kolač</string>
   <string name="color_effect_entry_delicacy">Gourmet</string>
   <string name="color_effect_entry_fade">Bledo</string>
