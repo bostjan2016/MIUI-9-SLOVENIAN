@@ -2040,7 +2040,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="key_combination_power_back">Tipka Power + Nazaj</string>
   <string name="key_combination_power_home">Tipka Power + Domov</string>
   <string name="key_combination_power_menu">Tipka Power + Meni</string>
-  <string name="key_gesture_function_dialog_message">%1$s je nastavljen za %2$s, zamenjan s %3$s</string>
+  <string name="key_gesture_function_dialog_message">%1$s je nastavljen za %2$s, zamenjam z %3$s</string>
   <string name="key_gesture_function_dialog_negative">Prekini</string>
   <string name="key_gesture_function_dialog_positive">Zamenjaj</string>
   <string name="key_gesture_function_optional">Geste in tipke</string>
@@ -4799,7 +4799,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="tethering_settings_not_available">Zamenjaj nastavitve deljenja povezave v privzetem prostoru</string>
   <string name="tethering_settings_summary">"Delite mobilno podatkovno omrežje vaše naprave preko USB-a ali mobilnoe dostopne točke"</string>
   <string name="theme_settings_title">Teme</string>
-  <string name="three_gesture_down">Tri geste dol</string>
+  <string name="three_gesture_down">Poteg dol s tremi prsti</string>
   <string name="time_picker_title">Čas</string>
   <string name="time_zone_auto_stub">Izberite časovni pas</string>
   <string name="timed_titlei">Pravilo po razporedu %d</string>
