@@ -170,7 +170,7 @@
   <string name="camera_key_action_shortcut_screenshot">"Posnetek zaslona"</string>
   <string name="camera_key_action_shortcut_search">"Preišči"</string>
   <string name="camera_key_action_shortcut_title">Bližnica</string>
-  <string name="camera_key_action_shortcut_wake">zakleni/Zbudi napravo</string>
+  <string name="camera_key_action_shortcut_wake">Zakleni/Zbudi napravo</string>
   <string name="camera_key_action_toggle_title">Sprememba stanja bližnice</string>
   <string name="category_personal">Osebno</string>
   <string name="category_work">Služba</string>
