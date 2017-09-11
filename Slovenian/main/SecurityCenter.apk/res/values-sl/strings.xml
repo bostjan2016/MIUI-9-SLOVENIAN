@@ -1335,6 +1335,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="network_speed_for_apps_others">Ostalo</string>
   <string name="network_speed_for_apps_title">Povezava</string>
   <string name="network_speed_for_apps_total">Hitrost povezave</string>
+  <string name="network_test_speed">Testiraj hitrost WiFi-ja</string>
   <string name="networkchanged_exception_summary">Omrežna povezava se je spremenila. Testirajte ponovno.</string>
   <string name="networkchanged_exception_title">Način povezovanja se je spremenil</string>
   <string name="never">Nikoli</string>
@@ -2625,6 +2626,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="traffic_setting_fragment_brand">Znamka</string>
   <string name="traffic_setting_fragment_button1_text">Opusti</string>
   <string name="traffic_setting_fragment_button2_text">Shrani</string>
+  <string name="traffic_setting_fragment_default">Privzeto</string>
   <string name="traffic_setting_fragment_city">Mesto</string>
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Ne veste operaterja?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne morem se povezati na omrežje. Preverite svojo podatkovno povezavo in poskusite ponovno."</string>
@@ -2633,6 +2635,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="traffic_setting_fragment_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="traffic_setting_fragment_null">Prazno</string>
   <string name="traffic_setting_fragment_operator">Operater</string>
+  <string name="traffic_setting_fragment_operator_setting">Operater</string>
+  <string name="traffic_setting_fragment_province">Pokrajina</string>
   <string name="traffic_setting_fragment_send_num">Številka telefona mobilnega operaterja</string>
   <string name="traffic_setting_fragment_send_num_tips">Vnesite številko telefona</string>
   <string name="traffic_setting_fragment_sms_content">Vsebina sporočila</string>

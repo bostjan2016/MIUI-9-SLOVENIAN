@@ -135,14 +135,17 @@
   <string name="add_a_language">Dodaj jezik</string>
   <string name="add_account_label">Dodaj račun</string>
   <string name="add_auto_startup_application">Dodaj samodejne aplikacije</string>
+  <string name="add_back_fingerprint_instruction_msg">Položite prst na čitalec</string>
   <string name="add_device_admin">Vklopi</string>
   <string name="add_device_admin_msg">Ali želite omogočiti skrbnika naprave?</string>
   <string name="add_fingerprint_done_msg">Zdaj lahko odklenete napravo s prstnim odtisom.</string>
   <string name="add_fingerprint_done_title">Končano!</string>
+  <string name="add_fingerprint_edge_instruction_msg">Premikajte prst tako da lahko čitalec odčita robove vašega prstnega odtisa.</string>
+  <string name="add_fingerprint_edge_instruction_title">Počasi premikajte prst</string>
   <string name="add_fingerprint_failed_retry_text">"Ne morem dodati prstnega odtisa, poskusite ponovno"</string>
   <string name="add_fingerprint_finished_button_text">Končano</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Da dodate svoj prstni odtis položite prst na senzor. Preverite ali vaš prst pokriva notranji rob senzorja"</string>
-  <string name="add_fingerprint_instruction_msg">Odklenite napravo ali potrdite plačilo z vašim prstnim odtisom</string>
+  <string name="add_fingerprint_instruction_msg">Čitalec prstnega odtisa je vgrajen v tipko Domov na napravi.</string>
   <string name="add_fingerprint_instruction_title">Postavite prst na skener prstnih odtisov</string>
   <string name="add_fingerprint_name_suggest_text">Ime prstnega odtisa</string>
   <string name="add_fingerprint_put_finger_edge_msg">Po pritisku na senzor umaknite prst in ponovite.</string>
@@ -152,6 +155,7 @@
   <string name="add_fingerprint_success_msg">Uspešno dodano</string>
   <string name="add_fingerprint_text">Dodaj prstni odtis</string>
   <string name="add_fingerprint_toast_text">Postavite prst na skener</string>
+  <string name="add_front_fingerprint_instruction_msg">Čitalec prstnega odtisa se nahaja na zadnji strani naprave.</string>
   <string name="add_new">Dodaj</string>
   <string name="add_rule">Dodaj pravila</string>
   <string name="add_virtual_keyboard">Dodajanje navidezne tipkovnice</string>
@@ -4220,6 +4224,19 @@ To velja za vse uporabnike telefona."</string>
   <string name="settings_safetylegal_title">Informacije o varnosti</string>
   <string name="settings_shortcut">Bližnjica do nastavitev</string>
   <string name="settings_toggle_position_divider_list">Bližnjice nad vrsto so aktivne</string>
+  <string name="setup_add_fingerprint_failed_retry_text">"Ne morem dodati prstnega odtisa"</string>
+  <string name="setup_choose_unlock_fingerprint_msg">Nastavite zaklepanje zaslona pred dodajanjem prstnega odtisa.</string>
+  <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Geslo&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Geslo&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixpassword_title">Nastavi geslo</string>
+  <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_password_msg">Vnesite 4 številke</string>
+  <string name="setup_choose_unlock_password_title">Nastavi PIN</string>
+  <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Vzorec&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Vzorec&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern_title">Narišite vzorec za odklepanje</string>
+  <string name="setup_choose_unlock_type_title">Nastavi geslo</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Izbrali ste da želite uporabljati prstni odtis kot en od načinov odklepanja telefona. Če to sedaj preskočite, boste morali nastaviti kasneje. Nastavitev traja samo minuto ali dve.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Preskočim nastavitev prstnega odtisa?</string>
   <string name="setup_fingerprint_enroll_finish_message">Dotaknite se tipala za prstne odtise da preklopite napravo iz stanja pripravljenosti in jo odklenete.</string>
@@ -4228,6 +4245,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="setup_lock_settings_picker_fingerprint_message">Vaš prstni odtis je lahko manj varen kot močnega vzorca, PIN-a ali gesla. Za dodatno varnost nastavite Var. kopijo Zaklj. zaslona.</string>
   <string name="setup_lock_settings_picker_message">drugim onemogočite uporabo naprave brez vašega dovoljenja z aktiviranjem funkcije zaščite naprave. Izberite Zakl. zaslona ki ga želite uporabljati.</string>
   <string name="setup_lock_settings_picker_title">Zaščitite svoj telefon</string>
+  <string name="setup_password_back">Nazaj</string>
+  <string name="setup_password_confirm">V redu</string>
   <string name="setup_wifi_nfc_tag">Nastavitev brezžič. oznake NFC</string>
   <string name="setup_wizard_back_button_label">Nazaj</string>
   <string name="setup_wizard_next_button_label">Naprej</string>
