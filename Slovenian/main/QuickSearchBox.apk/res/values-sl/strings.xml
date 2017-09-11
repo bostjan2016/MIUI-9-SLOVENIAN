@@ -148,8 +148,8 @@
   <string name="suggestion_tab_btn">Zaženi</string>
   <string name="suggestion_tab_detail">Kliknite tu da izberete določeno kategorijo iskanja, rezultati bodo natančnejši</string>
   <string name="suggestion_tab_title">Išči v naslednjih kategorijah</string>
-  <string name="swipe_up_summary">Podrsajte gor za odpiranje globalnega iskanja</string>
-  <string name="swipe_up_title">Podrsajte gor</string>
+  <string name="swipe_up_summary">Podrsajte navzgor za odpiranje globalnega iskanja</string>
+  <string name="swipe_up_title">Podrsajte navzgor</string>
   <string name="switch_application">Aplikacije</string>
   <string name="switch_browser">Brskalnik</string>
   <string name="switch_contacts">Stiki</string>

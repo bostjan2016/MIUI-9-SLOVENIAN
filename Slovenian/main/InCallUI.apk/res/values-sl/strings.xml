@@ -156,11 +156,11 @@
   <string name="incoming_answer_voice_text">Glasovni odgovor</string>
   <string name="incoming_call_forwarded_title">Posreduj dohodni klic</string>
   <string name="incoming_circle_text_answer">Popusti</string>
-  <string name="incoming_circle_text_answer_p">Podrsaj gor</string>
+  <string name="incoming_circle_text_answer_p">Podrsajte navzgor</string>
   <string name="incoming_circle_text_message">Popusti</string>
-  <string name="incoming_circle_text_message_p">Podrsaj gor</string>
+  <string name="incoming_circle_text_message_p">Podrsajte navzgor</string>
   <string name="incoming_circle_text_reject">Popusti</string>
-  <string name="incoming_circle_text_reject_p">Podrsaj gor</string>
+  <string name="incoming_circle_text_reject_p">Podrsajte navzgor</string>
   <string name="ivr_menu_dialing_msg">Preusmerjam…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Pojdi na izbrano storitev...[Samodejno popravljanje napak omogočeno]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Pritisnite %s</string>
