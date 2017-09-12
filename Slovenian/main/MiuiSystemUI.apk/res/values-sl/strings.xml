@@ -231,8 +231,8 @@
   <string name="debug_networking_category">Omreževanje</string>
   <string name="debug_view_attributes">Omogoči pregled atributov prikaza</string>
   <string name="demo_mode">Demo način</string>
-  <string name="description_direction_left">Podrsaj levo za %s.</string>
-  <string name="description_direction_up">Podrsaj gor za %s.</string>
+  <string name="description_direction_left">Podrsajte levo za %s.</string>
+  <string name="description_direction_up">Podrsajte navzgor za %s.</string>
   <string name="description_target_search">Išči</string>
   <string name="dev_settings_warning_message">Te nastavitve so namenjene samo razvojnim programerjem. Lahko povzročijo okvaro ali nezaželjeno obnašanje vaše naprave in aplikacij.</string>
   <string name="dev_settings_warning_title">Dovolim nastavitve razvojnih programerjev?</string>
@@ -534,11 +534,11 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Ni zadnjih aplikacij</string>
   <string name="status_bar_notification_inspect_item_title">Informacije o aplikaciji</string>
-  <string name="status_bar_recent_guide_all">Podrsaj gor da se zapre.     
+  <string name="status_bar_recent_guide_all">Podrsajte navzgor da se zapre.     
   
-      Podrsaj dol za zaklepanje.</string>
-  <string name="status_bar_recent_guide_bottom">Podrsaj dol za zaklepanje</string>
-  <string name="status_bar_recent_guide_top">Podrsaj gor da se zapre.</string>
+      Podrsajte navzdol za zaklepanje.</string>
+  <string name="status_bar_recent_guide_bottom">Podrsajte navzdol za zaklepanje</string>
+  <string name="status_bar_recent_guide_top">Podrsajte navzgor da se zapre.</string>
   <string name="status_bar_recent_inspect_item_title">Informacije o aplikaciji</string>
   <string name="status_bar_recent_memory_info1">%1$sB | %2$sB dostopno</string>
   <string name="status_bar_recent_memory_info2"/>
