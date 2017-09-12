@@ -124,9 +124,9 @@
   <string name="bookmarks_management">Zaznamki</string>
   <string name="bookmarks_root_folder">Korenska mapa</string>
   <string name="bookmarks_search">Brskalnik</string>
-  <string name="bottom_bar_tabs_long_click_down_tip_txt">Podrsaj navzdol da zapreš</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Za zaprtje podrsajte navzdol</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">To je zadnji zavihek</string>
-  <string name="bottom_bar_tabs_long_click_up_tip_txt">Podrsaj navzgor da zapreš</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Za zaprtje podrsajte navzgor</string>
   <string name="browserFrameFileErrorLabel">Napaka datoteke</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">Stran ki jo poskušate odpreti vsebuje podatke ki so že bili naloženi. Če podatke pošljete ponovno se vsako dejanje (kot je iskanje in kupovanje) ponovi.</string>
@@ -148,7 +148,7 @@
   <string name="close_all_tab_alert_message">Zaprem vse trenuntno odprte zavihke?</string>
   <string name="close_all_tab_alert_title">Zapri vse zavihke</string>
   <string name="close_cloud_tab_tip">Zaprem zavihke v oblaku na %s?</string>
-  <string name="cloud_loading_tips">Podrsaj navzdol za sinhronizacijo</string>
+  <string name="cloud_loading_tips">Podrsajte navzdol za sinhronizacijo</string>
   <string name="cloud_no_new_data_toast">Vse je posodobljeno</string>
   <string name="cloud_sync_closed_toast">Posodobitev ni mogoča ker je sinhroniziranje izključeno</string>
   <string name="cloud_sync_failed_toast">Ni mogoče posodobiti</string>
@@ -371,7 +371,7 @@ Zapustim to stran?"</string>
   <string name="keep_queued_download">Ohrani</string>
   <string name="last_month">Zadnji mesec</string>
   <string name="license_activity_title">Sistem WebView dovoljenj</string>
-  <string name="loading_tips">Podrsaj navzdol za osvežitev</string>
+  <string name="loading_tips">Podrsajte navzdol za osvežitev</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Ne morem se prijaviti, osvežite.</string>
   <string name="low_memory_error">Ni dovolj pomnilnika za to opravilo</string>

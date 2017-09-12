@@ -248,7 +248,7 @@
   <string name="invalid_recipient_message">Popravite prejemnike ali pa ne bodo prejeli sporočila.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">Postavitev diaprojekcije</string>
-  <string name="left_cancel">Podrsaj levo za prekinitev</string>
+  <string name="left_cancel">Podrsajte levo za prekinitev</string>
   <string name="loading_all_messages">Nalagam sporočila...</string>
   <string name="loading_conversations">Nalagam pogovore...</string>
   <string name="loading_mms">Nalagam...</string>
@@ -612,7 +612,7 @@
   <string name="sim_view">Prikaži</string>
   <string name="slide_number">Diapozitiv %d</string>
   <string name="slide_show_part">Del %1$d/%2$d</string>
-  <string name="slide_up_to_cancel">Podrsaj gor za preklic</string>
+  <string name="slide_up_to_cancel">Podrsajte navzgor za preklic</string>
   <string name="slideshow_activity">Diaprojekcija</string>
   <string name="sms_card_partner_label">"Sms kartica partnerja: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>

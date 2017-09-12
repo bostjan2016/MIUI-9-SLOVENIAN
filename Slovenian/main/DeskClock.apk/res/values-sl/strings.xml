@@ -121,7 +121,7 @@
   <string name="silent_alarm_summary">Tiho</string>
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>
   <string name="skip_alarm_once_hint">Izključi enkrat dnevno %s</string>
-  <string name="slider_text">Podrsaj navzgor za preklic alarma</string>
+  <string name="slider_text">Podrsajte navzgor za preklic alarma</string>
   <string name="snooze_confirm_cancel">Zavrzi alarm</string>
   <string name="snooze_duration_title">Trajanje dremeža</string>
   <string name="start">Začni</string>
