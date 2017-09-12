@@ -1119,4 +1119,14 @@
         <item>Prednost ima WiFi omrežje</item>
         <item>Prednost ima mob. omrežje</item>
      </string-array>
+	 <string-array name="check_importance_entries">
+         <item>Priporočeno</item>
+         <item>Važno</item>
+         <item>Nevažno</item>
+     </string-array>
+     <string-array name="check_importance_summary">
+         <item>Nevažna obvestila se bodo prikazala v zasebni mapi</item>
+         <item>Obvestila se bodo prikazala v plošči obvestil</item>
+         <item>Vsa obvestila se bodo prikazala v zasebni mapi</item>
+     </string-array>
 </resources>
