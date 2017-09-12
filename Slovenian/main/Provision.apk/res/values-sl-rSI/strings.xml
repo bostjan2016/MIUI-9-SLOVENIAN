@@ -11,7 +11,7 @@
   <string name="congratulation_title">Namestitev je končana</string>
   <string name="content_description_complete">Končano</string>
   <string name="content_description_language_picker">Izberi jezik</string>
-  <string name="content_description_miui_version">MIUI 8</string>
+  <string name="content_description_miui_version">MIUI 9</string>
   <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -27,8 +27,11 @@
   <string name="input_method_category">"Izberite privzeto tipkovnico za pisanje sporočil e-pošte, beležk in ostalega. Kasneje lahko namestite druge tipkovnice."</string>
   <string name="input_method_setting">Izberite privzeto tipkovnico</string>
   <string name="install_preinstall_app">Branje aplikacij…</string>
+  <string name="item_fingerprint">Prstni odtis</string>
+  <string name="item_lock_screen_password">Samo zaklep z geslom</string>
   <string name="language_picker_other_languages_title">Ostali jeziki</string>
   <string name="language_picker_popular_languages_title">Priljubljeni jeziki</string>
+  <string name="language_settings">Nastavitve jezika</string>
   <string name="locale_picker_title">Izberite vašo regijo</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s spletom. Poglete pogoje ponudnika storitev na %s"</string>
