@@ -54,15 +54,15 @@
          <item quantity="one">Izbrišem %1$s fotografijo iz vseh naprav?</item>
      </plurals>
     <plurals name="deepclean_cache_summary">
-        <item quantity="other">Lahko izbrišete nevažne podatke za %d aplik.</item>
-        <item quantity="one">Lahko izbrišete nevažne podatke za %d aplik.</item>
+        <item quantity="other">Lahko izbrišete nepomembne podatke za %d aplik.</item>
+        <item quantity="one">Lahko izbrišete nepomembne podatke za %d aplik.</item>
     </plurals>
     <plurals name="deepclean_app_summary">
         <item quantity="other">Nameščeno %d aplik.,lahko izbrišete redko uporabljane aplikacije</item>
         <item quantity="one">Nameščena %d aplik.,to lahko izbrišete</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">Najdeno %d velikih datotek, lahko izbrišete nevažne</item>
+        <item quantity="other">Najdeno %d velikih datotek, lahko izbrišete nepomembne</item>
         <item quantity="one">Najdena %d velika datoteka, to lahko izbrišete</item>
     </plurals>
     <plurals name="deepclean_similar_summary">

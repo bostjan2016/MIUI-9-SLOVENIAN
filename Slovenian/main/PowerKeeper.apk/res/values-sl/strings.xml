@@ -35,8 +35,8 @@
   <string name="config_restrict_running_title">Omeji aktivnosti v ozadju</string>
   <string name="config_restrict_running_warning">Aplikacija bo zaprta kadar bo v ozadju, morda ne bo normalno delovala</string>
   <string name="config_scenario_policies_title">Scenariji</string>
-  <string name="config_suggest_description">"Ugotovi aplikacije in aktivnosti da se obdrži važne procese delujoče.
-Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
+  <string name="config_suggest_description">"Ugotovi aplikacije in aktivnosti da se obdrži pomembne procese delujoče.
+Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="config_suggest_suffix_title">MIUI Varčevanje z baterijo (priporočilo)</string>
   <string name="config_suggest_title">MIUI Varčevanje z baterijo</string>
   <string name="confirm">Potrdi</string>

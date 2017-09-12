@@ -234,7 +234,7 @@ Napaka: %1$s"</string>
   <string name="pref_category_settings">Nastavitve</string>
   <string name="pref_general_settings_title">Splošne nastavitve</string>
   <string name="pref_notification_sounds_key">pref_notification_sounds_key</string>
-  <string name="pref_notification_sounds_summary">Predvajaj zvok ko se prikazujejo važna obvestila</string>
+  <string name="pref_notification_sounds_summary">Predvajaj zvok, ko se prikazujejo pomembna obvestila</string>
   <string name="pref_notification_sounds_title">Zvoki obvestil</string>
   <string name="pref_on_the_go_key">pref_on_the_go_key</string>
   <string name="pref_open_source">Odprtokodne licence</string>

@@ -383,7 +383,7 @@
          <item quantity="one">"Ni dodana %d igra"</item>
      </plurals>
 	 <plurals name="net_booster_expire_notification_tip">
-         <item quantity="other">%d d ostalo pred koncem seje povečanja hitrosti omrežja. Obnovite sejo da preprečite probleme hitrosti omrežja.</item>
-         <item quantity="one">%d d ostalo pred koncem seje povečanja hitrosti omrežja. Obnovite sejo da preprečite probleme hitrosti omrežja.</item>
+         <item quantity="other">%d d ostalo pred koncem seje povečanja hitrosti omrežja. Obnovite sejo, da preprečite probleme hitrosti omrežja.</item>
+         <item quantity="one">%d d ostalo pred koncem seje povečanja hitrosti omrežja. Obnovite sejo, da preprečite probleme hitrosti omrežja.</item>
      </plurals>
 </resources>

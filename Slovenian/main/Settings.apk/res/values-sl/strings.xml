@@ -788,7 +788,7 @@
   <string name="bootloader_apply_step_3">se lahko do podatkov (npr., gesla, sporočila) na napravi dostopa brez vašega dovoljenja.</string>
   <string name="bootloader_apply_step_4">To lahko pripelje do odkrivanja ali izgube podatkov ali celo do nepopravljive poškodbe strojne opreme.</string>
   <string name="bootloader_apply_step_5">Bodite prepričani da znate uporabljati Fastboot način dela preden ga vključite.</string>
-  <string name="bootloader_apply_title">Važno opozorilo</string>
+  <string name="bootloader_apply_title">Pomembno opozorilo</string>
   <string name="bootloader_device_bind_already">Uspešno dodano. Mi Račun je zdaj povezan s to napravo.</string>
   <string name="bootloader_device_bind_fail">"Ne morem preveriti, poskusite ponovno"</string>
   <string name="bootloader_device_bind_msg">Priprava za dodajanje računa in naprave…</string>
@@ -929,7 +929,7 @@
   <string name="charge_length_format">Pred toliko časa: %1$s</string>
   <string name="charging_sounds_title">Zvoki polnjenja</string>
   <string name="check_find_device_status_failure_confirm">V redu</string>
-  <string name="check_importance">Preveri važne</string>
+  <string name="check_importance">Preveri pomembna</string>
   <string name="check_update">Preveri posodobitve</string>
   <string name="checkbox_notification_same_as_incoming_call">Za obvestila uporabljaj glasnost dohodnih klicev</string>
   <string name="checking_decryption">Preverjanje ...</string>
@@ -4110,7 +4110,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_attention_4">"Zapomnite si svoje geslo za zaklepanje zaslona drugače boste morali napraviti popolno obnovitev sistema in izbrisati vse podatke."</string>
   <string name="security_encryption_attention_info">Lahko šifrirate svoje račune, nastavitve, prenešene aplikacije in njihove podatke, medije in ostale datoteke.</string>
   <string name="security_encryption_attention_symbol">•</string>
-  <string name="security_encryption_attention_title">Važno</string>
+  <string name="security_encryption_attention_title">Pomembno</string>
   <string name="security_encryption_close_dialog_info">Izbira "ne šifrirati naprave" lahko povzroči nedostopnost nekaterih Googlovih uslug.</string>
   <string name="security_encryption_close_dialog_title">Nazaj na privzeto zaščito</string>
   <string name="security_encryption_diaglog_continue">Naprej</string>
@@ -4527,7 +4527,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Stran</string>
   <string name="status_bar_settings_toggle_position">Položaji bližnjic</string>
   <string name="status_bar_settings_user_fold">Mapa obvestil</string>
-  <string name="status_bar_settings_user_fold_summary">Vsa nevažna obvestila se bodo pojavila v zasebni mapi</string>
+  <string name="status_bar_settings_user_fold_summary">Vsa nepomembna obvestila se bodo pojavila v zasebni mapi</string>
   <string name="status_bar_style_list">Kombinirano</string>
   <string name="status_bar_style_page">Ločeno</string>
   <string name="status_bar_style_settings">Obvestila</string>
@@ -4562,7 +4562,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_wifi_mac_address">Naslov MAC vmesnika WiFi</string>
   <string name="status_wimax_mac_address">Naslov 4G MAC</string>
   <string name="status_write_success">Uspešno.</string>
-  <string name="statusbar_permission_desc">Dovoljenja so dostopna samo za važna obvestila</string>
+  <string name="statusbar_permission_desc">Dovoljenja so dostopna samo za pomembna obvestila</string>
   <string name="storage_detail_apps">Aplikacije</string>
   <string name="storage_detail_audio">Zvok</string>
   <string name="storage_detail_cached">Predpomnjeni podatki</string>
@@ -4958,7 +4958,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="uicc_mount_summary"/>
   <string name="uicc_unmount_inform_text">UICC pomnilnik bo izključen.</string>
   <string name="under_keyguard">Na izključenem zaslonu</string>
-  <string name="unimportant">Nevažne</string>
+  <string name="unimportant">Nepomembna</string>
   <string name="uninstall_all_users_text">Odstrani za vse uporabnike</string>
   <string name="uninstall_device_admin">Odstrani aplikacijo</string>
   <string name="uninstall_dlg_msg">Odstranitev bo odstranila vse podatke aplikacije.</string>

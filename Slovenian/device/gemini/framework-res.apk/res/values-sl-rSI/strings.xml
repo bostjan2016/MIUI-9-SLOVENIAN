@@ -418,8 +418,8 @@ s številko %s"</string>
   <string name="immersive_cling_description">Zaprete tako da z vrha s prstom povlečete navzdol.</string>
   <string name="immersive_cling_positive">Razumem</string>
   <string name="immersive_cling_title">Celozaslonski način</string>
-  <string name="importance_from_person">Važno je zaradi  vključenih oseb.</string>
-  <string name="importance_from_user">Nastavili ste važnost teh obvestil.</string>
+  <string name="importance_from_person">Pomembno je zaradi vključenih oseb.</string>
+  <string name="importance_from_user">Nastavili ste pomembnost teh obvestil.</string>
   <string name="inputMethod">Način vnosa</string>
   <string name="input_method_binding_label">Način vnosa</string>
   <string name="invalidPin">Vnesite PIN ki vsebuje od štiri do osem številk.</string>

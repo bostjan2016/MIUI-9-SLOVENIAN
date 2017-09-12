@@ -717,7 +717,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bootloader_apply_step_3">se lahko do podatkov (npr., gesla, sporočila) na napravi dostopa brez vašega dovoljenja.</string>
   <string name="bootloader_apply_step_4">To lahko pripelje do odkrivanja ali izgube podatkov ali celo do nepopravljive poškodbe strojne opreme.</string>
   <string name="bootloader_apply_step_5">Bodite prepričani da znate uporabljati Fastboot način dela preden ga vključite.</string>
-  <string name="bootloader_apply_title">Važno opozorilo</string>
+  <string name="bootloader_apply_title">Pomembno opozorilo</string>
   <string name="bootloader_device_bind_already">Uspešno dodano. Mi Račun je zdaj povezan s to napravo.</string>
   <string name="bootloader_device_bind_fail">"Ne morem preveriti, poskusite ponovno"</string>
   <string name="bootloader_device_bind_msg">Priprava za dodajanje računa in naprave…</string>
@@ -2518,7 +2518,7 @@ Na tej napravi je več uporabnikov.
   <string name="notification_importance_min">Najmanjše: prikaži na dnu seznama obvestil brez zvoka</string>
   <string name="notification_importance_none">Ni nastavljeno</string>
   <string name="notification_importance_title">Pomembnost</string>
-  <string name="notification_importance_unspecified">Aplikacija določa važnost za vsako obvestilo</string>
+  <string name="notification_importance_unspecified">Aplikacija določa pomembnost za vsako obvestilo</string>
   <string name="notification_listener_disable_warning_cancel">Prekliči</string>
   <string name="notification_listener_disable_warning_confirm">Izključi</string>
   <string name="notification_listener_disable_warning_summary">Če izključite dostop do obvestil za %1$s je lahko onemogočen dostop tudi do Ne moti.</string>
@@ -3630,7 +3630,7 @@ Uporaba pripenjanja:
   <string name="security_encryption_attention_4">"Zapomnite si svoje geslo za zaklepanje zaslona drugače boste morali napraviti popolno obnovitev sistema in izbrisati vse podatke."</string>
   <string name="security_encryption_attention_info">Lahko šifrirate svoje račune, nastavitve, prenešene aplikacije in njihove podatke, medije in ostale datoteke.</string>
   <string name="security_encryption_attention_symbol">•</string>
-  <string name="security_encryption_attention_title">Važno</string>
+  <string name="security_encryption_attention_title">Pomembno</string>
   <string name="security_encryption_close_dialog_info">Izbira "ne šifrirati naprave" lahko povzroči nedostopnost nekaterih Googlovih uslug.</string>
   <string name="security_encryption_close_dialog_title">Nazaj na privzeto zaščito</string>
   <string name="security_encryption_diaglog_continue">Naprej</string>

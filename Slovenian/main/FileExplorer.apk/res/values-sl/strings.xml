@@ -437,8 +437,8 @@
   <string name="migrate_failed_msg">Nekaj je šlo narobe. Datoteke premestite ročno. &lt;a href=http://www.kuaipan.cn&gt;Tapni za pregled&lt;/a&gt;</string>
   <string name="migrate_failed_title">premeščanje podatkov ni uspelo</string>
   <string name="migrate_failed_toast">Nekaj je šlo narobe. Datoteke premestite ročno. &lt;a href=http://www.kuaipan.cn&gt;Tapni za pregled&lt;/a&gt;</string>
-  <string name="migrate_hint">Važno: Kuaipan se menja z MI Drive. Klikni za prenos datotek.</string>
-  <string name="migrate_note">Važno: Kuaipan se menja z MI Drive. Klikni za prenos datotek.</string>
+  <string name="migrate_hint">Pomembno: Kuaipan se menja z MI Drive. Klikni za prenos datotek.</string>
+  <string name="migrate_note">Pomembno: Kuaipan se menja z MI Drive. Klikni za prenos datotek.</string>
   <string name="migrate_runing">Premeščanje podatkov…Vrnite se kasneje.</string>
   <string name="migrate_success_cancel">V redu</string>
   <string name="migrate_success_confirm">Preizkusite sedaj</string>
@@ -629,7 +629,7 @@
   <string name="original_user_verify">• Hvala vam ker ste ostali v bližini!</string>
   <string name="other_user_fans_tab">Oboževalci</string>
   <string name="other_user_follow_tab">Spremljajoči</string>
-  <string name="other_user_liked_topic_tip">Brez važnih vprašanj</string>
+  <string name="other_user_liked_topic_tip">Brez pomembnih vprašanj</string>
   <string name="other_user_liked_video_tab">Priljubljeni</string>
   <string name="other_user_no_follow_tip">"Nikogar ne spremljate."</string>
   <string name="other_user_no_liked_video_tip">Ni videoposnetkov ki so mi všeč.</string>
