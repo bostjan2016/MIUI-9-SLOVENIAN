@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_package_delete_confirm_title">Važno opozorilo</string>
+  <string name="activity_package_delete_confirm_title">Pomembno opozorilo</string>
   <string name="add_frequent_phrases">Dodaj pogoste izraze</string>
   <string name="all_call_livetalk_enable">Uporaba paketa doplačila za domače in mednarodne klice</string>
   <string name="all_call_livetalk_remain_mins">Preostalo minut: %1$s domači | %2$s mednarodni</string>

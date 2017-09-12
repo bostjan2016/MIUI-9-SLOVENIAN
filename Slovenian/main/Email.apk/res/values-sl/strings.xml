@@ -454,7 +454,7 @@
   <string name="folder_junk_name_en3">Smeti</string>
   <string name="folder_junk_name_en4">Smeti</string>
   <string name="folder_list_display_all">Prikaži vse mape</string>
-  <string name="folder_list_display_only_import">Prikaži samo važne mape</string>
+  <string name="folder_list_display_only_import">Prikaži samo pomembne mape</string>
   <string name="folder_picker_title">Izberi mape</string>
   <string name="folder_removed">Odstranjeno iz %1$s</string>
   <string name="folder_sent_name_cn0">已发送</string>

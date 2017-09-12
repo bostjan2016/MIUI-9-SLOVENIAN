@@ -1971,7 +1971,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="root_apply_step_3">Vaši podatki so bolj ogoroženi ko imajo aplikacije root dostop</string>
   <string name="root_apply_step_4">Odobrite aplikacijam root dostop na lastno odgovornost.</string>
   <string name="root_apply_step_5">Dovolim %s root dostop?</string>
-  <string name="root_apply_title">Važno opozorilo!</string>
+  <string name="root_apply_title">Pomembno opozorilo!</string>
   <string name="safe_result_header_info_protecting">Ščitim</string>
   <string name="safe_result_header_title_app">Varnost aplikacij</string>
   <string name="safe_result_header_title_sms">Varnost sporočil</string>

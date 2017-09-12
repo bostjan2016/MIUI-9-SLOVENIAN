@@ -531,9 +531,9 @@
     <string-array name="proc_stats_process_states">
         <item>Obstoječa</item>
         <item>Glavna aktivnost</item>
-        <item>Važna (u prvom planu)</item>
-        <item>Važna (u pozadini)</item>
-        <item>rezervna</item>
+        <item>Pomembna (v prvem planu)</item>
+        <item>Pomembna (v ozadju)</item>
+        <item>Rezervna</item>
         <item>Težka</item>
         <item>Storitev (se izvaja)</item>
         <item>Storitev (ponovni zagon)</item>
@@ -1121,11 +1121,11 @@
      </string-array>
 	 <string-array name="check_importance_entries">
          <item>Priporočeno</item>
-         <item>Važno</item>
-         <item>Nevažno</item>
+         <item>Pomembno</item>
+         <item>Nepomembno</item>
      </string-array>
      <string-array name="check_importance_summary">
-         <item>Nevažna obvestila se bodo prikazala v zasebni mapi</item>
+         <item>Nepomembna obvestila se bodo prikazala v zasebni mapi</item>
          <item>Obvestila se bodo prikazala v plošči obvestil</item>
          <item>Vsa obvestila se bodo prikazala v zasebni mapi</item>
      </string-array>

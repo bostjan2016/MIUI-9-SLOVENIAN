@@ -166,8 +166,8 @@
     <string-array name="proc_stats_process_states">
         <item>Obstojna</item>
         <item>Glavna aktivnost</item>
-        <item>Važna (v prvem planu)</item>
-        <item>Važna (v ozadju)</item>
+        <item>Pomembna (v prvem planu)</item>
+        <item>Pomembna (v ozadju)</item>
         <item>Pričuvna</item>
         <item>Težka</item>
         <item>Storitev (se izvaja)</item>

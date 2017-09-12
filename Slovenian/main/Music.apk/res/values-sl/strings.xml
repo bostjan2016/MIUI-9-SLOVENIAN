@@ -591,7 +591,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="notification_play_summary">Pregled trenutne in naslednje pesmi, prikaži besedilo na zač. zaslonu</string>
   <string name="notification_play_title">Pripomoček v plošči obvestil</string>
   <string name="notification_recommend_summary">Izvedite več o novih glasbenih trendih in promocijah aplikacij</string>
-  <string name="notification_recommend_title">Važna obvestila</string>
+  <string name="notification_recommend_title">Pomembna obvestila</string>
   <string name="notification_setting">Nastavitve obvestil</string>
   <string name="notification_title_no_song">"Preverite kaj drugi poslušajo!"</string>
   <string name="nowplaying_dialog_title_delete_tracks">Izbrišem seznam pesmi?</string>
