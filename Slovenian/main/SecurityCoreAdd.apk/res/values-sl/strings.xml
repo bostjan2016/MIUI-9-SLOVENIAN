@@ -108,8 +108,8 @@ Vstopite v Drugi prostor iz zakl. zaslona"</string>
   <string name="guide_setting_guide_title">Urejaj Drugi prosotor</string>
   <string name="guide_start_ads_text">popolnoma nov nivo varnosti</string>
   <string name="guide_start_text">Dva prostora. Ena naprava.</string>
-  <string name="has_created_second_space">"Dva prostora. Ena naprava.
-Upravljajte z zasebnimi in občutljivimi podatki zasebno."</string>
+  <string name="has_created_second_space">"Zdaj lahko odprete Drugi prostor.
+Dva prostora. Ena naprava."</string>
   <string name="hidden_app">Drugi prostor</string>
   <string name="imageData">Fotografije</string>
   <string name="import_application">Uvozi aplikacije</string>
@@ -299,9 +299,10 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="tryNow">Poskusite zdaj</string>
   <string name="wating">Samo trenutek…</string>
   <string name="xpsace_guide_button">Izdelaj</string>
-  <string name="xspace_chocie">Ostale aplikacije</string>
+  <string name="xspace_account">Računi klonirane aplikacije</string>
+  <string name="xspace_chocie">Podpora za Dvojne aplikacije</string>
   <string name="xspace_creating">Kloniranje aplikacije…</string>
-  <string name="xspace_description">Klonirajte aplikacije da jih uporabite ločeno. Klonirane aplikacije bodo imele določene ikone začetnega zaslona.</string>
+  <string name="xspace_description">Klonirane aplikacije so kopije aplikacij ki se lahko uporabijo zasebno z drugim računom.\n\nNekateree dvojne aplikacije zahtevajo podporo Google Services Framework. V teh primerih se ustvari dvojni Google Services Framework.</string>
   <string name="xspace_guide_des">Uporabljaj 2 računa brez menjanja</string>
   <string name="xspace_guide_title">Izdelaj Dvojno aplikacijo za %s</string>
   <string name="xspace_header">Klonirane aplikacije</string>
@@ -311,6 +312,7 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="xspace_introduce">Priporočeno</string>
   <string name="xspace_label">Klonirane aplikacije</string>
   <string name="xspace_loading_msg">Nalaganje aplikacij…</string>
+  <string name="xspace_setting_label">Nastavitve klonirane aplikacije</string>
   <string name="xspace_uninstall_completed">Klonirana aplikacija uspešno odstranjena</string>
   <string name="xspace_uninstall_dialog_content">Odstranitev klonirane aplikacije bo odstranila vse podatke aplikacije.</string>
   <string name="xspace_uninstall_dialog_title">Odstrani klonirano aplikacijo</string>

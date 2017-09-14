@@ -295,6 +295,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="permission_group_title_settings_related">Nastavitve</string>
   <string name="permission_request_title">Zahtevek dovoljenja</string>
   <string name="permission_warning_template">Dovolim %1$s  %2$s ?</string>
+  <string name="permission_warning_template_ask">Dovolim %1$s naslednja dovoljenja?</string>
   <string name="permisson_reject_notice_toast_text2">"nima dovoljenja za %1$s."</string>
   <string name="screen_overlay_button">Odpri nastavitve</string>
   <string name="screen_overlay_message">Za spremembo nastavitev dovoljenj morate najprej izključiti Prekrivanje zaslona v Nastavitve &gt; Aplikacije</string>

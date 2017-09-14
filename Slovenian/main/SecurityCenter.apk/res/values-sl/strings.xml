@@ -104,7 +104,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Posodobljeno pred 2 dnevoma</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Posodobljeno včeraj ob %s</string>
   <string name="adjust_traffic_data">Nastavite porabo podatkov</string>
-  <string name="after_the_lock_screen">"Aplikacija se zaklepa skupaj z zaslonom, to lahko spremenite v nastavitvah zaklepanja aplikacij."</string>
+  <string name="after_the_lock_screen">"Zakleni aplikacije skupaj z zaslonom."</string>
   <string name="all_address_choose_hint">Vse številke v tej pokrajini</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
   <string name="anti_disturb_msg_detail">Izključi vsa obvestilajesti, razen za dohodne klice</string>
@@ -289,13 +289,13 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="applock_add_account">Dodaj</string>
   <string name="applock_add_account_info">"Dodajte svoj Mi Račun da lahko prekličete geslo če ga slučajno pozabite"</string>
   <string name="applock_add_account_setting">Račun &amp; zasebnost</string>
-  <string name="applock_bind_account_title">Resetiranje vašega gesla</string>
+  <string name="applock_bind_account_title">Pozabljeno geslo</string>
   <string name="applock_close_dialog_summary">Po izključitvi Zakl. aplikacij aplikacije ne bodo več zaščitene in vaše geslo se bo izbrisalo.</string>
   <string name="applock_close_dialog_title">Izključim Zakl. aplikacij?</string>
   <string name="applock_exit_account_info">Ko se odjavite bo račun samodejno odstranjen</string>
-  <string name="applock_header_text_less_than_half">Premalo prostora za to aplikacijo. Povlecite separator naorej.</string>
+  <string name="applock_header_text_less_than_half">Premalo prostora. Povlecite separator malo naprej.</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
-  <string name="applock_not_add_account">Ne sedaj</string>
+  <string name="applock_not_add_account">Ne zdaj</string>
   <string name="applock_not_login_account">"Niste prijavljeni"</string>
   <string name="apps_item_sign_dialog_content">\"%s\" podpis se razlikuje od verzije v App Store. Izbrišem to aplikacijo in namestim uradno verzijo? Opomba: namestitev aplikacije z konfliktnim podpisom lahko privede do izgube podatkov aplikacij.</string>
   <string name="apps_item_sign_dialog_title">Namesti uradno verzijo aplikacije</string>
@@ -822,7 +822,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_activity_lable">Omejite porabo podatkov aplikacijam</string>
   <string name="firewall_allow_all"> vsem aplikacijam povezovanje s pomočjo naslednje metode</string>
   <string name="firewall_allow_data">Dovoli uporabo mobilnih podatkov</string>
-  <string name="firewall_allow_network">Dovoljeno</string>
+  <string name="firewall_allow_network">Dovoli</string>
   <string name="firewall_allow_wlan">Dovoli uporabo WiFi povezave</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
@@ -2377,8 +2377,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_get_sms_again">Osveži SMS</string>
   <string name="tc_sms_report_get_sms_bill">Sprejem SMS-a</string>
   <string name="tc_sms_report_get_sms_calltime">Sprejem SMS-a</string>
-  <string name="tc_sms_report_get_sms_failure">"Ne morem dobiti podatke o porabi v SMS formatu"</string>
-  <string name="tc_sms_report_get_sms_successs">Poraba podatkov SMS formata posodobljena</string>
+  <string name="tc_sms_report_get_sms_failure">"Ne morem dobiti podatke o porabi podatkov"</string>
+  <string name="tc_sms_report_get_sms_successs">Informacije poraba podatkov posodobljene</string>
   <string name="tc_sms_report_get_sms_timeout">Zahteva je potekla</string>
   <string name="tc_sms_report_get_success">"Sprejeto SMS sporočilo porabe podatkov od mobilnega operaterja. Prepričajte se da je točno
    in ga pošljite nam."</string>

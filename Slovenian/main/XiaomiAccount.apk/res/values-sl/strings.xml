@@ -20,6 +20,7 @@
   <string name="account_error_user_birthday">Rojstni dan ni veljaven</string>
   <string name="account_has_been_set">Spremeni</string>
   <string name="account_limit_update_birthday">"Ne morem sedaj posodobiti datuma rojstva"</string>
+  <string name="account_mibi_center">Mi Krediti</string>
   <string name="account_mipay_info">Mi pay</string>
   <string name="account_no_set">Nič</string>
   <string name="account_none">Nič</string>
@@ -75,7 +76,7 @@
   <string name="barcode_add_account_prompt">Če želite dodati račun ponovno skenirajte QR kodo ko se prijavite.</string>
   <string name="bind_facebook">Dodajte svoj Facebook račun</string>
   <string name="bind_qq">QQ</string>
-  <string name="bind_safe_phone_msg">Dodajte varen telefon za naslednjo prijavo</string>
+  <string name="bind_safe_phone_msg">Dodajte številko telefona za naslednjo prijavo</string>
   <string name="bind_settings">Računi</string>
   <string name="bind_sina_weibo">Dodaj Sina Weibo račun</string>
   <string name="bind_sns_description">Vpiši se z %s</string>
@@ -176,6 +177,7 @@
   <string name="logout_account">Odjava</string>
   <string name="logout_failed">Ne morem se vpisati</string>
   <string name="mi_account_identity_title">Potrdite svojo identiteto</string>
+  <string name="mi_vip_info">Prikaži poslastice</string>
   <string name="mi_family">Mi Home</string>
   <string name="mi_insurance">Mi Insurance</string>
   <string name="mi_pass">Mi Pass</string>
@@ -240,6 +242,7 @@
   <string name="passport_completed">Zaključeno</string>
   <string name="passport_confirm">Potrdi</string>
   <string name="passport_confirm_recycle_account">Da</string>
+  <string name="passport_continue">Nadaljuj</string>
   <string name="passport_copy_message_text_success">Uspešno kopirano</string>
   <string name="passport_copy_message_vcode">Kopiraj kodo</string>
   <string name="passport_country_code_notice">Koda države</string>
@@ -304,12 +307,14 @@
   <string name="passport_login_notice">Vpisujem se...</string>
   <string name="passport_login_other_account">Drugi račun</string>
   <string name="passport_login_prompt">En Mi Račun. Vse Mi storitve.</string>
+  <string name="passport_login_recycle_account_no">Ne</string>
+  <string name="passport_login_recycle_account_yes">Da</string>
   <string name="passport_login_title">Prijavite se v svoj Mi račun</string>
   <string name="passport_login_using_other_ways">Drugi načini za prijavo</string>
   <string name="passport_login_with_email_or_id">Vpiši se z e-poštnim računom ali ID Mi Računa</string>
   <string name="passport_message_dialog_title">SMS s kodami preverbe</string>
   <string name="passport_next">Naprej</string>
-  <string name="passport_no">Nič</string>
+  <string name="passport_no">Ne</string>
   <string name="passport_notification_title">Napaka pri vpisu v %1$s</string>
   <string name="passport_password">Vnesite geslo</string>
   <string name="passport_password_phone_login">Prijavite se z Mi Računom</string>
@@ -338,6 +343,8 @@
   <string name="passport_reg_new">Ustvari Mi Račun</string>
   <string name="passport_reg_new_account">Napravi nov račun</string>
   <string name="passport_reg_prompt">"Nimate Mi Računa? Ustvarite ga brezplačno."</string>
+  <string name="passport_reg_recycle_account_no">Ne</string>
+  <string name="passport_reg_recycle_account_yes">Da</string>
   <string name="passport_reg_success">Račun ustvarjen</string>
   <string name="passport_reg_success_summary">%1$s je bil dodan na vaš račun. Lahko ga uporabite da se prijavite ali ponastavite geslo.</string>
   <string name="passport_reg_type_email">Ustvari račun z uporabo e-pošte</string>
@@ -378,6 +385,7 @@
   <string name="passport_send_vcode_failed">"Ne morem poslati kode"</string>
   <string name="passport_sending_vcode">Pošiljam kodo…</string>
   <string name="passport_set">Nastavi</string>
+  <string name="passport_set_password_no_phone_msg">Dodajte številko telefona da boste zaščitili svoj račun.</string>
   <string name="passport_setting">Nastavljanje…</string>
   <string name="passport_sim_index_info">SIM kartica %1$d - %2$s</string>
   <string name="passport_skip_login">Preskoči</string>
@@ -507,5 +515,6 @@
   <string name="wipe_data_dialog_msg">%s bo izbrisano če nadaljujete.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Nekateri predmeti niso bili sinhronizirani"</string>
+  <string name="vip_settings_info">VIP nastavitve</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
