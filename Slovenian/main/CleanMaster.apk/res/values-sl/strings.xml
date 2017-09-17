@@ -304,7 +304,7 @@
   <string name="menu_add_to_white_list">Dodaj v izjeme</string>
   <string name="menu_clear">Očisti</string>
   <string name="menu_install">Namesti to aplikacijo</string>
-  <string name="menu_view">Prikaži u mapi</string>
+  <string name="menu_view">Prikaži v mapi</string>
   <string name="micloud_find_device_close_alert_content">"Če izključite to funkcijo ne boste mogli najti napravo če jo izgubite."</string>
   <string name="micloud_find_device_close_alert_negtive">Izključi vseeno</string>
   <string name="micloud_find_device_close_alert_positive">Pusti vključeno</string>
