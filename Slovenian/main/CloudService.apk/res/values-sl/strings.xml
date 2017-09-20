@@ -55,6 +55,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="cloud_storage_is_full">Polno</string>
   <string name="cloudservice_new_sync">Sinhr. %s z Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Uporabite Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
+  <string name="confirm_delete">Izbriši</string>
+  <string name="confirm_save">Obdrži</string>
   <string name="connect_network">Povežite se preko WiFi ali vstavite SIM kartico</string>
   <string name="connect_wlan">Povežite se preko WiFi</string>
   <string name="contact">Stiki</string>
@@ -457,8 +459,9 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="search_cloudbackup_pref_path">Mi Račun/Mi Cloud/Izdelaj Var. kopijo in Namesti</string>
   <string name="search_finddevice_pref">Najdi napravo</string>
   <string name="search_finddevice_pref_desc">Vklj/Izklj. Najdi napravo</string>
-  <string name="search_finddevice_pref_key_words">finddevice, find device</string>
+  <string name="search_finddevice_pref_key_words">najdinapravo, najdi napravo</string>
   <string name="search_finddevice_pref_path">Mi Račun/Mi Cloud/Najdi napravo</string>
+  <string name="secret_photo">Skrite fotografije</string>
   <string name="setting">Nastavitve</string>
   <string name="settings_backup_title">Nastavitve var. kopije sistema</string>
   <string name="share_cancel">Deljenje odpovedano</string>
@@ -546,10 +549,11 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="virtual_sim_desc">Vključite Mi SIM da locirate napravo bez SIM kartice</string>
   <string name="voip_choose_sim">Izberite št.telefona za aktiviranje Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Preveri če je sinhronizirano</string>
-  <string name="wipe_data_dialog_msg">"%s ni sinhronizirano in bo ostalo na vašem telefonu."</string>
+  <string name="wipe_data_dialog_msg">"Nekateree stvari (%s) niso sinhronizirane. Shranjene bodo v napravi in ne bodo izbrisane."</string>
   <string name="wipe_data_dialog_msg_and_on">, in nekatere druge predmete</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
-  <string name="wipe_data_dialog_title">"Nekateri predmeti niso sinhronizirane"</string>
+  <string name="wipe_data_dialog_title">"Nekatere stvari niso sinhronizirane"</string>
+  <string name="wipe_secret_photo_dialog_title">"Skrite fotografije niso sinhronizirane"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
 </resources>

@@ -56,6 +56,10 @@
          <item quantity="other">%d vnosov liste blokiranja</item>
          <item quantity="one">%d vnos liste blokiranja</item>
     </plurals>
+	<plurals name="dirty_secretphoto_count">
+         <item quantity="other">"%d skritih fotografij ni sinhronizirano. Odjavite se ko bodo vse stvari sinhronizirane da jih obdržite; drugače se bodo izbrisale."</item>
+         <item quantity="one">"%d skrita fotografija ni sinhronizirana. Odjavite se ko bodo vse stvari sinhronizirane da jih obdržite; drugače se bodo izbrisale."</item>
+    </plurals>
 	<plurals name="micloud_main_resume_sync_hour">
          <item quantity="other">Nadaljuj sinhr. čez ur: %d</item>
          <item quantity="one">Nadaljuj sinhr. čez %d uro</item>
