@@ -3010,7 +3010,6 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_mode_enable_sum">Skrij sporočila, beležke, slike in dohodne klice</string>
   <string name="privacy_mode_enable_title">Način Gost</string>
-  <string name="privacy_mode_title">Nastavitve zasebnosti</string>
   <string name="privacy_notes">Beležke</string>
   <string name="privacy_password">Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_bind_account">Dodaj Mi Račun</string>
