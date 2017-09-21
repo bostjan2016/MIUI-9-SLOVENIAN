@@ -172,7 +172,7 @@
   <string name="data_consumption_checkbox_hint">"Ne prikaži ponovno"</string>
   <string name="data_consumption_confirm">V redu</string>
   <string name="data_consumption_message">Ta aplikacija potrebuje povezavo s spletom preko WiFi za normalno delovanje.</string>
-  <string name="data_consumption_message1">Naprava mora biti povezana s spletom za pregled popularnih nalepk in videoposnetkov.</string>
+  <string name="data_consumption_message1">Aplikacija Raziskovalec mora biti povezana s spletom za pregled popularnih nalepk in videoposnetkov.</string>
   <string name="data_consumption_title">Povezovanje s spletom</string>
   <string name="decompress_cancel">Prekliči</string>
   <string name="decompress_confirm">Razširi</string>
@@ -718,8 +718,8 @@
   <string name="remote_video_report_success">"Hvala vam za povratne informacije! Pregledali jih bomo čimprej."</string>
   <string name="remote_video_server_error">"Ne morem se povezati s strežnikom."</string>
   <string name="rename_alert">"Če spremenite končnico datoteke je morda ne boste mogli odpreti."</string>
-  <string name="rename_alert2">Datoteka bo skrita.</string>
-  <string name="rename_description">Preimenujem...</string>
+  <string name="rename_alert2">Datoteka bo skrita če spremenite njeno končnico.</string>
+  <string name="rename_description">Preimenujem…</string>
   <string name="rename_failed">Ni mogoče preimenovati %1$s</string>
   <string name="repair_done">Obnovljeno</string>
   <string name="repair_error">"Ne morem obnoviti"</string>

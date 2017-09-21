@@ -256,7 +256,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_flashmode_entry_on">Vklopi</string>
   <string name="pref_camera_flashmode_entry_torch">Svetilka</string>
   <string name="pref_camera_flashmode_title">Način bliskavice</string>
-  <string name="pref_camera_focus_shoot_summary">Po izostritvi pritisnite tipko da posnamete fotografijo</string>
+  <string name="pref_camera_focus_shoot_summary">Tapnite zaslon za fokusiranje in ponovno tapnite za snemanje.</string>
   <string name="pref_camera_focus_shoot_title">Ostrina &amp; posnemi</string>
   <string name="pref_camera_focusmode_entry_auto">Samodejno</string>
   <string name="pref_camera_focusmode_entry_infinity">Neskončno</string>
@@ -521,8 +521,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="tap_to_focus">Pritisni za izostritev</string>
   <string name="time_lapse_error">Tega videoposnetka se ne da uporabiti za snemanje v intervalih</string>
   <string name="title_snap_double_confirm">Potrdi ponovno</string>
-  <string name="toast_burst_snap_finished_end">fotografije</string>
-  <string name="toast_burst_snap_finished_start">Hitro zajemanje končano:</string>
+  <string name="toast_burst_snap_finished_summary">Hitro večkratno snemanje končano, posneto fotografij: %1$s</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Hitro večkratno snemanje ni podprto kadar je snemanje zvoka vključeno."</string>
   <string name="toast_saving">Shranjevanje fotografij…</string>
   <string name="toast_start_audio_capture">Ko se sproži zaklep predvajaj zvok </string>

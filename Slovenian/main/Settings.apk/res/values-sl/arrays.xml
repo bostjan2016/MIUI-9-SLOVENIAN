@@ -701,13 +701,13 @@
         <item>Vprašaj</item>
     </string-array>
     <string-array name="connect_mode_entries">
-         <item>Kompatibilni način</item>
-         <item>Visok način</item>
+         <item>Kompatibilost</item>
+         <item>Velika hitrost</item>
      </string-array>
 	<string-array name="traffic_balance_entries">
-         <item>Onemogočeno</item>
-         <item>Normalni način</item>
-         <item>Ekstremni način</item>
+         <item>Izključeno</item>
+         <item>Normalno</item>
+         <item>Ekstremno</item>
     </string-array>
 	<string-array name="common_password_business_names">
         <item>Zakl. zaslona</item>

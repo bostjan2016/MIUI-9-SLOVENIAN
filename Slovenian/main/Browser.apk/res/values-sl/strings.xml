@@ -573,7 +573,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_advert_null">Neoznačeno oglašavanje, lahko pritisnite nalepko na strani</string>
   <string name="pref_auto_update_under_wifi">Posodobi z uporabo WiFi</string>
   <string name="pref_automatic_matching_searchengines_title">Prestavili ste na pogosto iskanje</string>
-  <string name="pref_cancel_screen">Prekliči zaslon</string>
+  <string name="pref_cancel_screen">Odblokiraj</string>
   <string name="pref_category_hint">Kategorija</string>
   <string name="pref_check_security_url_summary">Pošlji povezavo Xiaomi strežnikom da preverijo če je varen</string>
   <string name="pref_check_security_url_summary_international">Da dobite boljšo uslugo priporočil, dovolite brskalniku dobivanje dostopa do vaše povezave</string>
@@ -617,7 +617,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_force_userscalable_summary">Povozi prošnjo spletne strani za krmiljenje povečave besedila</string>
   <string name="pref_general_title">Splošno</string>
   <string name="pref_key_gesture_title">Tipke &amp; kretnje</string>
-  <string name="pref_label_advert_manager">Upravitelj je označil oglase</string>
+  <string name="pref_label_advert_manager">Urejaj označene oglase</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Telefon</string>
   <string name="pref_nav_mode_title">Način Brskalnika</string>

@@ -27,11 +27,12 @@
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="devided_by_zero_reminder_message">"Ne morete deliti z ničlo"</string>
   <string name="deleteDesc">Izbriši</string>
-  <string name="description_content">Razen osnovnih funkcij Kalkulator dela tudi kot večnamenski konverter hipotek in davkov</string>
+  <string name="description_content">Razen osnovnih funkcij Kalkulator dela tudi kot večnamenski pretvarjalnik in za izračun hipotek, kreditov in davkov</string>
   <string name="description_title">O Kalkulatorju</string>
   <string name="error">Napaka</string>
   <string name="error_fomrat">Napaka formata</string>
   <string name="from_unit_en">kilometrov na uro</string>
+  <string name="global_network_confirm_content">"Pretvornik valut kalkulatorja potrebuje sletno povezavo naprave da dela normalno."</string>
   <string name="home_title_calculator">Kalkulator</string>
   <string name="item_title_aa_payment">Razdeli račun</string>
   <string name="item_title_area_conversion">Površina</string>

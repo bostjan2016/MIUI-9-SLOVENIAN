@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Računi</string>
+  <string name="about_ad_service_instructions">O oglaševanju in zasebnosti​</string>
   <string name="aaid_info">"
  Identifikator oglaševanja je stalni ID unikaten za vašo napravo. Dobavitelji ga uporabljajo za izbor reklamne vsebine ki vam bo koristila.
  
@@ -24,7 +25,6 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z:</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="about_ad_service_instructions">O oglaševanju in zasebnosti​</string>
   <string name="about_settings">O telefonu</string>
   <string name="about_settings_summary">Ogled pravnih informacij, stanja, različice programske opreme</string>
   <string name="about_summary">Android %1$s</string>
@@ -2273,7 +2273,6 @@ Na tej napravi je več uporabnikov.
   <string name="memory_title">Na voljo: %1$s\u0009\u0009Skupaj: %2$s</string>
   <string name="memory_usage">Uporaba pomnilnika</string>
   <string name="memory_usage_apps">Pomnilnik ki ga uporabljajo aplikacije</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Povprečno %1$s uporabljenega pomnilnika v zadnjih 3 urah</string>
   <string name="menu_cancel">Zavrzi</string>
   <string name="menu_delete">Izbriši APN</string>
@@ -2302,7 +2301,6 @@ Na tej napravi je več uporabnikov.
   <string name="menu_use_uss">Uporabi Uss</string>
   <string name="misc_files">Razne datoteke</string>
   <string name="misc_files_selected_count">izbrano %1$d od %2$d</string>
-  <string name="misc_files_selected_count_bytes">%1$s od %2$s</string>
   <string name="miui_allow_alarm">Alarmi</string>
   <string name="miui_allow_light">Lučka obvestil</string>
   <string name="miui_allow_music">Glasba</string>
@@ -2331,13 +2329,13 @@ Na tej napravi je več uporabnikov.
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
   <string name="model_number">Model naprave</string>
-  <string name="modem_tool_log">Zajemite dnevnik modema</string>
+  <string name="modify_instruction_password_settings">Nastavi geslo</string>
+  <string name="modify_privacy_password">Zamenjaj geslo</string>
+  <string name="modem_tool_log">Zabeleži zapise modema</string>
   <string name="modem_tool_log_start">Začni</string>
   <string name="modem_tool_log_start_toast">"Začni zapisnik modema na %s"</string>
   <string name="modem_tool_log_stop">Ustavi</string>
   <string name="modem_tool_log_stop_toast">"Ustavi zapisnik modema iz %s"</string>
-  <string name="modify_instruction_password_settings">Nastavi geslo</string>
-  <string name="modify_privacy_password">Spremeni geslo</string>
   <string name="move_app">Premakni</string>
   <string name="move_app_failed_dlg_text">"Premeščanje aplikacije %1$s ni uspelo."</string>
   <string name="move_app_failed_dlg_title"/>
@@ -2472,7 +2470,6 @@ Na tej napravi je več uporabnikov.
   <string name="nfc_how_it_works_got_it">Razumem</string>
   <string name="nfc_how_it_works_title">Plačevanje na terminalu</string>
   <string name="nfc_more_title">Več ...</string>
-  <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
   <string name="nfc_payment_favor_open">Razen ko je odprta druga aplikacija za plačevanje</string>
   <string name="nfc_payment_how_it_works">Kako deluje</string>
   <string name="nfc_payment_no_apps">Plačujte v trgovinah s telefonom</string>
@@ -2615,7 +2612,6 @@ Na tej napravi je več uporabnikov.
   <string name="overlay_display_devices_title">Simul. sekund. prikazov.</string>
   <string name="overlay_settings">Risanje čez druge aplikacije</string>
   <string name="owner_info_settings_edit_text_hint">Npr. Janezov Android</string>
-  <string name="owner_info_settings_status">%1$d/%2$d</string>
   <string name="owner_info_settings_summary">Brez</string>
   <string name="owner_info_settings_title">Informacije o lastniku na Zakl. zaslonu</string>
   <string name="packages_subtitle">Vključeni paketi</string>
@@ -3014,7 +3010,6 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_mode_enable_sum">Skrij sporočila, beležke, slike in dohodne klice</string>
   <string name="privacy_mode_enable_title">Način Gost</string>
-  <string name="privacy_mode_title">Nastavitve zasebnosti</string>
   <string name="privacy_notes">Beležke</string>
   <string name="privacy_password">Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_bind_account">Dodaj Mi Račun</string>
@@ -3036,6 +3031,7 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_password_title">Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Prikaži vzorec</string>
+  <string name="privacy_mode_title">Nastavitve zasebnosti</string>
   <string name="privacy_protect_title">Varovanje zasebnosti</string>
   <string name="privacy_relative">Zasebnost</string>
   <string name="privacy_settings">Varnostno kopiraj in ponastavi</string>
@@ -3047,7 +3043,6 @@ Na tej napravi je več uporabnikov.
   <string name="private_sms_recording_intro_header">Narišite vzorec za odklepanje:</string>
   <string name="private_sms_reset_by_account">Če želite ponastaviti geslo se prijavite v svoj Mi račun</string>
   <string name="process_dex2oat_label">Optimizacija aplikacij</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">OS Android</string>
   <string name="process_mediaserver_label">Predstavnostni strežnik</string>
   <string name="process_provider_in_use_description">Ponudnik %1$s je v uporabi.</string>
@@ -3182,15 +3177,15 @@ Na tej napravi je več uporabnikov.
   <string name="receiver_clean">Osvobodite prostor</string>
   <string name="recent_location_requests_summary">Spodnje aplikacije zahtevajo dostop do informacij vaše lokacije</string>
   <string name="recent_location_requests_title">Dostop do lokacije</string>
-  <string name="recognizer_settings_summary">"Nastavitve za '%s'"</string>
-  <string name="recognizer_settings_title">Glasovno iskanje</string>
-  <string name="recognizer_title">Prepoznavalnik zvoka</string>
   <string name="recommend_item_1">Zaščitna maska</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Mobilni polnilec</string>
   <string name="recommend_item_4">Slušalke</string>
   <string name="recommend_item_title">Priporočeno</string>
-  <string name="recompute_size">Preračunavanje velikosti ...</string>
+ <string name="recognizer_settings_summary">"Nastavitve za '%s'"</string>
+  <string name="recognizer_settings_title">Glasovno iskanje</string>
+  <string name="recognizer_title">Prepoznavanje glasu</string>
+  <string name="recompute_size">Ponovni izračun velikosti…</string>
   <string name="record_anr_in_background">Posnemi ANR dogodke v ozadju</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Zakonsko predpisani podatki</string>
@@ -3705,11 +3700,9 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="selinux_status_enforcing">Uveljavljajoče</string>
   <string name="selinux_status_permissive">Dopuščajoče</string>
   <string name="service_background_processes">Prosto: %1$s</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">V uporabi: %1$s</string>
   <string name="service_manage">Nastavitve</string>
   <string name="service_manage_description">%1$s: trenutno v uporabi. Za nadzor se dotaknite gumba Nastavitve</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Ponovno zaganjanje</string>
   <string name="service_started_by_app">Zagnala aplikacija.</string>
   <string name="service_stop">Ustavi</string>
@@ -3852,7 +3845,6 @@ Morda je koda PIN napačna."</string>
   <string name="sim_reenter_new">Znova vnesite novi PIN</string>
   <string name="sim_select_card">Izberite kartico SIM</string>
   <string name="sim_selection_required_pref">Zahtevana je izbira</string>
-  <string name="sim_settings_summary">%1$s – %2$s</string>
   <string name="sim_settings_title">Kartici SIM</string>
   <string name="sim_setup_wizard_title">Kartici SIM</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4189,7 +4181,6 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Sinhroniziranje ...</string>
   <string name="sync_is_failing">Težava pri sinhronizaciji. Kmalu bo spet na voljo.</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Prekliči sinhronizacijo</string>
   <string name="sync_menu_sync_now">Sinhroniziraj</string>
   <string name="sync_one_time_sync">"Pritisnite če želite sinhronizirati %1$s"</string>
