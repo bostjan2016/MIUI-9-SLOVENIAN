@@ -44,7 +44,7 @@
   <string name="no_sound">Utišaj</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_send">Pošlji</string>
-  <string name="recording_max_size">Snemanje je ustavljeno in posnetek je samodejno shranjen zaradi maksimalne velikosti videoposnetkov. Lahko začnete drugo snemanje če želite nadaljevati.</string>
+  <string name="recording_max_size">Snemanje je ustavljeno in posnetek je samodejno shranjen zaradi maksimalne velikosti videoposnetkov. Lahko začnete drugo snemanje, če želite nadaljevati.</string>
   <string name="quit_recording">Izhod iz Snemalca zaslona</string>
   <string name="recording_failure">Zadnje snemanje ni uspelo, ponovno zaženite snemanje zaslona</string>
   <string name="resolution">Resolucija</string>

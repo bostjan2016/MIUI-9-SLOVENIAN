@@ -718,7 +718,7 @@
   <string name="remote_video_report_success">"Hvala vam za povratne informacije! Pregledali jih bomo čimprej."</string>
   <string name="remote_video_server_error">"Ne morem se povezati s strežnikom."</string>
   <string name="rename_alert">"Če spremenite končnico datoteke je morda ne boste mogli odpreti."</string>
-  <string name="rename_alert2">Datoteka bo skrita če spremenite njeno končnico.</string>
+  <string name="rename_alert2">Datoteka bo skrita, če spremenite njeno končnico.</string>
   <string name="rename_description">Preimenujem…</string>
   <string name="rename_failed">Ni mogoče preimenovati %1$s</string>
   <string name="repair_done">Obnovljeno</string>

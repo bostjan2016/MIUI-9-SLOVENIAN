@@ -1076,7 +1076,7 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="oauth_login_usr_proxy">Proxy prijava</string>
   <string name="open_calendar_and_contacts_permission">Omogočite dovoljenja uporabe koledarja in stikov v nastavitvah</string>
   <string name="open_external_storage_and_calendar_permission">Omogočite dovoljenja uporabe koledarja in shrambe v nastavitvah</string>
-  <string name="open_external_storage_and_contacts_and_calendar_permission">Omogočite dovoljenja uporabe koledarja,stikov in shrambe v nastavitvah</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">Omogočite dovoljenja uporabe koledarja, stikov in shrambe v nastavitvah</string>
   <string name="open_external_storage_and_contacts_permission">Omogočite dovoljenja uporabe stikov v nastavitvah</string>
   <string name="sync_contacts_fail_per_content">Omogućite dovoljenja za stike</string>
   <string name="sync_contacts_fail_per_title">Sinronizacija stikov ni uspela</string>
