@@ -5,10 +5,13 @@
      <string name="battery_islow_desc">Raven napolnjenosti baterije je prenizka za varno namestitev zip datoteke, priključite polnilec in poskusite kasneje!</string>
      <string name="btn_changelog">Seznam sprememb</string>
      <string name="btn_download">Prenesi (%1$s)</string>
+  <string name="btn_error">Prišlo je do napake, poskusim ponovno?</string>
      <string name="btn_install">Namesti</string>
      <string name="btn_no">Prekliči</string>
      <string name="btn_ok">V redu</string>
-     <string name="btn_share">Skupna raba</string>
+  <string name="btn_pause">Premor</string>
+  <string name="btn_share">Skupna raba</string>
+  <string name="btn_stop">Ustavi</string>
      <string name="btn_yes">Da</string>
      <string name="check_new_version">Preveri</string>
   <string name="dialog_3g_desc">Prenos nove MIUI verzije preko mobilnih podatakov lahko povzroči stroške. Priporočamo prenos preko WiFi.</string>

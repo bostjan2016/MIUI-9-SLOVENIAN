@@ -4,8 +4,48 @@
         <item quantity="other">Kopiranje %1$d datotek.</item>
         <item quantity="one">Kopiranje %1$d datoteke.</item>
     </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Premeščanje %1$d datotek.</item>
+        <item quantity="one">Premeščanje %1$d datoteke.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Brisanje %1$d datotek.</item>
+        <item quantity="one">Brisanje %1$d datoteke.</item>
+    </plurals>
     <plurals name="copy_error_notification_title">
         <item quantity="other">%1$d datotek ni kopirano</item>
         <item quantity="one">%1$d datoteka ni kopirana</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">%1$d datotek ni premeščeno</item>
+        <item quantity="one">%1$d datoteka ni premeščena</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">%1$d datotek ni izbrisano</item>
+        <item quantity="one">%1$d datoteka ni izbrisana</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">%1$d datotek kopirano v medpomnilnik.</item>
+        <item quantity="one">%1$d datoteka kopirana v medpomnilnik.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">Izbrano: %1$d</item>
+        <item quantity="one">Izbrano: %1$d</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d stvari</item>
+        <item quantity="one">%1$d stvar</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Želite izbrisati %1$d datotek?</item>
+        <item quantity="one">Želite izbrisati %1$d datoteko?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Želite izbrisati %1$d map in njihovo vsebino?</item>
+        <item quantity="one">Želite li izbrisati %1$d mapo in njeno vsebino?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Želite izbrisati %1$d stvari?</item>
+        <item quantity="one">Želite izbrisati %1$d stvar?</item>
     </plurals>
 </resources>
