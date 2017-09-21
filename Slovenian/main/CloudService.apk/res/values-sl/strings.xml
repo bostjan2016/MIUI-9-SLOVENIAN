@@ -548,8 +548,8 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="view_storage_title">Prostor za shranjevanje</string>
   <string name="virtual_sim_desc">Vključite Mi SIM da locirate napravo bez SIM kartice</string>
   <string name="voip_choose_sim">Izberite št.telefona za aktiviranje Mi Voice</string>
-  <string name="wipe_data_dialog_button_check_sync">Preveri če je sinhronizirano</string>
-  <string name="wipe_data_dialog_msg">"Nekateree stvari (%s) niso sinhronizirane. Shranjene bodo v napravi in ne bodo izbrisane."</string>
+  <string name="wipe_data_dialog_button_check_sync">Preveri, če je sinhronizirano</string>
+  <string name="wipe_data_dialog_msg">"Nekateri predmeti (%s) niso sinhronizirani. Shranjeni bodo v napravi in ne bodo izbrisani."</string>
   <string name="wipe_data_dialog_msg_and_on">, in nekatere druge predmete</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="wipe_data_dialog_title">"Nekatere stvari niso sinhronizirane"</string>

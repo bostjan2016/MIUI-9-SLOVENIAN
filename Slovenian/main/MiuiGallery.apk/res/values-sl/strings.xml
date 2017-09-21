@@ -1106,7 +1106,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_text_input_empty_tips">"Kaže da še niste vpisali teksta"</string>
   <string name="video_editor_text_none">Nič</string>
   <string name="video_editor_text_preview_text">MI</string>
-  <string name="video_editor_trim">Podreži</string>
+  <string name="video_editor_trim">Obreži</string>
   <string name="video_editor_unsupport_audio_file">Nepodprta avdio datoteka</string>
   <string name="video_err">"Ne morem predvajati videoposnetka."</string>
   <string name="video_not_exist">Videoposnetek ne obstaja</string>
