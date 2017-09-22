@@ -22,7 +22,6 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s prenosov</string>
   <string name="app_label">Prenosi</string>
-  <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei račun</string>
   <string name="auth_fail">"Ne morem najti avtorizacije"</string>
   <string name="bind_xunlei_account">Dodan Xunlei Račun %1$s</string>
@@ -107,7 +106,6 @@
   <string name="download_list_title_browser">Prenosi</string>
   <string name="download_no_application">Ni aplikacij ki podpirajo ta format</string>
   <string name="download_no_application_title">Datoteke ni mogoče odpreti</string>
-  <string name="download_num_size">%1$s | %2$s</string>
   <string name="download_paused">Prenos ustavljen</string>
   <string name="download_pending">Prenos v teku</string>
   <string name="download_queued">V čakalni vrsti</string>

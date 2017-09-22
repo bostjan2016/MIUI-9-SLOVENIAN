@@ -41,7 +41,6 @@
   <string name="back_quit_lock">Pritisnite ponovno za prekinitev videa</string>
   <string name="brightness">Osvetlitev</string>
   <string name="cancel">Prekliči</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="default_text">Privzeto</string>
   <string name="delete">Izbriši</string>
   <string name="delete_file_tips">Izbrišem to datoteko?</string>

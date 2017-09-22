@@ -620,7 +620,6 @@
   <string name="operation_show_sys">Pokaži skrite datoteke</string>
   <string name="operation_unfavorite">Odstrani iz priljubljenih</string>
   <string name="operation_unlike">Ni mi všeč</string>
-  <string name="origin_name">%1$s: </string>
   <string name="original_user_desc">Redno prenašajte originalne videoposnetke da dobite status avtorja vsebin</string>
   <string name="original_user_qq_group">Pridružite se QQ skupini Talent team</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; se je pridružil skupini</string>
@@ -712,7 +711,6 @@
   <string name="recommend_popup_title">Priporočila</string>
   <string name="recommend_topic">Priporočene teme</string>
   <string name="recommend_user">Priporočeni profili</string>
-  <string name="recommend_users">%1$s+</string>
   <string name="release_to_signin">Spustite za prijavo</string>
   <string name="remote_video_no_network">"Ne morem se povezati na omrežje."</string>
   <string name="remote_video_report_success">"Hvala vam za povratne informacije! Pregledali jih bomo čimprej."</string>
@@ -1124,10 +1122,9 @@
   <string name="video_topic_hint">Išči teme ali osebe</string>
   <string name="video_upload_btn">Naprej</string>
   <string name="video_upload_btn_hint">MP4 videoposnetek mora biti dolg 3s~10 min</string>
-  <string name="video_upload_btn_hint_span">"Ne najdete svoj videoposnetek?"</string>
   <string name="video_upload_hint">Naložite promovirane videoposnetke da dobite več točk.</string>
+  <string name="video_upload_btn_hint_span">"Ne morete najti svoj videoposnetek?"</string>
   <string name="video_upload_item_more">Še(%1$s)</string>
-  <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_kuaishou_hint">Naložite KuaiShou videoposnetke da dobite več oboževalcev.</string>
   <string name="video_upload_retry_confirm">Poskusite ponovno</string>
   <string name="video_upload_retry_message">"Ne morem naložiti, poskusim spet?"</string>

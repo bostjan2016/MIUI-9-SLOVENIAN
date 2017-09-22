@@ -235,7 +235,6 @@
   <string name="packaging_dialog_content">Ustvarjanje poročila o napaki ...</string>
   <string name="permission_granted">odobreno %1$s dovoljenj</string>
   <string name="pic_not_exist">"Ta slika ne obstaja"</string>
-  <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Vaše povratne informacije bodo skupaj s poročilom o napakah in priloženimi slikami poslane na Mi strežnike ko bo vaša naprava povezana z WiFi omrežjem."</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapomni si </string>
   <string name="post_miui_bbs_failed">"Ne morem objaviti sporočila na Forumu"</string>

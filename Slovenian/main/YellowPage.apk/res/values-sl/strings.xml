@@ -164,7 +164,6 @@
   <string name="express_order_failed">Ni uspelo</string>
   <string name="express_order_ongoing">Naročam...</string>
   <string name="express_order_result">Rezultat</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Sprejeto</string>
   <string name="express_order_state_allograph">Podpisano</string>
   <string name="express_order_state_cancelled">Preklicano</string>
@@ -309,7 +308,6 @@
   <string name="nearby_average_price">%d RMB min</string>
   <string name="nearby_no_yellow_page">Ni rezultatov v bližini</string>
   <string name="nearby_yellow_page_title">V bližini</string>
-  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Omrežni dostop zavrnjen</string>
   <string name="network_unavaliable">Ne morem se povezati v omrežje</string>
   <string name="no_brief">Ni povzetka</string>
@@ -327,7 +325,6 @@
   <string name="order_id_label">"Naročilo #: %1$s"</string>
   <string name="order_info">Podrobnosti naročila</string>
   <string name="order_merchant_title">Moja naročila</string>
-  <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Ni naročil</string>
   <string name="order_price_label">"Cena naročila: %1$s"</string>
   <string name="order_product_name_label">"Ime proizvoda: %1$s"</string>
@@ -377,7 +374,6 @@
   <string name="recharge_payment_result_ok_title">Dodano RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Preverjanje rezultata plačila...</string>
   <string name="recharge_phone">Številka za doplačilo:</string>
-  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">Telefonska številka ki ste jo vnesli mora biti pravilna</string>
   <string name="recharge_phone_number_error">Telefonska številka ki ste jo vnesli je nepravilna</string>
   <string name="recharge_select_money_title">Izberite znesek doplačila</string>
@@ -553,7 +549,6 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
   <string name="sending_shortcut">Pošiljam...</string>
   <string name="service_unavailiable">Storitev ni na voljo</string>
   <string name="share">Skupna raba</string>
-  <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
   <string name="sina_share_fail">Napaka pri pošiljanju</string>

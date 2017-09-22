@@ -854,7 +854,6 @@
   <string name="calendar_sound_title">Zvok koledarja</string>
   <string name="call_manager_enable_summary">Omogoči tej storitvi upravljanje načina izvajanja klicev.</string>
   <string name="call_manager_enable_title">Omogočanje Upravitelja klicev</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Upravitelj klicev</string>
   <string name="call_settings_primary_user_only">Spremeni nastavitve klicev v privzetem prostoru</string>
   <string name="call_settings_summary">Nastavite telefonski predal, preusmeritev klicev, čakajoči klic, ID klicatelja</string>
@@ -1451,7 +1450,6 @@
   <string name="dndm_auto_button_title">Ponovi čas</string>
   <string name="dndm_auto_setting_group">Načrtovano</string>
   <string name="dndm_auto_time_setting">Nastavi uro</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Za</string>
   <string name="dndm_auto_time_turn_off_title">Samodejno izključi \"Ne moti“\</string>
   <string name="dndm_auto_time_turn_on">Od</string>
@@ -1849,7 +1847,6 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gadget_picker_title">Izberi pripomoček</string>
   <string name="gadget_state_off">izklopljeno</string>
   <string name="gadget_state_on">vklopljeno</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">izklapljanje</string>
   <string name="gadget_state_turning_on">vklapljanje</string>
   <string name="gadget_sync">Sinhronizacija</string>
@@ -2173,7 +2170,6 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lift_to_wake_title">Preklop iz stanja pripravlj. z dviganjem</string>
   <string name="line_breaking_summary">Optimizirajte odstavek prelamljanja vrstice</string>
   <string name="line_breaking_title">Optimizirajte besedilo</string>
-  <string name="link_speed">%1$d Mb/s</string>
   <string name="link_speed_label">Hitrost povezave:</string>
   <string name="loading_notification_apps">Nalaganje aplikacij ...</string>
   <string name="local_auto_backup_off">Izklop</string>
@@ -3269,7 +3265,6 @@ Na tej napravi je več uporabnikov.
   <string name="phone_info_label">Informacije o telefonu</string>
   <string name="phone_language">Jezik</string>
   <string name="phone_language_summary"/>
-  <string name="physical_device_title">%1$s - %2$s</string>
   <string name="physical_keyboard_title">Fizična tipkovnica</string>
   <string name="pico_installed">Nameščeno</string>
   <string name="pico_languages_and_voices">Jeziki in glasovi</string>
@@ -4389,7 +4384,6 @@ Morda je koda PIN napačna."</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Vseeno preskoči</string>
   <string name="skip_label">Preskoči</string>
@@ -5967,7 +5961,6 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="zen_mode_summary_alarms_only_by_time">Sprememba na \"Samo alarmi\ do %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Sprememba na \"Samo alarmi\ za nedoločen čas</string>
   <string name="zen_mode_summary_always">Sprememba na \"Zmeraj prekini\"</string>
-  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_visual_interruptions_settings_title">Blokiranje vizualnih motenj</string>
   <string name="zen_mode_when">Samodejni vklop</string>
   <string name="zen_mode_when_every_night">Vsako noč</string>

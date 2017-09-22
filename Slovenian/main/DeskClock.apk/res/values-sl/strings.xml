@@ -119,7 +119,6 @@
   <string name="shutdown_alarm_enable_summary">Alarm je vklopljen</string>
   <string name="shutdown_alarm_title">Izklop alarma</string>
   <string name="silent_alarm_summary">Tiho</string>
-  <string name="skip_alarm_date_format">%1$s(%2$s)</string>
   <string name="skip_alarm_once_hint">Izključi enkrat dnevno %s</string>
   <string name="slider_text">Podrsajte navzgor za preklic alarma</string>
   <string name="snooze_confirm_cancel">Zavrzi alarm</string>

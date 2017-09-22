@@ -476,7 +476,6 @@
   <string name="folder_trash_name_en2">Izbrisano sporočilo</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s%2$s</string>
   <string name="forward">Posreduj</string>
   <string name="forward_attachment">Posreduj</string>
   <string name="forward_attribution">---------- Posredovano sporočilo ----------&lt;br&gt;Pošilja: %1$s&lt;br&gt;Datum: %2$s&lt;br&gt;Zadeva: %3$s&lt;br&gt;Prejme: %4$s&lt;br&gt;</string>
@@ -957,7 +956,6 @@ Poskusite z ostalo pošto."</string>
   <string name="silent_ringtone">Tiho</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">Kontrola identitete ni uspela, preverite če je antivirusni program blokiral SMS sporočilo</string>
   <string name="smtp_password_error">Napačno geslo odhodnega strežnika</string>
   <string name="sort_attachment">Razvrsti</string>

@@ -117,7 +117,6 @@
   <string name="bind_stb_dlg">Poveži set top box za zamenjavo kanala</string>
   <string name="bind_stb_dlg_2">Poveži Set-top box</string>
   <string name="bind_stb_dlg_agree">Seznani</string>
-  <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Izberi znamko</string>
   <string name="brand_title_all">Vse</string>
   <string name="brand_title_hot">Popularno</string>
@@ -169,7 +168,6 @@ Poskusite naslednje da  rešite problem:
   <string name="channel_list">Seznam kanalov</string>
   <string name="channel_num">—</string>
   <string name="channel_removed_from_fav">%1$s odstranjen iz priljubljenih</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Preveri posodobitve</string>
   <string name="choose_ac">Izberite daljinec</string>
   <string name="choose_address_title">Izberite lokacijo</string>
@@ -390,7 +388,6 @@ Poskusite naslednje da  rešite problem:
   <string name="hot_videos">Novosti</string>
   <string name="hour">Ur</string>
   <string name="humidity">Vlaga:</string>
-  <string name="humidity_frame">%1$d%%</string>
   <string name="increase">Povečaj</string>
   <string name="input_complete">Končano</string>
   <string name="input_dialogue_cancel_button">Prekini</string>
@@ -453,7 +450,6 @@ Poskusite naslednje da  rešite problem:
   <string name="loading_more">Samo trenutek…</string>
   <string name="locate_current_place">Najdi trenutno lokacijo</string>
   <string name="location_select">Preimenuj napravo</string>
-  <string name="lock_screen_device_sum">%1$d</string>
   <string name="login">Prijavi se</string>
   <string name="login_directly">Prijavi se direktno</string>
   <string name="login_done">Prijavljeno</string>
@@ -479,7 +475,6 @@ Poskusite naslednje da  rešite problem:
   <string name="match_data">Podrobnosti seznanjanja</string>
   <string name="match_data_error_tips">"Ne morem dobiti podatkov. 
 Vrnite se za nadaljevanje"</string>
-  <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Ali navigacijske tipke delajo?</string>
   <string name="match_dvd_intro_pause">Sprostite ko se DVD predvajanje ustavi</string>
   <string name="match_dvd_intro_play">Sprostite ko se DVD prične predvajati</string>
@@ -862,8 +857,6 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="scaning">Iskanje…</string>
   <string name="scanning_milink">Iskanje naprave…</string>
   <string name="scene_default">Privzeto</string>
-  <string name="scene_name_frame">%1$s %2$s%3$s</string>
-  <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">Prestrezanje na zaslonu TV-a</string>
   <string name="screen_shot_delete">Izbriši</string>
   <string name="screen_shot_delete_warning">Resnično želite izbrisati?</string>
@@ -996,7 +989,6 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="start_match">Seznani</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Set-top box</string>
-  <string name="stb_detail_title_frame">%1$s - Br. %2$d</string>
   <string name="stb_power">STB vklj/izklj.</string>
   <string name="steps">Poskus #%d</string>
   <string name="stop_auto_tune">Zaustavi samodejno nastavitev</string>
@@ -1019,7 +1011,6 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Aplikacijo ni mogoče zagnati</string>
   <string name="time_error">Napačen čas</string>
-  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Timer</string>
   <string name="timer_turn_off">Izključi timer</string>
   <string name="timer_turn_on">Vključi timer</string>

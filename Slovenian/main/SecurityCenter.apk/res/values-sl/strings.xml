@@ -1246,7 +1246,6 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
   <string name="menu_text_networkassistants">Poraba podatkov</string>
   <string name="menu_text_networkassistants_danger">%s preseženo</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s preostalo</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1415,7 +1414,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="om_media_scan_timeout_proc_detail">Medijski server deluje v ozadju. Lahko omejite njegovo aktivnost.</string>
   <string name="om_media_scan_timeout_proc_name">Medijski server</string>
   <string name="om_memory_clean_cleaning_text">Povečanje hitrosti…</string>
-  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Omeji aktivnosti v ozadju za povečanje hitrosti</string>
   <string name="om_notify_cpu_load_too_high_title">Upotreba CPU od %s je previsoka</string>
   <string name="om_notify_need_clean_memory_summary">Izbriši predspomin za povečanje hitrosti</string>
@@ -1801,7 +1799,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_normal_traffic_limit">Kadar presežete plan podatkov</string>
   <string name="pref_open_adjust_traffic">"Posodobi porabo podatkov vsakodnevno z uporabo statistike mobilnega operaterja"</string>
   <string name="pref_operator_not_set">"Operater ni nastavljen"</string>
-  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Ko presežete omejitev podatkov</string>
   <string name="pref_package_traffic_leisure">%1$s 
   Izklj.maks.: %2$s</string>

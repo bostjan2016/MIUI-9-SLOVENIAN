@@ -427,7 +427,6 @@ predvsem nudi Ultimate Inc.</string>
   <string name="list_detail_title">Podrobnosti</string>
   <string name="list_item_play_FM_radio">Dotakni se za predvajanje FM radija</string>
   <string name="list_item_play_all_tracks">Dotakni se za predvajanje vseh skladb</string>
-  <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="load_shuffle">Nalaganje…</string>
   <string name="loadercontainer_loading">Nalaganje…</string>
   <string name="loading_hint">Nalaganje</string>

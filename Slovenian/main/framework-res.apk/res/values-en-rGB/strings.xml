@@ -283,7 +283,6 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Feature code complete.</string>
   <string name="fcError">Connection problem or invalid feature code.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Find</string>
   <string name="find_next">Find next</string>
   <string name="find_on_page">Find on page</string>
@@ -1307,6 +1306,5 @@ Do you want to close it?"</string>
   <string name="zen_mode_feature_name">Do not disturb</string>
   <string name="zen_mode_forever">Until you turn this off</string>
   <string name="zen_mode_forever_dnd">Until you turn off Do Not Disturb</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Until %1$s</string>
 </resources>

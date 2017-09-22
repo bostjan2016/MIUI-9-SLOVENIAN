@@ -198,10 +198,9 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Ustvarjeno:</string>
   <string name="file_share_message_description">Hočem deliti nekaj datotek s teboj.</string>
-  <string name="file_size">Velikost:</string>
-  <string name="file_title">Ime:</string>
-  <string name="file_width_height">Velikost:</string>
-  <string name="flatshow_page_no">%1$d</string>
+  <string name="file_size">"Velikost: "</string>
+  <string name="file_title">"Ime: "</string>
+  <string name="file_width_height">"Velikost: "</string>
   <string name="force_touch_new_message_title">Novo sporočilo</string>
   <string name="follow_finished">Številka za sledenje</string>
   <string name="follow_forbidden">"Ne morem slediti te številke"</string>
@@ -591,7 +590,6 @@
   <string name="send_sms">Pošlji sporočilo</string>
   <string name="send_to">Za:</string>
   <string name="send_to_count">Poslano: %1$s</string>
-  <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">Poslano: %1s</string>
   <string name="sent_label">"Poslano: "</string>
   <string name="service_message_not_found">Sporočilo pretečeno ali nedostopno</string>
