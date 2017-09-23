@@ -11,7 +11,6 @@
   <string name="cannot_add_printer">Ne morete dodati tiskalnikov</string>
   <string name="collapse_handle">Ročica za strnitev</string>
   <string name="could_not_create_file">Datoteke ni bilo mogoče ustvariti</string>
-  <string name="current_page_template">%1$d/%2$d</string>
   <string name="disabled_services_title">Onemogočene storitve</string>
   <string name="enable_print_service">Izberite, če želite omogočiti</string>
   <string name="enabled_services_title">Omogočene storitve</string>
@@ -53,7 +52,6 @@
   <string name="print_service_security_warning_title">Želite uporabiti storitev %1$s?</string>
   <string name="print_services_disabled_toast">Nekatere tiskalne storitve so onemogočene</string>
   <string name="print_write_error_message">V datoteko ni bilo mogoče zapisovati</string>
-  <string name="printer_extended_description_template">%1$s – %2$s</string>
   <string name="printer_info_desc">Več informacij o tem tiskalniku</string>
   <string name="printing_app_crashed">Aplikacija za tiskanje se je zrušila</string>
   <string name="printing_notification_title_template">Tiskanje %1$s</string>

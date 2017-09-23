@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="0">Uporabite geste da se skrijete/prikažete tipke zaslona.</string>
   <string name="accessibility_action_divider_bottom_full">Spodaj ves zaslon</string>
   <string name="accessibility_action_divider_left_30">Levo 30%</string>
   <string name="accessibility_action_divider_left_50">Levo 50%</string>
@@ -11,6 +10,7 @@
   <string name="accessibility_action_divider_top_50">Zgoraj 50%</string>
   <string name="accessibility_action_divider_top_70">Zgoraj 70%</string>
   <string name="accessibility_action_divider_top_full">Zgoraj cel zaslon</string>
+   <string name="0">Uporabite geste da se skrijete/prikažete tipke zaslona.</string>
   <string name="accessibility_airplane_mode">Način Letalo.</string>
   <string name="accessibility_assistant">Meni bližnjic.</string>
   <string name="accessibility_back">"Nazaj"</string>
@@ -343,9 +343,8 @@ Uporabite priloženi polnilnik."</string>
   <string name="nav_guide_message">Uporabite geste da skrijete/prikažete tipke zaslona.</string>
   <string name="nav_guide_ok">Nastavitev</string>
   <string name="nav_guide_title">Skrij tipke zaslona</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
+   <string name="no_multi_window_app">Ni aplikacij ki lahko delajo v načinu deljenega zaslona</string> 
   <string name="no_application">Nič</string>
-  <string name="no_multi_window_app">Ni aplikacij ki lahko delajo v načinu razdeljenega zaslona</string>
   <string name="no_notification_tips">Ni obvestil.</string>
   <string name="no_weather_description">Pridobivanje podatkov o vremenu &gt;</string>
   <string name="not_support_multi_window">"Trenutna aplikacija ne podpira način razdeljenega zaslona"</string>
@@ -592,8 +591,7 @@ Povlecite navzdol za zaklepanje"</string>
   <string name="vpn_title_long">Povezovanje na VPN z uporabo %s</string>
   <string name="wait_for_debugger">Počakajte na iskalnik napak</string>
   <string name="wait_for_debugger_summary">Aplikacija, v kateri iščete napako, pred izvajanjem čaka na povezavo z iskalnikom napak</string>
-  <string name="weather_description_no_aqi">%1$s</string>
-  <string name="weather_publish_time">Posodobljeno %1$s</string>
+   <string name="weather_publish_time">Posodobljeno %1$s</string>
   <string name="wifi_aggressive_handover">Odločen prehod iz WiFi-ja v mobil. omr.</string>
   <string name="wifi_aggressive_handover_summary">Če je ta možnost omogočena, WiFi odločneje preda podatkovno povezavo mobilnemu omrežju, ko je signal WiFi šibek</string>
   <string name="wifi_allow_scan_with_traffic">Vedno omogoči iskanje omrežij WiFi za gostovanje</string>
@@ -607,7 +605,7 @@ Povlecite navzdol za zaklepanje"</string>
   <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2_hint">8.8.4.4</string>
-  <string name="wifi_fail_to_scan">"&gt;Ni mogoče iskati omrežij"</string>
+  <string name="wifi_fail_to_scan">"Ni mogoče iskati omrežij"</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>

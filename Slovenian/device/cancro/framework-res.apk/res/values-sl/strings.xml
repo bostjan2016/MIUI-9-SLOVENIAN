@@ -278,7 +278,6 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Koda funkcije je dokončana.</string>
   <string name="fcError">Težava s povezavo ali neveljavna koda funkcije.</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="find">Najdi</string>
   <string name="find_next">Najdi naslednje</string>
   <string name="find_on_page">Najdi na strani</string>
@@ -1308,6 +1307,5 @@ Ali jo želite zapreti?"</string>
   <string name="zen_mode_feature_name">Ne moti</string>
   <string name="zen_mode_forever">Nedoločeno</string>
   <string name="zen_mode_forever_dnd">Dokler ne izklopite načina »ne moti«</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Do %1$s</string>
 </resources>
