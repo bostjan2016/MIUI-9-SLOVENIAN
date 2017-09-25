@@ -1125,8 +1125,8 @@
          <item>Nepomembno</item>
      </string-array>
      <string-array name="check_importance_summary">
-         <item>Nepomembna obvestila se bodo prikazala v zasebni mapi</item>
+         <item>MIUI bo odločil katera obvestila se morajo prikazati direktno</item>
          <item>Obvestila se bodo prikazala v plošči obvestil</item>
-         <item>Vsa obvestila se bodo prikazala v zasebni mapi</item>
+         <item>Obvestila se bodo prikazala v zasebni mapi</item>
      </string-array>
 </resources>

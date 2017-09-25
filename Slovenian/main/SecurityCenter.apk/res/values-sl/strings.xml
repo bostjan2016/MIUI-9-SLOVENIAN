@@ -383,6 +383,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_operation_sync">Sinhr.</string>
   <string name="auto_task_operation_vibration">Vibriranje</string>
   <string name="auto_task_operation_wifi">WiFi</string>
+  <string name="back_app_name">Zakl. aplikacije Back</string>
+  <string name="back_modifypassword">Zamenjaj Back geslo</string>
   <string name="back">Nazaj</string>
   <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju tej aplikaciji lahko povzroči težave pri delovanju, sprejemanju obvestil, prenosu vsebin itd. Omejim vseeno?</string>
   <string name="background_traffic">V ozadju %s</string>

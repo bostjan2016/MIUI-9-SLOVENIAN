@@ -627,6 +627,7 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
   <string name="next">Naprej</string>
   <string name="noise">Hrup:</string>
   <string name="none">N/A</string>
+  <string name="nfc_disable_tip">Vključi NFC</string>
   <string name="remove_headset_and_starttest">Odstranite slušalke in pritisnite start za testiranje</string>
   <string name="resetpixel_test">RESETIRAJ TEST PIXLOV</string>
   <string name="run">Zaženi</string>

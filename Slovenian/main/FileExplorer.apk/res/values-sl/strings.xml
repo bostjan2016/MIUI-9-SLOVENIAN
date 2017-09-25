@@ -132,7 +132,7 @@
   <string name="comment_added">Uspešno dodano</string>
   <string name="comment_added_tip">"Dodajate veliko komentarjev. Spremljam to osebo?"</string>
   <string name="close">Zapri</string>
-  <string name="comment_delete_message">Pozor: ta operacija se ne more preklicati!</string>
+  <string name="comment_delete_message">Komentar bo trajno izbrisan.</string>
   <string name="comment_delete_title">Izbriši komentar</string>
   <string name="comment_fail">"Ne morem objaviti komentarja, poskusite ponovo"</string>
   <string name="comment_fail_banned_forever">"Trajno ste blokirani zaradi neprimernih komentarjev. Za več informacij, kontaktirajte našo QQ skupino (374463568)."</string>
@@ -496,7 +496,7 @@
   <string name="my_video">Videoposnetki</string>
   <string name="my_video_desc"/>
   <string name="name_empty">Morate vnesti ime.</string>
-  <string name="need_read_storage_permission">"Aplikacija Raziskovalec potrebuje dovoljenje za dostop do pomnilnika naprave"</string>
+  <string name="need_read_storage_permission">"Aplikacija Raziskovalec za normalno delovanje potrebuje dovoljenje za dostop do pomnilnika naprave"</string>
   <string name="net_lose_connected">Povezava izgubljena.</string>
   <string name="networkView_notConnected">"Ne morem se povezati na omrežje"</string>
   <string name="network_connect_confirm_des">Aplikacija Raziskovalec potrebuje povezavo s spletom</string>
@@ -541,8 +541,8 @@
   <string name="no_topic">Ni tem</string>
   <string name="no_topic_found">Ni najdenih tem</string>
   <string name="no_videos">Tu ni nič. Preverite tiste spodaj!</string>
-  <string name="no_wifi">Ni zaznanih omrežij</string>
-  <string name="no_wifi_hint">Ni povezave</string>
+  <string name="no_wifi">Ni dostopnih WiFi omrežij</string>
+  <string name="no_wifi_hint">Ni dostopnih omrežij</string>
   <string name="not_installed_documentsui">"Nimate nameščene DocumentsUI aplikacije"</string>
   <string name="notif_server_starting">Zaganjam FTP strežnik...</string>
   <string name="notif_title">FTP strežnik deluje</string>
@@ -992,7 +992,7 @@
   <string name="upload_notification_compress_title">Stiskanje videoposnetka</string>
   <string name="upload_notification_failed">"Ne morem poslati"</string>
   <string name="upload_notification_failed_content">Poskusite ponovno</string>
-  <string name="upload_notification_progress">Nalaganje (%1$s)%%</string>
+  <string name="upload_notification_progress">Nalaganje %1$s%%</string>
   <string name="upload_notification_success">Uspešno poslano</string>
   <string name="upload_notification_success_content">"Vaš videoposnetek mora biti pregledan preden se lahko deli drugim osebam"</string>
   <string name="upload_notification_title">Nalaganje videoposnetka</string>
@@ -1006,7 +1006,7 @@
   <string name="upload_video_success_progress">Uspešno naloženo</string>
   <string name="upload_video_dialog_message">"Vaš videoposnetek bo objavljen po pregledu."</string>
   <string name="upload_video_dialog_title">Vdeoposnetek uspešno deljen</string>
-  <string name="upload_video_forbidden">"Ne nalagaj podobnih videoposnetkov"</string>
+  <string name="upload_video_forbidden">"Ne nalagaj isti videoposnetek"</string>
   <string name="upload_video_tip">"Ne morem deliti več kot 1 videoposnetek naenkrat"</string>
   <string name="uploading">Nalagam</string>
   <string name="uploading_video">Nalagam…</string>
@@ -1061,10 +1061,10 @@
   <string name="user_setting_logout">Odjava</string>
   <string name="user_setting_new_comment">Obvestilo novega komentarja</string>
   <string name="user_setting_new_comment_tip">Dobili boste obvestilo o odgovorih na vaše komentarje in videoposnetke</string>
-  <string name="user_setting_new_liked">Hvalite za obvestilo o novem sporočilu</string>
+  <string name="user_setting_new_liked">Obvestila o všeč mi je</string>
   <string name="user_setting_new_liked_tip">Ko je nekomu všeč vaš videoposnetek ali komentar, boste obveščeni</string>
   <string name="user_setting_play_num">Obvestila o ogledih</string>
-  <string name="user_setting_play_num_tip">Prejemaj obvestilao številu ogledov vaših videoposnetkov</string>
+  <string name="user_setting_play_num_tip">Obveščeni boste o številu ogledov vaših videoposnetkov</string>
   <string name="user_setting_topic_new_msg">Najava novih vročih tem</string>
   <string name="user_setting_topic_new_msg_tip">Obveščeni boste o novih videoposnetkih v temah, ki jih spremljate</string>
   <string name="user_setting_video_has_hot_comment">Obvestila o priljubljenih komentarjih</string>
@@ -1095,8 +1095,8 @@
   <string name="video_encrypt_follow_success">Spremljam %s</string>
   <string name="video_encrypt_login_btn">Prijavite se</string>
   <string name="video_encrypt_login_text">Prijavite se da predvajate ta videoposnetek</string>
-  <string name="video_operation_need_fans">Spremljajte osebo ki je napravila videoposnetek da to napravite</string>
-  <string name="video_operation_need_login">Prijavite se da to napravite</string>
+  <string name="video_operation_need_fans">Spremljajte osebo ki je napravila videoposnetek da se prijavi</string>
+  <string name="video_operation_need_login">Morate se prijaviti</string>
   <string name="video_parse_btn">Start</string>
   <string name="video_parse_error_repeated">"Ne nalagaj podobnih videoposnetkov"</string>
   <string name="video_parse_error_unknown">"Ta video storitev ni podprta, poskusite z drugo"</string>

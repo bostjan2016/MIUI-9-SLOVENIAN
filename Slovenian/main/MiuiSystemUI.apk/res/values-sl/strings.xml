@@ -440,13 +440,13 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="recents_drag_hint_message">Stvari povlecite tu</string>
   <string name="recents_empty_message">Ni nedavnih stvari</string>
   <string name="recents_empty_message_dismissed_all">Odstranili ste vse stvari</string>
-  <string name="recents_empty_message_multi_window">Pojdite na Začetno za odpiranje aplikacij</string>
+  <string name="recents_empty_message_multi_window">Odprite aplikacije na Začetnem zaslonu</string>
   <string name="recents_exit_multi_window_mode">Izhod</string>
   <string name="recents_incompatible_app_message">"Ta aplikacija ne podpira Deljeni zaslon"</string>
-  <string name="recents_launch_disabled_message">%s je onemogočen v varnem načinu dela.</string>
+  <string name="recents_launch_disabled_message">%s se ne more zagnati v varnem načinu dela.</string>
   <string name="reject_call">Zavrnjen klic</string>
   <string name="recents_launch_error_message">"Ne morem zagnati %s."</string>
-  <string name="recents_lock_to_app_button_label">Popravi zaslon</string>
+  <string name="recents_lock_to_app_button_label">Pripni zaslon</string>
   <string name="recents_multi_window_mode">Deljeni zaslon</string>
   <string name="recents_multistack_add_stack_dialog_split_custom">Lastno</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Deli vodoravno</string>
