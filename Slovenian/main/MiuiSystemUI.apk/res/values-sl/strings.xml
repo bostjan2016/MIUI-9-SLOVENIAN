@@ -109,6 +109,7 @@
   <string name="battery_low_title">Poveži polnilec</string>
   <string name="battery_profiles">Uporabi baterijske profile</string>
   <string name="block_notification_content_text">"Obvestila %1$s ne bodo ponovno prikazane. To lahko spremenite v Nastavitvah."</string>
+  <string name="block_notification_desc">"Obvestila aplikacij ne bodo ponovno prikazana. To lahko spremenite v Nastavitvah."</string>
   <string name="block_notification_text">Skrij</string>
   <string name="block_record_notification_more_text">Skrivanje obvestil od %1$s &amp; %2$d aplik.</string>
   <string name="block_record_notification_text">Skrivanje obvestil od %1$s</string>

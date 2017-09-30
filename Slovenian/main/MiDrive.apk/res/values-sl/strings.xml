@@ -107,6 +107,8 @@
   <string name="quota_info">Mi Drive: %1$s dostopno, %2$s skupno</string>
   <string name="rename_alert">"Če spremenite končnico datoteke jo mogoče ne boste mogli odpreti."</string>
   <string name="rename_failed">Datoteka s tem imenom že obstaja.</string>
+  <string name="request_permission_msg">Mi Drive  za normalno delovanje potrebije dovoljenje za dostop do informacij o računu.</string>
+  <string name="request_permission_title">Potrebna so dovoljenja</string>
   <string name="sd_full">Vaša SD kartica je polna.</string>
   <string name="sd_invalid">Vaša SD kartica je poškodovana.</string>
   <string name="send_to_midrive_failed">"Ta vrsta datotek ni podprta."</string>
@@ -129,6 +131,8 @@
   <string name="wait_wifi">Čakanje na WiFi…</string>
   <string name="waiting">Čakanje…</string>
   <string name="wangpan_root_path">Moj Drive</string>
+  <string name="xiaomi_drive_description_content">Mi Drive je orodje za spletno shranjevanje ki omogoča shranjevanje datotek na spletu in sprostitev prostora na vaši napravi. Ali prekinem z uporabo Mi Drive?</string>
+  <string name="xiaomi_drive_description_title">O Mi Drive aplikaciji</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yesterday">Včeraj</string>
 </resources>

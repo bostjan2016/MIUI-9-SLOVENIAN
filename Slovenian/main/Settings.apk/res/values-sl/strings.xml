@@ -2136,6 +2136,7 @@ Ko vklju훾ite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="launch_defaults_none">Ni privzetih nastavitev</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
   <string name="launch_google_search">Za탑eni Google Iskanje</string>
+  <string name="launch_recents">Za탑eni Nedavno</string>
   <string name="launch_voice_assistant">Za탑eni glasovni pomo훾nik</string>
   <string name="launcher_auto_fill_empty_title">Samodejno popolni prazna mesta</string>
   <string name="launcher_settings_title">MIUI zaganjalnik</string>

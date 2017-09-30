@@ -30,7 +30,7 @@
   <string name="ac_summaryOff">Izključeno, geslo ni potrebno za odpiranje aplikacije</string>
   <string name="ac_summaryOn">Vključeno, potrebna je geslo za odpiranje aplikacije</string>
   <string name="access_control_app_is_launching">Aplikacija se zaganja</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Geslo bo potrebno za odpiranje aplikacij</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Narišite vzorec odklepanja da uporabite nov prstni odtis</string>
   <string name="access_control_fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa."</string>
   <string name="access_control_need_password">"Uspešno dodano %s zaklepanj
 "</string>
@@ -1304,25 +1304,25 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="network_roaming_exception_tips">"Ne morem uporabiti mobilne podatke v gostovanju za povezovanje na omrežje."</string>
   <string name="network_route_exception_detail">"Morda je problem z routerjem s katerim ste povezani:
 
-"&lt;b&gt;"1. Problemi javnega WiFI omrežja
+"&lt;b&gt;1. Problemi javnega WiFI omrežja&lt;/b&gt;"
 
-"&lt;/b&gt;"Če ste povezani z javnim WiFi omrežjem lahko povzroča problem preveč uporabnikov. Preklopite na drugo omrežje in poskusite ponovno.
+Če ste povezani z javnim WiFi omrežjem lahko povzroča problem preveč uporabnikov. Preklopite na drugo omrežje in poskusite ponovno.
 
- 2."&lt;b&gt;" Problemi ponudnika spletnih storitev
+ "&lt;b&gt;2. Težave ponudnika spletnih storitev&lt;/b&gt;"
  
-"&lt;/b&gt;"Preverite ali vaš račun nima problemov s ponudnikom spletnih storitev.
+Preverite ali vaš račun nima težav s ponudnikom spletnih storitev.
 
- 3."&lt;b&gt;"  Hardware problem routerja
+ "&lt;b&gt;3. Hardware problem routerja&lt;/b&gt;"
  
-"&lt;/b&gt;"Ponovno zaženite vaš router ali preverite admin nastavitve routerja.
+Ponovno zaženite vaš router ali preverite admin nastavitve routerja.
 
- 4."&lt;b&gt;" Drugi problemi routerja
+ "&lt;b&gt;4. Drugi problemi routerja&lt;/b&gt;"
  
-"&lt;/b&gt;"Preberite navodila routerja in/ali ga vrnite na tovarniške nastavitve.
+Preberite navodila routerja in/ali ga vrnite na tovarniške nastavitve.
 
- 5."&lt;b&gt;" Preverite ali je router pravilno priključen
+ "&lt;b&gt;5. Preverite ali je router pravilno priključen&lt;/b&gt;"
  
-"&lt;/b&gt;"Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z priključkom v vašem domu se obrnite na ponudnika spletnih storitev."</string>
+Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z priključkom v vašem domu se obrnite na ponudnika spletnih storitev."</string>
   <string name="network_sim_exception_detail">"Morda je problem z vašo SIM kartico:
 
  1. Preverite ali morda nimate neplačanih računov pri operaterju. Poskusite uporabiti drugo SIM kartico.
