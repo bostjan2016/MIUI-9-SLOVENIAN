@@ -25,7 +25,7 @@
   <string name="face_data_input_ok_msg">Vključite zaslon da odklenete napravo s pomočjo obraza.</string>
   <string name="face_data_input_ok_title">Uspešno dodano</string>
   <string name="face_data_input_title">Dodajte svoj obraz</string>
-  <string name="face_data_introduction_msg">Obraz se lahko uporabi za odklepanje naprave ali potrditev vaše identitete. Dodajte geslo Zaklj. zaslona pred dodajanjem obraza.</string>
+  <string name="face_data_introduction_msg">Obraz se lahko uporabi za odklepanje naprave ali potrditev vaše identitete. Dodajte geslo zakl. zaslona pred dodajanjem obraza.</string>
   <string name="face_data_introduction_next">Naprej</string>
   <string name="face_data_introduction_title">Prepoznavanje obraza</string>
   <string name="face_data_manage_delete">Izbrišem obraz?</string>
@@ -34,7 +34,7 @@
   <string name="face_data_manage_delete_title">Obraz</string>
   <string name="face_data_manage_unlock_msg">Odklenite svojo napravo s pomočjo prepoznavanja vašega obraza</string>
   <string name="face_data_manage_unlock_title">Odklenite z uporabo obraza</string>
-  <string name="face_data_suggesstion_first">Odklepanje s pomočjo obraza je majn varno od uporabe gesla za Zaklj. zaslon. Vaša naprava se bo mogoče odklenila osebi ki vam je podobna.</string>
+  <string name="face_data_suggesstion_first">Odklepanje s pomočjo obraza je majn varno od uporabe gesla za zakl. zaslon. Vaša naprava se bo mogoče odklenila osebi ki vam je podobna.</string>
   <string name="face_data_suggesstion_second">"preverite da deli vašega obraza niso prekriti in da so jasno vidni. Vaš obraz bi moral biti tudi dobro osvetljen."</string>
   <string name="face_unlock_adjust_distance">Preverite če je oddaljenost med obrazom in zaslonom optimalna.</string>
   <string name="face_unlock_be_on_the_screen">Držite napravo pred obrazom</string>
@@ -154,7 +154,7 @@ Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritis
   <string name="phone_locked_foget_password_header">Kaj storiti če sem pozabil svoje geslo?</string>
   <string name="phone_locked_foget_password_mehod_back">Nazaj</string>
   <string name="phone_locked_foget_password_method">Pozabljeno geslo?</string>
-  <string name="phone_locked_foget_password_method_content">Morate izbrisati vse podatke na vaši napravi, vključno fotografije in stike, nato pa nastavite novo geslo Zaklj. zaslona.</string>
+  <string name="phone_locked_foget_password_method_content">Morate izbrisati vse podatke na vaši napravi, vključno fotografije in stike, nato pa nastavite novo geslo zakl. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Naprej</string>
   <string name="phone_locked_foget_password_ok">Razumem</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">Izključite napravo, pritisnite in držite &lt;font color="#a5220e"&gt;Tipko za vklop&lt;/font&gt; in &lt;font color="#a5220e"&gt;Glasnost +&lt;/font&gt;istočasno dokler ne vidite MI logo.</string>

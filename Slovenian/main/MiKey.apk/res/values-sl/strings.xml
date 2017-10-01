@@ -303,7 +303,7 @@ S pritiskom na MiKey simulirajte dotik na izbranem mestu"</string>
   <string name="wallpaper_change_both">Začetni zaslon + Zakl. zaslon</string>
   <string name="wallpaper_change_desktop">Ozadje začetnega zaslona</string>
   <string name="wallpaper_change_failed">Zamenjava ni uspela</string>
-  <string name="wallpaper_change_home">Ozadje Zakl. zaslona</string>
+  <string name="wallpaper_change_home">Ozadje zakl. zaslona</string>
   <string name="wallpaper_change_home_failed">Zamenjava ni uspela</string>
   <string name="wallpaper_change_ok">Ozadje zamenjano</string>
   <string name="wallpaper_changing">Zamenjava ozadja…</string>

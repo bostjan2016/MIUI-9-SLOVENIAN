@@ -238,8 +238,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Beri SMS storitev</string>
   <string name="HIPS_Perm_service_foreground">Storitev v prvem planu</string>
   <string name="HIPS_Perm_service_foreground_Desc">Storitev v prvem planu</string>
-  <string name="HIPS_Perm_show_when_locked">Prikaži na Zaklenjenem zaslonu</string>
-  <string name="HIPS_Perm_show_when_locked_Desc">bo prikazan na Zaklenjenem zaslonu</string>
+  <string name="HIPS_Perm_show_when_locked">Prikaži na zaklenjenem zaslonu</string>
+  <string name="HIPS_Perm_show_when_locked_Desc">bo prikazan na zaklenjenem zaslonu</string>
   <string name="HIPS_Perm_use_sip">Video storitve</string>
   <string name="HIPS_Perm_use_sip_Desc">Uporabi Session Initiation Protocol za streaming videoposnetkov</string>
   <string name="HIPS_SecurityPrompt_Accept">Dovoli (%d)</string>

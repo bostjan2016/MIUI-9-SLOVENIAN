@@ -66,7 +66,7 @@
 
  2. korak: Pritisnite in držite z dvema prstoma dokler ne zaslišite zvočno potrditev.
 
- Če ima naprava več uporabnikov ta bližnjica na Zakl. zaslonu omogoča uporabo dokler naprava ni odklenjena</string>
+ Če ima naprava več uporabnikov ta bližnjica na zakl. zaslonu omogoča uporabo dokler naprava ni odklenjena</string>
   <string name="accessibility_global_gesture_preference_summary_off">Izklop</string>
   <string name="accessibility_global_gesture_preference_summary_on">Vklop</string>
   <string name="accessibility_global_gesture_preference_title">Bližnjica za dostopnost</string>
@@ -1642,9 +1642,9 @@
   <string name="enforce_read_external_title">Zaščiti zunanji pomnilnik</string>
   <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podatkov zaradi izboljšanja glasovnih nastavitev in komunikacije (priporočeno)</string>
   <string name="enhanced_4g_lte_mode_title">Izboljšan 4G LTE način</string>
-  <string name="enter_password">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave po ponovnem zagonu</string>
-  <string name="enter_pattern">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
-  <string name="enter_pin">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
+  <string name="enter_password">Vnesite trenutno geslo zakl. zaslona za dešifriranje naprave po ponovnem zagonu</string>
+  <string name="enter_pattern">Vnesite trenutno geslo zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
+  <string name="enter_pin">Vnesite trenutno geslo zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
   <string name="equalizer">EQ</string>
   <string name="erase_application">Izbriši aplikacije</string>
   <string name="erase_application_description">Izbriši prenesene aplikacije</string>
@@ -1715,8 +1715,8 @@
   <string name="fingerprint_enable_keyguard_toggle_title">zaklepanje zaslona</string>
   <string name="fingerprint_enroll_button_add">Dodaj še enega</string>
   <string name="fingerprint_enroll_button_next">Naprej</string>
-  <string name="fingerprint_first_open_screen_password_face_tittle">Obraz (najprej nastavite geslo za Zakl. zaslona)</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Prstni odtis (najprej nastavite geslo Zakl. zaslona)</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Obraz (najprej nastavite geslo za zakl. zaslona)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Prstni odtis (najprej nastavite geslo zakl. zaslona)</string>
   <string name="fingerprint_for_keyguard_disabled">Prstni odtis je onemogočen s strani varnostnih nastavitev.</string>
   <string name="fingerprint_identificating_msg">Preverjanje prstnega odtisa…</string>
   <string name="fingerprint_identify_input_password_msg">Vnesite geslo</string>
@@ -2070,7 +2070,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keyguard_right_function_chooser_hint_text">Desna bližnjica spremenjena v %s</string>
   <string name="keyguard_right_function_chooser_title">Aplikacija</string>
   <string name="keyguard_right_function_title">Desno</string>
-  <string name="keyguard_shortcut_summary">Nastavi bližnjice za 2 aplikacije na Zakl. zaslonu</string>
+  <string name="keyguard_shortcut_summary">Nastavi bližnjice za 2 aplikacije na zakl. zaslonu</string>
   <string name="keyguard_shortcut_title">Bližnjice zakl. zaslona</string>
   <string name="keywords_accounts">račun</string>
   <string name="keywords_all_apps">aplikacije, prenos, aplikacije, sistem</string>
@@ -2278,8 +2278,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_secure_after_timeout_immediately_summary">Takoj je potrebno geslo</string>
   <string name="lock_screen_secure_after_timeout_summary">Potrebno je geslo za %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Potrebno je geslo</string>
-  <string name="lock_screen_signature_summary">Sporočilo bo prikazano na Zakl. zaslonu</string>
-  <string name="lock_screen_signature_title">Informacije o lastniku na Zakl. zaslonu</string>
+  <string name="lock_screen_signature_summary">Sporočilo bo prikazano na zakl. zaslonu</string>
+  <string name="lock_screen_signature_title">Informacije o lastniku na zakl. zaslonu</string>
   <string name="lock_screen_unlock_show">Preskoči poteg zaslona</string>
   <string name="lock_screen_unlock_show_summary">Pojdi direktno na začetni zaslon ali vnos gesla ko se telefon prebudi</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Klikni za spremembo</string>
@@ -2410,10 +2410,10 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="login_account_dialog_title">Prijavite se z Mi Računom</string>
   <string name="login_action">Prijavite se</string>
   <string name="long_press_back_key">Dolg pritisk tipka Nazaj</string>
-  <string name="long_press_buttom_key">Dolg pritisk tipke Meni na Zaklj. zaslonu</string>
+  <string name="long_press_buttom_key">Dolg pritisk tipke Meni na zakl. zaslonu</string>
   <string name="long_press_home_key">Dolg pritisk tipke Domov</string>
   <string name="long_press_menu_key">Dolg pritisk tipke Meni</string>
-  <string name="long_press_menu_key_when_lock">Dolg pritisk tipke Meni na Zaklj. zaslonu</string>
+  <string name="long_press_menu_key_when_lock">Dolg pritisk tipke Meni na zakl. zaslonu</string>
   <string name="long_press_volume_down">Dolgo pritisnite na zmanjševanje glasnosti</string>
   <string name="lte_4g_settings_4gdisable_summary">4G onemogočen</string>
   <string name="lte_4g_settings_4genable_summary">4G omogočen</string>
@@ -2915,7 +2915,7 @@ Na tej napravi je več uporabnikov.
   <string name="notification_sound_dialog_title">Privzeti zvok obvestila</string>
   <string name="notification_sound_title">Privzeti zvok obvestila</string>
   <string name="notification_suggestion_summary">Prikaži ali skrij vsebino obvestil</string>
-  <string name="notification_suggestion_title">Nadziraj obvestila Zaklj. zaslona</string>
+  <string name="notification_suggestion_title">Nadziraj obvestila zakl. zaslona</string>
   <string name="notification_summary_level">Nivo %d</string>
   <string name="notification_summary_none">Vse aplikacije lahko pošiljajo</string>
   <string name="notification_update_new_version">Dostopna je posodobitev</string>
@@ -2988,7 +2988,7 @@ Na tej napravi je več uporabnikov.
   <string name="overlay_settings">Risanje čez druge aplikacije</string>
   <string name="owner_info_settings_edit_text_hint">Npr. Janezov Android</string>
   <string name="owner_info_settings_summary">Brez</string>
-  <string name="owner_info_settings_title">Informacije o lastniku na Zakl. zaslonu</string>
+  <string name="owner_info_settings_title">Informacije o lastniku na zakl. zaslonu</string>
   <string name="owner_space">Prvi prostor</string>
   <string name="packages_subtitle">Vključeni paketi</string>
   <string name="page_layout_1">Nedelja, 16 Avgust</string>
@@ -3154,7 +3154,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_oldman_mode">Nastavitve/Lite Mode</string>
   <string name="path_onekey_migrate">Nastavitve/Dodatne nastavitve/Prenos</string>
   <string name="path_other_advanced_settings">Nastavitve/Dodatne nastavitve</string>
-  <string name="path_owner_info_settings">Nastavitve/Zakl. zaslon &amp; geslo/Informacije o lastniku na Zakl. zaslonu</string>
+  <string name="path_owner_info_settings">Nastavitve/Zakl. zaslon &amp; geslo/Informacije o lastniku na zakl. zaslonu</string>
   <string name="path_page_layout_settings">Nastavitve/Velikost teksta</string>
   <string name="path_permission_settings_title">Nastavitve/Dovoljenja/Dovoljenja</string>
   <string name="path_pointer_speed">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Hitrost kazalca</string>
@@ -3177,7 +3177,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_screen_saver_settings">Nastavitve/Zaslon/Ohranjevalnik zaslona</string>
   <string name="path_screen_timeout_settings">Nastavitve/Zakl. zaslon &amp; geslo/Mirovanje</string>
   <string name="path_second_space">Nastavitve/Drugi prostor</string>
-  <string name="path_security_encryption_title">Nastavitve/Dodatne nastavitve/Zasebnost/Šifriraj napravo z uporabo gesla Zakl. zaslona</string>
+  <string name="path_security_encryption_title">Nastavitve/Dodatne nastavitve/Zasebnost/Šifriraj napravo z uporabo gesla zakl. zaslona</string>
   <string name="path_security_passwords_title">Nastavitve/Zakl. zaslon &amp; geslo/Zakl. zaslon</string>
   <string name="path_security_settings">Nastavitve/Dodatne nastavitve/Zasebnost</string>
   <string name="path_slot_status_title">Nastavitve/O napravi/IMEI informacije</string>
@@ -3187,7 +3187,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_sound_settings">Nastavitve/Zvok &amp; vibracija</string>
   <string name="path_status_bar_settings">Nastavitve/Obvestila &amp; vrstica obvestil</string>
   <string name="path_status_bar_settings_custom_carrier">Nastavitve/Obvestila &amp; vrstica obvestil/Uredi naziv operaterja</string>
-  <string name="path_status_bar_settings_expandable_under_keyguard">Nastavitve/Obvestila &amp; vrstica obvestil/Prikaži na Zakl. zaslonu</string>
+  <string name="path_status_bar_settings_expandable_under_keyguard">Nastavitve/Obvestila &amp; vrstica obvestil/Prikaži na zakl. zaslonu</string>
   <string name="path_status_bar_settings_show_carrier">Nastavitve/Obvestila &amp; vrstica obvestil/Prikaži ime operaterja</string>
   <string name="path_status_bar_settings_show_network_speed">Nastavitve/Obvestila &amp; vrstica obvestil/Prikaži hitrost povezave</string>
   <string name="path_status_bar_settings_show_notification_icon">Nastavitve/Obvestila &amp; vrstica obvestil/Prikaži ikone obvestil</string>
@@ -3207,7 +3207,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_touch_sensitive_title">Nastavitve/Zaslon/Način dela v rokavicah</string>
   <string name="path_trusted_credentials">Nastavitve/Dodatne nastavitve/Varnost sistema/Zaupne poverilnice</string>
   <string name="path_tts_settings_title">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Pretvarjanje besedila v govor</string>
-  <string name="path_turn_on_security_lock">Nastavitve/Zakl. zaslon &amp; geslo/Zakl. zaslon/Spremenite Zakl. zaslona</string>
+  <string name="path_turn_on_security_lock">Nastavitve/Zakl. zaslon &amp; geslo/Zakl. zaslon/Spremenite zakl. zaslona</string>
   <string name="path_unlock_set_settings">Nastavitve/Zakl. zaslon &amp; geslo</string>
   <string name="path_user_dict_settings_title">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Osebni slovar</string>
   <string name="path_vibrate_in_silent_title">Nastavitve/Zvok &amp; vibracija/Vibracija če je tiho</string>
@@ -3970,7 +3970,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_local_backup_section_title">Lokalne var. kopije</string>
   <string name="search_location_settings_title">Lokacija</string>
   <string name="search_lock_settings">Zakl. zaslon &amp; GESLO;Odklep z Bluetoothom;dostopna koda;Odkleni z Bluetooth napravo</string>
-  <string name="search_lock_sounds_enable_title">Zvok zakl. zaslona;Vključi Zvok Zakl. zaslona</string>
+  <string name="search_lock_sounds_enable_title">Zvok zakl. zaslona;Vključi zvok zakl. zaslona</string>
   <string name="search_manage_device_admin">Administratorji naprave</string>
   <string name="search_manage_notification_access_title">Dostop obvestil</string>
   <string name="search_master_clear_title">Vrnitev na tovarniške nastavitve</string>
@@ -3991,7 +3991,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_oldman_mode">Lite mode;Oldman mode</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
   <string name="search_other_advanced_settings">Dodatne nastavitve;Več nastavitev</string>
-  <string name="search_owner_info_settings">Informacije o lastniku na Zakl. zaslonu;Informacije o lastniku;Podpis;Podpis na Zakl. zaslonu;Lastnik</string>
+  <string name="search_owner_info_settings">Informacije o lastniku na zakl. zaslonu;Informacije o lastniku;Podpis;Podpis na zakl. zaslonu;Lastnik</string>
   <string name="search_page_layout_settings">Veličina teksta;Velikost fonta;Mali font;Veliki font;Srednji font;XXL font;Ogromni font;Velikosti fontov</string>
   <string name="search_permission_manager">Dovoljenja;ROOT dostop</string>
   <string name="search_permission_settings_title">Dovoljenja aplikacij</string>
@@ -4018,7 +4018,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_screen_saver_settings">Ohranjevalnik zaslona</string>
   <string name="search_screen_timeout">Mirovanje;Samod. zakl. zaslona;Zakl. zaslon</string>
   <string name="search_second_space">Drugi Prostor</string>
-  <string name="search_security_encryption_title">Šifriraj napravo z uporabo gesla Zakl. zaslona;Šifriraj;Šifriranje;Šifriraj napravo;Šifriraj telefon</string>
+  <string name="search_security_encryption_title">Šifriraj napravo z uporabo gesla zakl. zaslona;Šifriraj;Šifriranje;Šifriraj napravo;Šifriraj telefon</string>
   <string name="search_security_passwords_title">Geslo;Zakl. zaslona;PIN;Vzorec</string>
   <string name="search_security_settings">Nastavitve zasebnosti</string>
   <string name="search_settings">Iskanje</string>
@@ -4030,7 +4030,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_sound_settings">Zvok;Glasnost;Glasnost;Tiho;Tiho;Tišina;Alarm;Glasba;Vibracija;vibriraj;melodija zvonenja;Melodija zvonenja;Privzeti zvok obvestil;zvok obvestil;zvoki obvestil;Prejeto sporočilo;Prejeto sporočilo;Sporočilo dostavljeno;Sporočilo dostavljeno;Dotik;Zvoki dotika;Zvoki;Zvok Zakl. zaslona;Nastavitve zvoka;Zvok;Omejitev hrupa okolice;hrup;Utišanje;Utišanje hrupa</string>
   <string name="search_status_bar">Obvestila &amp;Statusna vrstica;Obvestila;Statusna vrstica;status;Obvestila aplikacij;Položaji bližnjic;Bližnjica;Bližnjice;Hitrost povezave;Ime operaterja;Operater;Obvestilo posnetka zaslona;posnetek zaslona;Zakl. zaslona</string>
   <string name="search_status_bar_settings_custom_carrier">Uredi ime operaterja</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Prikaži na Zakl. zaslonu;prikaži na Zakl. zaslonu</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Prikaži na zakl. zaslonu;prikaži na zakl. zaslonu</string>
   <string name="search_status_bar_settings_show_carrier">Prikaži ime operaterja</string>
   <string name="search_status_bar_settings_show_network_speed">Prikaži hitrost povezave</string>
   <string name="search_status_bar_settings_show_notification_icon">Prikaži ikone obvestil</string>
@@ -4051,8 +4051,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_touch_sensitive_title">Način dela v rokavicah</string>
   <string name="search_trusted_credentials">Preverjene poverilnice</string>
   <string name="search_tts_settings_title">Pretvarjanje teksta v govor</string>
-  <string name="search_turn_on_security_lock">Izberite zakl. zaslona;Zakl. zaslona;Uredi Zakl. zaslona;uredi zakl. zaslona;Zakl. zaslona</string>
-  <string name="search_unlock_set">Samod. Zakl. zaslona;Zajl. zaslona;Zakl. zaslon;Informacije o lastniku;Mirovanje;Bujenje Zakl. zaslona;Zbudi;Zbudi telefon;Zbudi napravo;Geslo;Prepreči izbiranje v žepu;žepno izbiranje;žep;Odkleni z Bluetooth;odkleni;geslo;Zakl. zaslon;PIN;Odkleni z Bluetooth napravo;Zakl. zaslon &amp; geslo</string>
+  <string name="search_turn_on_security_lock">Izberite zakl. zaslona;Zakl. zaslona;Uredi zakl. zaslona;uredi zakl. zaslona;Zakl. zaslona</string>
+  <string name="search_unlock_set">Samod. zakl. zaslona;Zakl. zaslona;Zakl. zaslon;Informacije o lastniku;Mirovanje;Bujenje zakl. zaslona;Zbudi;Zbudi telefon;Zbudi napravo;Geslo;Prepreči klicanje v žepu;žepno klicanje;žep;Odkleni z Bluetooth;odkleni;geslo;Zakl. zaslon;PIN;Odkleni z Bluetooth napravo;Zakl. zaslon &amp; geslo</string>
   <string name="search_user_agreement">Pogoji uporabe</string>
   <string name="search_user_dict_settings_title">Osebni slovar</string>
   <string name="search_vibrate_in_silent_title">Vibracija če je tiho</string>
@@ -4086,7 +4086,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_xspace">Klonirane aplikacije</string>
   <string name="search_zen_mode_option_miui_silent">Tihi način</string>
   <string name="second_space">Drugi prostor</string>
-  <string name="secure_keyguard_business_title">Nastavi Zakl. zaslona</string>
+  <string name="secure_keyguard_business_title">Nastavi zakl. zaslon</string>
   <string name="secure_lock_encryption_warning">Vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov ker ste vklopili storitev za ljudi s posebnimi potrebami.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogočil skrbnik</string>
   <string name="security_enable_widgets_title">Omogoči pripomočke</string>
@@ -4106,7 +4106,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_progress_dialog_close">Dešifriranje…</string>
   <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_rejected_via_home_manager">"Ta funkcija ne deluje v demo verziji."</string>
-  <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla Zakl. zaslona</string>
+  <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla zakl. zaslona</string>
   <string name="security_keyguard_category_name">Zaklenjen zaslona</string>
   <string name="security_password_category_name">Zakl. zaslona</string>
   <string name="security_passwords_title">Gesla</string>
@@ -4226,8 +4226,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="setup_fingerprint_enroll_finish_message">Dotaknite se tipala za prstne odtise da preklopite napravo iz stanja pripravljenosti in jo odklenete.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Ko je prikazana ta ikona lahko uporabite prstni odtis.</string>
   <string name="setup_fingerprint_enroll_finish_secondary_message">Za spremembo nastavitev pojdite na Nastavitve &gt; Varnost &gt; Prstni odtis.</string>
-  <string name="setup_lock_settings_picker_fingerprint_message">Vaš prstni odtis je lahko manj varen kot močnega vzorca, PIN-a ali gesla. Za dodatno varnost nastavite Var. kopijo Zaklj. zaslona.</string>
-  <string name="setup_lock_settings_picker_message">drugim onemogočite uporabo naprave brez vašega dovoljenja z aktiviranjem funkcije zaščite naprave. Izberite Zakl. zaslona ki ga želite uporabljati.</string>
+  <string name="setup_lock_settings_picker_fingerprint_message">Vaš prstni odtis je lahko manj varen kot močnega vzorca, PIN-a ali gesla. Za dodatno varnost nastavite var. kopijo zakl. zaslona.</string>
+  <string name="setup_lock_settings_picker_message">drugim onemogočite uporabo naprave brez vašega dovoljenja z aktiviranjem funkcije zaščite naprave. Izberite zakl. zaslona ki ga želite uporabljati.</string>
   <string name="setup_lock_settings_picker_title">Zaščitite svoj telefon</string>
   <string name="setup_password_back">Nazaj</string>
   <string name="setup_password_confirm">V redu</string>
@@ -4263,9 +4263,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="show_mem_info_title">Prikaži podatke o spominu</string>
   <string name="show_menu">Prikaži Meni</string>
   <string name="show_non_rect_clip">Odpr. težav s postopki nepravokotnega izrezovanja</string>
-  <string name="show_owner_info_on_lockscreen_label">Prikaži informacije o lasniku na Zakl. zaslonu</string>
+  <string name="show_owner_info_on_lockscreen_label">Prikaži informacije o lasniku na zakl. zaslonu</string>
   <string name="show_password">Gesla so vidna</string>
-  <string name="show_profile_info_on_lockscreen_label">Pokaži podatke o profilu na Zakl. zaslonu</string>
+  <string name="show_profile_info_on_lockscreen_label">Pokaži podatke o profilu na zakl. zaslonu</string>
   <string name="show_rounded_corners">Prikaži zaobljene robove</string>
   <string name="show_running_services">Pokaži storitve ki se izvajajo</string>
   <string name="show_screen_updates">Pokaži posodob. površine</string>
@@ -4274,7 +4274,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="show_silently_summary">Ne predvajaj zvok, vibriraj niti prikazuj obvestila na trenutnem zaslonu.</string>
   <string name="show_touches">Pokaži dotike</string>
   <string name="show_touches_summary">Pokaži vizualne povratne informacije za dotike</string>
-  <string name="show_user_info_on_lockscreen_label">Prikaži podatke o uporabniku na Zakl. zaslonu</string>
+  <string name="show_user_info_on_lockscreen_label">Prikaži podatke o uporabniku na zakl. zaslonu</string>
   <string name="show_wifi_master_key_summary">Poveži se na WiFi v skupni rabi z uporabo WiFi Master ključa</string>
   <string name="show_wifi_master_key_title">Odkrito omrežje WiFi v skupni rabi</string>
   <string name="shut_down_find_device_failure_confirm">V redu</string>
@@ -4338,7 +4338,7 @@ Mogoče je napačen PIN.</string>
 Morda je koda PIN napačna."</string>
   <string name="sim_lock_off">Zahtevaj kodo PIN za uporabo telefona</string>
   <string name="sim_lock_on">Zahtevaj kodo PIN za uporabo telefona</string>
-  <string name="sim_lock_settings">Nastavitve Zakl.  kartice SIM</string>
+  <string name="sim_lock_settings">Nastavitve zakl.  kartice SIM</string>
   <string name="sim_lock_settings_category">Nastavi zaklepanje kartice SIM</string>
   <string name="sim_lock_settings_title">Zaklepanje kartice SIM</string>
   <string name="sim_management_title">SIM kartice in mobilna omrežja</string>
@@ -4385,7 +4385,7 @@ Morda je koda PIN napačna."</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Vseeno preskoči</string>
   <string name="skip_label">Preskoči</string>
-  <string name="skip_lock_screen_confirm_msg">Obvestila, kontrole predvajanja glasbe, Kamera in Mi Home bodo onemogočeni na Zakl. zaslonu.</string>
+  <string name="skip_lock_screen_confirm_msg">Obvestila, kontrole predvajanja glasbe, Kamera in Mi Home bodo onemogočeni na zakl. zaslonu.</string>
   <string name="skip_step">Preskoči</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_number">(Reža %1$d)</string>
@@ -4475,7 +4475,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_custom_notification">Upravljanje obvestil</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi WiFi ime</string>
   <string name="status_bar_settings_enable_notification">Prikaži obvestila</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Prikaži na Zakl. zaslonu</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zakl. zaslonu</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite da poberete bližnjico</string>
   <string name="status_bar_settings_manage_notification">Obvestila aplikacij</string>
   <string name="status_bar_settings_no_carrier">Brez</string>
@@ -4487,12 +4487,12 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibriranje</string>
   <string name="status_bar_settings_show_carrier">Pokaži ime operaterja</string>
-  <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na Zakl. zaslonu in na obvestilni plošči ko je ta funkcija izključena</string>
+  <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je ta funkcija izključena</string>
   <string name="status_bar_settings_show_floating_notification">Lebdeča obvestila</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Lebdeča obvestila bodo samodejno izginila ko se prikažejo na vrhu zaslona"</string>
   <string name="status_bar_settings_show_flow_info">Prikaži uporabo podatkov</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
-  <string name="status_bar_settings_show_keyguard_notification">Obvestila Zakl. zaslona</string>
+  <string name="status_bar_settings_show_keyguard_notification">Obvestila zakl. zaslona</string>
   <string name="status_bar_settings_show_network_speed">Prikaži hitrost povezave</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži v prosojnem obvestilu</string>
   <string name="status_bar_settings_show_notification_icon">Pokaži ikono obvestila</string>
@@ -4905,11 +4905,11 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="turn_off_keyguard_password_confirm_msg">Nekatere funkcija zaščite naprave ne bodo delovale brez vašega gesla.</string>
   <string name="turn_off_keyguard_password_wait_dialog">Izklop gesla…</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla ne boste mogli odkleniti naprave s prstnim odtisom</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Ko izključite geslo Zakl. zaslona bodo posneti prstni odtisi zbrisani. Naprave ne boste mogli odkleniti s pomočjo prstnega odtisa."</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Po izključitvi gesla Zakl. zaslona se bodo zbrisali prstni odtisi in napravo ne boste mogli odkleniti s pomočjo prstnih odtisov."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Ko izključite geslo zakl. zaslona bodo posneti prstni odtisi zbrisani. Naprave ne boste mogli odkleniti s pomočjo prstnega odtisa."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Po izključitvi gesla zakl. zaslona se bodo zbrisali prstni odtisi in napravo ne boste mogli odkleniti s pomočjo prstnih odtisov."</string>
   <string name="turn_off_radio">Izklopi radio</string>
-  <string name="turn_off_security_lock">Izključi Zakl. zaslona</string>
-  <string name="turn_on_keyguard_password">Vključi geslo Zakl. zaslona</string>
+  <string name="turn_off_security_lock">Izključi zakl. zaslona</string>
+  <string name="turn_on_keyguard_password">Vključi geslo zakl. zaslona</string>
   <string name="turn_on_keyguard_password_alert">"Zapomnite si geslo. Če ga pozabite, ga ne boste mogli obnoviti."</string>
   <string name="turn_on_keyguard_password_alert_choose">"Zapomnite si geslo. Če ga pozabite, boste morali izbrisati vse podatke iz naprave da boste nastavili novo."</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Ne zdaj</string>
@@ -4918,7 +4918,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="turn_on_keyguard_password_alert_forget_content">"Zapomnite si geslo za zaklepanje zaslona. Če ga pozabite, boste morali izbrisati vse podatke iz naprave, tudi fotografije in stike, potem pa nastaviti novo."</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Zapomnite si vaše geslo</string>
   <string name="turn_on_radio">Vklopi radio</string>
-  <string name="turn_on_security_lock">Izberite Zakl. zaslona</string>
+  <string name="turn_on_security_lock">Izberite zakl. zaslona</string>
   <string name="turn_on_torch">Vključi svetilko</string>
   <string name="turn_on_wifi_dialog_text">WiFi je izključen kadar je Prenosna dostopna točka aktivna. Za vklop WiFi izključite Prenosno dostopno točko.</string>
   <string name="turn_on_wifi_dialog_title">Vključi WiFi</string>
@@ -4987,7 +4987,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="unlock_set_unlock_biometric_weak_title">Odklepnaje z obrazom</string>
   <string name="unlock_set_unlock_disabled_summary">Onem. skrbnik, šifr. pravilnik shr. poverilnic</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Spremeni ali onemogoči vzorec, PIN ali geslo</string>
-  <string name="unlock_set_unlock_launch_picker_change_title">Sprememba Zakl. zasl.</string>
+  <string name="unlock_set_unlock_launch_picker_change_title">Sprememba zakl. zasl.</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Izberite način zaklepanja zaslona</string>
   <string name="unlock_set_unlock_launch_picker_title">Zaklepanje zaslona</string>
   <string name="unlock_set_unlock_launch_picker_title_profile">Zakl. delovnega profila</string>
@@ -5373,7 +5373,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wallpaper_attributions">Ozadja</string>
   <string name="wallpaper_desktop">Začetni zaslon</string>
   <string name="wallpaper_live">Živa ozadja</string>
-  <string name="wallpaper_lockscreen">Ozadje Zakl. zaslona</string>
+  <string name="wallpaper_lockscreen">Ozadje zakl. zaslona</string>
   <string name="wallpaper_settings_fragment_title">Izberite ozadje iz</string>
   <string name="wallpaper_settings_title">Ozadje</string>
   <string name="wallpaper_suggestion_summary">Prilagodite zaslon</string>

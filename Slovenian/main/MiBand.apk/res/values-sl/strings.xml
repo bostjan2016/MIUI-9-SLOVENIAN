@@ -1398,7 +1398,7 @@ Nadgradite na 4.4 ali novejši"</string>
   <string name="unlock_for_smartlock_start_setting">Pojdi v Nastavitve</string>
   <string name="unlock_for_smartlock_tip">Ta funkcija zahteva da je aplikacija Mi Fit odprta v ozadju</string>
   <string name="unlock_for_smartlock_tip_step1">1. Pojdite na Nastavitve - Varnost</string>
-  <string name="unlock_for_smartlock_tip_step2">2. Prilagodite Zakl. zaslona - Vzorec, PIN ali geslo</string>
+  <string name="unlock_for_smartlock_tip_step2">2. Prilagodite zakl. zaslona - Vzorec, PIN ali geslo</string>
   <string name="unlock_for_smartlock_tip_step3">3.Pritisnite- SmartLock za odklepanje telefona z Mi Bandom</string>
   <string name="unlock_screen">Odklepanje zaslona</string>
   <string name="unlock_screen_help_info0">Vaš telefon bo odklenjen ko je ta Mi Band blizu njega. Ko je Mi Band oddaljen bo telefon ostal zaklenjen.</string>

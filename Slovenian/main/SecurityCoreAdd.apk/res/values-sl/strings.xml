@@ -131,7 +131,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="loading_apps">Nalaganje aplikacij…</string>
   <string name="loading_space">Samo trenutek…</string>
   <string name="loading_success">Uspešno naloženo</string>
-  <string name="lock_screen_open_second_space">Vstopite v Drugi prostor iz Zakl. zaslona</string>
+  <string name="lock_screen_open_second_space">Vstopite v Drugi prostor iz zakl. zaslona</string>
   <string name="messageData">Sporočila</string>
   <string name="msg_switch_file">Izbrišem te datoteke v Prvem prostoru ko jih premestite?</string>
   <string name="msg_switch_photo">Izbrišem te fotografije v Prvem prostoru ko jih premestite?</string>
@@ -160,13 +160,13 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="opened">Vklj.</string>
   <string name="other">Ostalo</string>
   <string name="otherSettings">Ostale nastavitve</string>
-  <string name="passWordGuardSummary">Vstopi v Drugi prosotor iz Zakl. zaslona z uporabo gesla</string>
+  <string name="passWordGuardSummary">Vstopi v Drugi prosotor iz zakl. zaslona z uporabo gesla</string>
   <string name="passwordProtect">Geslo</string>
   <string name="path_sspace">Nastavitve/Drugi prosotor</string>
   <string name="path_xspace">Nastavitve/Dvojne aplikacije</string>
   <string name="please_diff_finger_print">Prepričajte se da uporabljate različne prstne odtise v Prvem prostoru in Drugem prostoru.
   
-  Drugače ne boste mogli v Drugi prostor iz Zakl. zaslona.</string>
+  Drugače ne boste mogli v Drugi prostor iz zakl. zaslona.</string>
   <string name="privacyContactsSummary">Prikaži zasebne nastavitve v Drugem prostoru</string>
   <string name="privacyContactsTitle">Zasebna sporočila in stiki</string>
   <string name="privacy_password_fingerprint_dialog_message">Postavite prst na senzor</string>
@@ -193,7 +193,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="same_qr_code_title">%s že obstaja</string>
   <string name="scanner_fingerprint">Skeniranje prstnega odtisa…</string>
   <string name="scanner_fingerprint_enter_second">"Skeniraj prstni odtis Drugega prostora 
-za vstop v Drugi prostor iz Zakl. zaslona"</string>
+za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="scanner_fingerprint_error_tips_desc">"Ne najdem odgovarjajočih prstnih odtisov. Dodam prstni odtis za Drugi prostor?"</string>
   <string name="scanner_fingerprint_error_tips_title">Ne najdem odgovarjajočih prstnih odtisov</string>
   <string name="scanner_fingerprint_tips_desc">Izberite obstoječi prstni odtis za vstop v Drugi prostor. Ne boste ga mogli uporabiti v Prvem prostoru.</string>
@@ -210,8 +210,8 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="serNameSummary">Drugi prostor</string>
   <string name="setSecondSpacePassword">Nastavite geslo Drugega prostora</string>
   <string name="setSecondSpacePasswordGuide">Nastavite geslo Drugega prostora</string>
-  <string name="setSecondSpacePasswordGuideDes">Uporabite to geslo za vstop v Drugi prostor iz Zakl. zaslona</string>
-  <string name="setSpacePasswordGuide">Uporabite različna gesla za vstop v oba prostora iz Zakl. zaslona</string>
+  <string name="setSecondSpacePasswordGuideDes">Uporabite to geslo za vstop v Drugi prostor iz zakl. zaslona</string>
+  <string name="setSpacePasswordGuide">Uporabite različna gesla za vstop v oba prostora iz zakl. zaslona</string>
   <string name="setSuccess">Geslo uspešno nastavljeno</string>
   <string name="set_space_finger">Nastavi prstni odtis</string>
   <string name="set_space_finger_sub_text_suc">Prstni odtis uspešno nastavljen</string>
@@ -254,7 +254,7 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="start_input_finger_print">Dodajte prstni odtis</string>
   <string name="start_new_fingerprint">Dodajte nov prstni odtis</string>
   <string name="start_new_fingerprint_tips">"Uporabite prstni odtis za Drugi prostor 
-za vstop v Drugi prostor iz Zakl. zaslona"</string>
+za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="start_setting_guide_desc_title">Nastavite še nekaj stvari</string>
   <string name="summary_switch_apps_settings">Izberite aplikacije uporabljene v Trenutnem prostoru</string>
   <string name="support_desc">Varnostne usluge ponuja Graphite</string>

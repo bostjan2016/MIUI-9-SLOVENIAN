@@ -23,8 +23,8 @@
   <string name="Settings_title_network_assistants">Nastavitve porabe podatkov</string>
   <string name="Settings_title_power_center">Nastavitve za baterijo</string>
   <string name="about_autostart">O samod. zagonu</string>
-  <string name="ac_enable_title">Vključite Zaklepanje aplikacij</string>
-  <string name="ac_enter_applock">Vstopi v Zakl. aplikacij</string>
+  <string name="ac_enable_title">Vključite zaklepanje aplikacij</string>
+  <string name="ac_enter_applock">Vstopi v zakl. aplikacij</string>
   <string name="ac_firstUseApplock_subTitle">Uporabite boljša varnostna orodja na nivoju sistema</string>
   <string name="ac_firstUseApplock_title">Nastavite geslo za zaščito vaše aplikacije</string>
   <string name="ac_summaryOff">Izključeno, geslo ni potrebno za odpiranje aplikacije</string>
@@ -229,7 +229,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_permission">Dovoljenja vezana na zasebnost (zadnjih 7 dni)</string>
   <string name="app_manager_permission_call_phone_over">Klicano 100000+ krat</string>
   <string name="app_manager_permission_manager_title">Dovoljenja</string>
-  <string name="app_manager_permission_notify_summary">Obvestila funkcij, lebdečih obvestil in Zakl. zaslona</string>
+  <string name="app_manager_permission_notify_summary">Obvestila funkcij, lebdečih obvestil in zakl. zaslona</string>
   <string name="app_manager_permission_notify_title">Obvestila</string>
   <string name="app_manager_permission_power_saving_summary">MIUI Varčevanje baterije</string>
   <string name="app_manager_permission_power_saving_title">Varčevanje baterije</string>
@@ -291,8 +291,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="applock_add_account_info">"Dodajte svoj Mi Račun da lahko prekličete geslo če ga slučajno pozabite"</string>
   <string name="applock_add_account_setting">Račun &amp; zasebnost</string>
   <string name="applock_bind_account_title">Pozabljeno geslo</string>
-  <string name="applock_close_dialog_summary">Po izključitvi Zakl. aplikacij aplikacije ne bodo več zaščitene in vaše geslo se bo izbrisalo.</string>
-  <string name="applock_close_dialog_title">Izključim Zakl. aplikacij?</string>
+  <string name="applock_close_dialog_summary">Po izključitvi zakl. aplikacij aplikacije ne bodo več zaščitene in vaše geslo se bo izbrisalo.</string>
+  <string name="applock_close_dialog_title">Izključim zakl. aplikacij?</string>
   <string name="applock_exit_account_info">Ko se odjavite bo račun samodejno odstranjen</string>
   <string name="applock_header_text_less_than_half">Premalo prostora. Povlecite separator malo naprej.</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
@@ -384,7 +384,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_operation_sync">Sinhr.</string>
   <string name="auto_task_operation_vibration">Vibriranje</string>
   <string name="auto_task_operation_wifi">WiFi</string>
-  <string name="back_app_name">Vrni se na Zakl. aplikacije</string>
+  <string name="back_app_name">Vrni se na zakl. aplikacije</string>
   <string name="back_modifypassword">Vrni se na menjavo gesla</string>
   <string name="back">Nazaj</string>
   <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju tej aplikaciji lahko povzroči težave pri delovanju, sprejemanju obvestil, prenosu vsebin itd. Omejim vseeno?</string>
@@ -1365,7 +1365,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napolnjena.</string>
   <string name="notification_item">Vključite zaklepanje aplikacij</string>
-  <string name="notification_mask_summary">"Vsebine obvestil ne prikazuj na Zakl. zaslonu in Plošči obvestil"</string>
+  <string name="notification_mask_summary">"Vsebine obvestil ne prikazuj na zakl. zaslonu in plošči obvestil"</string>
   <string name="notification_mask_title">Skrij vsebino</string>
   <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
