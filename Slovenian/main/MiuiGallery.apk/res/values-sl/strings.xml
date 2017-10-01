@@ -663,10 +663,10 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="old">Staro</string>
   <string name="onekey_auto">Avto</string>
   <string name="onekey_food">Hrana</string>
-  <string name="onekey_none">Nič</string>
+  <string name="onekey_none">Original</string>
   <string name="onekey_portrait">Portret</string>
   <string name="onekey_scene">Pokrajina</string>
-  <string name="open">Omogoči</string>
+  <string name="open">Vključi</string>
   <string name="open_public_message">Ustvari povezavo za deljenje s prijatelji</string>
   <string name="open_public_title">Deli</string>
   <string name="operation_add_album">Dodaj v album</string>
@@ -741,7 +741,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="photo_editor_beautify">Polepšaj</string>
   <string name="photo_editor_beautify_auto">Samod</string>
   <string name="photo_editor_beauty_compare">Original</string>
-  <string name="photo_editor_crop_and_rotate">Obreži&amp;Obrni</string>
+  <string name="photo_editor_crop_and_rotate">Obreži</string>
   <string name="photo_editor_crop_reset">Resetiraj</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Doodle</string>
@@ -752,11 +752,11 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="photo_editor_navigator_cancel">Prekini</string>
   <string name="photo_editor_navigator_download_network_metered_msg">Prenos %s potrebuje okoli 4 MB mobilnih podatkov. Prenesem sedaj?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Opozorilo mob. podatkov</string>
-  <string name="photo_editor_navigator_export">Končano</string>
+  <string name="photo_editor_navigator_export">Shrani</string>
   <string name="photo_editor_navigator_module_download_failed">"Ne morem prenesti %s"</string>
   <string name="photo_editor_navigator_module_download_now">Prenesi</string>
   <string name="photo_editor_navigator_module_download_success">Uspešno prenešeno</string>
-  <string name="photo_editor_navigator_module_download_wait_wlan">Čekaj na WiFi</string>
+  <string name="photo_editor_navigator_module_download_wait_wlan">Čakaj na WiFi</string>
   <string name="photo_editor_navigator_module_downloading">Prenos %s…</string>
   <string name="photo_editor_navigator_need_download">Za prenos %s potrebujete spletno povezavo.</string>
   <string name="photo_editor_remover">Izbriši</string>
@@ -886,7 +886,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="search_feedback_false_negative_text">Dodam fotografije v \"%s\"?</string>
   <string name="search_feedback_false_negative_title">Izbrani predmeti so \"%s\"</string>
   <string name="search_feedback_false_positive_text">Odstranim fotografije iz \"%s\"?</string>
-  <string name="search_feedback_false_positive_title">Kaže da so to “%s”</string>
+  <string name="search_feedback_false_positive_title">Kaže da so to \"%s\"</string>
   <string name="search_feedback_likely_check_title">Preveri</string>
   <string name="search_feedback_likely_title">Kaže da te fotografije lahko imajo \"%s\"</string>
   <string name="search_feedback_task_finish_title">Dotaknite za sprejem nagrade!</string>
@@ -1118,10 +1118,11 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Uporabi mobilne podatke</string>
   <string name="video_editor_res_not_load_dialog_msg">Prenesite glasbene podloge za uporabo te funkcije (več od 20MB).</string>
   <string name="video_editor_template_family">Družina</string>
-  <string name="video_editor_template_forbidden_tips">"To ne morem uničiti kadar uporabljate predlogo"</string>
+  <string name="video_editor_template_forbidden_tips">"To ne morem narediti kadar uporabljate predlogo"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>
   <string name="video_editor_text">Tekst</string>
+  <string name="video_editor_text_default">Privzeto</string>
   <string name="video_editor_text_edit_end">Krediti</string>
   <string name="video_editor_text_edit_input_end_hint">Vnesite kredite</string>
   <string name="video_editor_text_edit_input_hint">Dotaknite te za urejanje</string>
@@ -1129,7 +1130,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_text_edit_start">Naslov</string>
   <string name="video_editor_text_input_empty_tips">"Kaže da še niste vpisali teksta"</string>
   <string name="video_editor_text_none">Nič</string>
-  <string name="video_editor_text_preview_text">MI</string>
+  <string name="video_editor_text_preview_text">Aa</string>
   <string name="video_editor_trim">Obreži</string>
   <string name="video_editor_unsupport_audio_file">Nepodprta avdio datoteka</string>
   <string name="video_err">"Ne morem predvajati videoposnetka."</string>

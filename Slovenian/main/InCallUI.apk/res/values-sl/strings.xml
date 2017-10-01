@@ -67,7 +67,7 @@
   <string name="card_title_hanging_up">"Prekini klic "</string>
   <string name="card_title_hanging_up_fail">"Ne morem prekiniti klica, poskusite ponovno."</string>
   <string name="card_title_hanging_up_restart">"Ne morem končati klic. Ponovno zaženite napravo."</string>
-  <string name="card_title_hanging_up_weak_signal">Slab signal mobilnega omrežja. Prekintev klica</string>
+  <string name="card_title_hanging_up_weak_signal">Slab signal mobilnega omrežja. Prekintev klica…</string>
   <string name="card_title_in_call">Med klicem</string>
   <string name="card_title_in_call_short">Klic</string>
   <string name="card_title_in_video">Video </string>
@@ -223,7 +223,7 @@
   <string name="onscreen_audio_mode_headset">Slušalke</string>
   <string name="onscreen_audio_mode_speaker">Zvočnik</string>
   <string name="onscreen_audio_switch_mode">Zamenjaj zvok</string>
-  <string name="onscreen_call_record">Snemaj</string>
+  <string name="onscreen_call_record">Posnemi klic</string>
   <string name="onscreen_change_to_video">Videoklic</string>
   <string name="onscreen_change_to_voice">Glasovni klic</string>
   <string name="onscreen_close_preview_camera">Zapri</string>
@@ -244,7 +244,7 @@
   <string name="picking_participant">Pridobivanje informacij o stiku…</string>
   <string name="private_num">Zasebna številka</string>
   <string name="remind_unlock_message">Vaša naprava je zaklenjena. \"%s\ bo dostopno ko odklenete napravo. Odklenem?"</string>
-  <string name="respond_via_sms_custom_message">Napišite odgovor…</string>
+  <string name="respond_via_sms_custom_message">Lastni SMS…</string>
   <string name="select_audio_dialog_title">Izberite način odgovora</string>
   <string name="select_one_sim_title">Uporabim lahko le SIM %1$d</string>
   <string name="select_sim_hint">"Ne morem uporabljati SIM %2$d, dokler je SIM %1$d v uporabi."</string>

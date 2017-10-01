@@ -16,13 +16,13 @@
   <string name="TestSender">Test pošiljatelja</string>
   <string name="action_settings">Nastavitve</string>
   <string name="app_name">Mi Drop</string>
-  <string name="btn_goto_grant">Pojdi na odobritev</string>
+  <string name="btn_goto_grant">Dovoli</string>
   <string name="cancel_confirm">Prekliči</string>
   <string name="cancel_confirm_title">"Prenos ni končan, prekličem?"</string>
   <string name="cancel_receive_confirm">Prekliči</string>
   <string name="cancel_receive_stop">Nadaljuj sprejem</string>
   <string name="cancel_stop">Nadaljuj pošiljanje</string>
-  <string name="description_content">Mi Drop omogoča in nudi prenos datotek.</string>
+  <string name="description_content">Mi Drop omogoča pošiljanje in prejemanje datotek od oseb v bližini.</string>
   <string name="description_title">O  Mi Drop aplikaciji</string>
   <string name="file_not_support">"Ta vrsta datoteke ni podprta"</string>
   <string name="help">Na pomoč</string>
@@ -68,11 +68,11 @@
   <string name="receiver_succeed_ok">V redu</string>
   <string name="receiver_succeed_view">Prikaži</string>
   <string name="receiver_transfer_interrupt">"Prenos prekinjen, ne izklopite WiFi hotspot med prenosom"</string>
-  <string name="request_permission_msg">MiDrop potrebuje %s, odobrite dovoljenje</string>
-  <string name="request_permission_title">Odobri dovoljenje</string>
+  <string name="request_permission_msg">Mi Drop zahteva naslednja dovoljenja: %s. Dovolim?</string>
+  <string name="request_permission_title">Potrebna so dovoljenja</string>
   <string name="receiver_video_file_current">Prejemanje %2$d​ od %1$s…</string>
   <string name="receiver_video_file_num">Prejemanje %2$d​ od %1$s…</string>
-  <string name="runtime_permission_ungranted">Ne morem uporabiti Mi Drop ker ni odobreno dovoljenje</string>
+  <string name="runtime_permission_ungranted">!Ne morem uporabiti Mi Drop ker nima odobrenih dovoljenj"</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Ne pošlji"</string>
@@ -95,5 +95,5 @@
   <string name="sender_wait_queue">Čakanje…</string>
   <string name="transfer_interrupt">Prenos prekinjen</string>
   <string name="transmission_click_send">Pošlji</string>
-  <string name="transmission_connect">"Ne najdem prejemnika​"</string>
+  <string name="transmission_connect">"Ne morete najti prejemnika​?"</string>
 </resources>

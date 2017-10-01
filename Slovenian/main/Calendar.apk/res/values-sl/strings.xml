@@ -209,7 +209,7 @@
   <string name="edit_event_tab_event">Dogodek</string>
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>
-  <string name="email_guests_label">Pošiljanje e-pošte gostom</string>
+  <string name="email_guests_label">Pošlji e-pošto gostom</string>
   <string name="email_picker_label">Pošlji e-pošto z</string>
   <string name="email_subject_prefix">"Odgovor:"</string>
   <string name="empty_event">Prazen dogodek ni kreiran.</string>
@@ -317,7 +317,7 @@
   <string name="month_medium_september">Sep</string>
   <string name="month_view">Mesec</string>
   <string name="monthly">Mesečno</string>
-  <string name="monthly_on_day">Mesečno (isti datum)</string>
+  <string name="monthly_on_day">Mesečno (na isti dan vsak mesec)</string>
   <string name="monthly_on_day_count" formatted="false">Mesečno (%1$s %2$s)</string>
   <string name="more_match">Več ujemanj</string>
   <string name="more_string">+%1$s</string>

@@ -43,7 +43,7 @@ nastavitev in aplikacij"</string>
   <string name="backup_new">Novo:</string>
   <string name="backup_progress">Izdelava Var. kopije…</string>
   <string name="backup_report">Poglej podrobnosti</string>
-  <string name="backup_security_tips_message">Nekatere aplikacije morda ne bodo kopirane ali obnovljene.</string>
+  <string name="backup_security_tips_message">Nekatere aplikacije morda ne bodo kopirane ali povrnjene.</string>
   <string name="backup_security_tips_title">Var. kopije morda ne bodo delovale</string>
   <string name="backup_update">Posodobi</string>
   <string name="batch_delete_backup_confirm">Izbrišem izbrane Var.kopije?</string>
@@ -141,7 +141,7 @@ nastavitev in aplikacij"</string>
   <string name="local_select_sysdata">Sistem</string>
   <string name="local_select_userapp">Aplikacije</string>
   <string name="local_select_video">Videoposnetki</string>
-  <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Trgovino Teme in druge storitve Mi.</string>
+  <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Teme in druge storitve Mi.</string>
   <string name="miliao_account_login">Prijavi se v Mi Talk</string>
   <string name="mms_title">MMS sporočanje</string>
   <string name="multi_select_title">Izbrano: %1$s</string>
@@ -164,7 +164,7 @@ nastavitev in aplikacij"</string>
   <string name="notif_trans_receiving_failed">"Podatke ne morem sprejeti"</string>
   <string name="notif_trans_sending_completed">Podatki uspešno poslani</string>
   <string name="notif_trans_sending_failed">"Podatke ne morem poslati"</string>
-  <string name="notif_trans_wait_for_reconnecting">Povezava z oddaljeno napravo je prekinjena. Ponovno se povežite.</string>
+  <string name="notif_trans_wait_for_reconnecting">Povezava je prekinjena. Ponovno se povežite.</string>
   <string name="page_loading">Samo trenutek…</string>
   <string name="progress_backup_hint">Ustvari Var. kopijo…</string>
   <string name="progress_restore_hint">Obnavljam iz Var.kopije…</string>
@@ -269,14 +269,14 @@ nastavitev in aplikacij"</string>
   <string name="trans_connect_failed_title">"Povezovanje ni uspelo"</string>
   <string name="trans_connect_failed_toast">"Ne morem se povezati"</string>
   <string name="trans_connecting_toast">Povezovanje…</string>
-  <string name="trans_connection_failed">Naprava ni povezana</string>
+  <string name="trans_connection_failed">Povezava je prekinjena</string>
   <string name="trans_detail_category_account">Računi in stiki</string>
   <string name="trans_detail_category_files">Datoteke</string>
   <string name="trans_detail_category_sysdata">Podatki sistema</string>
   <string name="trans_detail_category_userdata">Aplikacije</string>
-  <string name="trans_device_disconnected">Naprava ni povezana</string>
-  <string name="trans_device_wait_for_reconnecting">Naprava ni povezana. Ponovno se povežite.</string>
-  <string name="trans_generate_qr_code_failed">"Ni možno izdelati QR kode"</string>
+  <string name="trans_device_disconnected">Povezava je prekinjena</string>
+  <string name="trans_device_wait_for_reconnecting">Povezava je prekinjena. Povežite se ponovno za nadaljevanje.</string>
+  <string name="trans_generate_qr_code_failed">"Ne morem izdelati QR kode"</string>
   <string name="trans_intro_desc_2">Prekličite prenos, zaprite Mi Mover in začnite ponovno. Dvojne datoteke bodo prepisane med ponovnim prenosom.</string>
   <string name="trans_intro_desc_3">"Mi Mover za prenos datotek uporablja WiFi. Zaradi tega se ne morete povezati v splet preko WiFi ja v času prenosa. Mobilne podatke pa lahko uporabljate. Nekatere novejše naprave (npr. Mi 6) se pa kljub temu lahko povežejo na splet v času prenosa."</string>
   <string name="trans_intro_desc_4">Prostor za shranjevanje se na starih napravah uporablja za izdelavo paketov prenosa. Pred prenosom preverite ali imate na voljo najmajn 500 MB - 1 GB d prostora na svojem starem telefonu.</string>
@@ -287,7 +287,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_intro_desc_multiapp">"Mi Mover ne prenese podatke Dvojnih aplikacij da se izogne konfliktom med datotekami."</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover ne more dostopati do nastavitev v Drugem prostoru. Prestavite nastavitve v Prvi prostor in tam zaženite Mi Mover."</string>
   <string name="trans_intro_desc_new">"Pritisnite \"Jaz sam prejemnik\". Generirala se bo QR koda."</string>
-  <string name="trans_intro_desc_old">"Pritisnite \"Jaz sem pošiljatelj\\. Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
+  <string name="trans_intro_desc_old">"Pritisnite \"Jaz sem pošiljatelj\". Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
   <string name="trans_intro_desc_private">"Mi Mover ne more dostopati do fotografij v skritem albumu ker so šifrirane. Te fotografije lahko prenesete z Mi Clouda na novi napravi."</string>
   <string name="trans_intro_question_1">1. Kako uporabiti Mi Mover?</string>
   <string name="trans_intro_question_2">2. Kaj naj naredim če je Mi Mover zablokiral v določenem koraku?</string>
@@ -299,7 +299,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_intro_question_8">"8. Katere nastavitve ni mogoče poslati?"</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">Računi in gesla:</string>
-  <string name="trans_intro_title_multiapp">Podatki Dvojnih aplikacij</string>
+  <string name="trans_intro_title_multiapp">Podatki Dvojnih aplikacij:</string>
   <string name="trans_intro_title_multiuser">Podatki Drugega prostora:</string>
   <string name="trans_intro_title_new">Na novem telefonu:</string>
   <string name="trans_intro_title_old">Na starem telefonu:</string>
@@ -317,12 +317,10 @@ nastavitev in aplikacij"</string>
   <string name="trans_operate_old_phone_tips1">"1. namestite aplikacijo Mi Mover na vaši drugi napravi 
      2. Odprite aplikacijo in tapnite Start 
      3. Skenirajte QR kodo z vašo drugo napravo"</string>
-  <string name="trans_operate_old_phone_tips2">"Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
-    Dotaknite se [Sem pošiljatelj]""</string>
-   <string name="trans_operate_reconnect_new_tips">"Počakajte dokler nov telefon prikaže \"Naprava ni povezana\".
- Nato pritisnite [Ponovno poveži] za izdelavo QR kode."</string>
-   <string name="trans_operate_reconnect_old_tips">"Počakajte dokler stari telefon pokaže \"Naprava ni povezana\".
- Nato pritisnite [Ponovno poveži] in skenerajte QR kodo."</string>
+  <string name="trans_operate_old_phone_tips2">Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
+    Dotaknite se [Sem pošiljatelj]"</string>
+   <string name="trans_operate_reconnect_new_tips">"Počakajte da novi telefon pokaže "Povezava je prekinjena".\n  Nato pritisnite "Ponovno poveži" za izdelavo QR kode."</string>
+   <string name="trans_operate_reconnect_old_tips">"Počakajte da stari telefon pokaže "Povezava je prekinjena".\n Nato pritisnite "Ponovno poveži" in skenirajte QR kodo."</string>
   <string name="trans_please_waiting">Samo trenutek…</string>
   <string name="trans_progress_subdescript_br_receiver"> Vračanje %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_br_sender">Izdelava var. kopije %1$s, %2$s končana</string>

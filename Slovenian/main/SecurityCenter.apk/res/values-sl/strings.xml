@@ -123,6 +123,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_choose_engine_update_disable_toast">"Ne morem spremeniti definicijo v času preverjanja"</string>
   <string name="antivirus_longtime_no_update">Kaže da so vaše definicije virusov zastarele. Redna posodabljanja pomagajo doseganju boljšega rezultata pregleda. Dovolim aplikaciji Varnost povezavo  spletom da posodobi definicije virusov?</string>
   <string name="antivirus_longtime_no_update1">Kaže da so vaše definicije virusov zastarele. Redna posodabljanja pomagajo doseganju boljšega rezultata pregleda.. Posodobite definicije in poskusite ponovno.</string>
+  <string name="antivirus_main_activity_back">Pojdi nazaj iz skeniranja varnosti</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši tvegane aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
   <string name="antivirus_monitor_clean_tips">Izbrisani predmeti: %s</string>
@@ -383,14 +384,14 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_operation_sync">Sinhr.</string>
   <string name="auto_task_operation_vibration">Vibriranje</string>
   <string name="auto_task_operation_wifi">WiFi</string>
-  <string name="back_app_name">Zakl. aplikacije Back</string>
-  <string name="back_modifypassword">Zamenjaj Back geslo</string>
+  <string name="back_app_name">Vrni se na Zakl. aplikacije</string>
+  <string name="back_modifypassword">Vrni se na menjavo gesla</string>
   <string name="back">Nazaj</string>
   <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju tej aplikaciji lahko povzroči težave pri delovanju, sprejemanju obvestil, prenosu vsebin itd. Omejim vseeno?</string>
   <string name="background_traffic">V ozadju %s</string>
-  <string name="backsound_set_hint">Nastavi svoje sporočilo \"Sem odsoten\" za %s?</string>
+  <string name="backsound_set_hint">Nastavim sporočilo \"Sem odsoten\" za %s?</string>
   <string name="battery_capacity_title">Kapaciteta baterije</string>
-  <string name="battery_charge_estimating">Izračunavam…</string>
+  <string name="battery_charge_estimating">Izračun…</string>
   <string name="battery_charge_full">Napolnjeno</string>
   <string name="battery_charging_prompt">Polnjenje</string>
   <string name="battery_desc_apps">Baterija porabljena od aplikacij</string>
@@ -636,6 +637,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tapnite za vključitev mobilnih podatkov.</string>
   <string name="daily_limit_over_message">"Prekoračili ste svojo dnevno omejitev porabe podatkov."</string>
   <string name="daily_pkg_traffic">Omejitev porabe podatkov</string>
+  <string name="data_booster_desc">Deaktivirajte drugo SIM režo da obdržite povezavo stabilno</string>
+  <string name="data_booster_title">Stabiliziraj podatkovno povezavo</string>
   <string name="daily_sim_over_limit_dialog_message">"Izkoristili ste že %s dnevne omejitve podatkov.\n\nČe ponovo vključite mobilne podatke, vam bo vaš mobilni operater dodatno zaračunal."</string>
   <string name="daily_sim_over_limit_notify_title">"Izkoristili ste že %s dnevne omejitve podatkov."</string>
   <string name="data_network_blocked_notification_title">Ni povezave s spletom</string>
@@ -867,6 +870,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="fw_blocked">Seznam blokiranih</string>
   <string name="fw_blocked_count">"Blokirano "</string>
   <string name="fw_blocked_join">" in "</string>
+  <string name="game_anti_disturb_msg">Igre DND</string>
   <string name="game_booster">Pohitritev igranja</string>
   <string name="game_booster_intro">O Pohitritvi igranja</string>
   <string name="game_booster_title">Pohitritev</string>
@@ -879,12 +883,13 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="game_net_text2">Povečajte hitrost povezave omrežne igre z omejitvijo hitrosti prenosa v ozadju da zmanjšate omrežno zastajanje</string>
   <string name="game_net_title">Optimiziraj hitrost povezave</string>
   <string name="game_setting">Nastavitve igre</string>
+  <string name="gamebooster_main_activity_back">Vrni se v Game Speed Booster</string>
   <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na internet?</string>
   <string name="gamebooster_network_dialog_title">"Nekatere stvari niso dostopne"</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
-  <string name="gateway_exception_title">Test routerja</string>
+  <string name="gateway_exception_title">Testiraj router</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Nadaljuj</string>
@@ -1427,7 +1432,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="om_settings_lock_app">Zakleni aplikacije</string>
   <string name="om_settings_lock_app_manage">Zakleni aplikacije</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Obvesti ko je predspomin prevelik</string>
-  <string name="om_settings_memory_clean_lock_screen">Izbriši predspomin ko je zaslon izključen</string>
+  <string name="om_settings_memory_clean_lock_screen">Izbriši predspomin ko je naprava zaklenjena</string>
   <string name="om_settings_memory_occupy_notify">Visoka vrednost predspomina</string>
   <string name="om_settings_memory_occupy_notify_never">Nikoli</string>
   <string name="om_settings_notify_manage">Obvestila</string>
@@ -2750,4 +2755,5 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="xiaomi_traffic_pass_warning">Ni dostopnih mobilnih podatkov v vašem Mi Data planu</string>
   <string name="xiaomi_traffic_return">Nazaj</string>
   <string name="xunyou_pay_webview">Xunyou usluge</string>
+  <string name="xunyou_server_expired">Seja je potekla.</string>
 </resources>

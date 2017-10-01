@@ -1002,8 +1002,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Nastavitve klicev</string>
   <string name="preference_remove_duplicate">Združi podvojene stike</string>
-  <string name="preference_show_yellowpage_tab_description">Če zaprete kartico YellowPage kartico YellowPage storitev ne bo delala pravilno</string>
-  <string name="preference_show_yellowpage_tab_title">Prikaži kartico YellowPage</string>
+  <string name="preference_show_yellowpage_tab_description">Yellow Pages storitev ne bo delala pravilno če izključite to storitev</string>
+  <string name="preference_show_yellowpage_tab_title">Prikaži Yellow Pages</string>
   <string name="preference_simple_mode_description">Pokaži slike in ostale podatke v pogledu seznama</string>
   <string name="preference_simple_mode_title">Pokaži slike in podatke</string>
   <string name="preference_smart_group_company_summary">Združi po podjetju</string>
@@ -1019,8 +1019,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_telocation_summary_teloc_on">Prikaži lokacijo stika</string>
   <string name="preference_telocation_title">Lokacija</string>
   <string name="preference_tone_title">Zvoki</string>
-  <string name="prepare_import">Uvozi stike</string>
-  <string name="preview_contact_card_title">Uvažam stike...</string>
+  <string name="prepare_import">"Uvozi stike"</string>
+  <string name="preview_contact_card_title">"Uvažam stike…"</string>
   <string name="preview_incall_show_entry">Pregled videoposnetka</string>
   <string name="previous">Prejšnja</string>
   <string name="private_num">Zasebna številka</string>
@@ -1258,7 +1258,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="toast_for_saving_nickname">Vzdevek shranjen</string>
   <string name="toast_join_with_empty_contact">Vnesite ime stika preden ga združite z drugim</string>
   <string name="toast_making_personal_copy">Ustvarjam osebno kopijo...</string>
-  <string name="toast_start_intent_failed">Za obdelavo tega opravila ni najdena nobena aplikacije</string>
+  <string name="toast_start_intent_failed">"Za obdelavo tega opravila ni najdena nobena aplikacija"</string>
   <string name="toast_text_copied">Besedilo kopirano</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>
@@ -1269,7 +1269,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="type_outgoing">Odhodni klic</string>
   <string name="type_voicemail">Glasovna pošta</string>
   <string name="unable_get_device_id">"Ne morem dobiti IMEI"</string>
-  <string name="unfold_all">Odpri vse klice</string>
+  <string name="unfold_all">Prikaži vse</string>
   <string name="unknow_phone_number_call_failed">"Ne morem klicati neznane številke"</string>
   <string name="unknow_phone_number_mms_failed">"Ne morem poslati SMS na neznano številko"</string>
   <string name="unknown">Neznano</string>

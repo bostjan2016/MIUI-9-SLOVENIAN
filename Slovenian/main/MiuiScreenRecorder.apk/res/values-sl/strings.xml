@@ -20,7 +20,7 @@
   <string name="error_open_file_failed_no_app_found">"Ne morem najti aplikacijo za obdelavo tega opravila"</string>
   <string name="frames">Število slik</string>
   <string name="frames_summary">Čim večje število slik v sekundi povečuje ostrino</string>
-  <string name="frequently_click_toast">Zagon storitve, počakajte trenutek</string>
+  <string name="frequently_click_toast">Samo trenutek…</string>
   <string name="gleam_led_while_recording">V času snemanja LED utripa</string>
   <string name="hint_back">Nazaj</string>
   <string name="hint_home">Začetna</string>
@@ -44,9 +44,9 @@
   <string name="no_sound">Utišaj</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_send">Pošlji</string>
-  <string name="recording_max_size">Snemanje je ustavljeno in posnetek je samodejno shranjen zaradi maksimalne velikosti videoposnetkov. Lahko začnete drugo snemanje, če želite nadaljevati.</string>
+  <string name="recording_max_size">Snemanje je ustavljeno in posnetek je samodejno shranjen zaradi maksimalne velikosti videoposnetkov. Lahko začnete drugo snemanje tam kjer ste končali.</string>
   <string name="quit_recording">Izhod iz Snemalca zaslona</string>
-  <string name="recording_failure">Zadnje snemanje ni uspelo, ponovno zaženite snemanje zaslona</string>
+  <string name="recording_failure">Snemanje ni uspelo, ponovno zaženite snemanje</string>
   <string name="resolution">Resolucija</string>
   <string name="resolution_summary">Videoposnetki z večjo resolucijo izgledajo ostreje</string>
   <string name="screen_orientation">Orientacija</string>
