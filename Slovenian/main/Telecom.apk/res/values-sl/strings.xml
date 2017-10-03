@@ -210,6 +210,7 @@
   <string name="local_backup_password_toast_confirmation_mismatch">Novo geslo in potrditev se ne ujemata.</string>
   <string name="local_backup_password_toast_success">Novo geslo je nastavljeno</string>
   <string name="local_backup_password_toast_validation_failure">Nastavitev gesla ni uspela</string>
+  <string name="legacy_dhcp_client_summary">Uporabljate DHCP odjemalec iz Lollipopa namesto novega Android DHCP odjemalca.</string>
   <string name="managed_user_title">Vse radne aplikacije</string>
   <string name="media_category">Predstavnosti</string>
   <string name="mobile_data_always_on">Mobilni podatki zmeraj aktivni</string>
@@ -290,6 +291,8 @@
   <string name="select_webview_provider_dialog_title">Nastavi implementacijo WebViewa</string>
   <string name="select_webview_provider_title">Implementacija WebViewa</string>
   <string name="select_webview_provider_toast_text">Ta izbira ni več veljavna. Poskusite ponovno.</string>
+  <string name="show_cpu_usage">Prikaži uporabo procesorja</string>
+  <string name="show_cpu_usage_summary">Na zaslonu se prikazuje izkoriščenost procesorja.</string>
   <string name="show_all_anrs">Pokaži okna neodzivanj</string>
   <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
   <string name="show_hw_layers_updates">Prikaži posodobitve hardverskih slojev</string>

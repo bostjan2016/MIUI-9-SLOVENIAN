@@ -4,6 +4,7 @@
   <string name="account">Račun</string>
   <string name="account_related">Vaša naprava je povezana z obstoječim Mi Računom (%s). Povežite se na omrežje da potrdite napravo.</string>
   <string name="activate">Aktiviraj</string>
+  <string name="activate_find_device_success">Najdi napravo je aktiviran.</string>
   <string name="activate_finddevice">Povežite se na omrežje da aktivirate napravo</string>
   <string name="activate_number_change_dialog_message">Izberite številko telefona ki bo vidna drugim napravam kadar kličete preko VoIP-a.</string>
   <string name="activating">Aktiviranje…</string>
@@ -47,6 +48,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="cloud_back_up_title">Napravi var. kopijo naprave</string>
   <string name="cloud_backup_dialog_title">Napravi var. kopijo na Mi Cloud</string>
   <string name="cloud_find_device">Najdi napravo</string>
+  <string name="cloud_find_device_off">Izključi</string>
+  <string name="cloud_find_device_on">Vključi</string>
   <string name="cloud_restore_title">Obnovi iz var. kopije</string>
   <string name="cloud_space_upgrade_message">Tapni za dodajanje %s GB na tvoj oblak.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne morem pridobiti informacij o prostoru za shranjevanje"</string>
@@ -101,6 +104,12 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" da najdete, zaklenete ali uničite svojo napravo na daljavo.
   Če zamenjate SIM kartico bo poslan še en SMS za ponovno aktiviranje storitve."</string>
+  <string name="find_device_operation_failure_rpc">"Zaradi RPC napake opravila ni mogoče izvesti ."</string>
+  <string name="find_device_pref_alert_content">"Najdi napravo je povezana z vašim Mi Računom. Nastaviti morate geslo ali vnesti geslo, ki ste ga nastavili. Pazite da si zapomnite svoj ID Mi Računa in geslo. Za aktiviranje te storitve bo mogoče potrebno SMS sporočilo. Vaš ponudnik storitve vam bo to zaračunal. Če zamenjate SIM kartice bo samodejno poslano sporočilo za ponovno aktiviranje te funkcije."</string>
+  <string name="find_device_pref_alert_negtive">Ne hvala</string>
+  <string name="find_device_pref_alert_positive">V redu</string>
+  <string name="find_device_pref_alert_title">Zapomnite si svoj ID Mi Računa in geslo</string>
+  <string name="find_device_pref_initializing">Zagon…</string>
   <string name="find_device_reading_status">Branje statusa…</string>
   <string name="find_device_reading_status_failure">"Ne morem prebrati statusa."</string>
   <string name="find_device_send_sms_alert">"Če zamenjate SIM kartico bo poslan še en SMS za ponovno aktiviranje storitve."</string>
@@ -212,7 +221,18 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_dialog_sync_now_title">Za sinhr. se povežite na WiFi</string>
   <string name="micloud_dspt">Uporabi Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
   <string name="micloud_dspt_provision">Uporabi Mi Cloud za sinhronizacijo podatkov, lociranje naprave in deljenje stvari s prijatelji.</string>
+  <string name="micloud_find_device_close_alert_content">"Če izključite to funkcijo, ne boste mogli najti naprave če je izgubljena."</string>
+  <string name="micloud_find_device_close_alert_negtive">Vseeno izključi</string>
+  <string name="micloud_find_device_close_alert_positive">Pusti vključeno</string>
+  <string name="micloud_find_device_close_alert_title">Izključim Najdi napravo?</string>
+  <string name="micloud_find_device_close_fail">"Ne morem izključiti Najdi napravo"</string>
+  <string name="micloud_find_device_close_progress">Izključevanje Najdi napravo…</string>
   <string name="micloud_find_device_finish">Končano</string>
+  <string name="micloud_find_device_guide_alert_content">"Najdi napravo je povezana z vašim Mi Računom. Nastaviti morate geslo ali vnesti geslo ki ste ga nastavili. Bodite pozorni da si zapomnite svoj ID Mi Računa in geslo."</string>
+  <string name="micloud_find_device_guide_alert_negtive">Ne hvala</string>
+  <string name="micloud_find_device_guide_alert_negtive_activate">Ne hvala</string>
+  <string name="micloud_find_device_guide_alert_positive">V redu</string>
+  <string name="micloud_find_device_guide_alert_title">Zapomnite si svoj ID Mi Računa in geslo</string>
   <string name="micloud_find_device_guide_button">Vključi Najdi napravo</string>
   <string name="micloud_find_device_guide_content">Poslano SMS sporočilo bo morda potrbno za aktiviranje te storitve. Vaš operater vam to lahko računa. Če zamenjate SIM kartico bo samodejno poslano sporočilo za ponovno aktivacijo.</string>
   <string name="micloud_find_device_guide_fail_reopen">Vključi Najdi napravo na Mi Cloudu</string>
@@ -235,6 +255,10 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_find_device_opened_content">Prijavite se na %s da najdete svojo napravo</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
+  <string name="micloud_find_device_verify_button">Ponovno aktiviraj Najdi napravo</string>
+  <string name="micloud_find_device_verify_close">Izključi Najdi napravo</string>
+  <string name="micloud_find_device_verify_fail">"Ne morem ponovno aktivirati Najdi napravo"</string>
+  <string name="micloud_find_device_verify_progress">Ponovno aktiviranje Najdi napravo…</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Vse vaše fotografije, videi, beležke in aplikacije so varnostno kopirane v oblak.
@@ -271,8 +295,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_multi_user_error_message">"Prijavili ste isti račun na prvi prostor in Mi Cloud je zaustavljen. Uporabite drug račun</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud ustavljen</string>
   <string name="micloud_main_network_abnormal">Povezave ni mogoče vzpostaviti</string>
-  <string name="micloud_main_query_again">Pošljite še en zahtevek</string>
   <string name="micloud_main_network_error">Povezave ni mogoče vzpostaviti</string>
+  <string name="micloud_main_query_again">Pošljite še en zahtevek</string>
   <string name="micloud_main_query_error_message">"Ne morem ugotoviti ali je sinhronizacija končana"</string>
   <string name="micloud_main_query_error_title">"Ne morem dobiti stanje sinhronizacije"</string>
   <string name="micloud_main_resume_sync_soon">Nadljuj z sinhr. kmalu</string>

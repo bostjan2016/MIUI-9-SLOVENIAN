@@ -104,6 +104,7 @@
   <string name="minute">1 minuta</string>
   <string name="minutes">%d min</string>
   <string name="more_settings">Več nastavitev</string>
+  <string name="more_setting">Več nastavitev</string>
   <string name="never">Enkrat</string>
   <string name="oneshot_alarm">Izbriši po izklopu alarma</string>
   <string name="pause">Odmor</string>

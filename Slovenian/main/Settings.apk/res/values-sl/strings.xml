@@ -138,6 +138,7 @@
   <string name="add_back_fingerprint_instruction_msg">Položite prst na čitalec</string>
   <string name="add_device_admin">Vklopi</string>
   <string name="add_device_admin_msg">Ali želite omogočiti skrbnika naprave?</string>
+  <string name="add_facerecoginition_text">Dodaj obraz</string>
   <string name="add_fingerprint_done_msg">Zdaj lahko odklenete napravo s prstnim odtisom.</string>
   <string name="add_fingerprint_done_title">Končano!</string>
   <string name="add_fingerprint_edge_instruction_msg">Premikajte prst tako da lahko čitalec odčita robove vašega prstnega odtisa.</string>

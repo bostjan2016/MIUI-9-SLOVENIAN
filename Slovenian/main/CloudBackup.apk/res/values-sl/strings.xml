@@ -136,8 +136,10 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="restore_home_failed">Povrnitev Začet.  zaslona ni uspela</string>
   <string name="restore_task_cancelling">Prekinjam…</string>
   <string name="restore_task_in_process">Obnovitev…</string>
+  <string name="restore_task_unfinished">Obnovitev aplikacij, poskusite ponovno kasneje</string>
   <string name="restore_unfinished">Obnovitev, poskusite ponovno kasneje</string>
   <string name="restoring_file_tile">Obnavljanje datotek %d</string>
+  <string name="restoreing_file_tile">Obnovitev datotek %d</string>
   <string name="retry">Poskusi ponovno</string>
   <string name="self_phone">Ta telefon</string>
   <string name="settings_backup">Nastavitve sistema</string>

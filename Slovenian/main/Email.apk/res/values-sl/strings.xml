@@ -51,6 +51,9 @@
   <string name="account_settings_notify_summary">Pošlji obvestilo ko prispe E-pošta</string>
   <string name="account_settings_param">Nastavitve računa</string>
   <string name="account_settings_policies">Varnostna pravila</string>
+  <string name="account_settings_preference_add_account">Dodaj račun</string>
+  <string name="account_settings_preference_head_icon">Fotografije profila</string>
+  <string name="account_settings_preference_notify">Obvestila</string>
   <string name="account_settings_retry_label">Poskusi sinhronizacijo</string>
   <string name="account_settings_retry_summary">Tapni za sinhronizacijo računa</string>
   <string name="account_settings_ringtone">Izberi zvok obvestila</string>
@@ -64,6 +67,7 @@
   <string name="account_settings_sync_email_summary">Sinhroniziraj E-pošto za ta račun</string>
   <string name="account_settings_unsupported_label">Nepodprta pravila</string>
   <string name="account_settings_unsupported_summary">Brez</string>
+  <string name="account_settings_user_usage">Nastavitve računa</string>
   <string name="account_settings_using_ringtone">Melodija zvonenja</string>
   <string name="account_settings_vibrate_when_label">Vibriraj</string>
   <string name="account_setup_account_type_instructions">Kateri tip računa je to?</string>
@@ -72,6 +76,7 @@
   <string name="account_setup_autodiscover_dlg_authfail_message">Potrdite da so uporabniško ime, geslo in nastavitve računa pravilne.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Problem z nastavitvami računa</string>
   <string name="account_setup_basics_email_label">E-poštni naslov</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Uporabi povezavo trenutnega omrežja</string>
   <string name="account_setup_basics_manual_setup_action">Ročna nastavitev</string>
   <string name="account_setup_basics_password_label">Geslo</string>
   <string name="account_setup_basics_title">Dodaj račun</string>
@@ -124,6 +129,7 @@
   <string name="account_setup_incoming_username_label">Uporabniško ime</string>
   <string name="account_setup_incoming_username_label_default_hint">Lahko vključite domeno</string>
   <string name="account_setup_need_password_verification">Vaš račun ima odprto srednjo preverbo avtentičnosti gesla. Potrebna je preverba avtentičnosti</string>
+  <string name="account_setup_options_actionbar_title">Hitre nastavitve</string>
   <string name="account_setup_options_mail_check_frequency_10min">Vsakih 10 minut</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Vsakih 12 ur</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Vsako uro</string>
@@ -151,6 +157,8 @@
   <string name="account_setup_server_acc_manager_title">Računi</string>
   <string name="account_setup_username_password_toast">Vpišite veljaven E-poštni naslov in geslo</string>
   <string name="account_sync_off">Sinhronizacija računa je izklopljena.</string>
+  <string name="account_sync_settings_settings">Sinhr. stike in koledar</string>
+  <string name="account_sync_settingstip_description">Sinhr.</string>
   <string name="account_waiting_for_folders_msg">Nalagam mape...</string>
   <string name="actionbar_large_unread_count">Neprebrano: več kot %1$d</string>
   <string name="activity_folder_selection">Izberi mapo</string>
@@ -278,6 +286,7 @@
   <string name="confirm_before_send">Potrdi pred pošiljanjem</string>
   <string name="confirm_before_send_keywords">Potrdi pred pošiljanjem;Potrdi pošiljanje</string>
   <string name="confirm_delete">Izbrišem to sporočilo?</string>
+  <string name="confirm_delete_attachment">Izbrišem priponko?</string>
   <string name="confirm_delete_conversation_title">Izbriši</string>
   <string name="confirm_discard_text">Zavržem to sporočilo?</string>
   <string name="confirm_response">Pošiljam…</string>
@@ -320,10 +329,14 @@
   <string name="contextmenu_send_mail">Pošlji E-pošto</string>
   <string name="contextmenu_sharelink">Deli povezavo</string>
   <string name="contextmenu_sms_dot">SMS...</string>
+  <string name="conversation_detail_hide">Skrij</string>
+  <string name="conversation_detail_show">Podrobnosti</string>
   <string name="conversation_folder_moved">Premaknjen v %1$s</string>
   <string name="conversation_item_mark_read">Prebrano</string>
   <string name="conversation_item_mark_unread">Neprebrano</string>
+  <string name="conversation_msg_header_collapsed_sent_to">"Pošlji "</string>
   <string name="conversation_photo_welcome_text">Pritisnite sliko pošiljatelja da izberete ta pogovor.</string>
+  <string name="conversation_pull_ad_content">Upravljajte svoja sporočila e-pošte brez napora</string>
   <string name="conversation_quick_button_approve">V redu</string>
   <string name="conversation_quick_button_disapprove">Prekini</string>
   <string name="conversation_quick_button_received">Prejeto</string>
@@ -340,6 +353,7 @@
   <string name="default_">PRIVZETO</string>
   <string name="default_setup">PRIVZETE NASTAVITVE</string>
   <string name="default_signature">Poslano iz mojega Mi telefona</string>
+  <string name="default_signature_2">Poslano z mojega %s</string>
   <string name="del_account_questionnair_hint">"Zakaj brišete ta račun?"</string>
   <string name="delete">Izbriši</string>
   <string name="delete_message_flow">Izbriši tok sporočil</string>
@@ -390,6 +404,7 @@
   <string name="drawer_contacts">Stiki</string>
   <string name="drawer_open">Odpri predal za navigacijo</string>
   <string name="edit_quick_response_dialog">Hitri odziv</string>
+  <string name="edit_signature">Uredi podpis</string>
   <string name="elided_padding_token"> </string>
   <string name="email_address">Naslov e-pošte</string>
   <string name="email_feedback_uri"/>
@@ -429,6 +444,7 @@
   <string name="feedback_sent">Hvala za vaše povratne informacije</string>
   <string name="feedback_user_edit_hint">Tu opišite težavo. Ko pregledamo težavo vam bomo poslali e-mail.</string>
   <string name="feedback_user_edit_tag">Od MIUI </string>
+  <string name="fetch_bank_sender_list_failure">"Ni bilo mogoče dobiti informacije"</string>
   <string name="fetching_attachment">Pridobivam priponke</string>
   <string name="file_deleted_success">Datoteka izbrisana</string>
   <string name="file_not_found">Datoteke ni bilo mogoče najti</string>
@@ -550,6 +566,7 @@
   <string name="login139">CMCC prijava z eno tipko</string>
   <string name="login_failed_ticker">Prijava računa %s neuspešna.</string>
   <string name="login_failed_title">Ni se mogoče vpisati</string>
+  <string name="login_support_tip_text">Podpira vse glavne račune e-pošte</string>
   <string name="long_press_to_select_tip">Tapnite &amp; držite za izbor enega pogovora, nato tapnite za izbor večih.</string>
   <string name="long_string">dooooooooooooooooooolgo</string>
   <string name="mail">E-pošta</string>
@@ -559,6 +576,7 @@
   <string name="mail_header_network_not_available">Povezava ni vzpostavljena.</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
   <string name="mailbox_name_display_ad">Oglasi &amp; obvestila</string>
+  <string name="mailbox_name_display_add_account">Dodaj račun</string>
   <string name="mailbox_name_display_circular">Obvestila</string>
   <string name="mailbox_name_display_drafts">Osnutki</string>
   <string name="mailbox_name_display_inbox">Prejeto</string>
@@ -652,6 +670,7 @@
   <string name="network_unavailable">Omrežje ni dostopno</string>
   <string name="new_incoming_messages_one">Novo sporočilo od %s. Prikaži.</string>
   <string name="new_messages">Novih sporočil: %1$d</string>
+  <string name="new_signature_has_saved">Uspešno shranjeno</string>
   <string name="next_action">Naprej</string>
   <string name="no">Ne</string>
   <string name="no_address_email">noaddressemail@123.com</string>
@@ -683,8 +702,13 @@ Poskusite z ostalo pošto."</string>
   <string name="oauth_gmail_login_notify">"Vnesite svoje uporabniško ime in geslo Google računa na naslednji strani za prijavo"</string>
   <string name="oauth_login_continue">Nadaljuj</string>
   <string name="oauth_login_continue_qq">Pridobitev pri kontroli za prijavo &gt;</string>
+  <string name="oauth_login_usr_proxy">Proxy prijava</string>
   <string name="ok">V redu</string>
   <string name="okay_action">V redu</string>
+  <string name="open_calendar_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja in stikov</string>
+  <string name="open_external_storage_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja in shranjevanja</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja, stikov in shranjevanja</string>
+  <string name="open_external_storage_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe stikov</string>
   <string name="outbox_alert_button_no_resend">Ne pošlji</string>
   <string name="outbox_alert_button_resend">Ponovno pošlji</string>
   <string name="outbox_alert_certificate_error">"Obrnite se na administratorja sistema e-pošte in posodobite svoj certifikat."</string>
@@ -894,9 +918,11 @@ Poskusite z ostalo pošto."</string>
   <string name="save_draft_failed">"Ne morem shraniti osnutka"</string>
   <string name="save_power_summary">Določite čas varčevanja z energijo</string>
   <string name="save_power_title">Varčevanje baterije</string>
+  <string name="save_this_new_signature">Shranim nov podpis?</string>
   <string name="saved">Shranjeno, %s</string>
   <string name="saving">Shranjujem</string>
   <string name="sdcard_cannot_use">"Ne morem uporabiti SD kartice"</string>
+  <string name="search_bar_text">Iskanje sporočil in stikov</string>
   <string name="search_hint">Preišči pošto</string>
   <string name="search_result">Zadetki</string>
   <string name="search_tabs_name_all">Vse</string>
@@ -975,6 +1001,10 @@ Poskusite z ostalo pošto."</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Predmet</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
+  <string name="sync_contacts_fail_per_content">Omogočite dovoljenje za stike</string>
+  <string name="sync_contacts_fail_per_title">Sinhronizacija stikov ni uspela</string>
+  <string name="sync_contacts_fail_permission">Sinhronizacija stikov ni uspela. V nastavitvah omogočite dovoljenje stikov.</string>
+  <string name="sync_contacts_req_per_ignored">Sinhronizacija stikov ni uspela</string>
   <string name="sync_error">Sinhronizacija ni mogoča.</string>
   <string name="sync_error_message">Vaša naprava nima dovolj prostora za sinhronizacijo.</string>
   <string name="syncing_wait_restart">Poskusi ponovno</string>
@@ -987,6 +1017,7 @@ Poskusite z ostalo pošto."</string>
   <string name="system_folders_trash_dlg">Izberite koš vašega strežnika</string>
   <string name="system_folders_trash_summary">Izberite koš vašega strežnika</string>
   <string name="system_folders_trash_title">Koš</string>
+  <string name="system_security_open_error">Varnost ni mogoče nastaviti. Odprite dovoljenja v nastavitvah telefona</string>
   <string name="system_setup_open_error">"Ne morem zagnati sinhronizacijo računa, vključite "nastavitev" sistema v računu za sinhronizacijo e-pošte"</string>
   <string name="tablet">tablica</string>
   <string name="tap_to_configure">Tapni za nastavitev</string>
@@ -999,11 +1030,18 @@ Poskusite z ostalo pošto."</string>
   <string name="toast_bar_invalid_account">Ponovno se prijavite</string>
   <string name="toast_bar_no_connection_network">"Niste povezani s spletom"</string>
   <string name="toast_bar_open_gmail_synchronization">Dotaknite se za uporabo proxy strežnika za Gmail</string>
+  <string name="toastbar_calendar_and_contacts_permission_switch_close">Dovoljenja koledarja in stikov so zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
+  <string name="toastbar_calendar_permission_switch_close">Dovoljenja koledarja so zaprta. Koledar se ne more sinhronizirati</string>
+  <string name="toastbar_contacts_permission_switch_close">Dovoljenja stikov so zaprta. Stiki se ne morejo sinhronizirati</string>
+  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Sprememba sinhronizacije koledarja in stikov je zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
+  <string name="toastbar_local_calendar_sync_switch_close">Sprememba sinhronizacije koledarja je zaprta. Koledar se ne more sinhronizirati</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">Sprememba sinhronizacije stikov je zaprta. Stiki se ne morejo sinhronizirati</string>
   <string name="today_text">Danes</string>
   <string name="too_large_to_attach_additional">Velikost datoteke ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_single">"Ne morem priložiti datoteke večje od %1$s."</string>
   <string name="topic_merge">Združi teme</string>
+  <string name="topic_merge_summary">Razporedi po predmetu</string>
   <string name="translation_loading">Samo trenutek…</string>
   <string name="translation_no_result">Ni rezultatov</string>
   <string name="translation_pronunciation_am">AmE</string>
@@ -1030,6 +1068,7 @@ Zaustavim sedaj?"</string>
   <string name="unsent_messages_in_outbox">Št. neposlanih sporočil v mapi %2$s: %1$s</string>
   <string name="unzip_file_failed">"Ne morem razširiti!"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
+  <string name="update_to_wps_mail">Uživajte v dodatnih funkcijah storitve WPS Mail</string>
   <string name="updated_at">Osveženo ob: %1$s</string>
   <string name="upload_log">Pošlji dnevnike</string>
   <string name="upload_log_failed">"Ne morem poslati dnevnika"</string>
@@ -1069,15 +1108,4 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="you_are_in_mobile_network">Pošljem dnevnik z uporabo mobilne podatkovne povezave? Vaš mobilni operater vam to lahko zaračuna.</string>
   <string name="youfuli">Promocija</string>
   <string name="zip_viewer_no_file">Ni datotek.</string>
-  <string name="account_setup_basics_login_gmail_without_proxy">Uporabi povezavo trenutnega omrežja</string>
-  <string name="default_signature_2">Poslano iz mojega %s</string>
-  <string name="oauth_login_usr_proxy">Proxy prijava</string>
-  <string name="open_calendar_and_contacts_permission">Omogočite dovoljenja uporabe koledarja in stikov v nastavitvah</string>
-  <string name="open_external_storage_and_calendar_permission">Omogočite dovoljenja uporabe koledarja in shrambe v nastavitvah</string>
-  <string name="open_external_storage_and_contacts_and_calendar_permission">Omogočite dovoljenja uporabe koledarja, stikov in shrambe v nastavitvah</string>
-  <string name="open_external_storage_and_contacts_permission">Omogočite dovoljenja uporabe stikov v nastavitvah</string>
-  <string name="sync_contacts_fail_per_content">Omogućite dovoljenja za stike</string>
-  <string name="sync_contacts_fail_per_title">Sinronizacija stikov ni uspela</string>
-  <string name="sync_contacts_fail_permission">Sinhronizacija stikov ni uspela. Omogočite dovoljenja uporabe stikov v nastavitvah.</string>
-  <string name="sync_contacts_req_per_ignored">Sinhkronizacija stikov ni uspela</string>
 </resources>

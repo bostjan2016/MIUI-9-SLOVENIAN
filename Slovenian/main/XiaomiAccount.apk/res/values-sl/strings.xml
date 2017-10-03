@@ -393,6 +393,8 @@
   <string name="passport_skip_setup_account_msg">Mi račun lahko uredite pozneje v nastavitvah.</string>
   <string name="passport_skip_setup_account_title">Preskoči nastavitev</string>
   <string name="passport_sms_send_success">Poslano</string>
+  <string name="passport_sync_account_data">Sinhr. podrobnosti računa…</string>
+  <string name="passport_sync_account_data_failed_warning">Podatki o računu se trenutno sinhronizirajo, lahko se prijavite s pomočjo svojega ID Mi Računa. Če se želite prijaviti preko telefona ali e-pošte, počakajte da se informacije pololnoma sinhronizirajo.</string>
   <string name="passport_title_reg">Ustvari račun</string>
   <string name="passport_trust_device">Zaupaj napravi</string>
   <string name="passport_trying_read_verify_code_sms">Pridobivanje kode…</string>
@@ -404,6 +406,7 @@
   <string name="passport_user_agreement">Uporabniški Sporazum</string>
   <string name="passport_user_agreement_p1">Strinjam se z</string>
   <string name="passport_user_agreement_p2">Uporabniški Sporazum</string>
+  <string name="passport_user_id_notice">Vaš ID Mi Računa je %s.</string>
   <string name="passport_user_reg_region">Država/Regija</string>
   <string name="passport_user_reg_region_warning">"Po zaprtju računa ne morete spremeniti državo/regijo"</string>
   <string name="passport_user_agreement_p3">in</string>

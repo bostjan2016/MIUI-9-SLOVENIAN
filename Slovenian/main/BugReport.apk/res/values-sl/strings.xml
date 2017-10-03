@@ -56,6 +56,7 @@
   <string name="feedback_collect_log_failed">"Ne morem dobiti zapise"</string>
   <string name="feedback_contact_info_hint">Št. telefona/E-pošta</string>
   <string name="feedback_continue">Nadaljuj s povr. informacijo</string>
+  <string name="feedback_delete_images">Izbriši slike</string>
   <string name="feedback_description">Opis</string>
   <string name="feedback_description_bugreport_hint">V nekaterih primerih (…) se telefon slabo odziva (…).</string>
   <string name="feedback_description_label">Opis</string>
@@ -97,6 +98,7 @@
   <string name="feedback_submit_hint">Prijavite napake vsakič ko naletite na njih zato, da nam jih pomagate popraviti čim hitreje.</string>
   <string name="feedback_submit_hint1">"Obvestili vas bomo o napredku vašega poročila"</string>
   <string name="feedback_submit_hint2">Pojdite v \"Moja poročila\" za prikaz podrobnosti</string>
+  <string name="feedback_submit_hint_gone">Zaprta sporočila</string>
   <string name="feedback_submit_succ">Uspešno poslano</string>
   <string name="feedback_submit_succ_button">Dokončano</string>
   <string name="feedback_submitting">Pošiljanje…</string>
