@@ -41,12 +41,12 @@ nastavitev in aplikacij"</string>
   <string name="backup_items_app_tailer">Podatki aplikacij</string>
   <string name="backup_items_sysdata_tailer">Sistemski podatki</string>
   <string name="backup_new">Novo:</string>
-  <string name="backup_progress">Izdelava Var. kopije…</string>
+  <string name="backup_progress">Izdelava var. kopije…</string>
   <string name="backup_report">Poglej podrobnosti</string>
   <string name="backup_security_tips_message">Nekatere aplikacije morda ne bodo kopirane ali povrnjene.</string>
   <string name="backup_security_tips_title">Var. kopije morda ne bodo delovale</string>
   <string name="backup_update">Posodobi</string>
-  <string name="batch_delete_backup_confirm">Izbrišem izbrane Var.kopije?</string>
+  <string name="batch_delete_backup_confirm">Izbrišem izbrane var. kopije?</string>
   <string name="btn_got_it">Razumem</string>
   <string name="button_backup">Varnostno kopiraj</string>
   <string name="button_cancel">Prekliči</string>
@@ -149,7 +149,7 @@ nastavitev in aplikacij"</string>
   <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Multi-uporabnik način za nadaljevanje."</string>
   <string name="multi_user_mode_dialog_title">"Vi ste v Multi-uporabnik načinu dela"</string>
   <string name="never">Nikoli</string>
-  <string name="new_backup">Izdelaj Var. kopijo</string>
+  <string name="new_backup">Izdelaj var. kopijo</string>
   <string name="no_encrypt_password">Brez gesla</string>
   <string name="no_network">Povezave ni mogoče vzpostaviti</string>
   <string name="note_title">Opombe</string>
@@ -166,8 +166,8 @@ nastavitev in aplikacij"</string>
   <string name="notif_trans_sending_failed">"Podatke ne morem poslati"</string>
   <string name="notif_trans_wait_for_reconnecting">Povezava je prekinjena. Ponovno se povežite.</string>
   <string name="page_loading">Samo trenutek…</string>
-  <string name="progress_backup_hint">Ustvari Var. kopijo…</string>
-  <string name="progress_restore_hint">Obnavljam iz Var.kopije…</string>
+  <string name="progress_backup_hint">Ustvari var. kopijo…</string>
+  <string name="progress_restore_hint">Obnavljam iz var. kopije…</string>
   <string name="prompt_reading">Berem...</string>
   <string name="prompt_sending">Prenašam...</string>
   <string name="prompt_writing">Shranjujem...</string>
@@ -324,7 +324,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_please_waiting">Samo trenutek…</string>
   <string name="trans_progress_subdescript_br_receiver"> Vračanje %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_br_sender">Izdelava var. kopije %1$s, %2$s končana</string>
-  <string name="trans_progress_subdescript_br_sender_finish">Var. kopija  končana %s,  čaka se pošiljanje...</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Var. kopija končana %s, čaka se pošiljanje...</string>
   <string name="trans_progress_subdescript_transing_receiver">Prejemanje %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_transing_receiver_finish">Prejeto %s, čaka na obnovitev…</string>
   <string name="trans_progress_subdescript_transing_sender">Pošiljanje %1$s, %2$s končano</string>

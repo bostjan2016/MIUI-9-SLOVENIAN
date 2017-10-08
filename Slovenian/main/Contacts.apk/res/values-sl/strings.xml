@@ -973,7 +973,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="pref_key_sim_manage">SIM kartice</string>
   <string name="pref_key_sim_manage1">Nastavi SIM kartico 1</string>
   <string name="pref_key_sim_manage2">Nastavi SIM kartico 2</string>
-  <string name="pref_rcs_backup_restore_title">Nastavitve Var.kopije &amp; obnovitev</string>
+  <string name="pref_rcs_backup_restore_title">Nastavitve var.kopije &amp; obnovitev</string>
   <string name="pref_rcs_fetion_entry_title">Fetion nastavitve</string>
   <string name="pref_summary_import_from_account">Prenesi stike iz Google in Exchange računa v moj Mi račun</string>
   <string name="pref_title_account_import">Uvozi iz računa</string>

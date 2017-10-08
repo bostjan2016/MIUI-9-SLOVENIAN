@@ -41,14 +41,14 @@
   <string name="auto_play_toast">Videoposnetki se bodo predvajali samodejno. To lahko spremenite v nastavitvah.</string>
   <string name="archive_send_to">Pošlji…</string>
   <string name="background">Skrij</string>
-  <string name="backup_cancel">"Ne napravi Var. kopije"</string>
-  <string name="backup_checkbox_msg">Samodejno napravi Var. kopijo</string>
-  <string name="backup_confirm">Napravi Var. kopijo zdaj</string>
+  <string name="backup_cancel">"Ne napravi var. kopije"</string>
+  <string name="backup_checkbox_msg">Samodejno napravi var. kopijo</string>
+  <string name="backup_confirm">Napravi var. kopijo zdaj</string>
   <string name="backup_success_cancel">V redu</string>
   <string name="backup_success_confirm">Prikaži</string>
   <string name="backup_success_message">Shranjeno na %1$s</string>
   <string name="backup_success_title">Var. kopija napravljena</string>
-  <string name="backup_title">Napravim Var. kopijo WeChat videoposnetkov?</string>
+  <string name="backup_title">Napravim var. kopijo WeChat videoposnetkov?</string>
   <string name="big5_summary">Tradicionalno kitajsko Windows privzeto kodiranje</string>
   <string name="big5_title">BIG5</string>
   <string name="bind">Dodaj</string>
@@ -555,7 +555,7 @@
   <string name="notification_summary">"%1$s še ne podpira te funkcije"</string>
   <string name="notification_title">Obvesti me ko %1$s napravi datoteko</string>
   <string name="notification_wechat_auto_backup_hint">Dotaknite se da boste zvedeli več.</string>
-  <string name="notification_wechat_auto_backup_switch_title">Napravi Var. kopijo Chats videoposnetkov</string>
+  <string name="notification_wechat_auto_backup_switch_title">Napravi var. kopijo Chats videoposnetkov</string>
   <string name="notification_wechat_expired_empty">WeChat je že izbrisal te videoposnetke.</string>
   <string name="notification_wechat_sticker_hint">Prikaži obvestilo kadar bodo dostopne nove WeChat nalepke</string>
   <string name="notification_wechat_sticker_switch_title">Dnevna obvestila o novih nalepkah</string>

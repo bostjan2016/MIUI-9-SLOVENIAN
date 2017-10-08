@@ -2,7 +2,7 @@
 <resources>
   <string name="about_to_recover">Samo trenutek…</string>
   <string name="account_error">Napaka računa</string>
-  <string name="app_name">Mi Cloud Var. kopija</string>
+  <string name="app_name">Mi Cloud var. kopija</string>
   <string name="arrange_restore_order">Zaženi zaporedje obnove</string>
   <string name="as_new_device">Zamenjaj prejšnji začetni zaslon in nastavitve</string>
   <string name="as_new_device_summary">Izbriši predhodne Mi Cloud var. kopije</string>
@@ -11,7 +11,7 @@
   <string name="back_up_task_unfinished">Var. kopija ni končana</string>
   <string name="backing_up_to_micloud">Varnostno kopiram…</string>
   <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
-  <string name="backup_fail_wifi_needed">"Ne morem izdelati Var. kopije, vključite WiFi."</string>
+  <string name="backup_fail_wifi_needed">"Ne morem izdelati var. kopije, vključite WiFi."</string>
   <string name="backup_finished_notification_content">Kopirane so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
   <string name="backup_now">Napravi var. kopijo zdaj</string>
   <string name="backup_size">Velikost: %s</string>
@@ -27,7 +27,7 @@
   <string name="button_next">Naprej</string>
   <string name="can_not_backup_in_lite_mode">"Ne morem napraviti var. kopije v Lite načinu"</string>
   <string name="can_not_restore_in_lite_mode">"Ne morem povrniti var. kopije v Lite načinu"</string>
-  <string name="cancel_backup">Preklic Var. kopije</string>
+  <string name="cancel_backup">Preklic var. kopije</string>
   <string name="cancel_recover_settings">Prekliči</string>
   <string name="cancel_restore_home">Preklic</string>
   <string name="click_try_to_restore_again">Dotaknite se za ponovni poskus</string>
@@ -110,7 +110,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="name_model">"%1$s %2$s"</string>
   <string name="network_error">Povežite se z omrežjem</string>
   <string name="no_account">Ni Mi Računa</string>
-  <string name="no_backup">Ni Var. kopij na Mi Cloudu</string>
+  <string name="no_backup">Ni var. kopij na Mi Cloudu</string>
   <string name="open_wifi">Vključi WiFi</string>
   <string name="open_wifi_description">Za obnovitev aplikacije se povežite v WiFi omrežje</string>
   <string name="open_wifi_setting">WiFi nastavitve</string>

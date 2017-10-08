@@ -108,7 +108,7 @@
   <string name="auto_tune_hint_text">Samodejna zamenjava kanala po začetku, telefon vam bo poslal določen interval kôd&lt;Kanal+&lt;Tipka</string>
   <string name="auto_tune_running">Samodejna nastavitev zagnana…</string>
   <string name="back">Nazaj</string>
-  <string name="backup">Var. kopija na cloud</string>
+  <string name="backup">Var. kopija na Cloud</string>
   <string name="backup_failed">Ne morem shraniti, poskusite ponovno</string>
   <string name="backup_succeed">Uspešno shranjeno</string>
   <string name="backuping">Shranjevanje…</string>
@@ -437,7 +437,7 @@ Poskusite naslednje da  rešite problem:
   <string name="just_now">Ravno sedaj</string>
   <string name="just_used">Ravnokar</string>
   <string name="key_press_vibrate">Vibriraj pri dotiku</string>
-  <string name="last_bak_time">Zadnja Var. kopija %1$s</string>
+  <string name="last_bak_time">Zadnja var. kopija %1$s</string>
   <string name="last_use_frame">Pred %1$s dnevi</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Dnevna soba</string>

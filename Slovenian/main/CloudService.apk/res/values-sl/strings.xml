@@ -477,10 +477,10 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="recommend_open_all_sync">Sinhr. vse predmete</string>
   <string name="remind_later">Kasneje</string>
   <string name="restoreSync">Sinhroniziraj zdaj</string>
-  <string name="search_cloudbackup_pref">Cloud Var. kopija</string>
-  <string name="search_cloudbackup_pref_desc">Vklj/Izklj. Cloud Var. kopijo</string>
+  <string name="search_cloudbackup_pref">Cloud var. kopija</string>
+  <string name="search_cloudbackup_pref_desc">Vklj/Izklj. Cloud var. kopijo</string>
   <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud var. kopija</string>
-  <string name="search_cloudbackup_pref_path">Mi Račun/Mi Cloud/Izdelaj Var. kopijo in Namesti</string>
+  <string name="search_cloudbackup_pref_path">Mi Račun/Mi Cloud/Izdelaj var. kopijo in namesti</string>
   <string name="search_finddevice_pref">Najdi napravo</string>
   <string name="search_finddevice_pref_desc">Vklj/Izklj. Najdi napravo</string>
   <string name="search_finddevice_pref_key_words">najdinapravo, najdi napravo</string>
@@ -518,7 +518,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_dspt_entrance_provision">"Mi Cloud vam pomaga sinhronizirati fotografije, stike in ostalo na vaših napravah. Do stvari ki jih sinhronizirate lahko dostopate iz kateregakoli brskalnika na %s."</string>
   <string name="sync_dspt_entrance_provision_2">Preberite več</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne uporabi"</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijam je Mi Cloud potreben za izdelavo Var. kopije fotografij, stikov, beležk in ostalega. Mi Cloud je brezplačen in pripravljen v trenutku."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijam je Mi Cloud potreben za izdelavo var. kopije fotografij, stikov, beležk in ostalega. Mi Cloud je brezplačen in pripravljen v trenutku."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Uporabi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne boste uporabljali Mi Cloud-a?"</string>
   <string name="sync_dspt_entrance_provision_network">Ta aplikacija za normalno delo potrebuje spletni dostop. Sinh. podatkov lahko zahteva mobilno podatkovno povezavo in vklop WiFi ja.</string>

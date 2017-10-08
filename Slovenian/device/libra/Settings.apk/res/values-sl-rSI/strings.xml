@@ -2193,7 +2193,7 @@ Trenutno ste vpisani v te račune:
 "</string>
   <string name="master_clear_all">"To bo izbrisalo vse podatke iz notr. pomnilnika, npr. : Google račun, podatke sistema in aplikacij, prenešene aplikacije</string>
   <string name="master_clear_apply_step_1">"Vračanje na tovarniško stanje bo izbrisalo vse podatke na telefonu, vključno z fotografijami, skladbami, beležkami in drugimi osebnimi podatko. Poskrbite za varnostno kopijo vseh pomembnih stvari na svojem računalniku."</string>
-  <string name="master_clear_apply_step_2">"Prepričajte se da ste napravili Var. kopijo vseh pomembnih stvari na računalnik. Vsi podatki o tej napravi bodo izbrisani po resetiranju. V kolikor niste naredili var. kopije, podatkov ne boste mogli povrniti."</string>
+  <string name="master_clear_apply_step_2">"Prepričajte se da ste napravili var. kopijo vseh pomembnih stvari na računalnik. Vsi podatki o tej napravi bodo izbrisani po resetiranju. V kolikor niste naredili var. kopije, podatkov ne boste mogli povrniti."</string>
   <string name="master_clear_apply_title">Pozor</string>
   <string name="master_clear_button_text">Ponovni zagon in izbris telefona</string>
   <string name="master_clear_confirm_title">Želite ponastaviti?</string>

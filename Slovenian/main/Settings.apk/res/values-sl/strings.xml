@@ -2466,7 +2466,7 @@ Trenutno ste prijavljeni v naslednje račune:
 "</string>
   <string name="master_clear_all">To opravilo briše vse podatke iz notranjega pomnilnika kot so: Google račun, podatke sistema in aplikacij, prenesene aplikacije</string>
   <string name="master_clear_apply_step_1">"Vračanje na tovarniško stanjebo izbrisalo vse podatke na telefonu, vključno z fotografijami, skladbami, beležkami in drugimi osebnimi podatko. Poskrbite za varnostno kopijo vseh pomembnih stvari na svojem računalniku."</string>
-  <string name="master_clear_apply_step_2">"Prepričajte se da ste napravili Var. kopijo vseh pomembnih stvari na računalnik. Vsi podatki o tej napravi bodo izbrisani po resetiranju. V kolikor niste naredili var. kopije, podatkov ne boste mogli povrniti."</string>
+  <string name="master_clear_apply_step_2">"Prepričajte se da ste napravili var. kopijo vseh pomembnih stvari na računalnik. Vsi podatki o tej napravi bodo izbrisani po resetiranju. V kolikor niste naredili var. kopije, podatkov ne boste mogli povrniti."</string>
   <string name="master_clear_apply_title">Pozor</string>
   <string name="master_clear_button_text">Ponovni zagon in izbris telefona</string>
   <string name="master_clear_confirm_title">Ponovni zagon</string>
@@ -3406,7 +3406,7 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_dlg_button_cancel">Prekliči</string>
   <string name="privacy_factory_reset_dlg_button_text">Ponastavi</string>
   <string name="privacy_factory_reset_dlg_message">"Če pozabite geslo boste morali vrniti na tovarniške nastavitve in nastaviti na novo."</string>
-  <string name="privacy_factory_reset_dlg_title">Napravite Var. kopijo podatkov</string>
+  <string name="privacy_factory_reset_dlg_title">Napravite var. kopijo podatkov</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
   <string name="privacy_header_text_less_than_half">Premalo prostora. Povlecite omejevalec naprej.</string>
