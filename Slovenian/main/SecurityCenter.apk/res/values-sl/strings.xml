@@ -184,6 +184,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_back">Nazaj</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
   <string name="app_manager_card_permission_title">Dovoljenja</string>
+  <string name="app_manager_clear_cache">Očisti predpomnilnik</string>
   <string name="app_manager_clear_data_dlg_message">Vsi podatki aplikacije bodo trajno izbrisani. To vključuje vse datoteke, nastavitve, račune, baze podatkov itd.</string>
   <string name="app_manager_clear_data_dlg_title">Izbrišem podatke aplikacije?</string>
   <string name="app_manager_clear_failed_dlg_message">Ne morem izbrisati podatke aplikacije.</string>
@@ -193,18 +194,28 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_default_open">Odpri v skladu z nastavitvami</string>
   <string name="app_manager_default_open_summary">Aplikacija se je zagnala zaradi nastavitve nekega opravila.</string>
   <string name="app_manager_default_open_title">Izbriši nastavitev</string>
+  <string name="app_manager_defaults_setting">Privzeto</string>
   <string name="app_manager_details_electric_title">Baterija</string>
   <string name="app_manager_details_storage_title">Prostor za shranjevanje</string>
   <string name="app_manager_details_traffic_title">Uporaba mobilnih podatkov ta mesec</string>
   <string name="app_manager_disable">"Ne dovoli"</string>
+  <string name="app_manager_disable_dlg_text">Če onemogočite to aplikacijo, druge aplikacije morda ne bodo delal kakor bi morale..</string>
+  <string name="app_manager_disable_dlg_title">Onemogočim vgrajeno aplikacijo?</string>
+  <string name="app_manager_disable_text">Onemogoči</string>
+  <string name="app_manager_disabled">Onemogočeno</string>
   <string name="app_manager_dlg_cancel">Prekini</string>
   <string name="app_manager_dlg_ok">V redu</string>
+  <string name="app_manager_enable_text">Omogoči</string>
+  <string name="app_manager_enabled">Omogočeno</string>
   <string name="app_manager_factory_reset">Odstrani posodobitve</string>
   <string name="app_manager_factory_reset_dlg_msg">Vse posodobitve te aplikacije sistema Android bodo odstranjene.</string>
   <string name="app_manager_factory_reset_dlg_title">Odstranim posodobitve?</string>
   <string name="app_manager_force_stop_dlg_text">Če prisilno zaustavite aplikacijo, se lahko obnaša nepredvidljivo.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustavim?</string>
-  <string name="app_manager_go_to_manger_app">Upravljaj</string>
+  <string name="app_manager_globel_other_perm_title">Ostala dovoljenja</string>
+  <string name="app_manager_globel_perm_summary">Urejajte dovoljenja ki se nanašajo na lokacijo, prostor za shranjevanje, telefon, sporočila in stike.</string>
+  <string name="app_manager_globel_perm_title">Dovoljenja aplikacij</string>
+  <string name="app_manager_go_to_manger_app">Urejaj</string>
   <string name="app_manager_have_not_consume">Nič</string>
   <string name="app_manager_hide_system_server">Skrij sistemske storitve</string>
   <string name="app_manager_instruction">Inštrukcije</string>
@@ -240,16 +251,27 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_permission_startself_summary">Aplikacije ki se samodejno zaganjajo zavzemajo več RAM-a in hitreje praznijo baterijo</string>
   <string name="app_manager_permission_startself_title">Samod. zagoni</string>
   <string name="app_manager_permission_summary_reject">Omejitev za vse</string>
+  <string name="app_manager_power">Dovoljenja</string>
   <string name="app_manager_powerkeeper_miui_auto">MIUI Varčevanje baterije</string>
   <string name="app_manager_powerkeeper_no_bg">Omeji aktivnosti v ozadju</string>
   <string name="app_manager_powerkeeper_no_restrict">Ni omejitev</string>
   <string name="app_manager_powerkeeper_restrict_bg">Omeji aplikacije v ozadju</string>
   <string name="app_manager_pref_ads">Priporočila</string>
-  <string name="app_manager_power">Dovoljenja</string>
   <string name="app_manager_rebide_wakepath">Omeji</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimiziraj verižni zagon</string>
   <string name="app_manager_reduce_wakepath_summary">Omejitev samod. zagona bo minimalizirala verižno zaganjanje. Omejim samod. zagon za %s?</string>
-  <string name="app_manager_reject_count_over">Blokirano 100000+ krat</string>
+  <string name="app_manager_reject_count_over">Blokirano 100000 krat</string>
+  <string name="app_manager_reset_app_preferences">Ponastavi nastavitve aplikacije</string>
+  <string name="app_manager_reset_app_preferences_button">Ponastavi aplikacije</string>
+  <string name="app_manager_reset_app_preferences_desc">"To bo ponastavilo vse nastavitve za:
+ 
+  "&lt;li&gt;Onemogočene aplikacije&lt;/li&gt;"
+  "&lt;li&gt;Obvestila onemogočnih aplikacij&lt;/li&gt;"
+  "&lt;li&gt;Privzete aplikacije za opravila&lt;/li&gt;"
+  "&lt;li&gt;Omejitve podatkov v ozadju za aplikacije&lt;/li&gt;"
+ 
+   Ne boste izgubili podatkov aplikacije."</string>
+  <string name="app_manager_reset_app_preferences_title">Ponastavim prednosti aplikacij?</string>
   <string name="app_manager_show_all_apps">Prikaži vse aplikacije</string>
   <string name="app_manager_show_detail_infos">Prikaži vse</string>
   <string name="app_manager_sort">Razvrsti po</string>
@@ -263,6 +285,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Odstrani</string>
   <string name="app_manager_system_mobile_disable">Izključi podatke</string>
   <string name="app_manager_title">Aplikacije</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Odstranitev sistemskih aplikacij lahko prepreči MIUI normalno delovanje. Vseeno odstranim?</string>
+  <string name="app_manager_uninstall_protected_dlg_title">Odstranitev sistemskih aplikacij</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Ustrezne  dvojne aplikacije bodo odstranjene skupaj s podatki aplikacij.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Odstranitev dvojne aplikacije bo odstranila tudi vse podatke aplikacije.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Odstranim dvojno aplikacijo?</string>
@@ -2010,6 +2034,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="saving_conflict_restrictbackground_msg">""Ne morem uporabljati varčevanje podatkov ko so podatki v ozadju omejeni. Dovolim podatke v ozadju in vključim Varčevanje podatkov?"</string>
   <string name="sc_allow_network_dialog_message">Ta aplikacija potrebuje povezavo na splet za normalano delo.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te funkcije"</string>
+  <string name="sc_system_risk_fix_info_xspace">Tveganje se ne more popraviti v xspace, premesrite se na lastniški prostor da ga popravite.</string>
   <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
   <string name="scan_status_risk">Tvegano</string>
   <string name="scan_status_safe">Varno</string>

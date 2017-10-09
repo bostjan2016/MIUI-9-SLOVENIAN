@@ -5,8 +5,8 @@
          <item quantity="one">%1$d dnem</item>
     </plurals>
 	<plurals name="birthday_event_description_days_ago">
-         <item quantity="other">pred %1$d dnevi</item>
-         <item quantity="one">pred %1$d dnem</item>
+         <item quantity="other">%1$d dni prej</item>
+         <item quantity="one">%1$d dan prej</item>
      </plurals>
      <plurals name="birthday_event_description_days_later">
          <item quantity="other">%1$d dni do</item>
@@ -21,20 +21,20 @@
          <item quantity="one">%1$d dan</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">"1 minuta"</item>
+        <item quantity="other">%d min. prej</item>
+        <item quantity="one">"%d minuto prej"</item>
     </plurals>
     <plurals name="Nmins">
         <item quantity="other">"%d min"</item>
         <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">pred %d urami</item>
-        <item quantity="one">"pred 1 uro"</item>
+        <item quantity="other">%d ur prej</item>
+        <item quantity="one">"%d uro prej"</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d dni</item>
-        <item quantity="one">1 dan</item>
+        <item quantity="other">%d dni prej</item>
+        <item quantity="one">%d dan prej</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">Teden %d</item>
@@ -64,12 +64,12 @@
          <item quantity="one">Pred 1 tednom</item>
      </plurals>
 	 <plurals name="anniversary_notify_title">
-     <item quantity="other">Obletnica: %2$d let od %1$s</item>
-     <item quantity="one">Obletnica: %2$d leto od %1$s</item>
+         <item quantity="other">Obletnica: %2$d let od %1$s</item>
+         <item quantity="one">Obletnica: %2$d leto od %1$s</item>
     </plurals>
    <plurals name="anniversary_notify_before_3_day_title">
-    <item quantity="other">Obletnica: %2$d let od %1$s čez 3 dni</item>
-    <item quantity="one">Obletnica: %2$d leto od %1$s čez 3 dni</item>
+         <item quantity="other">Obletnica: %2$d let od %1$s čez 3 dni</item>
+         <item quantity="one">Obletnica: %2$d leto od %1$s čez 3 dni</item>
     </plurals>
 	<plurals name="birthday_notification_age_term">
          <item quantity="other">%1$s let</item>

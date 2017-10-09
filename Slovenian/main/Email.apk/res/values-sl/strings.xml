@@ -75,10 +75,10 @@
   <string name="account_setup_address_label">E-pošta</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Potrdite da so uporabniško ime, geslo in nastavitve računa pravilne.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Problem z nastavitvami računa</string>
-  <string name="account_setup_basics_email_label">E-poštni naslov</string>
-  <string name="account_setup_basics_login_gmail_without_proxy">Uporabi povezavo trenutnega omrežja</string>
+  <string name="account_setup_basics_email_label">Vnesite ID računa</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Prijavite se s pomočjo obstoječega omrežja</string>
   <string name="account_setup_basics_manual_setup_action">Ročna nastavitev</string>
-  <string name="account_setup_basics_password_label">Geslo</string>
+  <string name="account_setup_basics_password_label">Vnesite geslo</string>
   <string name="account_setup_basics_title">Dodaj račun</string>
   <string name="account_setup_check_settings_check_incoming_msg">Preverjam nastavitve strežnika ...</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Preverjam smtp strežnika ...</string>
@@ -97,7 +97,7 @@
   <string name="account_setup_failed_dlg_certificate_message">Ne morem vzpostaviti varne povezave s strežnikom.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Ne morem vzpostaviti varne povezave s strežnikom.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">"Ne morem se prijaviti. Račun je zaklenjen."</string>
+  <string name="account_setup_failed_dlg_device_locked">"Vaš račun je zaklenjen. Potrdite napravo s pomočjo programa QQ Security ali odstranite zaščito"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Uredi podrobnosti</string>
   <string name="account_setup_failed_dlg_error_code">Koda napake: %s</string>
   <string name="account_setup_failed_dlg_server_message">Povezava s strežnikom ni mogoča.</string>
@@ -372,8 +372,8 @@
   <string name="dialog_insufficient_space_for_single_account_on_internal">Ni dovolj prostora za %s.</string>
   <string name="dialog_insufficient_space_on_external">Prenosa ni mogoče končati. Ni dovolj prostora na zunanjem pomnilniku.</string>
   <string name="dialog_insufficient_space_on_internal">Ni dovolj prostora na notranjem pomnilniku.</string>
-  <string name="dialog_system_auto_sync_account_no_open">Sinhronizacija računa ni omogočena in sporočila se ne morejo samodejno sinhronizirati</string>
-  <string name="dialog_system_auto_sync_master_no_open">Sinhronizacija sistema ni omogočena in sporočila se ne morejo samodejno sinhronizirati</string>
+  <string name="dialog_system_auto_sync_account_no_open">Sinhronizacija računa je izključena. E-pošta se ne more sinhronizirati</string>
+  <string name="dialog_system_auto_sync_master_no_open">Sinhronizacija sistema je izključena. E-pošta se ne more sinhronizirati</string>
   <string name="disable_admin_warning">Opozorilo: Z deaktivacijo pooblastil aplikacije E-pošta za upravljanje z napravo bodo izbrisani vsi računi e-pošte ki to zahtevajo, kot tudi e-pošta, stiki, dogodki koledarja itd.</string>
   <string name="discard">Opusti</string>
   <string name="discard_drafts">Opusti osnutke</string>
@@ -618,11 +618,11 @@
   <string name="meeting_where">Kje: %s</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Priponke</string>
-  <string name="menu_att_mgr_order_default">Nedavno</string>
-  <string name="menu_att_mgr_order_mime">Razvrsti po formatu</string>
-  <string name="menu_att_mgr_order_name">Razvrsti po imenu</string>
-  <string name="menu_att_mgr_order_rev_date">Razvrsti po času</string>
-  <string name="menu_att_mgr_order_size">Razvrsti po velikosti</string>
+  <string name="menu_att_mgr_order_default">Nedavno pregledano</string>
+  <string name="menu_att_mgr_order_mime">Format</string>
+  <string name="menu_att_mgr_order_name">Ime</string>
+  <string name="menu_att_mgr_order_rev_date">Datum</string>
+  <string name="menu_att_mgr_order_size">Velikost</string>
   <string name="menu_change_folders">Premakni</string>
   <string name="menu_compose">Novo sporočilo</string>
   <string name="menu_contact_edit">Uredi</string>
@@ -840,7 +840,7 @@ Poskusite z ostalo pošto."</string>
   <string name="qq_uthentication_failed">Kontrola identitete ni uspela, prijavite se ponovno</string>
   <string name="qq_webview_loading">Preskakujem, prosim počakajte…</string>
   <string name="questionnair_body_invisibility">"Sporočila niso prikazana"</string>
-  <string name="questionnair_confirm_delete">Izbriši</string>
+  <string name="questionnair_confirm_delete">Odstranim račun?</string>
   <string name="questionnair_instability">Pogosto se zruši</string>
   <string name="questionnair_not_send">"Ne morem poslati e-pošte"</string>
   <string name="questionnair_not_sync">Nestabilna sinhr.</string>
@@ -1040,7 +1040,7 @@ Poskusite z ostalo pošto."</string>
   <string name="too_large_to_attach_additional">Velikost datoteke ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_single">"Ne morem priložiti datoteke večje od %1$s."</string>
-  <string name="topic_merge">Združi teme</string>
+  <string name="topic_merge">Nastavitve prikaza</string>
   <string name="topic_merge_summary">Razporedi po predmetu</string>
   <string name="translation_loading">Samo trenutek…</string>
   <string name="translation_no_result">Ni rezultatov</string>
