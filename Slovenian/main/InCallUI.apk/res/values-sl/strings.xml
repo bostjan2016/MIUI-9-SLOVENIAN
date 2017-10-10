@@ -83,6 +83,7 @@
   <string name="card_title_video_call_paused">Videoklic zaustavljen</string>
   <string name="card_title_video_conf_call">Video konferenčni klic</string>
   <string name="card_video_hold_swap">Zamenjaj</string>
+  <string name="change_to_voice_tips_when_background">Druga stran se je prestavila na glasovni klic</string>
   <string name="close_camera_failed">"Ne morem zapreti kamere"</string>
   <string name="close_camera_requesting">Izklop kamere…</string>
   <string name="conference_call_description" formatted="false">%s,%s itd. skupaj %s</string>
