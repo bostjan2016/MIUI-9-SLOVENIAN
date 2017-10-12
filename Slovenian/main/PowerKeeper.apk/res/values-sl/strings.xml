@@ -87,6 +87,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="new_group_name">Način uporabnika</string>
   <string name="new_power_checker_title">PowerChecker(novo)</string>
   <string name="no_applications">Prazno</string>
+  <string name="nonui_mode_config_description">"Ne vključuj zaslona pri obvestilih, izključi luč obvestil, prstni odtis in kontrolo dotika ko je naprava v žepu."</string>
+  <string name="nonui_mode_config_title">Neprekinjeni način</string>
   <string name="none">Ni procesov</string>
   <string name="normal">Privzeto</string>
   <string name="notify_abnormal">Opozorilo nenormalne energije</string>
