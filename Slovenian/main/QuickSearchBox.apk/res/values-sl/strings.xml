@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_loaction">Najdi na Začet. zaslonu</string>
+  <string name="app_loaction">Najdi na začet. zaslonu</string>
   <string name="app_name">Iskanje</string>
   <string name="appindex_description">Funkcije instaliranih aplik.</string>
   <string name="appindex_search_label">Funkcije aplik.</string>

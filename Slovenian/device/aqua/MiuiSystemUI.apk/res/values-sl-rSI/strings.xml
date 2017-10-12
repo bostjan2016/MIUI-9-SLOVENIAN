@@ -166,7 +166,7 @@
   <string name="camera_key_action_none_title">Ni opravila</string>
   <string name="camera_key_action_setting_title">Mi Tipka</string>
   <string name="camera_key_action_shortcut_call">Klic</string>
-  <string name="camera_key_action_shortcut_home">Vrnitev na Začetni zaslon</string>
+  <string name="camera_key_action_shortcut_home">Vrnitev na začetni zaslon</string>
   <string name="camera_key_action_shortcut_screenshot">"Posnetek zaslona"</string>
   <string name="camera_key_action_shortcut_search">"Preišči"</string>
   <string name="camera_key_action_shortcut_title">Bližnica</string>

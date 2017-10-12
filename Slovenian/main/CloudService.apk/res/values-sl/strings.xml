@@ -494,7 +494,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="share_success">Uspešno razdeljeno</string>
   <string name="share_weibo_not_installed">Weibo ni nameščen.</string>
   <string name="share_weixin_not_installed">WeChat ni nameščen.</string>
-  <string name="short_cut_desc">Dodam ikono Mi Clouda na Zač. zaslon?</string>
+  <string name="short_cut_desc">Dodam ikono Mi Clouda na zač. zaslon?</string>
   <string name="sina_share_fail">"Ne morem poslati"</string>
   <string name="sina_share_fail_content_repeat">"To ste že delili"</string>
   <string name="sina_share_pendding">Pošiljam…</string>

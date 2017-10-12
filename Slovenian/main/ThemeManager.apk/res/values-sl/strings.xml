@@ -98,8 +98,8 @@
   <string name="gift_used">Poslano</string>
   <string name="hide_free">"Skrij brezplačne "</string>
   <string name="hide_incompatible">"Skrij nekompatibilne "</string>
-  <string name="home_apply_failured">"Ne morem nastaviti ozadje Zač. zaslona"</string>
-  <string name="home_apply_success">Ozadje Zač. zaslona nastavljeno</string>
+  <string name="home_apply_failured">"Ne morem nastaviti ozadje zač. zaslona"</string>
+  <string name="home_apply_success">Ozadje zač. zaslona nastavljeno</string>
   <string name="in_the_end">Ni več predmetov za prikaz</string>
   <string name="incompatible_dialog_message">Ta tema ni popolnoma združljiva z MIUI 9. Nekateri elementi bodo lahko prikazani napačno.</string>
   <string name="incompatible_dialog_ok">Razumem</string>

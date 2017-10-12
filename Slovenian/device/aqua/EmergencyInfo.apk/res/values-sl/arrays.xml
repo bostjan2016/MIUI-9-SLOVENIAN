@@ -12,7 +12,7 @@
         <item>Niste povezani</item>
         <item>Neuspešno</item>
         <item>Blokirano</item>
-        <item>Začasa prekintev slabe povezave</item>
+        <item>Začasna prekintev slabe povezave</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -26,7 +26,7 @@
         <item>Niste povezani</item>
         <item>Neuspešno</item>
         <item>Blokirano</item>
-        <item>Začasa prekintev slabe povezave</item>
+        <item>Začasna prekintev slabe povezave</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nikoli ne preverjaj</item>

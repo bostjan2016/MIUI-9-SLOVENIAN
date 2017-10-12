@@ -2008,7 +2008,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_profile_wipe_warning_content_pattern">Če tudi tokrat vnesete nepravilni vzorec za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
   <string name="lock_profile_wipe_warning_content_pin">Če tudi tokrat vnesete nepravilno kodo PIN za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
   <string name="lock_profile_wipe_warning_title">Zadnji poskus</string>
-  <string name="lock_screen_cells_title">Zakleni razpored Začet. zaslona</string>
+  <string name="lock_screen_cells_title">Zakleni razpored začet. zaslona</string>
   <string name="lock_screen_intro_skip_dialog_text">Funkcije za zaščito naprave ne bodo aktivirane. V primeru izgube ali kraje telefona drugim ne boste mogli preprečiti njegove uporabe.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Zaščitne funkcije naprave ne bodo aktivirane. V primeru izgube ali kraje telefona oziroma izbrisa vseh podatkov v njem ne boste mogli preprečiti drugim, da ga uporabljajo.</string>
   <string name="lock_screen_notifications_interstitial_message">Kako naj se obvestila prikazujejo, ko je naprava zaklenjena?</string>
@@ -2304,7 +2304,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
   <string name="miui_disturb_title">Ne moti</string>
   <string name="miui_experience_optimization">Vključi MIUI optimizacijo</string>
-  <string name="miui_screen_config_title">Nastavitve Začet. zaslona</string>
+  <string name="miui_screen_config_title">Nastavitve začet. zaslona</string>
   <string name="miui_screensaver_show_time">Trajanje</string>
   <string name="miui_screensaver_show_time_select_title">Nastavite trajanje diaprojekcije</string>
   <string name="miui_screensaver_state_off">Izklop</string>

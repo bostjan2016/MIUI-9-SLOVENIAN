@@ -56,11 +56,11 @@ pojdite na %s"</string>
   <string name="menu_bl_call_log">Pregled blokiranih klicev</string>
   <string name="menu_bl_remove">Odblokiraj</string>
   <string name="menu_call">Izberi</string>
-  <string name="menu_create_contact_shortcut">Postavi na Začetni zaslon</string>
+  <string name="menu_create_contact_shortcut">Postavi na začetni zaslon</string>
   <string name="menu_edit">Uredi</string>
   <string name="menu_mark">Označi</string>
   <string name="menu_remove">Odstrani</string>
-  <string name="missing_name">(Bez imena)</string>
+  <string name="missing_name">(Brez imena)</string>
   <string name="msim_sim1">"SIM 1 "</string>
   <string name="msim_sim2">"SIM 2 "</string>
   <string name="mx_activate_dlg_title">Aktivirajte Mi Voice</string>

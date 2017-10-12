@@ -174,7 +174,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto
   <string name="passport_vcode_sms_send_prompt">Pošlji kontrolno kodo na %s</string>
   <string name="passport_verification_failed">Identifikacija ni uspela</string>
   <string name="passport_verify">Preveri</string>
-  <string name="passport_wait_for_sms_prompt">"Začnem ponovno sedaj? Dostava kontrolnega sporočila lahko traja do 10 minut kadar je telefon v dometu omrežja vašega operaterja."</string>
+  <string name="passport_wait_for_sms_prompt">"Začnem ponovno? Dostava kontrolnega sporočila lahko traja do 10 minut kadar je telefon v dometu omrežja vašega operaterja."</string>
   <string name="passport_wrong_captcha">Vnešena koda ni pravilna</string>
   <string name="passport_wrong_password">Napačno geslo</string>
   <string name="passport_wrong_phone_number_format">Format tel.številke ki ste jo vnesli ni veljaven</string>

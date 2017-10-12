@@ -92,7 +92,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="device_delete_prompt">Izbrišem varnostno kopijo za %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-  <string name="download_home_data">Prenašanje nastavitev Začet. zaslona</string>
+  <string name="download_home_data">Prenašanje nastavitev začet. zaslona</string>
   <string name="download_meta_again">Poskusi ponovno</string>
   <string name="download_meta_failed">Ne morem prenesti podatkov</string>
   <string name="download_settings">Prenos nastavitev začetnega zaslona %s%%</string>
@@ -133,7 +133,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="restore_from_cloud">Obnovi iz Mi Clouda</string>
   <string name="restore_from_this_device">Obnovi z uporabo te var. kopije</string>
   <string name="restore_home_screen_apps">Obnovi iz var. kopije na Mi Cloudu</string>
-  <string name="restore_home_failed">Povrnitev Začet.  zaslona ni uspela</string>
+  <string name="restore_home_failed">Povrnitev začet. zaslona ni uspela</string>
   <string name="restore_task_cancelling">Prekinjam…</string>
   <string name="restore_task_in_process">Obnovitev…</string>
   <string name="restore_task_unfinished">Obnovitev aplikacij, poskusite ponovno kasneje</string>
