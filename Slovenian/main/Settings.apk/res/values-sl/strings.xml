@@ -3738,7 +3738,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen">Zaslon</string>
   <string name="screen_button">Tipke zaslona</string>
   <string name="screen_button_tips">Podrsajte navzdol za skrivanje tipk zaslona</string>
-  <string name="screen_cells_config_title">Razpored Začet. zaslona</string>
+  <string name="screen_cells_config_title">Razpored začet. zaslona</string>
   <string name="screen_color_and_optimize">Barve &amp; kontrast</string>
   <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti barvo temperature v načinu za branje"</string>
   <string name="screen_color_temperature">Barve</string>
@@ -3965,7 +3965,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_label">Nastavitve</string>
   <string name="search_language">Jezik &amp; vnos;Jezik;Jezik in vnos;Vnos;Tipkovnica</string>
   <string name="search_language_picker_title">Jezik</string>
-  <string name="search_led">LED,Svetloba obvestil</string>
+  <string name="search_led">LED;Svetloba obvestil</string>
   <string name="search_legal_information">Pravne informacije;LED svetloba</string>
   <string name="search_local_auto_backup_section_title">Samod var. kopije;Avtom. var. kopije;Samodejno napravi var. kopijo</string>
   <string name="search_local_backup_section_title">Lokalne var. kopije</string>

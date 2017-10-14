@@ -3290,7 +3290,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen">Zaslon</string>
   <string name="screen_button">Tipke zaslona</string>
   <string name="screen_button_tips">Podrsajte navzdol za skrivanje tipk zaslona</string>
-  <string name="screen_cells_config_title">Razpored Začet. zaslona</string>
+  <string name="screen_cells_config_title">Razpored začet. zaslona</string>
   <string name="screen_color_and_optimize">Barve &amp; kontrast</string>
   <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti barvo temperature v načinu za branje"</string>
   <string name="screen_color_temperature">Barve</string>

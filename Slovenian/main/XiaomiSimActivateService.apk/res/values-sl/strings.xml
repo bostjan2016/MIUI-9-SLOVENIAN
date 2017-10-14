@@ -63,7 +63,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="activate_popup_desc_register_account_intl">Vaš operater vam bo zaračunal mednarodno SMS sporočilo ki bo mogoče potrebno za izdelavo Mi Računa.</string>
   <string name="activate_popup_desc_sim_card">Vaš operater vam lahko zaračuna SMS sporočilo uporabljeno za aktiviranje %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Vnesite številko telefona za aktiviranje %s</string>
-  <string name="activate_popup_desc_voip_privacy">Pravila o Zasebnosti</string>
+  <string name="activate_popup_desc_voip_privacy">Pravila o zasebnosti</string>
   <string name="activate_popup_desc_voip_privacy_prefix">"VoIP Storitev je podprta s strani Weihui. Prikaži Weihui "</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"Ne morem najti številke telefona"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">"Ne morem poslati aktivacijski SMS"</string>

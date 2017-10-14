@@ -45,7 +45,7 @@
   <string name="force_exit_message">Prisilno zaprta aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne morem izključiti %1$s ker jo uporablja sistem."</string>
   <string name="fourhours">2 uri</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">S pritiskom na tipko Domov se lahko vrnete na začetni zaslon. To funkcijo lahko Vključite/Izključite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke &gt; Pritisnite tipko Domov za vrnitev na Začetni zaslon.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">S pritiskom na tipko Domov se lahko vrnete na začetni zaslon. To funkcijo lahko Vključite/Izključite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke &gt; Pritisnite tipko Domov za vrnitev na začetni zaslon.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, hvala</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vključi</string>
   <string name="fp_nav_center_action_choose_dlg_title">Vključi Hitri dotik</string>

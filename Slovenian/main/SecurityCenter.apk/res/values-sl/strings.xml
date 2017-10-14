@@ -1850,7 +1850,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_specified_adjust">Nastavitev prilagojene omejitve podatkov</string>
   <string name="pref_specified_traffic_settings">Nastavitve omejitve podatkov</string>
   <string name="pref_summary_lock_screen_memory_clean">Samodejno čiščenje ko je naprava zaklenjena</string>
-  <string name="pref_summary_upload_data_usage">Prijavite statistiko o uporabi podatkov da nam pomagate izboljšati MIUI. poročanje se izvaja v skladu z našimi Pravili o Zasebnosti.</string>
+  <string name="pref_summary_upload_data_usage">Prijavite statistiko o uporabi podatkov da nam pomagate izboljšati MIUI. poročanje se izvaja v skladu z našimi Pravili o zasebnosti.</string>
   <string name="pref_summary_virus_white_list">Izloči izbrane aplikacije iz čiščenja</string>
   <string name="pref_title_declaration">Odrekanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plavajoča obvestila</string>

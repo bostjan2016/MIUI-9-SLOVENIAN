@@ -448,8 +448,8 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="mx_dspt_provision_privacy_no_sim">"Ta funkcija lahko zahteva vašo tel. številko. Ko je najdena SIM kartica bo mogoče potrebno odhodno SMS sporočilo za vklop te funkcije. Vaš operater vam bo zaračunal to sporočilo.
 
 Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
-  <string name="mx_dspt_provision_with_voip">"Kličite druge MIUI uporabnike brezplačno z uporabo spletne povezave. Lahko kadarkoli vključite/izključite v nastavitvah. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o Zasebnosti."</string>
-  <string name="mx_dspt_provision_with_voip2">Pravila o Zasebnosti</string>
+  <string name="mx_dspt_provision_with_voip">"Kličite druge MIUI uporabnike brezplačno z uporabo spletne povezave. Lahko kadarkoli vključite/izključite v nastavitvah. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o zasebnosti."</string>
+  <string name="mx_dspt_provision_with_voip2">Pravila o zasebnosti</string>
   <string name="mx_sub_dspt_provision">Mi Sporočilo</string>
   <string name="mx_sub_dspt_provision_with_voip">Spletni klici</string>
   <string name="mx_voip_dspt">Mi Voice</string>

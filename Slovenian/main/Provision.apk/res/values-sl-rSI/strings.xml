@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Strinjam se</string>
-  <string name="agree_terms">"Strinjam se s Pogoji uporabe in Pravili o Zasebnosti"</string>
+  <string name="agree_terms">"Strinjam se s Pogoji uporabe in Pravili o zasebnosti"</string>
   <string name="app_name">Določila</string>
   <string name="application_permissions">Dovoljenja aplikacije</string>
   <string name="back">Nazaj</string>

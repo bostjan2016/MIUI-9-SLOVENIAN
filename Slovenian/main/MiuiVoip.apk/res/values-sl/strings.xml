@@ -69,7 +69,7 @@ pojdite na %s"</string>
   <string name="mx_choose_sim_dlg_title">Izberite številko telefona za aktiviranje Mi Voice</string>
   <string name="mx_dspt_provision">"Prikaži Weihui Pravila o zasebnosti"</string>
   <string name="mx_dspt_provision_2">MIUI Voip vam omogoča brezplačno klicanje drugih MIUI uporabnikov. Vaš operater vam lahko zaračuna omrežni promet. Mogoče bomo morali poslati SMS sporočilo da potrdite svojo številko telefona.</string>
-  <string name="mx_dspt_provision_3">"MIUI Voip vam omogoča brezplačno klicanje drugih MIUI uporabnikov. Vaš operater vam lahko zaračuna omrežni promet. Mogoče bomo morali poslati SMS sporočilo da potrdite svojo številko telefona. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o Zasebnosti"</string>
+  <string name="mx_dspt_provision_3">"MIUI Voip vam omogoča brezplačno klicanje drugih MIUI uporabnikov. Vaš operater vam lahko zaračuna omrežni promet. Mogoče bomo morali poslati SMS sporočilo da potrdite svojo številko telefona. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o zasebnosti"</string>
   <string name="mx_dspt_tips">Ta storitev zahteva vašo številko telefona</string>
   <string name="net_connect_fails">"Nimate internetne zveze."</string>
   <string name="net_singal_tips">Voip klic signal omrežja %1$s</string>
@@ -143,7 +143,7 @@ pojdite na %s"</string>
   <string name="unkown">Neznano</string>
   <string name="unread_calls">Neprebrani klici</string>
   <string name="unread_calls_count">%d neprebranih klicev</string>
-  <string name="user_agreement">Pravila o Zasebnosti</string>
+  <string name="user_agreement">Pravila o zasebnosti</string>
   <string name="voip_about">Mi Voice</string>
   <string name="voip_about_gif_desc">"Klicanje s pomočjo Mi Voice iz številčnice ali stikov."</string>
   <string name="voip_about_net_desc">Klicanje s pomočjo Mi Voice porabi manj kot 400KB na minuto.</string>

@@ -529,7 +529,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="ubifocus_capture_warning_message">Za najboljše rezultate bi morala vaša slika vsebovati predmete tako v bližini (manj kot 1 meter od leč) kot tudi daleč</string>
   <string name="user_agree">Strinjam se</string>
   <string name="user_agreement2">Pogoji Nudenja storitve</string>
-  <string name="user_agreement4">Pravila o Zasebnosti</string>
+  <string name="user_agreement4">Pravila o zasebnosti</string>
   <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s."</string>
   <string name="user_notice_title">Pogoji in Odredbe</string>
   <string name="video_camera_label">Videokamera</string>

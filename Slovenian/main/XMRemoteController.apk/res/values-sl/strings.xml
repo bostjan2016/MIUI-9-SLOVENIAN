@@ -705,7 +705,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto."</string>
   <string name="passport_password_req_notice">Geslo mora biti dolgo med 8-16 znakov in vsebovati številke in črke (velike in majhne).</string>
   <string name="passport_phone_num_hint_text">Tel. številka</string>
   <string name="passport_prev">Nazaj</string>
-  <string name="passport_privacy_policy">Pravila o Zasebnosti</string>
+  <string name="passport_privacy_policy">Pravila o zasebnosti</string>
   <string name="passport_pwd_generate_failure">"Ne morem izdelati gesla"</string>
   <string name="passport_pwd_generating">Izdelujem…</string>
   <string name="passport_quick_login_dialog_step2_title">Preverite v 2 fazah</string>
@@ -762,11 +762,11 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto."</string>
   <string name="passport_uplink_slot2_reg">Uporabi SIM 2</string>
   <string name="passport_use_generated_pwd_message">Zapomnite si svoje geslo. Uporabite ga lahko za prijavo na druge Mi Storitve.</string>
   <string name="passport_use_generated_pwd_title">Zapomnite si vaše geslo</string>
-  <string name="passport_user_agreement">Uporabniški Sporazum</string>
+  <string name="passport_user_agreement">Uporabniški sporazum</string>
   <string name="passport_user_agreement_p1">"Strinjate se z</string>
-  <string name="passport_user_agreement_p2">Uporabniški Sporazum</string>
+  <string name="passport_user_agreement_p2">Uporabniški sporazum</string>
   <string name="passport_user_agreement_p3"> in </string>
-  <string name="passport_user_agreement_p4">Pravila o Zasebnosti</string>
+  <string name="passport_user_agreement_p4">Pravila o zasebnosti</string>
   <string name="passport_vcode_notification_title">Vaša potrditev prijave je nepopolna</string>
   <string name="passport_vcode_prompt_long">Vnesite kontrolno kodo</string>
   <string name="passport_vcode_sms_send_prompt">Pošlji kontrolno kodo na %s</string>
