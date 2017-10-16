@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_files_confirm">
-         <item quantity="other">Izbrisati (%1$d) datotek</item>
-         <item quantity="zero">Izbrisati (%1$d) datotek</item>
-         <item quantity="one">Izbrisati (%1$d) datoteko</item>
-         <item quantity="two">Izbrisati (%1$d) datoteki</item>
-         <item quantity="few">Izbrisati (%1$d) datotek</item>
-         <item quantity="many">Izbrisati (%1$d) datotek</item>
+         <item quantity="other">Izbrisati datotek: %1$d</item>
+         <item quantity="zero">Izbrisati datotek: %1$d</item>
+         <item quantity="one">Izbrisati %1$d datoteko</item>
+         <item quantity="two">Izbrisati datoteki: %1$d</item>
+         <item quantity="few">Izbrisati datotek: %1$d</item>
+         <item quantity="many">Izbrisati datotek: %1$d</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-         <item quantity="other">" in (%1$d) map ?"</item>
-         <item quantity="zero">" in (%1$d) map ?"</item>
-         <item quantity="one">" in (%1$d) mapo ?"</item>
-         <item quantity="two">" in (%1$d) mapi ?"</item>
-         <item quantity="few">" in (%1$d) map ?"</item>
-         <item quantity="many">" in (%1$d) map ?"</item>
+         <item quantity="other">" in mape: %1$d?"</item>
+         <item quantity="zero">" in mape: %1$d"</item>
+         <item quantity="one">" in %1$d mapo?"</item>
+         <item quantity="two">" in mapi: %1$d"</item>
+         <item quantity="few">" in mape: %1$d"</item>
+         <item quantity="many">" in mape: %1$d"</item>
     </plurals>
     <plurals name="directory_item_count">
          <item quantity="other">Elementov: %d</item>
@@ -161,12 +161,12 @@
          <item quantity="many">%1$d dni</item>
      </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Najdeno (%1$d) novih datotek</item>
-        <item quantity="zero">Najdeno (%1$d) novih datotek</item>
-        <item quantity="one">Najdena (%1$d) nova datoteka</item>
-        <item quantity="two">Najdeni (%1$d) novi datoteki</item>
-        <item quantity="few">Najdeno (%1$d) novih datotek</item>
-        <item quantity="many">Najdeno (%1$d) novih datotek</item>
+        <item quantity="other">Najdeno novih datotek: %1$d</item>
+        <item quantity="zero">Najdeno novih datotek: %1$d</item>
+        <item quantity="one">Najdena %1$d nova datoteka</item>
+        <item quantity="two">Najdeno novi datoteki: %1$d</item>
+        <item quantity="few">Najdeno novih datotek: %1$d</item>
+        <item quantity="many">Najdeno novih datotek: %1$d</item>
     </plurals>
     <plurals name="file_notify_title">
         <item quantity="other">Prejeto datotek (%1$d) od %2$s</item>
@@ -217,12 +217,12 @@
         <item quantity="many">Shranjeno %1$d WeChat videoposnetkov.</item>
     </plurals>
 	<plurals name="remote_video_update">
-         <item quantity="other">Najdeno %1$s novih videoposnetkov</item>
-         <item quantity="zero">Najdeno %1$s novih videoposnetkov</item>
-         <item quantity="one">Najden %1$s nov videoposnetek</item>
-         <item quantity="two">Najdena %1$s nova videoposnetka</item>
-         <item quantity="few">Najdeno %1$s novih videoposnetkov</item>
-         <item quantity="many">Najdeno %1$s novih videoposnetkov</item>
+         <item quantity="other">Najdeni novi videoposnetki: %1$s</item>
+         <item quantity="zero">Najdeno %1$s novih videposnetkov</item>
+         <item quantity="one">Najden nov videposnetek: %1$s</item>
+         <item quantity="two">Najdena nova videposnetka: %1$s</item>
+         <item quantity="few">Najdeni novi videposnetki: %1$s</item>
+         <item quantity="many">Najdenio novi videposnetki: %1$s</item>
      </plurals>
 	 <plurals name="video_ad_download_tip">
          <item quantity="other"> Prenosi</item>
