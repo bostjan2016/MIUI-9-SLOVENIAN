@@ -879,6 +879,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="flow_rank_title">Uporaba podatkov</string>
   <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovale če niste povezani na WiFi omrežje."</string>
   <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
+  <string name="forbid_autobright_title">Popravi osvetlitev zaslona</string>
   <string name="foreground_traffic">Prednja stran %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
   <string name="forget_password_button_text_normal">Pozabljeno geslo</string>
@@ -897,7 +898,10 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="game_anti_disturb_msg">Igre DND</string>
   <string name="game_booster">Pohitritev igranja</string>
   <string name="game_booster_intro">O Pohitritvi igranja</string>
+  <string name="game_booster_jump_webview">Samo trenutek…</string>
+  <string name="game_booster_tab_top">Najboljše</string>
   <string name="game_booster_title">Pohitritev</string>
+  <string name="game_bootser_tab_settings">Nastavitve pospeševanja</string>
   <string name="game_booster_total">Hitrost povečana %1$s krat, dodano %2$s časa igranja</string>
   <string name="game_improve_text1">Očisti predspomin ozadja zaradi povečanja spomina za igranje</string>
   <string name="game_improve_text2">Očisti predspomin ozadja zaradi povečanja spomina za igranje in poboljšanja zmogljivosti procesorja</string>
@@ -907,7 +911,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="game_net_text2">Povečajte hitrost povezave omrežne igre z omejitvijo hitrosti prenosa v ozadju da zmanjšate omrežno zastajanje</string>
   <string name="game_net_title">Optimiziraj hitrost povezave</string>
   <string name="game_setting">Nastavitve igre</string>
-  <string name="gamebooster_main_activity_back">Vrni se v Game Speed Booster</string>
+  <string name="gamebooster_lowbattery_notification_summary">Napolnite napravo predno se izključi.</string>
+  <string name="gamebooster_lowbattery_notification_title">Baterija je na majn kot 5%%</string>
+  <string name="gamebooster_main_activity_back">Nazaj</string>
   <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na internet?</string>
   <string name="gamebooster_network_dialog_title">"Nekatere stvari niso dostopne"</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
@@ -924,8 +930,11 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gs_app_back_self_start">Varčevanje baterije</string>
   <string name="gs_auto_clean_memory">Očisti predspomin</string>
   <string name="gs_auto_clean_memory_detail">Očisti predspomin samodejno zaradi optimiziranja iger</string>
+  <string name="gs_call_handsfree">Odgovori na klic prostoročno</string>
+  <string name="gs_call_handsfree_mute">Tiho</string>
   <string name="gs_dialog_confirm_close_msg">Bližnjica bo odstranjena iz začetnega zaslona. Pojdite v Varnost &gt; Nastavitve da jo obnovite.</string>
   <string name="gs_dialog_confirm_close_title">Izključi</string>
+  <string name="gs_forbid_autosync">Omeji sinhronizacijo v ozadju</string>
   <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Čas</string>
   <string name="gs_game_net_priority">Prioriteta povezave</string>
@@ -1305,7 +1314,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="name">Ime</string>
   <string name="net_booster">Povečaj hitrost omrežja</string>
   <string name="net_booster_expire_notification">Seja povečanja hitrosti omrežja bo kmalu končana</string>
-  <string name="net_booster_expire_notification_tip">Preostalo %d d pred koncem seje. Obnovite sejo da se izognete težavam hitrosti omrežja.</string>
+  <string name="net_booster_expire_notification_tip">Preostalo je %d d pred koncem seje. Obnovite sejo da se izognete težavam hitrosti omrežja.</string>
   <string name="net_booster_overdue_notification">Seja povečanja hitrosti omrežja bo kmalu končana</string>
   <string name="net_booster_overdue_notification_tip">Seja povečanja hitrosti omrežja bo kmalu končana. Obnovim sejo?</string>
   <string name="net_booster_tip">Vključite povečanje hitrosti omrežja da napravite WiFi povezavo stabilnejšo in zmanjšate zamude omrežja.</string>
@@ -2443,6 +2452,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="text_day"/>
   <string name="text_lock_info">Narišite vzorec za odklepanje</string>
   <string name="there_is_no">Vse zgleda v redu, vrnite se kasneje</string>
+  <string name="thermal_tips_message">Igranje iger v zmogljivem načinu lahko povzroči težave s pregrevanjem.</string>
+  <string name="thermal_tips_title">Pozor</string>
   <string name="third_application">Nameščene aplikacije</string>
   <string name="three_percent_total_pkg">%s (3%% od mes. podatkov)</string>
   <string name="timeshow_h">%.1fh</string>
@@ -2728,8 +2739,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_fail">"Ne morem posodobiti"</string>
   <string name="virus_update_success">Uspešno posodobljeno</string>
-  <string name="virus_update_tips_title">Poveži preko WiFi</string>
-  <string name="virus_wait_network_dialog_message">Posodobitev je velika. Vklopite WiFi za prenos</string>
+  <string name="virus_update_tips_title">Opozorilo</string>
+  <string name="virus_wait_network_dialog_message">Vaš telefon ni povezan na WiFi omrežje. Porabili boste večjo količino mobilnih podatkov. nadaljujem ?</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">Določena podatkovna povezava je izključena</string>
   <string name="vpn_unbale_get_phonenum">"Ne morem dobiti telefonskih številk s pomočjo določenik podatkovnih povezav"</string>

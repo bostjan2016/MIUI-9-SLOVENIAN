@@ -233,7 +233,9 @@
   <string name="debug_view_attributes">Omogoči pregled atributov prikaza</string>
   <string name="demo_mode">Demo način</string>
   <string name="description_direction_left">Podrsajte levo za %s.</string>
-  <string name="description_direction_up">Podrsajte navzgor za %s.</string>
+  <string name="description_direction_up">"Podrsajte navzgor za %s."</string>
+  <string name="description_image_button_answer">Odgovori</string>
+  <string name="description_image_button_reject">Zavrni</string>
   <string name="description_target_search">Išči</string>
   <string name="dev_settings_warning_message">Te nastavitve so namenjene samo razvojnim programerjem. Lahko povzročijo okvaro ali nezaželjeno obnašanje vaše naprave in aplikacij.</string>
   <string name="dev_settings_warning_title">Dovolim nastavitve razvojnih programerjev?</string>
