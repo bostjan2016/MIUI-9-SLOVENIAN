@@ -2827,6 +2827,7 @@ Na tej napravi je več uporabnikov.
   <string name="night_mode_yes">Temno</string>
   <string name="no">Ne</string>
   <string name="no_all_caps">NE</string>
+  <string name="no_account_found">Nobena aplikacija ne podpira dodajanje računa</string>
   <string name="no_application">Nič</string>
   <string name="no_applications">Ni aplikacij</string>
   <string name="no_battery_summary">Akumulator ni bil uporabljen od zadnje polne napolnjenosti</string>
@@ -5853,7 +5854,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wrong_pin_code_pukked">Napačna PIN koda kartice SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xiaomi_cloud_service_description">Mi Cloud sinhronizira vaše stike in fotografije, napravi var. kopijo vaših aplikacij in nastavitev in vam pomaga najti vaš telefon z uporabo Najdi napravo.</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud sinhronizira stike, fotografije in ostale stvari v vaši napravi. \"Najdi napravo\" tudi potebuje Mi Cloud za normalno delovanje.</string>
   <string name="xiaomi_cloud_service_disabled">Izključeno</string>
   <string name="xiaomi_cloud_service_unknown">Neznano</string>
   <string name="xiaomi_money_service">Mi Krediti</string>

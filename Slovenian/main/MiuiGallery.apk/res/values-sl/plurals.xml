@@ -132,6 +132,10 @@
          <item quantity="other">Dodano %1$d fotografij v skriti album</item>
          <item quantity="one">Dodana 1 fotografija v skriti album</item>
      </plurals>
+	 <plurals name="add_secret_ensure_message">
+         <item quantity="other">Skrijem te datoteke?</item>
+         <item quantity="one">Skrijem to datoteko?</item>
+     </plurals>
 	<plurals name="number_of_images_synced">
          <item quantity="other">%1$d fotografij</item>
          <item quantity="one">1 fotografija</item>
