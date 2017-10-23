@@ -2630,6 +2630,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_lab_taplus_desc">Pritisnite in držite da boste zagnali opravila</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_screen_config_title">Nastavitve začet. zaslona</string>
+  <string name="miui_updater">Posodobitev</string>
   <string name="miui_screensaver_show_time">Trajanje</string>
   <string name="miui_screensaver_show_time_select_title">Nastavite trajanje diaprojekcije</string>
   <string name="miui_screensaver_state_off">Izklop</string>
