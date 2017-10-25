@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="data_item_count">
-        <item quantity="other">Stvari: %d</item>
-        <item quantity="one">%d stvar</item>
+  <plurals name="backup_items_sysdata_tailer">
+         <item quantity="other">Podatkovne datoteke sitema: %d</item>
+         <item quantity="one">%d podatkovna datoteka sitema</item>
+     </plurals>
+     <plurals name="backup_items_app_tailer">
+         <item quantity="other">Podatkovne datoteke aplikacij: %d</item>
+         <item quantity="one">%d podatkovna datoteka aplikacij</item>
+     </plurals>
+         <item quantity="other">Stvari: %d</item>
+         <item quantity="one">%d stvar</item>
      </plurals>
 <plurals name="trans_time_format_minute">
         <item quantity="other">%d min.</item>
@@ -12,4 +20,28 @@
         <item quantity="other">%d ur</item>
         <item quantity="one">%d ura</item>
     </plurals>
+	<plurals name="select_item_summary">
+         <item quantity="other">%1$s | %2$d stvari</item>
+         <item quantity="one">%1$s | %2$d stvar</item>
+     </plurals>
+     <plurals name="select_item_count_unit">
+         <item quantity="other">stvari</item>
+         <item quantity="one">stvar</item>
+     </plurals>
+     <plurals name="save_item_saving_summary">
+         <item quantity="other">Obnovljene stvari: %d</item>
+         <item quantity="one">Obnovljena stvar: %d</item>
+     </plurals>
+     <plurals name="save_item_saved_summary">
+         <item quantity="other">Uvožene in obnovljene stvari: %d</item>
+         <item quantity="one">Uvožena in obnovljena stvar: %d</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg1">
+         <item quantity="other">"Uvožene stvari: %d, "</item>
+         <item quantity="one">"Uvožena stvar: %d, "</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg2">
+         <item quantity="other">Potrebno je ponovno uvoziti stvari: %d</item>
+         <item quantity="one">Potrebno je ponovno uvoziti stvar: %d</item>
+     </plurals>
 </resources>
