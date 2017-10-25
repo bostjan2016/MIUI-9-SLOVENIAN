@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="data_item_count">
-  <plurals name="backup_items_sysdata_tailer">
+     <plurals name="backup_items_sysdata_tailer">
          <item quantity="other">Podatkovne datoteke sitema: %d</item>
          <item quantity="one">%d podatkovna datoteka sitema</item>
      </plurals>
@@ -9,10 +8,7 @@
          <item quantity="other">Podatkovne datoteke aplikacij: %d</item>
          <item quantity="one">%d podatkovna datoteka aplikacij</item>
      </plurals>
-         <item quantity="other">Stvari: %d</item>
-         <item quantity="one">%d stvar</item>
-     </plurals>
-<plurals name="trans_time_format_minute">
+     <plurals name="trans_time_format_minute">
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
      </plurals>
