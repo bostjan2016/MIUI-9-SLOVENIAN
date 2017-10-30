@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found">Aplikacija ni naložena na vašem telefonu</string>
+  <string name="action_add_to_workspace">Dodaj v delovni prostor</string>
+  <string name="activity_not_found">"Aplikacija ni naložena na vašem telefonu"</string>
   <string name="add_screen">Dodaj tipko zaslona</string>
   <string name="app_already_exist">Aplikacija že obstaja</string>
   <string name="app_being_backup_message">Aplikacija se varnostno kopira.</string>

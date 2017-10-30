@@ -67,6 +67,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="delete_phone_fingerprint">Izbriši prstni odtis za Drugi prostor</string>
   <string name="delete_src_file">Izbriši datoteke</string>
   <string name="delete_src_photo">Izbriši fotografije</string>
+  <string name="dialog_title">Pozor</string>
   <string name="dir_switch_out_all_photos">Galerija Drugega prostora</string>
   <string name="disable">Izključi</string>
   <string name="do_not_ask">"Ne sprašuj ponovno"</string>
@@ -159,6 +160,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="openPasswordGuard">Nastavite geslo Drugega prostora</string>
   <string name="openSuccess">Vključeno</string>
   <string name="opened">Vklj.</string>
+  <string name="optimize_now">Optimiziraj</string>
   <string name="other">Ostalo</string>
   <string name="otherSettings">Ostale nastavitve</string>
   <string name="passWordGuardSummary">Vstopi v Drugi prosotor iz zakl. zaslona z uporabo gesla</string>
@@ -200,7 +202,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="scanner_fingerprint_tips_desc">Izberite obstoječi prstni odtis za vstop v Drugi prostor. Ne boste ga mogli uporabiti v Prvem prostoru.</string>
   <string name="scanner_fingerprint_tips_title">Vstopite v Drugi prostor z uporabo  obstoječega prstnega odtisa</string>
   <string name="scanner_second_space_fingerprint">Skeniraj prstni odtis za Drugi prostor</string>
-  <string name="sdcardfs_dialog_message">Izključite "Optimizacija SD kartice" v Nastavitve &gt; Dodatne nastavitve &gt; Možnosti za razvijalce pred vstopom v Drugi prostor.</string>
+  <string name="sdcardfs_dialog_message">Vaši stari podatki možda ne bodo kompatibilni z novim sistemom. Optimizirajte podatke pred vstopom v Drugi prostor in ponovno zaženite napravo.</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Ne morem najti nobene aplikacije"</string>
   <string name="secondSpace">Drugi prostor</string>

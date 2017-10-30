@@ -249,6 +249,10 @@
         <item quantity="other">Geslo mora vsebovati najmanj %d znakov poleg črk.</item>
         <item quantity="one">Geslo mora vsebovati najmanj 1 znak poleg črk.</item>
     </plurals>
+	<plurals name="number_masked">
+         <item quantity="other">Aplikacij: %d</item>
+         <item quantity="one">%d aplikacija</item>
+     </plurals>
     <plurals name="number_locked">
         <item quantity="other">Zaklenjenih aplikacij: %d</item>
         <item quantity="one">%d aplik. zaklenjena</item>
@@ -257,6 +261,14 @@
         <item quantity="other">%d aplik. ni zaklenjenih</item>
         <item quantity="one">%d aplik. ni zaklenjena</item>
     </plurals>
+	<plurals name="number_masked_text">
+         <item quantity="other">Skrita obvestila: %d</item>
+         <item quantity="one">Skrito obvestilo: %d</item>
+     </plurals>
+     <plurals name="number_to_mask_text">
+         <item quantity="other">Vidna obvestila: %d</item>
+         <item quantity="one">Vidno obvestilo: %d</item>
+     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Preišči med %d aplik.</item>
         <item quantity="one">Preišči med %d aplik.</item>
