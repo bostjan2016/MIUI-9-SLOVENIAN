@@ -66,13 +66,13 @@ nastavitev in aplikacij"</string>
   <string name="cancel_restore">Ustavi</string>
   <string name="click_to_view">Dotaknite se za pregled</string>
   <string name="close_twice_auth_btn">Izključite Apple ID autorizacijo z dvema faktorjema</string>
-  <string name="close_twice_auth_note">"Beležka:\nKo napravite novo varnostno vprašanje in potrdite datum rojstva, bo funkcija dvojne autentifikacije izključena. Če ne vidite opcije izključitve dvojne prverbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
-  <string name="close_twice_auth_operation">"Spletna stran za PC:\nhttps://appleid.apple.com/#!&amp;page=signin to close"</string>
-  <string name="close_twice_auth_step_1">1. Prijavite se na strani računa Apple ID</string>
-  <string name="close_twice_auth_step_2">2. U oddelku "Varnost" kliknite "Uredi"</string>
-  <string name="close_twice_auth_step_3">3. Kliknite "Izključi dvojno / dvostopenjsko autorizacijo". Kliknite ponovno za potrditev</string>
-  <string name="close_twice_auth_steps">Izključite Apple ID autorizacijo v 2 korakih kakor sledi:</string>
-  <string name="close_twice_auth_tutor">Izključite Apple ID autorizacijo z dvema faktorjema</string>
+  <string name="close_twice_auth_note">"Beležka:\nKo napravite novo varnostno vprašanje in potrdite datum rojstva, bo funkcija dvojne avtentifikacije izključena. Če ne vidite opcije izključitve dvojne prverbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
+  <string name="close_twice_auth_operation">"Spletna stran:\nhttps://appleid.apple.com/#!&amp;page=signin to close"</string>
+  <string name="close_twice_auth_step_1">1. Odprite brskalnik na računalniku in pojdite na appleid.apple.com.</string>
+  <string name="close_twice_auth_step_2">2. Prijavite se na Apple ID za katerega želite onemogočiti avtorizacijo z dvemsa faktorjemaa, pojdite na poglavje \"Varnost\" v nastavitvah računa in izberite \"Uredi\"</string>
+  <string name="close_twice_auth_step_3">3. Kliknite \"Izključi avtorizacijo z dvemaa faktorjema\". Kliknite ponovno za potrditev.</string>
+  <string name="close_twice_auth_steps">Sledite te korake da boste izključili avtorizacijo z dvema faktorjema za Apple ID:</string>
+  <string name="close_twice_auth_tutor">Izključite Apple ID avtorizacijo z dvema faktorjema</string>
   <string name="cloud_app_name">Mi Cloud varnostna kopija</string>
   <string name="cloud_backup_hint">Za dostop do varnostnih kopij se vpišite</string>
   <string name="cloud_backup_login">Vpišite se v vaš Mi račun</string>
@@ -89,7 +89,7 @@ nastavitev in aplikacij"</string>
   <string name="compute_backup_info">Pridobivam podatke o varnostni kopiji...</string>
   <string name="compute_delete_contact_info">Pridobivanje podrobnosti...</string>
   <string name="connect_wifi">Povežite se na WiFi</string>
-  <string name="connect_wifi_tip">Omrežje je izključeno. Za uvoz podatakov iz iClouda potrbujete WiFi.</string>
+  <string name="connect_wifi_tip">Niste povezani na omrežje. Za uvoz podatakov iz iClouda potrbujete WiFi.</string>
   <string name="contact_title">Stiki</string>
   <string name="current_account">Trenutni račun: %s</string>
   <string name="current_pad_location">Pad</string>
@@ -109,14 +109,14 @@ nastavitev in aplikacij"</string>
   <string name="disable_encrypt_title">Izklopi šifriranje</string>
   <string name="enable_encrypt">Vklopi šifriranje</string>
   <string name="enable_encrypt_description">Šifriraj</string>
-  <string name="enable_encrypt_fail">Ne morem vključiti šifriranje</string>
+  <string name="enable_encrypt_fail">Napaka šifriranja</string>
   <string name="enable_encrypt_indicator">Tapni za šifriranje</string>
   <string name="enable_encrypt_ok">V redu</string>
   <string name="enable_encrypt_summery1">Vpišite se v vaš Mi račun za dostop do šifriranih varnostnih kopij.</string>
   <string name="enable_encrypt_summery2">Varnostne kopije bodo samodejno šifrirane. Za dostop do le teh se prijavite v vaš Mi račun.</string>
   <string name="enable_encrypt_title">Šifriraj varnostne kopije</string>
   <string name="enable_encrypt_xiaomi_account">Varnostno kopijo je ustvaril %1$s. Za obnovitev izbrišite trenutni račun in se prijavite kot %2$s.</string>
-  <string name="err_authentication_failed">Kontrola avtentičnosti ni uspela</string>
+  <string name="err_authentication_failed">Kontrola ni uspela</string>
   <string name="err_bakfile_broken">"Ne morem uporabiti te var. kopije."</string>
   <string name="err_filesystem_mount">"Ne morem pristopiti prostoru za shranjevanje na routerju"</string>
   <string name="err_low_storage">Premalo prostora</string>
@@ -141,28 +141,28 @@ nastavitev in aplikacij"</string>
   <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
   <string name="hsa_code_null">Koda za preverjanje ne sme biti prazna</string>
   <string name="hsa_input_hint">Vnesite kodo za preverjanje</string>
-  <string name="hsa_input_tip">Vaš iCloud ID omogoča preverjanje avtentičnosti z dvema faktorjemaa. Vnesite kontrolno kodo.</string>
+  <string name="hsa_input_tip">Vaš Apple ID uporablja avtorizacijo z dvema faktorjema. Vnesite kontrolno kodo.</string>
   <string name="hsa_send_again">Pošlji ponovno</string>
   <string name="hsa_send_again_countdown">Pošlji ponovno (%ds)</string>
   <string name="hsa_send_failed">Pošiljanje kontrolne kode ni uspelo. Poskusite ponovno kasneje.</string>
   <string name="hsa_sending">Pošiljanje…</string>
-  <string name="hsa_tip_message">"1.Sporočilo ki vsebuje kontrolno kodo bo poslano na telefon povezan z iCloud\r\n\r\n2. Izključite avtentifikacijo z dvema faktorjema če ne uspete potrditi."</string>
+  <string name="hsa_tip_message">"1.Sporočilo ki vsebuje kontrolno kodo bo poslano na telefon povezan z vašim Apple ID.\r\n2. Izključite avtentifikacijo z dvema faktorjema če ne uspete potrditi."</string>
   <string name="hsa_tip_message_shutdown_hsa">Kako izključiti avtorizacijo z dvema faktorjema</string>
-  <string name="hsa_tip_message_with_device">"1.Sporočilo ki vsebuje kontrolno kodo bo poslano na telefon "%s" povezan z iCloud\r\n\r\n2. Izključite avtentifikacijo z dvema faktorjema če ne uspete potrditi."</string>
+  <string name="hsa_tip_message_with_device">"1.Sporočilo ki vsebuje kontrolno kodo je poslano na telefon "%s" povezan z vašim Apple ID.\r\n2. Izključite avtentifikacijo z dvema faktorjema če ne uspete potrditi."</string>
   <string name="hsa_tip_title">Nasveti:</string>
   <string name="hsa_title">Avtorizacija z dvema faktorjema</string>
   <string name="hsa_verify_failed">Avtorizacija z dvema faktorjema ni uspela</string>
   <string name="hsa_verify_failed_message">Avtorizacija z dvema faktorjema ni uspela. Poskusite ponovno ali izključite avtorizacijo z dvema faktorjema.</string>
   <string name="hsa_verify_retry">Poskusi ponovno</string>
   <string name="hsa_verify_shutdown">Izključi</string>
-  <string name="icloud_backup_tip">Prijavite se v iCloud iz ID stare Apple naprave</string>
-  <string name="icloud_how_to_backup_tip_steps">"1. Pojdite v Nastavitve v svoji iOS napravi, nato izberite iCloud.\r\n2.Vključite Stiki.\r\n3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
-  <string name="icloud_how_to_backup_tip_summary">Da boste uvozili podatke iz iOS-a, morate podatke o starih napravah prenesti na iCloud.</string>
+  <string name="icloud_backup_tip">Prijavite se v iCloud račun iz stare Apple naprave</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.\r\n2.Vključite Stiki.\r\n3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
+  <string name="icloud_how_to_backup_tip_summary">Da boste uvozili podatke iz iOS-a, morate napraviti iCloud var. kopijo.</string>
   <string name="icloud_how_to_backup_tip_title">Nasveti:</string>
   <string name="icloud_login_title">Prijavi se v iCloud</string>
-  <string name="icloud_need_sync">"Da boste uvozili podatke iz iOS-a, morate podatke o starih napravah prenesti na iCloud."</string>
-  <string name="icloud_need_wifi_message">WiFi trenutno ni povezan. Da biste uvozili podatke iz iClouda, potrebujete WiFi za prijavo in prenos podatakov.</string>
-  <string name="icloud_need_wifi_title">Potreban je WiFi</string>
+  <string name="icloud_need_sync">"Da boste uvozili podatke iz iOS-a,\r\morate najprej napraviti iCloud var. kopijo"</string>
+  <string name="icloud_need_wifi_message">WiFi trenutno ni povezan. Da boste uvozili podatke iz iClouda, potrebujete WiFi.</string>
+  <string name="icloud_need_wifi_title">Poveži se na WiFi</string>
   <string name="import_again">Ponovno uvozi</string>
   <string name="import_data_from_icloud">Uvozi podatke iz iClouda</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Prenesi Mi Talk in se prijavi.
@@ -209,10 +209,10 @@ nastavitev in aplikacij"</string>
   <string name="notif_icloud_canceled_summary">Preklicano</string>
   <string name="notif_icloud_canceling_summary">Preklic…</string>
   <string name="notif_icloud_import_title">Uvozi podatke iz iClouda</string>
-  <string name="notif_icloud_loaded_summary">Čakam prenos podatakov</string>
+  <string name="notif_icloud_loaded_summary">Čakanje…</string>
   <string name="notif_icloud_loading_summary">Nalaganje podatakov…</string>
-  <string name="notif_icloud_logining">Prijavite se v iCloud z ID stare Apple naprave…</string>
-  <string name="notif_icloud_need_wifi_summary">Počakaj na Wifi</string>
+  <string name="notif_icloud_logining">Prijavljanje v iCloud z staro Apple napravo…</string>
+  <string name="notif_icloud_need_wifi_summary">Čakanje na Wifi</string>
   <string name="notif_icloud_saved_summary">Uvoz je končan</string>
   <string name="notif_icloud_saving_summary">Vračanje podatkov…</string>
   <string name="notif_restore_complete_title">Uspešno vrnjeno</string>
@@ -258,10 +258,12 @@ nastavitev in aplikacij"</string>
   <string name="retry">Poskusite znova</string>
   <string name="reverse_all">Prekliči izbrano</string>
   <string name="router_backup_hint">Ne ugasnite naprave</string>
-  <string name="save_finish_with_failing_items">"Uvoz je prekinjen. Nekateri podatki so uvoženi\r\nPreostali podatki se morajo ponovno uvoziti"</string>
-  <string name="saving_data">"Uvoz podatkov iz iClouda\r\n\r\nNe izključite ali zamenjajte WiFi"</string>
+  <string name="save_finish_with_failing_items">"Prenos je prekinjen.\r\nPodatki ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
+  <string name="saving_data">"Uvoz podatakov iz iClouda…
+ Ne izklučite WiFi"</string>
   <string name="saving_data_no_time">Vračanje podatkov</string>
-  <string name="saving_data_space_low">"Ni dovolj prostora\r\nOsvobodite najmanj %s"</string>
+  <string name="saving_data_space_low">"Ni dovolj prostora.
+  Osvobodite najmanj %s"</string>
   <string name="sc_bad_request">Neveljavna zahteva</string>
   <string name="sc_internal_server_error">Napaka strežnika</string>
   <string name="sc_network_unavailable">Preverite povezavo in poskusite ponovno.</string>
@@ -283,7 +285,7 @@ nastavitev in aplikacij"</string>
   <string name="select_item_empty_summary">Ni vsebine</string>
   <string name="select_item_photos">Fotografije</string>
   <string name="select_item_summary_loading">Nalaganje podatkov…</string>
-  <string name="select_item_summary_wait">Počakaj nalaganje podatkov</string>
+  <string name="select_item_summary_wait">Čakanje…</string>
   <string name="select_storage_location">Izberite lokacijo var. kopije</string>
   <string name="service_stoped">Storitev je zaustavljena</string>
   <string name="settings_summary">"Nastavitve telefona in sporočil</string>
@@ -357,7 +359,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_disconnected_tips_message">Daljinska naprava ni povezana. Ponovno se povežite ročno. Če je potrebno lahko prekličete trenutno nalogo.</string>
   <string name="trans_disconnected_tips_title">Daljinska naprava ni povezana</string>
   <string name="trans_generate_qr_code_failed">"Ne morem izdelati QR kode"</string>
-  <string name="trans_intro_desc_1">"Na Xiaomi napravi se povežite na WiFi. Tapnite "Sem prejmnik", in potem izberite "Apple naprava". Prijavite se v iCloud in uvozite podatke."</string>
+  <string name="trans_intro_desc_1">"Na Mi telefonu se povežite na WiFi. Tapnite \"Sem prejemnik\".Potem izberite "Apple naprava". Prijavite se v iCloud in uvozite podatke."</string>
   <string name="trans_intro_desc_3">Prekličite prenos, zaprite Mi Mover in začnite ponovno. Dvojne datoteke bodo prepisane med ponovnim prenosom.</string>
   <string name="trans_intro_desc_4">"Mi Mover za prenos datotek uporablja WiFi. Zaradi tega se ne morete povezati v splet preko WiFi ja v času prenosa. Mobilne podatke pa lahko uporabljate. Nekatere novejše naprave (npr. Mi 6) se pa kljub temu lahko povežejo na splet v času prenosa."</string>
   <string name="trans_intro_desc_5">Prostor za shranjevanje se na starih napravah uporablja za izdelavo paketov prenosa. Pred prenosom preverite ali imate na voljo najmajn 500 MB - 1 GB d prostora na svojem starem telefonu.</string>
@@ -370,7 +372,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_intro_desc_new">"Pritisnite \"Jaz sam prejemnik\". Generirala se bo QR koda."</string>
   <string name="trans_intro_desc_old">"Pritisnite \"Jaz sem pošiljatelj\". Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
   <string name="trans_intro_desc_private">"Mi Mover ne more dostopati do fotografij v skritem albumu ker so šifrirane. Te fotografije lahko prenesete z Mi Clouda na novi napravi."</string>
-  <string name="trans_intro_question_1">1. Kako uporabiti Mi Mover?</string>
+  <string name="trans_intro_question_1">1. Kako uporabiti Mi Mover za premeščanje podatakov iz iOS naprave ?</string>
   <string name="trans_intro_question_2">1. Kako uporabiti Mi Mover za premeščanje podatakov iz Android naprave?</string>
   <string name="trans_intro_question_3">3. Kaj naj naredim če je Mi Mover zablokiral v določenem koraku?</string>
   <string name="trans_intro_question_4">"4. Zakaj ne morem uporabljati WiFi v času prenosa?"</string>
@@ -455,7 +457,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_waiting_ensurance">"Poskrbite da je druga naprava vključena 
   in Mi Mover vključen"</string>
   <string name="trans_waiting_for_sender">Čakanje povezovanja druge naprave…</string>
-  <string name="trans_wlan_tips_message">"Ne izključite niti zamenjajte WiFi med prenosom podatkov. Drugače bo prenos prekinjen."</string>
+  <string name="trans_wlan_tips_message">"Ne izključite niti zamenjajte WiFi med prenosom podatkov. Drugače Mi Mover ne bo mogel pošiljati podatke."</string>
   <string name="trans_wlan_tips_title">"Ne izključite niti zamenjajte WiFi med prenosom podatkov"</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">predmeti</string>

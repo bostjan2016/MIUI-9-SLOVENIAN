@@ -108,6 +108,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="adjust_traffic_data">Nastavite porabo podatkov</string>
   <string name="after_the_lock_screen">"Zakleni aplikacije skupaj z zaslonom."</string>
   <string name="all_address_choose_hint">Vse številke v tej pokrajini</string>
+  <string name="already_close_gamebooster">Pohitritev hitrosti igranja je izključeno</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
   <string name="anti_disturb_msg_detail">Izključi vsa obvestilajesti, razen za dohodne klice</string>
   <string name="anti_disturb_msg_title">DND</string>
@@ -478,6 +479,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="block_message_number">SMS-ov: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Klicev: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_done">Uspešno pohitreno</string>
+  <string name="boost_stop">Izključi pohitritev</string>
   <string name="booster_immediately">Pohitri</string>
   <string name="booster_suc">Uspešno pohitreno</string>
   <string name="boostering">Hitrost pospešitve…</string>
@@ -692,6 +694,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="data_usage_warning_body_notify">Tapnite za prikaz podrobnosti</string>
   <string name="data_usage_warning_title">Opozorilo porabe podatkov</string>
   <string name="data_usage_warning_title_notify">Prekoračena omejitev uporabe podatkov</string>
+  <string name="databooster_tips_message">Vključite da omejite vse SIM kartice razen podatkovne kartice. Izključite to storitev če pride do napak v igrah po vaši izbiri.</string>
+  <string name="databooster_tips_title">Pozor</string>
   <string name="datausage_ignore_app_list_count">"Ignoriranje porabe podatkov aplik. %d"</string>
   <string name="datausage_purchase_backto_ns">Nazaj</string>
   <string name="datausage_purchase_banner_title">%s ponudba doplačila (ekskluzivno)</string>
@@ -886,6 +890,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="flow_rank_title">Uporaba podatkov</string>
   <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovale če niste povezani na WiFi omrežje."</string>
   <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
+  <string name="forbid_autobright_summary">"Osvetlitev zaslona bo ostala ista kadar igrate igre"</string>
   <string name="forbid_autobright_title">Popravi osvetlitev zaslona</string>
   <string name="foreground_traffic">Prednja stran %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
@@ -904,6 +909,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="fw_blocked_join">" in "</string>
   <string name="game_anti_disturb_msg">Igre DND</string>
   <string name="game_booster">Pohitritev igranja</string>
+  <string name="game_booster_close">Pohitritev igranja je izključena</string>
   <string name="game_booster_intro">O Pohitritvi igranja</string>
   <string name="game_booster_jump_webview">Samo trenutek…</string>
   <string name="game_booster_tab_top">Najboljše</string>
@@ -2786,6 +2792,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="wlan_booster">WiFi optimizacija</string>
   <string name="wlan_change_protection_detail">"Ne zamenjaj samodejno na WiFi ko je povezano na mobilno omrežje"</string>
   <string name="wlan_change_protection_title">Prepreči menjavo omrežij promjenu mreža</string>
+  <string name="xunyou_net_booster">Povečaj hitrost omrežja</string>
+  <string name="xunyou_net_booster_detail">Uporabi Xunyou uslugo povečanja hitrosti za igranje</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite še</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obvestila Mi Data plana</string>
   <string name="xiaomi_traffic_pass_exhausted">"Ni dostopnih mobilnih podatkovna vašem Mi Data načrtu. Prestavljeno na načrt podatkov vašega mobilnega operaterja."</string>

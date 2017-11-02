@@ -30,14 +30,14 @@
      </plurals>
      <plurals name="save_item_saved_summary">
          <item quantity="other">Uvožene in obnovljene stvari: %d</item>
-         <item quantity="one">Uvožena in obnovljena stvar: %d</item>
+         <item quantity="one">Uvožena in obnovljena %d stvar</item>
      </plurals>
      <plurals name="save_item_failed_summary_seg1">
-         <item quantity="other">"Uvožene stvari: %d, "</item>
-         <item quantity="one">"Uvožena stvar: %d, "</item>
+         <item quantity="other">"Uvoženo stvari: %d"</item>
+         <item quantity="one">"Uvožena %d stvar."</item>
      </plurals>
      <plurals name="save_item_failed_summary_seg2">
-         <item quantity="other">Potrebno je ponovno uvoziti stvari: %d</item>
-         <item quantity="one">Potrebno je ponovno uvoziti stvar: %d</item>
+         <item quantity="other">Ponovno uvozite stvari %d</item>
+         <item quantity="one">Ponovno uvozite stvar %d</item>
      </plurals>
 </resources>
