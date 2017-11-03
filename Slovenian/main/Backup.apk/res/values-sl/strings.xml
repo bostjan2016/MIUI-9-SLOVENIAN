@@ -69,7 +69,7 @@ nastavitev in aplikacij"</string>
   <string name="close_twice_auth_note">"Beležka:\nKo napravite novo varnostno vprašanje in potrdite datum rojstva, bo funkcija dvojne avtentifikacije izključena. Če ne vidite opcije izključitve dvojne prverbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
   <string name="close_twice_auth_operation">"Spletna stran:\nhttps://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="close_twice_auth_step_1">1. Odprite brskalnik na računalniku in pojdite na appleid.apple.com.</string>
-  <string name="close_twice_auth_step_2">2. Prijavite se na Apple ID za katerega želite onemogočiti avtorizacijo z dvemsa faktorjemaa, pojdite na poglavje \"Varnost\" v nastavitvah računa in izberite \"Uredi\"</string>
+  <string name="close_twice_auth_step_2">2. Prijavite se na Apple ID za katerega želite onemogočiti avtorizacijo z dvema faktorjema, pojdite na poglavje \"Varnost\" v nastavitvah računa in izberite \"Uredi\"</string>
   <string name="close_twice_auth_step_3">3. Kliknite \"Izključi avtorizacijo z dvemaa faktorjema\". Kliknite ponovno za potrditev.</string>
   <string name="close_twice_auth_steps">Sledite te korake da boste izključili avtorizacijo z dvema faktorjema za Apple ID:</string>
   <string name="close_twice_auth_tutor">Izključite Apple ID avtorizacijo z dvema faktorjema</string>
@@ -260,7 +260,7 @@ nastavitev in aplikacij"</string>
   <string name="router_backup_hint">Ne ugasnite naprave</string>
   <string name="save_finish_with_failing_items">"Prenos je prekinjen.\r\nPodatki ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
   <string name="saving_data">"Uvoz podatakov iz iClouda…
- Ne izklučite WiFi"</string>
+ Ne izključite WiFi"</string>
   <string name="saving_data_no_time">Vračanje podatkov</string>
   <string name="saving_data_space_low">"Ni dovolj prostora.
   Osvobodite najmanj %s"</string>
