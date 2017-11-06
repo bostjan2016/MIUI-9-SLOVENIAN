@@ -2276,6 +2276,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_notifications_summary_show">Pokaži vso vsebino obvestil</string>
   <string name="lock_screen_notifications_summary_show_profile">Pokaži vso vsebino obvestil za delovni profil</string>
   <string name="lock_screen_notifications_title">Na zaklenjenem zaslonu</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Nikoli ne zahtevaj gesla.</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Takoj je potrebno geslo</string>
   <string name="lock_screen_secure_after_timeout_summary">Potrebno je geslo za %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Potrebno je geslo</string>
@@ -2968,10 +2969,10 @@ Na tej napravi je več uporabnikov.
   <string name="open_miui_optimization_title">Vključi MIUI optimizacijo</string>
   <string name="open_miui_optimization_warning_message">Vaša naprava se bo ponovno zagnala za uveljavitev sprememb</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Zapri</string>
-  <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati QuickCard in prejemati posodobitev. Izključim zdaj?"</string>
-  <string name="open_personal_assistant_dialog_title">Izključi QuickCard</string>
-  <string name="open_personal_assistant_title">Vključi QuickCard</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Izključi</string>
+  <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati zakl. aplikacij in prejemati posodobitev. Izključim?"</string>
+  <string name="open_personal_assistant_dialog_title">Izključi zakl. aplikacij</string>
+  <string name="open_personal_assistant_title">Vključi zakl. aplikacij</string>
   <string name="open_sdcard_optimization_title">Vključi optimizacijo SD kartice</string>
   <string name="open_sdcard_optimization_warning_message">Vaša naprava se bo ponovno zagnala.</string>
   <string name="open_wifi_connect_summary">"Dotaknite se za urejanje"</string>
@@ -3270,6 +3271,7 @@ Na tej napravi je več uporabnikov.
   <string name="phone_language">Jezik</string>
   <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">Fizična tipkovnica</string>
+  <string name="pick_up_gesture_wakeup_title">Izberite kretno za zbujanje naprave</string>
   <string name="pico_installed">Nameščeno</string>
   <string name="pico_languages_and_voices">Jeziki in glasovi</string>
   <string name="pico_not_installed">Ni nameščeno</string>

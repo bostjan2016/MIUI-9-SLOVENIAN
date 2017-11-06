@@ -126,7 +126,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_choose_engine_update_disable_toast">"Ne morem spremeniti definicijo v času preverjanja"</string>
   <string name="antivirus_longtime_no_update">Kaže da so vaše definicije virusov zastarele. Redna posodabljanja pomagajo doseganju boljšega rezultata pregleda. Dovolim aplikaciji Varnost povezavo  spletom da posodobi definicije virusov?</string>
   <string name="antivirus_longtime_no_update1">Kaže da so vaše definicije virusov zastarele. Redna posodabljanja pomagajo doseganju boljšega rezultata pregleda.. Posodobite definicije in poskusite ponovno.</string>
-  <string name="antivirus_main_activity_back">Pojdi nazaj iz skeniranja varnosti</string>
+  <string name="antivirus_main_activity_back">Nazaj</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši tvegane aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
   <string name="antivirus_monitor_clean_tips">Izbrisani predmeti: %s</string>
@@ -171,6 +171,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_install_tips_go_to">Odpri</string>
   <string name="app_install_tips_install_success">%1$s uspešno nameščen</string>
   <string name="app_maanger_app_uninstalled_toast">Ta aplikacija je odstranjena</string>
+  <string name="app_manager_advanced_setting">Napredne nastavitve</string>
+  <string name="app_manager_allow">Da</string>
   <string name="app_manager_app_ifno_version">Verzija aplikacije</string>
   <string name="app_manager_app_info_label">Informacije o aplikaciji</string>
   <string name="app_manager_app_info_name">Ime aplikacije</string>
@@ -205,10 +207,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_details_storage_title">Prostor za shranjevanje</string>
   <string name="app_manager_details_traffic_title">Uporaba mobilnih podatkov ta mesec</string>
   <string name="app_manager_disable">"Ne dovoli"</string>
-  <string name="app_manager_disable_dlg_text">Če onemogočite to aplikacijo, druge aplikacije morda ne bodo delal kakor bi morale..</string>
-  <string name="app_manager_disable_dlg_title">Onemogočim vgrajeno aplikacijo?</string>
+  <string name="app_manager_disable_dlg_text">Če onemogočite to aplikacijo druge aplikacije morda ne bodo delale normalno.</string>
+  <string name="app_manager_disable_dlg_title">Onemogočim aplikacijo sistema?</string>
   <string name="app_manager_disable_text">Onemogoči</string>
   <string name="app_manager_disabled">Onemogočeno</string>
+  <string name="app_manager_disabled_by_admin">Onemogočil skrbnik</string>
   <string name="app_manager_dlg_cancel">Prekini</string>
   <string name="app_manager_dlg_ok">V redu</string>
   <string name="app_manager_enable_text">Omogoči</string>
@@ -225,6 +228,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_go_to_manger_app">Urejaj</string>
   <string name="app_manager_have_not_consume">Nič</string>
   <string name="app_manager_hide_system_server">Skrij sistemske storitve</string>
+  <string name="app_manager_install_other_app">Namesti aplikacije iz neznanih virov</string>
   <string name="app_manager_instruction">Inštrukcije</string>
   <string name="app_manager_loading_data">Prenašam podatke…</string>
   <string name="app_manager_manage_space">Urejaj prostor</string>
@@ -235,6 +239,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_net_control_title">Omeji uporabo podatkov</string>
   <string name="app_manager_net_mobile">Podatki</string>
   <string name="app_manager_net_wifi">WiFi</string>
+  <string name="app_manager_not_allow">Ne</string>
   <string name="app_manager_not_record">"Ne morem najti aplikacije ki zahtevajo dovoljenja"</string>
   <string name="app_manager_notify_bar">Značke</string>
   <string name="app_manager_notify_floating">Lebdeča obvestila</string>
@@ -275,7 +280,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
  
   "&lt;li&gt;Onemogočene aplikacije&lt;/li&gt;"
   "&lt;li&gt;Obvestila onemogočnih aplikacij&lt;/li&gt;"
-  "&lt;li&gt;Privzete aplikacije za opravila&lt;/li&gt;"
+  "&lt;li&gt;Privzete aplikacije&lt;/li&gt;"
   "&lt;li&gt;Omejitve podatkov v ozadju za aplikacije&lt;/li&gt;"
  
    Ne boste izgubili podatkov aplikacije."</string>
@@ -760,6 +765,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dialog_msg_auto_start_declare">Nekatere aplikacije lahko napačno zaznajo da jim je MIUI preprečil zagon. Preverite dovoljenje za posamično aplikacijo v Nastavitve - Aplikacije.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zaustavim varnostno preverjanje plačila?</string>
   <string name="dialog_msg_stop_virus_scan">Želite ustaviti varnostno preverjanje?</string>
+  <string name="dialog_no_longer_alert">"Ne kaži več”</string>
   <string name="dialog_roaming_apps_sorted_title">Razvrsti po</string>
   <string name="dialog_roaming_message">Aplikacije na seznamu dovoljenih se bodo lahko povezovale na podatkovne storitve v mednarodnem gostovanju. Dodam to aplikacijo na seznam dovoljenih?</string>
   <string name="dialog_roaming_title">Gostovanje</string>
@@ -2048,7 +2054,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="safe_result_item_info_wifi_encryption">WiFi šifriran</string>
   <string name="safe_result_item_info_wifi_fake">Ni nepravo</string>
   <string name="safepay_alert_dialog_button_continue">Nadaljuj</string>
-  <string name="safepay_alert_dialog_button_risk">Popravi</string>
+  <string name="safepay_alert_dialog_button_fix">Popravi</string>
   <string name="safepay_alert_dialog_button_unknown">Preveri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Najdeno tveganje! Prekini trenutno plačilo!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne morem preveriti varnost plačila. Povežite se na splet in poskusite ponovno.&lt;/font&gt;"</string>
@@ -2060,7 +2066,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="saving_conflict_restrictbackground_msg">""Ne morem uporabljati varčevanje podatkov ko so podatki v ozadju omejeni. Dovolim podatke v ozadju in vključim Varčevanje podatkov?"</string>
   <string name="sc_allow_network_dialog_message">Ta aplikacija potrebuje povezavo na splet za normalano delo.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te funkcije"</string>
-  <string name="sc_system_risk_fix_info_xspace">Tveganje se ne more popraviti v xspace, premesrite se na lastniški prostor da ga popravite.</string>
+  <string name="sc_system_risk_fix_info_xspace">To se ne može rešiti v Drugem prostoru. Poskusite ponovno v Prvem prostoru.</string>
   <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
   <string name="scan_status_risk">Tvegano</string>
   <string name="scan_status_safe">Varno</string>
@@ -2147,7 +2153,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sorted_dialog_title">Razvrsti po</string>
   <string name="sp_back_title_text_zero">Zaščiti</string>
   <string name="sp_background_risk_dialog_summary">, preglejte in popravite težave s plačili</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Povezani ste z javnim WiFi omrežjem ki je lahko nevarno. Preverite ali je plačilo varno preden ga dokončate.</string>
   <string name="sp_background_risk_dialog_title">Pozor</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Opozorila javnega WiFi-ja</string>
   <string name="sp_background_risk_type_messaging">Sistemska aplikacija za izmenjavo sporočil je zamenjana</string>
   <string name="sp_background_risk_type_root">Sistem je ROOT-an</string>
   <string name="sp_background_risk_type_sign">Neuradna aplikacija je zagnana</string>
@@ -2765,7 +2773,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="virus_update_fail">"Ne morem posodobiti"</string>
   <string name="virus_update_success">Uspešno posodobljeno</string>
   <string name="virus_update_tips_title">Opozorilo</string>
-  <string name="virus_wait_network_dialog_message">Vaš telefon ni povezan na WiFi omrežje. Porabili boste večjo količino mobilnih podatkov. nadaljujem ?</string>
+  <string name="virus_wait_network_dialog_message">Vaša naprava ni povezana z WiFi omrežjem. Uporabim mobilno podatkovno povezavo?</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">Določena podatkovna povezava je izključena</string>
   <string name="vpn_unbale_get_phonenum">"Ne morem dobiti telefonskih številk s pomočjo določenik podatkovnih povezav"</string>

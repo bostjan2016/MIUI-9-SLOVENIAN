@@ -290,7 +290,7 @@
   <string name="finished">Končano</string>
   <string name="flow_setting">Nastavitve</string>
   <string name="folder_exist">Mapa že obstaja.</string>
-  <string name="folder_name_empty">Ime mape ne more biti prazno</string>
+  <string name="folder_name_empty">"Ime mape ne more biti prazno"</string>
   <string name="folder_name_illegal">Nepravilno ime mape</string>
   <string name="follow_fail">"Ne morem spremljati, poskusite ponovno kasneje"</string>
   <string name="follow_success_tip">Uspešno se spremlja</string>
@@ -504,7 +504,7 @@
   <string name="my_photo_desc"/>
   <string name="my_video">Videoposnetki</string>
   <string name="my_video_desc"/>
-  <string name="name_empty">Morate vnesti ime.</string>
+  <string name="name_empty">Vnesite ime.</string>
   <string name="need_read_storage_permission">"Aplikacija Raziskovalec za normalno delovanje potrebuje dovoljenje za dostop do pomnilnika naprave"</string>
   <string name="net_lose_connected">Povezava izgubljena.</string>
   <string name="networkView_notConnected">"Ne morem se povezati na omrežje"</string>

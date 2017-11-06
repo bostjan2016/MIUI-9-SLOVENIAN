@@ -56,9 +56,9 @@
   <string name="cloud_app_restore_title">Na čakanju</string>
   <string name="configure_wallpaper">Nastavitve</string>
   <string name="confirm_btn_label">V redu</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Podvojene aplikacije bodo odstranjene skupaj s temi.</string>
-  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Podvojena aplikacija bo odstranjena skupaj s to.</string>
-  <string name="confirm_uninstall_dialog_title">Podvojene aplikacije bodo odstranjene.</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dvojne aplikacije bodo odstranjene skupaj s temi.</string>
+  <string name="confirm_uninstall_dialog_has_xspace_app_msg">Dvojna aplikacija bo odstranjena skupaj s to.</string>
+  <string name="confirm_uninstall_dialog_title">Dvojne aplikacije bodo odstranjene.</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutni</string>
   <string name="custom_wallpaper_picker">Brskaj</string>
@@ -194,9 +194,9 @@
   <string name="out_of_space">Ni več prostora na tem zaslonu</string>
   <string name="permdesc_install_shortcut">Dovoli aplikaciji da doda bližnjice brez uporabnikovega posredovanja.</string>
   <string name="permdesc_install_widget">Programu omogoča dodajanje pripomočkov brez posredovanja uporabnika.</string>
-  <string name="permdesc_read_settings">Aplikacijam omogoča branje nastavitev in bližnjic na začetnem zaslonu.</string>
+  <string name="permdesc_read_settings">Aplikaciji omogoča branje nastavitev in bližnjic na začetnem zaslonu.</string>
   <string name="permdesc_uninstall_shortcut">Dovoli aplikaciji da odstrani bližnjice brez posredovanja uporabnika.</string>
-  <string name="permdesc_write_settings">Aplikacijam omogoča spreminjanje nastavitev in bližnjic na začetnem zaslonu.</string>
+  <string name="permdesc_write_settings">Aplikaciji omogoča spreminjanje nastavitev in bližnjic na začetnem zaslonu.</string>
   <string name="permlab_install_shortcut">Naloži bližnjice</string>
   <string name="permlab_install_widget">Naloži pripomočke</string>
   <string name="permlab_read_settings">Preberi nastavitve začetnega zaslona in bližnjice</string>

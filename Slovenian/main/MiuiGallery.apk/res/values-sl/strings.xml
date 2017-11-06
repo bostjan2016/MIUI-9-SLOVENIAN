@@ -755,7 +755,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="photo_editor_crop_reset">Resetiraj</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Doodle</string>
-  <string name="photo_editor_filter">Filter</string>
+  <string name="photo_editor_filter">Filtri</string>
   <string name="photo_editor_label">Uredi</string>
   <string name="photo_editor_long_crop">Obreži</string>
   <string name="photo_editor_miui_beauty">Olepšaj</string>
@@ -785,7 +785,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="photo_editor_remover">Izbriši</string>
   <string name="photo_editor_rotate">Obrni</string>
   <string name="photo_editor_saving">Shranjevanje…</string>
-  <string name="photo_editor_sticker">Nalepka</string>
+  <string name="photo_editor_sticker">Nalepke</string>
   <string name="photo_editor_text">Tekst</string>
   <string name="photo_page_save_uri_image_fail">"Ni bilo možno shraniti v Galerijo"</string>
   <string name="photo_page_save_uri_image_ok">Slika shranjena v Galerijo</string>
