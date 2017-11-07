@@ -137,6 +137,7 @@
   <string name="delete_wild_sims_title">Izbriši izbrane številke</string>
   <string name="delivery_report_activity">Poročilo o dostavi</string>
   <string name="delivery_toast_body">%s prejel/a sporočilo.</string>
+  <string name="dialog_message_sms_report">"Spam sporočila in informacije o pošiljatelju bodo poslani MIUI če jih prijavite. Uporabile se bodo samo za izboljšanje MIUI spam filtra."</string>
   <string name="disable_notifications_dialog_message">Ustavim podvajanje besedilnih sporočil iz privzete aplikacije za sporočila?</string>
   <string name="disabled">Izključeno</string>
   <string name="discard">Zavrzi</string>
@@ -435,6 +436,7 @@
   <string name="pref_smart_messages_settings">Pametna sporočila</string>
   <string name="pref_sms_theme_title">Nastavitve teme</string>
   <string name="pref_summary_allow_si_sl_push">Dovoli sporočilom branje spletnih strani</string>
+  <string name="pref_summary_allow_upload_message_info">"Spam sporočila in informacije o pošiljatelju bodo poslani MIUI če jih prijavite."</string>
   <string name="pref_summary_auto_delete">Ko se doseže omejitev izbriši stara sporočila </string>
   <string name="pref_summary_delete_limit">%1$s sporočil na pogovor</string>
   <string name="pref_summary_delivery_reports">Prikaži stanje dostave za vsako sporočilo ki ga pošljete</string>
@@ -458,6 +460,7 @@
   <string name="pref_time_auto_group_title">Skupinska sporočila</string>
   <string name="pref_title_about_smart_sms">O partnerju Smart sporočila</string>
   <string name="pref_title_allow_si_sl_push">Dovoli WAP push sporočila (SI/SL)</string>
+  <string name="pref_title_allow_upload_message_info">Pošlji spam sporočila</string>
   <string name="pref_title_auto_delete">Izbriši stara sporočila</string>
   <string name="pref_title_card_format">Deli kartični format</string>
   <string name="pref_title_delivery_reports">Status dostave</string>
@@ -622,6 +625,7 @@
   <string name="sms_full_title">Spomin za sporočila je poln</string>
   <string name="sms_rejected_body">Dohodno sporočilo je bilo zavrnjeno.</string>
   <string name="sms_rejected_title">Sporočilo je bilo zavrnjeno</string>
+  <string name="sms_report">Prijavi spam sporočila</string>
   <string name="sms_report_dialog_content">"Ne morem poslati poročila, poskusite ponovno."</string>
   <string name="sms_report_dialog_retry">Poskusite ponovno</string>
   <string name="sms_report_dialog_title">Poskusite ponovno</string>
