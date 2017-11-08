@@ -3329,7 +3329,8 @@ Na tej napravi je več uporabnikov.
   <string name="power_wifi">WiFi</string>
   <string name="pre_installed_application">Prednameščene aplikacije</string>
   <string name="pref_button_light">Osvetlitev tipk</string>
-  <string name="pref_button_light_summary">Osvetlitev tipk Meni, Domov in Nazaj</string>
+  <string name="pref_button_light_summary">Osvetlitev tipk Meni, %1$s in Nazaj</string>
+  <string name="pref_button_light_summary_sub">Začetna,</string>
   <string name="pref_edge_handgrip">Kontrole roba</string>
   <string name="pref_operational_key">Navigacijske tipke</string>
   <string name="pref_title_lang_selection">Nastavitve jezika</string>
@@ -5007,11 +5008,11 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="unlock_set_unlock_none_title">Vlečenje</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Brez</string>
-  <string name="unlock_set_unlock_password_summary">Visoka varnost</string>
+  <string name="unlock_set_unlock_password_summary">Vnesite 4 ali več črk ali številk za odklepanje naprave</string>
   <string name="unlock_set_unlock_password_title">Geslo</string>
   <string name="unlock_set_unlock_pattern_summary">Srednja varnost</string>
   <string name="unlock_set_unlock_pattern_title">Vzorec</string>
-  <string name="unlock_set_unlock_pin_summary">Vnesite štiri številke za odklep naprave</string>
+  <string name="unlock_set_unlock_pin_summary">Vnesite 4 številke za odklep naprave</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Nastavi zaklepanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Ko nastavite zaklepanje zaslona lahko tudi nastavite prstni odtis v »Nastavitve &gt; Varnost«.</string>

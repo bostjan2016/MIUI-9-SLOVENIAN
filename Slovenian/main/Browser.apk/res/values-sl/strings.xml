@@ -23,14 +23,14 @@
   <string name="action_menu_account_not_login_hint">Uporabi Cloud nastavitve pri prijavi</string>
   <string name="action_menu_bookshelf">Polica za knjige</string>
   <string name="action_menu_current_version">Trenutna verzija</string>
-  <string name="action_menu_request_desktop_site">Zahteva za klasično stran</string>
-  <string name="action_menu_request_desktop_site_off">Zahteva za klasično stran/izklj</string>
-  <string name="action_menu_request_desktop_site_on">Zahteva za klasično stran/vklj</string>
+  <string name="action_menu_request_desktop_site">Dostop do spletnih strani</string>
+  <string name="action_menu_request_desktop_site_off">Dostop do spletnih strani je izklj.</string>
+  <string name="action_menu_request_desktop_site_on">Dostop do spletnih strani ja vklj.</string>
   <string name="action_menu_text_add_bookmark">Dodaj zaznamek</string>
   <string name="action_menu_text_bandwidth">Varčevanje s podatki</string>
   <string name="action_menu_text_bandwidth_off">Varčevanje izklj.</string>
   <string name="action_menu_text_bandwidth_on">Varčevanje vklj.</string>
-  <string name="action_menu_text_bookmark_add_off">Ne morem dodati nobene spletne strani.</string>
+  <string name="action_menu_text_bookmark_add_off">Ne morem dodati spletne strani.</string>
   <string name="action_menu_text_bookmark_added">Zaznamek dodan</string>
   <string name="action_menu_text_copy_url">Kopiraj povezavo</string>
   <string name="action_menu_text_create_qr_code">QR koda</string>
@@ -65,7 +65,7 @@
   <string name="add_favorites_to">Dodaj v priljubljene</string>
   <string name="add_new_bookmark">Dodaj zaznamek</string>
   <string name="add_new_quicklink">Dodaj na začetno stran</string>
-  <string name="add_pwa_to_homescreen">Dodam spletno stran na začetni zaslon?</string>
+  <string name="add_pwa_to_homescreen">Dodam bližnjico na začetni zaslon?</string>
   <string name="add_ql_bm_title">Shrani</string>
   <string name="add_quicklink_to_popular">Dodaj na začetno stran</string>
   <string name="add_quicklinks">Dodaj</string>
@@ -79,7 +79,7 @@
   <string name="added_to_bookmarks">Dodano med zaznamke</string>
   <string name="adjust_text_zoom_toast">Spreminjanje velikosti besedila lahko povzroči da se nekatere strani ne bodo pravilno prikazale.</string>
   <string name="agree">Strinjam se</string>
-  <string name="agree_permissions_request">Strinjam se</string>
+  <string name="agree_permissions_request">Dovoli</string>
   <string name="alert_tips">Ta stran predstavlja tveganje</string>
   <string name="allow">Dovoli</string>
   <string name="app_new_version">Najnovejša različica te aplikacije je že naložena</string>
@@ -157,7 +157,7 @@
   <string name="close_cloud_tab_tip">Zaprem zavihke v oblaku na %s?</string>
   <string name="cloud_loading_tips">Podrsajte navzdol za sinhronizacijo</string>
   <string name="cloud_no_new_data_toast">Vse je posodobljeno</string>
-  <string name="cloud_sync_closed_toast">Posodobitev ni mogoča ker je sinhroniziranje izključeno</string>
+  <string name="cloud_sync_closed_toast">Za posodobitev vključite sinhronizacijo</string>
   <string name="cloud_sync_failed_toast">Ni mogoče posodobiti</string>
   <string name="cloud_tab">Zavihki v oblaku</string>
   <string name="cloud_time_tips">Zadnja sinhronizacija</string>
@@ -297,7 +297,7 @@ zasebnost​"</string>
   <string name="empty_app_name">Ostale aplikacije</string>
   <string name="empty_bookmark">Prazno</string>
   <string name="empty_cloud_tab_login_hint">Ni cloud kartic</string>
-  <string name="empty_cloud_tab_logout_hint">"Prijava v Mi Račun\nu z odprtimi karticami se bo tu prikazal na drugih napravah"</string>
+  <string name="empty_cloud_tab_logout_hint">"Prijavite se v svoj Mi Račun\nu da vidite odprte kartice na drugih napravah."</string>
   <string name="empty_history_hint">Prazno</string>
   <string name="empty_snapshot_hint">Prazno</string>
   <string name="enable_geolocation_confirm_message">Izklop te funkcije lahko povzroči slabo obnašanje nekaterih spletnih strani.</string>
@@ -325,7 +325,7 @@ zasebnost​"</string>
   <string name="find_on_page_next">Naprej</string>
   <string name="find_on_page_prev">Nazaj</string>
   <string name="find_previous">Najdi prejšnje</string>
-  <string name="finish_sync_cloud_tabs">Sinhronizacija je končana</string>
+  <string name="finish_sync_cloud_tabs">Sinhronizacija je uspela</string>
   <string name="firstUsingSearchEngineTips">Zamenjam iskanje?</string>
   <string name="fling_on_border_gesture_hint">Lahko izberet funkcijo te geste v nastavitvah</string>
   <string name="force_quick_search_title">Išči</string>
@@ -573,12 +573,12 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pay_failed_toast">Ne morem dokončati plačila</string>
   <string name="pay_success_toast">Plačilo uspešno</string>
   <string name="permission_alert_window">Dovoli pojavna okna za uporabo te funkcije.</string>
-  <string name="permission_notification">vam poslati obvestila</string>
+  <string name="permission_notification">poslati obvestila.</string>
   <string name="permission_unknown">Neznano opravilo</string>
-  <string name="permissions_prompt_message">"%s želi da "</string>
+  <string name="permissions_prompt_message">%s želi da</string>
   <string name="popup_window_attempt">Dovolim tej strani da odpre pojavno okno?</string>
   <string name="positive_confirm_message">Izključi vseeno</string>
-  <string name="pref_accept_quicklink_push">Zaženi potisne strani</string>
+  <string name="pref_accept_quicklink_push">Novice</string>
   <string name="pref_accessibility">Dostopnost</string>
   <string name="pref_accessibility_title">Dostopnost</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Skupne kombinacije črk se lahko v naslovni vrstici vnesejo z enim pritiskom</string>
@@ -618,7 +618,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_extras_reset_default_summary">Vrni na privzeto nastavitve</string>
   <string name="pref_extras_reset_default_title">Ostalo</string>
   <string name="pref_extras_send_feedback">Pošlji Pov. informacije</string>
-  <string name="pref_extras_title">Napredno</string>
+  <string name="pref_extras_title">Dodatne nastavitve</string>
   <string name="pref_extras_title_version">Verzija</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Shrani datoteke v privzeto lokacijo</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Vrni lokacijo na privzeto</string>
@@ -698,7 +698,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="quicklink_cannot_save_url">"Ta povezava se ne more dodati."</string>
   <string name="quicklink_folder_text">Najboljše</string>
   <string name="quicklink_not_saved">Ni mogoče dodati na domačo stran</string>
-  <string name="quicklink_push_confirm_message">Izključitev te funkcije bo vpljivalo na zagom potisnih strani.</string>
+  <string name="quicklink_push_confirm_message">Vaša potisna pošta ne bo posodabljana po izključitvi te funkcije. Vseeno izključim?</string>
   <string name="quicklink_saved">Dodano na domačo stran</string>
   <string name="quicklink_saved_before">Ta stran je že bila dodana</string>
   <string name="quicklink_user_define_webpage_title">Ime</string>
@@ -721,7 +721,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="readmode_recommend_message">To knjigo ste že prebrali. Izberite drugo</string>
   <string name="readmode_refresh">Osveži</string>
   <string name="readmodelist_bookmarks_to_show">Bralni seznam</string>
-  <string name="refuse_permissions_request">Zavračam</string>
+  <string name="refuse_permissions_request">Omeji</string>
   <string name="remember_passwords_confirm_message">Izklop te funkcije lahko vpliva na porabo.</string>
   <string name="remove_bookmark">Izbriši zaznamek</string>
   <string name="remove_bookmark_group">Izbriši skupino</string>
@@ -807,7 +807,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="skip_current_version">Preskoči to verzijo</string>
   <string name="snapshot">Lokalno</string>
   <string name="snapshot_failed">Ni bilo mogoče shraniti strani</string>
-  <string name="snapshot_successed">Odpri Oznake/Zgodovina-&gt;LOKALNO za prikaz strani</string>
+  <string name="snapshot_successed">Odpri Oznake &amp; Zgodovina -&gt; LOKALNO za prikaz strani</string>
   <string name="ssl_bad_clock_date_settings">Nastavi datum</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Zasebno povezavo z %s1 ni mogoče vzpostaviti ker datum in ura vaše naprave (%s2) nista točna."</string>
   <string name="ssl_certificate">Varnostni certifikat</string>
