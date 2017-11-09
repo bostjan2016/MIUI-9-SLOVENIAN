@@ -1327,7 +1327,7 @@
   <string name="device_admin_status">Ta skrbnik je aktiven in dovoli aplikaciji %1$s da izvaja naslednje operacije:</string>
   <string name="device_admin_title">Skrbništvo naprave</string>
   <string name="device_admin_warning">Če omogočite tega skrbnika bo aplikacija %1$s lahko izvedla te operacije:</string>
-  <string name="device_available_memory">Dostopen spomin</string>
+  <string name="device_available_memory">Dostopna shramba</string>
   <string name="device_battery">Baterija</string>
   <string name="device_build_id">Verzija</string>
   <string name="device_complete_parameters">Končano</string>
@@ -1344,7 +1344,7 @@
   <string name="device_info_label">Informacije o napravi</string>
   <string name="device_info_not_available">Ni na voljo</string>
   <string name="device_info_settings">Stanje telefona</string>
-  <string name="device_internal_memory">Notranji pomnilnik</string>
+  <string name="device_internal_memory">Notranja shramba</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">Prikaži več</string>
   <string name="device_miui_version">MIUI verzija</string>
@@ -2829,7 +2829,7 @@ Na tej napravi je več uporabnikov.
   <string name="night_mode_yes">Temno</string>
   <string name="no">Ne</string>
   <string name="no_all_caps">NE</string>
-  <string name="no_account_found">Nobena aplikacija ne podpira dodajanje računa</string>
+  <string name="no_account_found">"Ne morem najti aplikacije ki lahko dodajo račune"</string>
   <string name="no_application">Nič</string>
   <string name="no_applications">Ni aplikacij</string>
   <string name="no_battery_summary">Akumulator ni bil uporabljen od zadnje polne napolnjenosti</string>
@@ -3271,7 +3271,7 @@ Na tej napravi je več uporabnikov.
   <string name="phone_language">Jezik</string>
   <string name="phone_language_summary"/>
   <string name="physical_keyboard_title">Fizična tipkovnica</string>
-  <string name="pick_up_gesture_wakeup_title">Izberite kretno za zbujanje naprave</string>
+  <string name="pick_up_gesture_wakeup_title">Dvignite napravo da jo vključite</string>
   <string name="pico_installed">Nameščeno</string>
   <string name="pico_languages_and_voices">Jeziki in glasovi</string>
   <string name="pico_not_installed">Ni nameščeno</string>
@@ -4203,7 +4203,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="settings_backup">Varnostno kopiranje nastavitev</string>
   <string name="settings_backup_summary">Varnostno kopiranje nastavitev</string>
   <string name="settings_button">Nastavitve</string>
-  <string name="settings_forbidden_message">Ta nastavitev je onemogočena</string>
+  <string name="settings_forbidden_message">Ta nastavitev je omejena</string>
   <string name="settings_label">Nastavitve</string>
   <string name="settings_label_launcher">Nastavitve</string>
   <string name="settings_license_activity_loading">Nalaganje …</string>

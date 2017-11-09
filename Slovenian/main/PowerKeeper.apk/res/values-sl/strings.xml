@@ -66,8 +66,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="high">Performanse</string>
   <string name="hints_loading_text">Nalaganje…</string>
   <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
-  <string name="lasttime_applist_cloud">Posodobitev seznama aplikacij:</string>
-  <string name="lasttime_feature_cloud">Posodobitev funkcij:</string>
+  <string name="lasttime_applist_cloud">Posodobljene aplikacije:</string>
+  <string name="lasttime_feature_cloud">Posodobljene funkcije:</string>
   <string name="important_warning">Pozor</string>
   <string name="location_disable_description">Aplikacije v ozadju lahko dobijo lokacijo samo kratek čas, stalni dostop je omejen</string>
   <string name="location_disable_title">Omeji</string>
@@ -87,7 +87,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="new_group_name">Način uporabnika</string>
   <string name="new_power_checker_title">PowerChecker(novo)</string>
   <string name="no_applications">Prazno</string>
-  <string name="nonui_mode_config_description">"Ne vključuj zaslona pri obvestilih, izključi luč obvestil, prstni odtis in kontrolo dotika ko je naprava v žepu."</string>
+  <string name="nonui_mode_config_description">"Ne vključuj zaslona pri obvestilih, izključi svetlobna obvestila, senzor prstnega odtisa in kontrolo dotika za varčevanje baterije ko MIUI odkrije da ne uporabljate naprave."</string>
   <string name="nonui_mode_config_title">Neprekinjeni način</string>
   <string name="none">Ni procesov</string>
   <string name="normal">Privzeto</string>

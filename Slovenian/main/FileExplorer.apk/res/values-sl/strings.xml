@@ -779,6 +779,7 @@
   <string name="search_file_type_other">Ostalo</string>
   <string name="search_file_type_picture">Fotografija</string>
   <string name="search_file_type_video">Video</string>
+  <string name="search_guid_hint">Iskanje datoteke</string>
   <string name="search_hint">Išči</string>
   <string name="search_history">Zgodovina iskanja</string>
   <string name="search_keyword">Oznaka</string>
