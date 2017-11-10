@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
   <string name="accessibility_title">Shramba aplikacij</string>
   <string name="accordingto_position">Prepoznaj pogosta mesta s pomočjo GPS-a</string>
   <string name="account_address">Naslovi</string>
