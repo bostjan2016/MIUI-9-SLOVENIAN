@@ -371,16 +371,16 @@
          <item quantity="one">Blokirano %d krat</item>
 	</plurals>
 	<plurals name="app_usage_day">
-         <item quantity="other">"Ni koriščeno %d dni"</item>
-         <item quantity="one">"Ni koriščeno %d dan"</item>
+         <item quantity="other">"Ni uporabljano %d dni"</item>
+         <item quantity="one">"Ni uporabljano %d dan"</item>
      </plurals>
      <plurals name="app_usage_month">
-         <item quantity="other">"Ni koriščeno %d mesecev"</item>
-         <item quantity="one">"Ni koriščeno %d mesec"</item>
+         <item quantity="other">"Ni uporabljano %d mesecev"</item>
+         <item quantity="one">"Ni uporabljano %d mesec"</item>
      </plurals>
      <plurals name="app_usage_year">
-         <item quantity="other">"Ni koriščeno %d let"</item>
-         <item quantity="one">"Ni koriščeno %d leto"</item>
+         <item quantity="other">"Ni uporabljano %d let"</item>
+         <item quantity="one">"Ni uporabljano %d leto"</item>
      </plurals>
 	 <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
 	    <item quantity="other">"Počakajte %d sek. in poskusite ponovno. "</item>
