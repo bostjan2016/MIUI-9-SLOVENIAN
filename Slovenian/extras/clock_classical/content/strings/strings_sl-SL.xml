@@ -4,4 +4,5 @@
     <string name="date_time_12" value="dd. MM. EEEE"/>
     <string name="desc_date_format" value="dd. MM. EEEE"/>
     <string name="desc_date_format_12" value="dd. MM. EEEE"/>
+    <string name="desc_time">'čas' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', pritisnite dvakrat za prikaz ure'</string>
 </strings>

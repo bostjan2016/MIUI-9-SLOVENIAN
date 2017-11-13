@@ -248,7 +248,7 @@
   <string name="passport_copy_message_vcode">Kopiraj kodo</string>
   <string name="passport_country_code_notice">Koda države</string>
   <string name="passport_delete_account">Odjava</string>
-  <string name="passport_downlink_reg">Napravite račun z uporabo številke telefona</string>
+  <string name="passport_downlink_reg">Telefonska številka</string>
   <string name="passport_email">Naslov E-pošte</string>
   <string name="passport_email_address_notice">E-pošta</string>
   <string name="passport_email_or_id_hint_text">E-mail naslov ali ID Mi računa</string>

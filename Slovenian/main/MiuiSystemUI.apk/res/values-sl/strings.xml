@@ -491,6 +491,7 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="screenshot_saving_ticker">Shranjevanje posnetka zaslona...</string>
   <string name="screenshot_saving_title">Shranjevanje posnetka zaslona...</string>
   <string name="screenshot_send">Pošlji</string>
+  <string name="search_hint">Išči spletne strani, aplikacije, stike in videoposnetke</string>
   <string name="select_application">Izberite aplikacijo</string>
   <string name="select_logd_size_dialog_title">Izberite velikost medpomnilnika zapisnika</string>
   <string name="select_logd_size_title">Velikosti medpomnilnika zapisnika</string>

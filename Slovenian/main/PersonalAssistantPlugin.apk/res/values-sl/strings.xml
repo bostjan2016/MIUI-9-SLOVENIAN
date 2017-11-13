@@ -26,7 +26,7 @@
   <string name="agenda_no_title"> (Brez imena) </string>
   <string name="alipay_scan">Skener</string>
   <string name="already">Končano: </string>
-  <string name="app_label">Shramba aplikacije</string>
+  <string name="app_label">Asistent</string>
   <string name="apps_label">Aplikacije</string>
   <string name="arrive">Pristajanje</string>
   <string name="assistant_day_deadline">Zadnji dan</string>
@@ -94,7 +94,7 @@
   <string name="cta_negative">Zapri</string>
   <string name="cta_positive">Podrobnosti</string>
   <string name="cta_text5">Storitev zahteva spletno povezavo in dostop do lociranja. Se strinjate?</string>
-  <string name="cta_title">Naj vam Shramba aplikacij pomaga</string>
+  <string name="cta_title">Naj vam aplikacija Asistent pomaga</string>
   <string name="didi_back">Nazaj</string>
   <string name="didi_book">Pokliči taksi</string>
   <string name="didi_close">Zapri</string>

@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="accessibility_title">Shramba aplikacij</string>
+  <string name="Clock_main">Alarm</string>
+  <string name="Clock_parent">Ura</string>
+  <string name="MiDrop_main">Pošlji</string>
+  <string name="MiDrop_parent">Mi Drop</string>
+  <string name="Paytm_main">Plačaj</string>
+  <string name="Paytm_parent">Paytm</string>
+  <string name="Whatsapp_main">Fotografije</string>
+  <string name="Whatsapp_parent">Whatsapp</string>
+  <string name="accessibility_title">Asistent</string>
   <string name="accordingto_position">Prepoznaj pogosta mesta s pomočjo GPS-a</string>
   <string name="account_address">Naslovi</string>
   <string name="add_stock">Dodaj</string>
@@ -25,7 +33,7 @@
   <string name="alipay_sdk_payed_show_paycode">Prikaži pri</string>
   <string name="alipay_sdk_payed_success">Uspešno plačano</string>
   <string name="alipay_sdk_tiemout">Hitro plačilo (aplikacija ni potrebna)</string>
-  <string name="app_label">Shramba aplikacij</string>
+  <string name="app_label">Asistent</string>
   <string name="apps">Predlogi aplikacij</string>
   <string name="apps_label">Aplikacije</string>
   <string name="assistant_place">Prepoznaj pogoste kraje</string>
@@ -68,8 +76,6 @@
   <string name="cleanup_memory">Očisti predspomin</string>
   <string name="cleanup_power">Globinsko čiščenje</string>
   <string name="clear">Izbriši</string>
-  <string name="Clock_main">Alarm</string>
-  <string name="Clock_parent">Ura</string>
   <string name="closed">Izklop</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Če težava še naprej obstaja kontaktirajte razvojnega programerja.</string>
   <string name="commute">Predlogi zemljevida</string>
@@ -240,8 +246,6 @@
   <string name="mi_sport">Števec korakov</string>
   <string name="mi_sport_go_install">Prenesi</string>
   <string name="mi_wallet">Denarnica Mi</string>
-  <string name="MiDrop_main">Pošlji</string>
-  <string name="MiDrop_parent">Mi Drop</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Prekliči</string>
@@ -302,8 +306,6 @@
   <string name="paycode_sdk_parent">Bližnjica za plačilo (aplikacija ni potrebna)</string>
   <string name="paycode_sdk_parent_title">Hitro plačilo</string>
   <string name="payment">Moja plačila</string>
-  <string name="Paytm_main">Plačaj</string>
-  <string name="Paytm_parent">Paytm</string>
   <string name="place_label">Pogosta mesta</string>
   <string name="preferences">Prednost</string>
   <string name="preferences_label">Prednost</string>
@@ -461,9 +463,9 @@
   <string name="train_D">D vlak</string>
   <string name="train_G">G vlak</string>
   <string name="train_K">K vlak</string>
-  <string name="train_normal">Redni vlak</string>
   <string name="train_T">T vlak</string>
   <string name="train_Z">Z vlak</string>
+  <string name="train_normal">Redni vlak</string>
   <string name="trans_card">Transportna kartica</string>
   <string name="transit_subway">Javni prevoz</string>
   <string name="try_again">Poskusite znova</string>
@@ -485,8 +487,6 @@
   <string name="walk">Hoja</string>
   <string name="weibo_name">Nova objava</string>
   <string name="weibo_parent">Weibo</string>
-  <string name="Whatsapp_main">Fotografije</string>
-  <string name="Whatsapp_parent">WhatsApp</string>
   <string name="which_transport">Kako običajno pridete do svoje destinacije?</string>
   <string name="widget_fav">Priljubljeno</string>
   <string name="widget_fav_open">Pokaži priljubljeno kartico</string>
