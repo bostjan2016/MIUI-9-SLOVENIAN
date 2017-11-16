@@ -43,6 +43,7 @@
   <string name="account_settings_login_dialog_content_fmt">Ime ali geslo za %s je napačno. Ali jih želite posodobiti zdaj?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Ni bilo mogoče prijaviti se na %s. Strežnik obvešča: %s</string>
   <string name="account_settings_login_dialog_title">Ni bilo mogoče prijaviti se</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">"Morali boste ročno sinhronizirati pošto da boste lahko sinkronizirali sporočila in dogodke koledarja."</string>
   <string name="account_settings_mail_check_frequency_label">Pogostost</string>
   <string name="account_settings_mibill_resolve_label">Samodejno urejaj račune</string>
   <string name="account_settings_name_label">Vaše ime</string>
@@ -82,8 +83,8 @@
   <string name="account_setup_basics_password_label">Vnesite geslo</string>
   <string name="account_setup_basics_title">Dodaj račun</string>
   <string name="account_setup_check_settings_check_incoming_msg">Preverjam nastavitve strežnika ...</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">Preverjam smtp strežnika ...</string>
-  <string name="account_setup_check_settings_retr_info_msg">Pridobivam podrobnosti računa...</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">Preverjanje nastavitve SMPT…</string>
+  <string name="account_setup_check_settings_retr_info_msg">Pridobivanje podatkov računa...</string>
   <string name="account_setup_correct_address_tips">Vnesite naslov e-pošte</string>
   <string name="account_setup_creating_account_msg">Ustvarjam račun...</string>
   <string name="account_setup_deleting_account_msg">Brisanje računa…</string>
@@ -231,6 +232,7 @@
   <string name="auto_remind_unbind">Zaustavi</string>
   <string name="auto_sync_off">Samodejna sinhronizacija je izključena.</string>
   <string name="automatic_remind_text">Opomni</string>
+  <string name="back">Nazaj</string>
   <string name="battery_saver">Varčevanje baterije</string>
   <string name="battery_saver_keywords">Varčevanje baterije;mail battery</string>
   <string name="bcc">Skp</string>
@@ -415,6 +417,7 @@
   <string name="email_setting">Nastavitve E-pošte</string>
   <string name="email_setting_keywords">Računi;Dodaj račun;računi E-pošte;Dodaj račun E-pošte;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
+  <string name="eml_parse_message">Odpiranje EML datoteke…</string>
   <string name="empty_account_tip">Računa ni mogoče najti</string>
   <string name="empty_email_tip">Ni mogoče poslati praznega sporočila</string>
   <string name="empty_spam">Izprazni Vsiljeno pošto</string>
@@ -437,6 +440,7 @@
   <string name="expand_recipient_details">Razširi podrobnosti prejemnikov</string>
   <string name="fail_get_email_message">Prejem sporočila ni uspel</string>
   <string name="failed">Slike ni bilo mogoče naložiti</string>
+  <string name="failed_parse_eml_file">"Ne morem odpreti EML datoteko, poskusite ponovno."</string>
   <string name="failed_read_phone_state_permission">"Nimate dovoljenja za dostop do stanja telefona"</string>
   <string name="failed_read_write_calendar_permission">"Nimate dovoljenja za dostop do Koledarja"</string>
   <string name="failed_read_write_contacts_permission">"Nimate dovoljenja za dostop do Stikov"</string>
@@ -527,6 +531,7 @@
   <string name="help_config">Ročna nastavitev</string>
   <string name="hide_atts_remaining">Skrij %1$d priponk</string>
   <string name="hide_elided">▼ Skrij citirano besedilo</string>
+  <string name="hide_password">Skrij geslo</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
@@ -663,6 +668,7 @@
   <string name="move_to_selection_dialog_title">Prestavi v mapo</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
   <string name="mute">Izključi zvok</string>
+  <string name="navigation_menu">Meni navigacije</string>
   <string name="net_check_title">Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovo.</string>
   <string name="network_error">Ni povezave</string>
   <string name="network_invaild">"Ne morem se povezati z omrežjem"</string>
@@ -941,6 +947,7 @@ Poskusite z ostalo pošto."</string>
   <string name="security_unsupported_ticker_fmt">Račun \"%s\" ne more biti sinhroniziran zaradi varnostnih zahtev.</string>
   <string name="select_attachment_type">Izberi priponko od:</string>
   <string name="select_no_file">Ni izbranih priponk</string>
+  <string name="select_path">Izberi pot</string>
   <string name="selected_lable">Izbrano</string>
   <string name="send">Pošlji</string>
   <string name="send_att_title">Opozorilo</string>
@@ -976,6 +983,7 @@ Poskusite z ostalo pošto."</string>
   <string name="shortcut_name_title">Imenuj bližnjico mape</string>
   <string name="show_elided">▶ Prikaži citirano besedilo</string>
   <string name="show_images">Prenesi in prikaži slike</string>
+  <string name="show_password">Pokaži geslo</string>
   <string name="signature">"
 
 
@@ -1107,7 +1115,7 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="wrong_password">Geslo ki ste ga vnesli je napačno.</string>
   <string name="yes">Da</string>
   <string name="yidianzixun">Yi Dian Zixun</string>
-  <string name="you_are_in_mobile_network">Pošljem dnevnik z uporabo mobilne podatkovne povezave? Vaš mobilni operater vam to lahko zaračuna.</string>
+  <string name="you_are_in_mobile_network">Uporabim mobilno podatkovno povezavo za prenos poročila?</string>
   <string name="youfuli">Promocija</string>
   <string name="zip_viewer_no_file">Ni datotek.</string>
 </resources>

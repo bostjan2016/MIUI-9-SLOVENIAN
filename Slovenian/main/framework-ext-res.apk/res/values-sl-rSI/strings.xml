@@ -17,6 +17,7 @@
   <string name="auto_disable_screenbuttons_prompts_ok">V redu</string>
   <string name="auto_disable_screenbuttons_prompts_title">Samodejno onemogoči Navigacijske tipke</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Tapnite ponovno za izhod</string>
+  <string name="autofill">Samod. izpolni</string>
   <string name="auto_start_warning_allow">Dovoli</string>
   <string name="auto_start_warning_deny">Zavrni</string>
   <string name="auto_start_warning_title">Dovolim %s samod. zagon?</string>
