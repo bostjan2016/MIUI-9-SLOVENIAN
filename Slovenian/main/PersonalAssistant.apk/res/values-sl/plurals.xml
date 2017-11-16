@@ -35,6 +35,7 @@
     <plurals name="sms_title_minutes">
         <item quantity="other">%d min</item>
         <item quantity="one">%d minuta</item>
+    </plurals>        
    <plurals name="steps">
         <item quantity="other">%d|korakov</item>
         <item quantity="zero">%d|korakov</item>
