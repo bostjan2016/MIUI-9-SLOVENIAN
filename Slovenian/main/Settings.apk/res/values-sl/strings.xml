@@ -2869,7 +2869,7 @@ Na tej napravi je več uporabnikov.
   <string name="notification_importance_high">Visoko: prikaži na zaslonu in dovoli zvok</string>
   <string name="notification_importance_low">Nizka: obvestila prikazuj brez zvoka</string>
   <string name="notification_importance_max">Nujno: prikaži na vrhu seznama obvestil, prikaži na zaslonu in dovoli zvok</string>
-  <string name="notification_importance_min">Najmajnša: prikaži tiho pri dnu seznama obvestil</string>
+  <string name="notification_importance_min">Najmanjša: prikaži tiho pri dnu seznama obvestil</string>
   <string name="notification_importance_none">Ni nastavljeno</string>
   <string name="notification_importance_title">Pomembnost</string>
   <string name="notification_importance_unspecified">Aplikacija določa pomembnostza vsako obvestilo</string>

@@ -4,7 +4,7 @@
   <string name="app_name">Snemalec zaslona</string>
   <string name="app_notification_title">Snemalec zaslona</string>
   <string name="auto_stop_title">Videoposnetek je uspešno shranjen</string>
-  <string name="battery_not_allowed" formatted="false">"Ne morem snemati ko je baterija napolnjena majn kot 3%. Preverite ali je baterija polna najmanj 20%."</string>
+  <string name="battery_not_allowed" formatted="false">"Ne morem snemati ko je baterija napolnjena manj kot 3%. Preverite ali je baterija polna najmanj 20%."</string>
   <string name="bit_rate">Kakovost videoposnetka</string>
   <string name="bit_rate_summary">Višja kakovost pomeni večjo velikost datoteke</string>
   <string name="bubble_text">pritisni za začetek snemanja</string>
@@ -34,7 +34,7 @@
   <string name="low_battery_title">Slaba baterija</string>
   <string name="low_battery_warning">Baterija je preslaba. Ustavite snemanje in shranite videoposnetek.</string>
   <string name="low_memory">Imate manje od 200MB prostora. Lahko snemate do 5 minut.</string>
-  <string name="low_memory_dior">Imate majn kot 500MB prostora. Lahko snemate do 12 minut.</string>
+  <string name="low_memory_dior">Imate manj kot 500MB prostora. Lahko snemate do 12 minut.</string>
   <string name="low_memory_title">Ni dovolj prostora za shranitev</string>
   <string name="low_momery_warning">Ni dovolj prostora za shranitev. Snemanje ustavljeno in videoposnetek je shranjen.</string>
   <string name="memory_not_allowed">Ni dovolj prostora za shranitev. Sprostite nekaj prostora da lahko snemate.</string>

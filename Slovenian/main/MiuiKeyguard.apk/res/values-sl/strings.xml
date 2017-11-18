@@ -34,7 +34,7 @@
   <string name="face_data_manage_delete_title">Obraz</string>
   <string name="face_data_manage_unlock_msg">Odklenite svojo napravo s pomočjo prepoznavanja vašega obraza</string>
   <string name="face_data_manage_unlock_title">Odklenite z uporabo obraza</string>
-  <string name="face_data_suggesstion_first">Odklepanje s pomočjo obraza je majn varno od uporabe gesla za zakl. zaslon. Vaša naprava se bo mogoče odklenila osebi ki vam je podobna.</string>
+  <string name="face_data_suggesstion_first">Odklepanje s pomočjo obraza je manj varno od uporabe gesla za zakl. zaslon. Vaša naprava se bo mogoče odklenila osebi ki vam je podobna.</string>
   <string name="face_data_suggesstion_second">"preverite da deli vašega obraza niso prekriti in da so jasno vidni. Vaš obraz bi moral biti tudi dobro osvetljen."</string>
   <string name="face_unlock_adjust_distance">Preverite če je oddaljenost med obrazom in zaslonom optimalna.</string>
   <string name="face_unlock_be_on_the_screen">Držite napravo pred obrazom</string>
