@@ -37,7 +37,7 @@
   <string name="activate_popup_confirm_failed_receive_sms">Poskusi ponovno</string>
   <string name="activate_popup_confirm_failed_send_sms">Pošlji ponovno</string>
   <string name="activate_popup_confirm_failed_server">Poskusi ponovno</string>
-  <string name="activate_popup_desc_2_intl_sim_cards">Vaš operater vam lahko zaračuna 2 međunarodni SMS sporočili uporabljeni za aktiviranje %s.</string>
+  <string name="activate_popup_desc_2_intl_sim_cards">Vaš operater vam lahko zaračuna 2 mednarodni SMS sporočili uporabljeni za aktiviranje %s.</string>
   <string name="activate_popup_desc_2_sim_cards">Vaš operater vam lahko zaračuna 2 SMS sporočili uporabljeni za aktiviranje %s.</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Ne morem najti vaše telefonske številke. Preverite ali je vaša SIM kartica aktivirana.
 vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivirate %s"</string>
