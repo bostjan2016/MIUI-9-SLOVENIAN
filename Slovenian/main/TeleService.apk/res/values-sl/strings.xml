@@ -1961,7 +1961,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="tty_mode_not_allowed_vt_call">Sprememba načina TTY ni dovoljena med VT klicem</string>
   <string name="tty_mode_option_summary">Nastavi TTY način</string>
   <string name="tty_mode_option_title">Način TTY</string>
-  <string name="turnover_mute_summary">Ko je telefon postavljen horizontalno ga obrnite za utišanje zvonjenja.</string>
+  <string name="turnover_mute_summary">Ko je telefon postavljen na vodoravno površino z zaslonom obrnjrnim navzgor ga obrnite za utišanje zvonjenja.</string>
   <string name="turnover_mute_title">Obrni za utišanje zvonjenja</string>
   <string name="unable_dial_livetalk">"Ne morem dokončati klica"</string>
   <string name="undefined">Brez</string>

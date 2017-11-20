@@ -29,6 +29,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="closeSecondSpace">Izbriši Drugi prostor</string>
   <string name="closeSecondSpaceSummary">Izbriši Drugi prostor skupaj z podatki</string>
   <string name="closeSuccess">Izključeno</string>
+  <string name="close_second_space">Drugi prostor je izbrisan</string>
   <string name="close_second_space_success">Izbriši Drugi prostor</string>
   <string name="closed">Izključeno</string>
   <string name="complete_setting">Končano</string>
@@ -129,6 +130,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="input_space_password">Nastavi sedaj</string>
   <string name="invalid_qr_code">Neveljavna QR koda</string>
   <string name="list_empty_text">Prazno</string>
+  <string name="list_empty_text_xspace">Namesti WeChat/QQ/Weibo, napravi dvojne aplikacije in poskusi ponovno.</string>
   <string name="loading">Samo trenutek…</string>
   <string name="loading_apps">Nalaganje aplikacij…</string>
   <string name="loading_space">Samo trenutek…</string>
@@ -178,6 +180,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="private_sms_show_title">Zasebna sporočila so prikazana v Drugem prostoru</string>
   <string name="private_space_setting">Urejaj</string>
   <string name="public_app">Oba prostora</string>
+  <string name="qq_send">Pošlji QQ prijateljem/napravam</string>
   <string name="removeSuccess">Uspešno izbrisano</string>
   <string name="remove_second_space_msg">Vsi podatki aplikacij Drugega prostora bodo izgubljeni po izbrisu Drugega prostora. Izbrišem Drugi prostor?</string>
   <string name="remove_user_click_message">"*Če nimate nobene pomembne stvari v drugem prostoru, %s"</string>
@@ -309,10 +312,17 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="transferMessage">Sporočila iz Drugega prostora bodo premeščena v Prvi prostor</string>
   <string name="tryNow">Poskusite zdaj</string>
   <string name="wating">Samo trenutek…</string>
+  <string name="weibo_send">Pošlji na Weibo</string>
+  <string name="weixin_pay">WeChat Pay</string>
+  <string name="weixin_share">WeChat Pay</string>
   <string name="xpsace_guide_button">Izdelaj</string>
   <string name="xspace_account">Računi klonirane aplikacije</string>
   <string name="xspace_chocie">Podpora za Dvojne aplikacije</string>
   <string name="xspace_creating">Kloniranje aplikacije…</string>
+  <string name="xspace_default_app_summary">Nastavite privzeto aplikacijo za plačevanje, deljenje, priljubljene in drugo.</string>
+  <string name="xspace_default_app_title">Privzeta aplik.</string>
+  <string name="xspace_default_setting_dialog_title">Privzeto</string>
+  <string name="xspace_default_setting_label">Privzeta aplik.</string>
   <string name="xspace_description">Klonirane aplikacije so kopije aplikacij ki se lahko uporabijo zasebno z drugim računom.\n\nNekateree dvojne aplikacije zahtevajo podporo Google Services Framework. V teh primerih se ustvari dvojni Google Services Framework.</string>
   <string name="xspace_guide_des">Uporabljaj 2 računa brez menjanja</string>
   <string name="xspace_guide_title">Izdelaj Dvojno aplikacijo za %s</string>
@@ -323,9 +333,12 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="xspace_introduce">Priporočeno</string>
   <string name="xspace_label">Klonirane aplikacije</string>
   <string name="xspace_loading_msg">Nalaganje aplikacij…</string>
+  <string name="xspace_qq_title">QQ</string>
   <string name="xspace_setting_label">Nastavitve klonirane aplikacije</string>
   <string name="xspace_uninstall_completed">Klonirana aplikacija uspešno odstranjena</string>
   <string name="xspace_uninstall_dialog_content">Odstranitev klonirane aplikacije bo odstranila vse podatke aplikacije.</string>
   <string name="xspace_uninstall_dialog_title">Odstrani klonirano aplikacijo</string>
   <string name="xspace_uninstalling">Odstranitev…</string>
+  <string name="xspace_weibo_title">Weibo</string>
+  <string name="xspace_weixin_title">WeChat</string>
 </resources>

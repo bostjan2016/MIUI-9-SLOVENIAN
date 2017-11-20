@@ -125,6 +125,7 @@ nastavitev in aplikacij"</string>
   <string name="err_unknown">Neznana napaka</string>
   <string name="err_version_too_old">Var. kopija je prestara.</string>
   <string name="err_version_unsupported">"Verzija var. kopije ni podprta."</string>
+  <string name="error_permissions">Ne morem brati in pisati brez dovoljenja koledarja, preverite dovoljenja v nastavitvah</string>
   <string name="every_day">Vsak dan</string>
   <string name="exchange_account">Zamenjaj račun</string>
   <string name="fail">Ni uspelo</string>
@@ -156,7 +157,7 @@ nastavitev in aplikacij"</string>
   <string name="hsa_verify_retry">Poskusi ponovno</string>
   <string name="hsa_verify_shutdown">Izključi</string>
   <string name="icloud_backup_tip">Prijavite se v iCloud račun iz stare Apple naprave</string>
-  <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.\r\n2.Vključite Stiki.\r\n3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.\r\n2.Vključite Stiki in itd.\r\n3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
   <string name="icloud_how_to_backup_tip_summary">Da boste uvozili podatke iz iOS-a, morate napraviti iCloud var. kopijo.</string>
   <string name="icloud_how_to_backup_tip_title">Nasveti:</string>
   <string name="icloud_login_title">Prijavi se v iCloud</string>
@@ -170,7 +171,7 @@ nastavitev in aplikacij"</string>
   2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Varnostno kopiraj stike na Mi račun”"</string>
   <string name="import_from_xiaomi_account_hint2">Če že imate varnostno kopijo, tapni Naprej.</string>
   <string name="import_from_xiaomi_account_hint_title">Uporabi Mi Talk za varnostno kopiranje stikov iz vaših naprav.</string>
-  <string name="import_tip_summary">Zaradi kompatibilnosti so podprti samo stiki in fotografije. Najprej morate prenesti podatke iz starih naprav na iCloud.</string>
+  <string name="import_tip_summary">Zaradi problemov z kompatibilnostjo lahko prenašate samo delne podatke iz iOS naprave. Napravite var. kopijo na iCloud pred začetkom prenosa.</string>
   <string name="import_tip_title">Nasveti:</string>
   <string name="loading_data">Nalaganje podatakov</string>
   <string name="local_app_name">Varnostno kopiraj</string>
@@ -281,8 +282,10 @@ nastavitev in aplikacij"</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_backup_item">Izberi elemente</string>
   <string name="select_empty">Izberite stvari za uvoz</string>
+  <string name="select_item_calendar">Koledar</string>
   <string name="select_item_contacts">Stiki</string>
   <string name="select_item_empty_summary">Ni vsebine</string>
+  <string name="select_item_notes">Beležke</string>
   <string name="select_item_photos">Fotografije</string>
   <string name="select_item_summary_loading">Nalaganje podatkov…</string>
   <string name="select_item_summary_wait">Čakanje…</string>

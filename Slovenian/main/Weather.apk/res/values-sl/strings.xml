@@ -155,9 +155,13 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="precipitation_degree_three">zmerno</string>
   <string name="precipitation_degree_two">lahko</string>
   <string name="pressure_connect">%1$s hPa</string>
+  <string name="pull_fresh_updated">Uspešno posodobljeno</string>
+  <string name="pull_fresh_updating">Posodobitev</string>
   <string name="radar_cloud_image_title">Mapa Radarja</string>
   <string name="rainfall_settings_summary">Nastavitve padavin</string>
   <string name="rainfall_settings_title">Opozorilo padavin</string>
+  <string name="real_time_sunrise">Sončni vzhod %1$s</string>
+  <string name="real_time_sunset">Sončni zahod %1$s</string>
   <string name="realtime_aqi_title">Indeks kvalitete zraka</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
   <string name="realtime_temperature_no_data">N/A</string>
@@ -208,6 +212,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="update_night_setting_summary_text">Posodobi informacije o vremenu med 23:00 in 07:00</string>
   <string name="update_night_setting_title_text">Samodejno posodobi ponoči</string>
   <string name="update_setting_title_text">Posodobite vremenske podatke</string>
+  <string name="updated_a_moment_ago">Posodobljeno pred nekaj trenutki</string>
+  <string name="updating">Posodabljanje..</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>

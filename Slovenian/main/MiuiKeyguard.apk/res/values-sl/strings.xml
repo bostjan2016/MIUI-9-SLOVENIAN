@@ -35,7 +35,7 @@
   <string name="face_data_manage_unlock_msg">Odklenite svojo napravo s pomočjo prepoznavanja vašega obraza</string>
   <string name="face_data_manage_unlock_title">Odklenite z uporabo obraza</string>
   <string name="face_data_suggesstion_first">Odklepanje s pomočjo obraza je manj varno od uporabe gesla za zakl. zaslon. Vaša naprava se bo mogoče odklenila osebi ki vam je podobna.</string>
-  <string name="face_data_suggesstion_second">"preverite da deli vašega obraza niso prekriti in da so jasno vidni. Vaš obraz bi moral biti tudi dobro osvetljen."</string>
+  <string name="face_data_suggesstion_second">"Poskrbite da deli vašega obraza ne bodo prekriti in da bodo jasno vidni. Vaš obraz mora biti tudi dobro osvetljen."</string>
   <string name="face_unlock_adjust_distance">Preverite če je oddaljenost med obrazom in zaslonom optimalna.</string>
   <string name="face_unlock_be_on_the_screen">Držite napravo pred obrazom</string>
   <string name="face_unlock_by_notification_screen_on_msg">Lahko odklenete napravo s pomočjo obraza ko se vključi zaslon za dohodna obvestila. To povečuje porabo baterije.</string>
@@ -109,10 +109,10 @@
   <string name="keyguard_charging_info_tip_text4">"Da se izognete pregrevanju, napravo aktivno ne uporabljajte med polnenjem ."</string>
   <string name="keyguard_charging_info_tip_text5">Če se baterija polni dlje postane toplejša kot običajno.</string>
   <string name="keyguard_charging_info_tip_text6">Izključite zaslon in pustite napravo da se ohladi.</string>
-  <string name="keyguard_left_bankcard">Mi Pay</string>
-  <string name="keyguard_left_buscard">Transportna kartica</string>
-  <string name="keyguard_left_remotecentral">Mi Remote</string>
-  <string name="keyguard_left_smarthome">Mi Home</string>
+  <string name="keyguard_left_bankcard">Kalkulator</string>
+  <string name="keyguard_left_buscard">Beležke</string>
+  <string name="keyguard_left_remotecentral">Koledar</string>
+  <string name="keyguard_left_smarthome">Stiki</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Hitro polnjenje, pritisni za prikaz</string>
   <string name="keyguard_quickly_charging_info_charging_text">Hitro polnjenje</string>
   <string name="keyguard_torch_cover_text">Če hočete obdržati svetilko prižgano pritisnite tipko za vklop</string>
@@ -138,7 +138,7 @@
   <string name="lockscreen_glogin_password_hint">Geslo</string>
   <string name="lockscreen_glogin_submit_button">Vpišite se</string>
   <string name="login_website_in_case_forget_password">Če želite ponastaviti svoje geslo obiščite www.mi.com/micloud</string>
-  <string name="missed_call_text">%d zgrešenih klicev</string>
+  <string name="missed_call_text">Zgrešeni klici: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odklenjeno z Bluetooth napravo</string>
   <string name="open_camera_hint_text">Povlecite levo za Kamera</string>
   <string name="open_remote_center_hint_text">Povlecite desno za Telefon</string>
@@ -154,7 +154,7 @@ Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritis
   <string name="phone_locked_foget_password_header">Kaj storiti če sem pozabil svoje geslo?</string>
   <string name="phone_locked_foget_password_mehod_back">Nazaj</string>
   <string name="phone_locked_foget_password_method">Pozabljeno geslo?</string>
-  <string name="phone_locked_foget_password_method_content">Morate izbrisati vse podatke na vaši napravi, vključno fotografije in stike, nato pa nastavite novo geslo zakl. zaslona.</string>
+  <string name="phone_locked_foget_password_method_content">Morate &lt;font color="#a5220e"&gt;izbrisati vse podatke&lt;/font&gt; v vaši napravi, vključno fotografije in stike, potem pa nastavite novo geslo zakl. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Naprej</string>
   <string name="phone_locked_foget_password_ok">Razumem</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">Izključite napravo, pritisnite in držite &lt;font color="#a5220e"&gt;Tipko za vklop&lt;/font&gt; in &lt;font color="#a5220e"&gt;Glasnost +&lt;/font&gt;istočasno dokler ne vidite MI logo.</string>
