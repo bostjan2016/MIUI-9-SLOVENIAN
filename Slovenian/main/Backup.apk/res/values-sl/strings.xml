@@ -125,7 +125,7 @@ nastavitev in aplikacij"</string>
   <string name="err_unknown">Neznana napaka</string>
   <string name="err_version_too_old">Var. kopija je prestara.</string>
   <string name="err_version_unsupported">"Verzija var. kopije ni podprta."</string>
-  <string name="error_permissions">Ne morem brati in pisati brez dovoljenja koledarja, preverite dovoljenja v nastavitvah</string>
+  <string name="error_permissions">"Ta aplikacija nima dovoljenja za dostop do koledarja. Pojdite v nastavitve in preverite dovoljenja za nadaljevanje."</string>
   <string name="every_day">Vsak dan</string>
   <string name="exchange_account">Zamenjaj račun</string>
   <string name="fail">Ni uspelo</string>
@@ -157,7 +157,7 @@ nastavitev in aplikacij"</string>
   <string name="hsa_verify_retry">Poskusi ponovno</string>
   <string name="hsa_verify_shutdown">Izključi</string>
   <string name="icloud_backup_tip">Prijavite se v iCloud račun iz stare Apple naprave</string>
-  <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.\r\n2.Vključite Stiki in itd.\r\n3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.\r\n2.Vključite spremembo za stike in druge stvari.\r\n3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
   <string name="icloud_how_to_backup_tip_summary">Da boste uvozili podatke iz iOS-a, morate napraviti iCloud var. kopijo.</string>
   <string name="icloud_how_to_backup_tip_title">Nasveti:</string>
   <string name="icloud_login_title">Prijavi se v iCloud</string>

@@ -1735,6 +1735,7 @@
   <string name="fingerprint_manage_tittle">Prstni odtis</string>
   <string name="fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa. Vnesite svoje geslo"</string>
   <string name="fingerprint_not_recognized">Ni prepoznano</string>
+  <string name="fingerprint_payment">Plačila s prstnim odtisom</string>
   <string name="fingerprint_removal_failed">"Ne morem odstraniti prstnega odtisa, poskusite kasneje"</string>
   <string name="fingerprint_unlock_set_unlock_password">Prstni odtis in geslo</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Prstni odtis in vzorec</string>

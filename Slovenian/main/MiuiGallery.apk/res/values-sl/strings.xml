@@ -535,6 +535,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do \n%s\n, pritisni \"Nastavi\" za dostop do Dovoljenj."</string>
   <string name="grant_permission_title">Dovoli dostop</string>
+  <string name="grant_permission_unlock_and_set">Odkleni in nastavi</string>
   <string name="grayscale">Toni sive</string>
   <string name="has_invalid_recipient">Neveljavni prejemnik: %1$s</string>
   <string name="have_known">Razumem</string>
@@ -912,10 +913,12 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="search_feedback_false_positive_title">Kaže da so to \"%s\"</string>
   <string name="search_feedback_likely_check_title">Preveri</string>
   <string name="search_feedback_likely_title">Kaže da te fotografije lahko imajo \"%s\"</string>
-  <string name="search_feedback_task_finish_title">Dotaknite za sprejem nagrade!</string>
-  <string name="search_feedback_task_progress">%1$d/%2$d</string>
+  <string name="search_feedback_task_complete">Vse naloge so končane</string>
+  <string name="search_feedback_task_progress">Naloge %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">"Ne morem prejeti nagrado. poskusite ponovno kasneje.​"</string>
   <string name="search_feedback_task_requesting_award">Sprejemanje nagrade…</string>
+  <string name="search_feedback_user_notice">"Prebral sem in se strinjam s %s."</string>
+  <string name="search_feedback_user_policy">MIUI Galerija AI Algoritemski program Pravila o zasebnosti</string>
   <string name="search_hint">Išči slike​</string>
   <string name="search_image_result_title">Rezultati iskanja</string>
   <string name="search_load_complete">Ni več stvari</string>
@@ -1073,6 +1076,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="tip_not_download">Ni prenosa. Samodejno bo prenešeno pri predvajanju.</string>
   <string name="tip_screenshot_package_info">Ime aplik.:</string>
   <string name="title_set_name">Izberite ime</string>
+  <string name="title_tip">Nasvet</string>
   <string name="title_warn">Opozorilo</string>
   <string name="to_count">%d vseh skupaj</string>
   <string name="to_enable_gallery_sync_dialog_message">Najprej omogočite sinhr. Galerije</string>
