@@ -4777,9 +4777,9 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="tether_and_hotspot_title">Deljenje povezave &amp; prenosni hotspot</string>
   <string name="tether_devices_management_title">Upravljanje naprav</string>
   <string name="tether_devices_max_number">Omejitev povezanih naprav</string>
-  <string name="tether_settings_disabled">Osebni Hotspot je izključen</string>
+  <string name="tether_settings_disabled">Prenosna dostopna točka je izključena</string>
   <string name="tether_settings_disabled_on_data_saver">Prenosno dostopno točko ne morem dati v skupno rabo ali uporabljati dokler je vključeno varčevanje prenosa podatkov</string>
-  <string name="tether_settings_launch_title">Prijenosna dostopna točka</string>
+  <string name="tether_settings_launch_title">Prenosna dostopna točka</string>
   <string name="tether_settings_title_all">Deljenje povezave &amp; prenosni hotspot</string>
   <string name="tether_settings_title_bluetooth">Splet preko Bluetootha</string>
   <string name="tether_settings_title_usb">Splet prek USB-ja</string>

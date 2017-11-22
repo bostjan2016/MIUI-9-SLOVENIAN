@@ -99,4 +99,8 @@
          <item>Trenutni način upravljanja s temperaturo</item>
          <item>Trenutni način izvedbe</item>
      </string-array>
+	 <string-array name="power_mode_entries">
+         <item>Zmogljivost</item>
+         <item>Uravnoteženo</item>
+     </string-array>
 </resources>

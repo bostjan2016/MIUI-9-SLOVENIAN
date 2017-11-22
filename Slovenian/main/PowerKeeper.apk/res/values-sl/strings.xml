@@ -96,6 +96,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="notify_app_consume_abnormal_title">poraba baterije je velika</string>
   <string name="operation_create_group">Ime</string>
   <string name="operation_create_group_message">Vnesite novo ime skupine</string>
+  <string name="performance_category">Zmogljivost</string>
+  <string name="power_center">Energija</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s se zaganja nenormalno</string>
   <string name="power_checker_background_cpu_title">%1$s se zaganja nenormalno</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s pogosto prejema podatke o lokaciji</string>
@@ -179,9 +181,10 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_event_view_event_title">Bližnjice</string>
   <string name="power_hide_mode_app_list_summary">Prihranek energije v ozadju</string>
   <string name="power_hide_mode_summary">"Prihranite baterijo z omejitvijo procesov aplikacij v ozadju, WiFi-ja, mobilne podatkovne povezave in GPS-a"</string>
-  <string name="power_hide_mode_title">Prihranek baterije</string>
+  <string name="power_hide_mode_title">Baterija &amp; zmogljivost</string>
   <string name="power_keeper">Varčevanje z baterijo</string>
-  <string name="power_mode_cpu_state_high">Performanse</string>
+  <string name="power_mode">Nastavitve energije</string>
+  <string name="power_mode_cpu_state_high">Zmogljivost</string>
   <string name="power_mode_cpu_state_high_desc">Preformanse ima prioriteto nad baterijo</string>
   <string name="power_mode_cpu_state_low">Varčevanje z baterijo</string>
   <string name="power_mode_cpu_state_low_desc">Baterija ima prioriteto nad performansem</string>
@@ -191,6 +194,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_mode_view_event_title">Dogodki</string>
   <string name="power_mode_view_user_define_title">Nov dogodek</string>
   <string name="power_optimize_activity_profile_file_error">Napaka Varčevanja z baterijo</string>
+  <string name="power_usage">Uporaba energije</string>
   <string name="ragment_sys_listempty">Ni sistemskih aplikacij</string>
   <string name="reading">Način branja</string>
   <string name="scenario_policies_summary">Uporabite različne strategije varčevanja energije za različne scenarije.</string>

@@ -291,6 +291,7 @@
   <string name="toast_feedbackservice_in_submit">Urejanje predhodnih informacij…</string>
   <string name="toast_fill_brackets">V vašem poročilu manjkajo nekatere informacije</string>
   <string name="toast_log_not_exists">"Iskani zapis ne obstaja ali pa je izbrisan"</string>
+  <string name="toast_log_too_large">"Ne morem naložiti. Datoteka je prevelika."</string>
   <string name="toast_module_required">Izberi stvar</string>
   <string name="toast_network_unavailable">"Ne morem poslati. Ne morem se povezati na omrežje."</string>
   <string name="toast_pending_log_collection">Še vedno pridobivam dnevnike...</string>

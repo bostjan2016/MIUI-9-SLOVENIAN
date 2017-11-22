@@ -160,13 +160,13 @@
   <string name="find_device_request_prepare_error">"Ne morem dobiti statusa, poskusite ponovno kasneje"</string>
   <string name="find_device_unknown_error">"Ne morem pridobiti statusa naprave, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="first_login_time">Prvi poskus prijave: %s</string>
-  <string name="get_back_pwd">Nazaj</string>
+  <string name="get_back_pwd">Ponastavitev vašega gesla</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">Ne morem pridobiti naprave</string>
   <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi račune z eno številko telefona. Ni možno dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
-  <string name="identity">Identiteta</string>
+  <string name="identity">Identifikacija</string>
   <string name="ignore">Ne zdaj</string>
   <string name="input_email_address_notice">"Ta naslov e-pošte bo uporabljen za potrjevanje vašega računa"</string>
   <string name="io_error_title">Potrdite vaše omrežje</string>
@@ -200,7 +200,7 @@
   <string name="my_favorite">Moji priljubljeni</string>
   <string name="no_network_btn">Osveži</string>
   <string name="no_network_title">Ne morem se povezati z omrežjem.</string>
-  <string name="no_phone">Ni telefona</string>
+  <string name="no_phone">Ni številke telefona</string>
   <string name="no_response_retry">Ni odgovora, poskusite ponovno.</string>
   <string name="no_sim_card_or_unactivated">Ni SIM kartice ali pa ni aktivirana</string>
   <string name="nobind">Ni povezano</string>
@@ -431,7 +431,7 @@
   <string name="passport_wrong_vcode">Koda ki ste jo vnesli je napačna</string>
   <string name="passport_yes">Da</string>
   <string name="phone_activated">%s aktivirano</string>
-  <string name="phone_num_use_for">Telefonska številka, ki se uporablja za:</string>
+  <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
   <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
   <string name="push_notification_content">Pridobite kodo</string>
   <string name="push_notification_title">Prijavili ste se na svoj Mi Račun iz neznane naprave</string>
@@ -492,7 +492,7 @@
   <string name="select_location_title">Izaberite vašo lokacijo</string>
   <string name="send_email_activate_message">E-pošta za preverbo poslana</string>
   <string name="service_error">Napaka usluge</string>
-  <string name="set_success">Končano</string>
+  <string name="set_success">Uspešno zamenjano</string>
   <string name="sign_in">Prijavi se</string>
   <string name="set_security_question_title">Nastavi varnostna vprašanja</string>
   <string name="sina_weibo">Sina Weibo</string>

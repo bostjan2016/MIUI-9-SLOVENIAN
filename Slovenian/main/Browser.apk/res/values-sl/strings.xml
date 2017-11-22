@@ -35,6 +35,7 @@
   <string name="action_menu_text_copy_url">Kopiraj povezavo</string>
   <string name="action_menu_text_create_qr_code">QR koda</string>
   <string name="action_menu_text_download">Upravljanje s prenosi</string>
+  <string name="action_menu_text_drop">Izhod iz menija</string>
   <string name="action_menu_text_exit">Izhod</string>
   <string name="action_menu_text_find_in_page">Najdi na strani</string>
   <string name="action_menu_text_fullscreen">Cel zaslon</string>
@@ -114,6 +115,7 @@
   <string name="bookmark_cannot_save_url">Povezave ni mogoče dodati med zaznamke.</string>
   <string name="bookmark_folder_needs_title">Vpiši ime mape</string>
   <string name="bookmark_group_lable">Skupina</string>
+  <string name="bookmark_move_to">Premesti v</string>
   <string name="bookmark_needs_title">Zaznamek mora imeti ime.</string>
   <string name="bookmark_needs_url">Zaznamek mora imeti povezavo.</string>
   <string name="bookmark_not_saved">Zaznamka ni mogoče shraniti</string>
@@ -140,6 +142,8 @@
   <string name="cancel">Prekliči</string>
   <string name="cancle_sync_cloud_tabs">Prekliči sinhronizacijo</string>
   <string name="cannot_download">Lahko prenesem samo \"http\" ali \"https\" povezave.</string>
+  <string name="check_security_tip_privacy_policy">Pravila o zasebnosti</string>
+  <string name="check_security_tip_user_agreement">Uporabniški sporazum</string>
   <string name="check_permission_of_current_location">Trenutni podatki o lokaciji</string>
   <string name="check_permission_of_current_url">Povezave web strani ki jih obiskujete</string>
   <string name="choosertitle_sharevia">Deli preko</string>
@@ -226,6 +230,7 @@ zasebnost​"</string>
   <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
   <string name="delete">Izbriši</string>
   <string name="delete_bookmark">Izbriši</string>
+  <string name="delete_bookmark_action_warning">Izbrišem zaznamke?</string>
   <string name="delete_bookmark_group_warning">Odstranim %s? Vsi zaznamki v tej skupini bodo izbrisani.</string>
   <string name="delete_bookmark_warning">Odstranim zaznamek %s?</string>
   <string name="delete_download">Izbriši</string>
@@ -344,6 +349,7 @@ zasebnost​"</string>
   <string name="geolocation_settings_page_summary_allowed">Ta stran lahko trenutno dostopa do vaše lokacije</string>
   <string name="geolocation_settings_page_summary_not_allowed">Ta stran trenutno nima dostopa do vaše lokacije</string>
   <string name="geolocation_settings_page_title">Počisti lokacijski dostop</string>
+  <string name="go_back_descirption">Nazaj</string>
   <string name="go_supermarket_button">Začni</string>
   <string name="go_supermarket_title">Več aplikacij, večja hitrost in manjša poraba podatkov v App Store</string>
   <string name="gold_medals">Zlate medalje</string>
@@ -534,9 +540,14 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="more_option">Več možnosti</string>
   <string name="nav_bottom_bar_back">Nazaj</string>
   <string name="nav_bottom_bar_close_all">Zapri vse</string>
+  <string name="nav_bottom_bar_close_description">Zapri</string>
   <string name="nav_bottom_bar_new_tab">Nov zavihek</string>
   <string name="nav_screen_container_tab_incognito">Anonimen zavihek</string>
   <string name="nav_screen_container_tab_normal">Normalen zavihek</string>
+  <string name="nav_screen_incognito_message">"Vaša zgodovina brskanja in iskanja ne bo shranjena v anonimnem načinu dela.
+ Vedite pa da bodo prenešene datoteke in dodani zaaznamki shranjeni."</string>
+  <string name="nav_screen_incognito_time">Ćez %s sek. se bo samodejno ustvarila nova stran</string>
+  <string name="nav_screen_incognito_title">Anonimni način</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Prekliči</string>
   <string name="navigationbar_rightbutton_actiontext_go">Začni</string>
   <string name="navigationbar_rightbutton_actiontext_search">Išči</string>
@@ -796,6 +807,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="send_comment_title">komentar</string>
   <string name="senddesktop">Delovna površina</string>
   <string name="sendstartpage">Začetna stran</string>
+  <string name="sequence_bookmark_description">Zamenjaj sled zaznamka</string>
   <string name="share_image_text">"Uživam v čudoviti sliki"</string>
   <string name="share_page_text">" %1$s | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Brskalnik potrebuje povezavo z omrežjem da dela normalno. Za izboljšanje varnosti in prejem relevantnih priporočil, dovolite Brskalniku dobivanje povezav do spletnih strani ki jih obiskujete in dostop do vaše lokacije.</string>
@@ -808,6 +820,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="snapshot">Lokalno</string>
   <string name="snapshot_failed">Ni bilo mogoče shraniti strani</string>
   <string name="snapshot_successed">Odpri Oznake &amp; Zgodovina -&gt; LOKALNO za prikaz strani</string>
+  <string name="soft_toast_see_view">Pokaži</string>
   <string name="ssl_bad_clock_date_settings">Nastavi datum</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Zasebno povezavo z %s1 ni mogoče vzpostaviti ker datum in ura vaše naprave (%s2) nista točna."</string>
   <string name="ssl_certificate">Varnostni certifikat</string>
@@ -838,13 +851,13 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">Posodabljanje: %s</string>
   <string name="suggest_access_item_book_mark">Knjiga</string>
-  <string name="suggest_access_item_mina_mark">Direktna storitev</string>
-  <string name="suggest_access_item_music_mark">Glasba</string>
+  <string name="suggest_access_item_mina_mark">INSTANT APLIKACIJE</string>
+  <string name="suggest_access_item_music_mark">GLASBA</string>
   <string name="suggest_access_item_singer_albums">Albumov: %d</string>
   <string name="suggest_access_item_singer_pop">Popularnih pesmi: %d</string>
   <string name="suggest_access_item_site_mark">Strani</string>
   <string name="suggest_access_item_video_mark">Video</string>
-  <string name="suggest_access_item_website_mark">Spletna strani</string>
+  <string name="suggest_access_item_yellow_mark">RUMENE STRANI</string>
   <string name="suggest_access_music">Mi Glasba</string>
   <string name="suggest_item_delete_text">Izbriši</string>
   <string name="suggest_open_app_failed">"Ne morem odpreti te aplikacije"</string>
@@ -865,6 +878,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="title_bar_loading">Nalagam...</string>
   <string name="too_many_windows_dialog_message">Brskalnik ne more odpreti novega zavihka dokler ne zaprete odprtih</string>
   <string name="too_many_windows_dialog_title">Ni mogoče odpreti novih zavihkov</string>
+  <string name="transfer_prompt_0">Predvajaj videoposnetek</string>
+  <string name="transfer_restart">Ponovno zaženi</string>
   <string name="unSwitchText">NE</string>
   <string name="undo">Prekliči</string>
   <string name="unknown_title">Neznano</string>
@@ -907,8 +922,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="video_activity_name">Priljubljeno</string>
   <string name="video_buffering_percent">"Nalaganje "</string>
   <string name="video_buffering_percent_string">"Nalaganje "</string>
-  <string name="video_collect_cancel">Odznači</string>
-  <string name="video_collect_success">Priljubljeno</string>
+  <string name="video_collect_cancel">Odstrani iz priljubljenih</string>
+  <string name="video_collect_success">Dodano v priljubljeno</string>
+  <string name="video_doenload_complete">Videoposnetek uspešno prenešen</string>
   <string name="video_download_complete">Prenos končan.</string>
   <string name="video_download_empty">Ni videoposnetkov</string>
   <string name="video_download_error">Napaka</string>
