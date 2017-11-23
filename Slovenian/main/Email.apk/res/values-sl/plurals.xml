@@ -57,20 +57,20 @@
         <item quantity="one">Zanemarjeno: %1$d.</item>
     </plurals>
     <plurals name="conversation_not_important">
-       <item quantity="other">Označeno kot nepomembno: %1$d.</item>
-        <item quantity="one">Označeno kot nepomembno: %1$d.</item>
+       <item quantity="other">Odstranjenih sporočil iz mape Pomembno: %1$d.</item>
+        <item quantity="one">%1$d sporočilo odstranjeno iz mape Pomembno.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Ni neželjene vsebine: %1$d.</item>
-        <item quantity="one">Ni neželjene vsebine: %1$d.</item>
+        <item quantity="other">Odstranjenih sporočil iz mape Spam: %1$d.</item>
+        <item quantity="one">%1$d sporočilo odstranjeno iz mape Spam.</item>
     </plurals>
     <plurals name="conversation_phished">
-         <item quantity="other">Prijavljeno kot kraja identitete: %1$d.</item>
-        <item quantity="one">Prijavljeno kot kraja identitete: %1$d.</item>
+         <item quantity="other">Sporočila prijavljena kot Spam: %1$d.</item>
+        <item quantity="one">%1$d sporočilo prijavljeno kot Spam.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">Prijavljeno kot nezaželjeno: %1$d.</item>
-        <item quantity="one">Prijavljeno kot nezaželjeno: %1$d.</item>
+        <item quantity="other">Sporočila označena kot Spam: %1$d.</item>
+        <item quantity="one">%1$d sporočilo označeno kot Spam.</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">Odstranjevanje zvezdic iz %1$d pogovorov.</item>

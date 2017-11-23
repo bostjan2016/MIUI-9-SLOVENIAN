@@ -18,7 +18,7 @@
   <string name="app_invisible_title">Nevidne aplikacije</string>
   <string name="app_list_title">Izberite aplikacije</string>
   <string name="app_list_total">Aplikacija: %d</string>
-  <string name="app_name">Prihranek baterije</string>
+  <string name="app_name">Baterija in Zmogljivost</string>
   <string name="background">Aplikacija se izvaja v ozadju</string>
   <string name="base_info">Osnovne informacije</string>
   <string name="cloud_addr_info">Cloud informacije</string>
