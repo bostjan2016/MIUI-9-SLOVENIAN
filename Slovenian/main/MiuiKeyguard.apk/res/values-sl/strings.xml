@@ -109,10 +109,6 @@
   <string name="keyguard_charging_info_tip_text4">"Da se izognete pregrevanju, napravo aktivno ne uporabljajte med polnenjem ."</string>
   <string name="keyguard_charging_info_tip_text5">Če se baterija polni dlje postane toplejša kot običajno.</string>
   <string name="keyguard_charging_info_tip_text6">Izključite zaslon in pustite napravo da se ohladi.</string>
-  <string name="keyguard_left_bankcard">Kalkulator</string>
-  <string name="keyguard_left_buscard">Beležke</string>
-  <string name="keyguard_left_remotecentral">Koledar</string>
-  <string name="keyguard_left_smarthome">Stiki</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Hitro polnjenje, pritisni za prikaz</string>
   <string name="keyguard_quickly_charging_info_charging_text">Hitro polnjenje</string>
   <string name="keyguard_torch_cover_text">Če hočete obdržati svetilko prižgano pritisnite tipko za vklop</string>
