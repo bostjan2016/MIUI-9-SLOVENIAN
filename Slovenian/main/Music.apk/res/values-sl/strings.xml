@@ -270,7 +270,6 @@ predvsem nudi Ultimate Inc.</string>
   <string name="download_paused">Prenos začasno zaustavljen</string>
   <string name="download_paused_in_power_save_mode">Naprava je v varčevalnem načinu dela, prenos zaustavljen</string>
   <string name="download_pending">Prenos na čakanju</string>
-  <string name="download_percent">%d%%</string>
   <string name="download_processing">Prenašam...</string>
   <string name="download_quality">Kvaliteta prenosa</string>
   <string name="download_quality_summary">Dodatne nastavitve za skladbe, ki ste jih prenesli</string>

@@ -381,22 +381,15 @@ Uporabite priloženi polnilnik."</string>
   <string name="picture_color_mode_desc">Uporaba sRGB-ja</string>
   <string name="pointer_location">Kazalec</string>
   <string name="pointer_location_summary">Na zaslonu se prikazujejo podatki o dotikih.</string>
-  <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti električnim napajanjem</string>
-  <string name="power_charging_duration_ac_short">%1$s – %2$s</string>
-  <string name="power_charging_duration_short">%1$s – %2$s</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti preko USB-a</string>
-  <string name="power_charging_duration_usb_short">%1$s – %2$s</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti brezžično </string>
-  <string name="power_charging_duration_wireless_short">%1$s – %2$s</string>
   <string name="power_discharging_duration">%1$s – še približno %2$s</string>
   <string name="power_discharging_duration_short">%1$s – še %2$s</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
   <string name="process_kernel_label">Android OS</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Na voljo ni nobene seznanjene naprave</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Povezano</string>
@@ -478,7 +471,6 @@ Uporabite priloženi polnilnik."</string>
       d. MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
       d. MMMM"</string>
-  <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Danes: %1$s  Preostalo: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Načrt prekoračen:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Mesečna omejitev: %1$s  "</string>
@@ -501,7 +493,6 @@ Povlecite navzdol za zaklepanje"</string>
   <string name="status_bar_safepay_scanning">Kontrola okolja plačevanja…</string>
   <string name="status_bar_safepay_unknown">"Ne morem preveriti okolja plačevanja"</string>
   <string name="status_bar_settings_airplane">"Letalski način"</string>
-  <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">"Ni spletne povezave"</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">"WiFi je povezan"</string>
   <string name="status_bar_style_settings">Obvestila</string>

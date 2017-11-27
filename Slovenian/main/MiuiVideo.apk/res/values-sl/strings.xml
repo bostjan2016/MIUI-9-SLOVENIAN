@@ -119,7 +119,6 @@ Dolžina: %s
   <string name="search_null_text">Vnesite ključno besedo</string>
   <string name="select_all">Izberi vse</string>
   <string name="send">Pošlji</string>
-  <string name="send_video_type">video/*</string>
   <string name="settings">Nastavitve</string>
   <string name="show_all_files_tips">Prikaži vse datoteke</string>
   <string name="show_all_folder_tips">Prikaži vse mape</string>

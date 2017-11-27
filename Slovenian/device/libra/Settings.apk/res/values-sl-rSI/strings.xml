@@ -2894,15 +2894,10 @@ Na tej napravi je več uporabnikov.
   <string name="power_cell">Način čakanja</string>
   <string name="power_center">Performanse</string>
   <string name="power_charge_remaining">%1$s do napolnjenosti</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti prek napajalnika</string>
-  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti prek USB-ja</string>
-  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti prek brezž. pol.</string>
-  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
   <string name="power_checker">Kontrola energije</string>
   <string name="power_discharge_remaining">Preostali čas: %1$s</string>
   <string name="power_discharging_duration">%1$s – še približno %2$s</string>

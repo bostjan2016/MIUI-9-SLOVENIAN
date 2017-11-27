@@ -217,7 +217,6 @@
   <string name="dialog_type_text">Besedilo</string>
   <string name="dialog_type_video">Videoposnetki</string>
   <string name="dir_not_support">"Ne morem skriti mape."</string>
-  <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prazno</string>
   <string name="disk_available">Dostopno:</string>
   <string name="disk_total">Skupaj:</string>
@@ -424,11 +423,9 @@
   <string name="message_comment_prefix">Komentar:</string>
   <string name="message_my_received_notification">Novo sporočilo</string>
   <string name="message_my_received_praise">Moji lajki</string>
-  <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">Všečkajte ta komentar</string>
   <string name="message_praise_video">Všečkajte ta video</string>
   <string name="message_reply_prefix">Odgovor</string>
-  <string name="message_reply_suffix">:</string>
   <string name="message_title">Moja sporočila</string>
   <string name="mi_router_label">Router</string>
   <string name="midrive_network_connect_confirm">Midrive potrebuje povezavo s spletom za normalno delo.</string>

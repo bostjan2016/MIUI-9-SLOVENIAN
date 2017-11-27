@@ -235,8 +235,6 @@
   <string name="back">Nazaj</string>
   <string name="battery_saver">Varčevanje baterije</string>
   <string name="battery_saver_keywords">Varčevanje baterije;mail battery</string>
-  <string name="bcc">Skp</string>
-  <string name="bcc_heading">Skp:</string>
   <string name="blank_feedback_toast">Napisati morate povratno informacijo</string>
   <string name="body_forward_email_text">[Posreduj]</string>
   <string name="body_hint">Sestavi E-pošto</string>
@@ -251,9 +249,6 @@
   <string name="cancel_action">Prekliči</string>
   <string name="cancel_pop3_attchemt_downloading">Odpoved prevzemanja priponk ni dostopna za POP3 račun.</string>
   <string name="cant_move_or_change_labels">Ni mogoče premakniti, ker izbor vsebuje več računov.</string>
-  <string name="cc">Kp</string>
-  <string name="cc_attribution">Kopija: %1$s&lt;br&gt;</string>
-  <string name="cc_bcc">Kp/Skp</string>
   <string name="cc_heading">Kp:</string>
   <string name="change_folders_selection_dialog_title">Spremeni mape</string>
   <string name="change_sync_settings">Spremeni nastavitve sinhronizacije</string>
@@ -560,7 +555,6 @@
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="invalid_recipient_title">Napaka prejemnika</string>
   <string name="kilobytes">%s KB</string>
-  <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Nadaljuj iskanje na strežniku</string>
   <string name="load_more">Naloži več</string>
   <string name="loading_conversation">Nalagam...</string>
@@ -1033,7 +1027,6 @@ Poskusite z ostalo pošto."</string>
   <string name="tap_to_configure">Tapni za nastavitev</string>
   <string name="tap_to_enable_sync">Tapni za vklop.</string>
   <string name="tip_cannot_switchview_in_unread_folder">Ne morem spremeniti način prikaza neprebrane pošte</string>
-  <string name="to">Za</string>
   <string name="to_heading">"Za:"</string>
   <string name="toast_bar_fail_synchronization">"Ne morem se povezati z omrežjem"</string>
   <string name="toast_bar_insufficient_memory_space">Ni dovolj prostora za shrambo</string>
@@ -1061,9 +1054,6 @@ Poskusite z ostalo pošto."</string>
   <string name="translation_query_failure">"Ne morem najti rezultatov"</string>
   <string name="translation_technology_support">Technical support by iciba.com</string>
   <string name="trash_folder_selection_title">Izberite mapo za Koš vašega strežnika za %s</string>
-  <string name="trigger_compose_char">c</string>
-  <string name="trigger_refresh_char">u</string>
-  <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Prijavite se z EXCHANGE</string>
   <string name="tryrefreshing">Osvežujem...</string>
   <string name="turn_auto_sync_on_dialog_body">Spremembe ki jih naredite za vse aplikacije in račune (ne le za Gmail) se bodo sinhronizirale med spletom, drugimi napravami in vašo napravo %1$s.</string>

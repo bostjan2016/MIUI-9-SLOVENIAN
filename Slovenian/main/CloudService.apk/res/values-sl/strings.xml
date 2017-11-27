@@ -91,8 +91,6 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_dspt">Lociraj, zakleni ali ponastavi vašo napravo na daljavo</string>
   <string name="find_device_dspt_provision">"Če izgubite vašo napravo lahko greste na %s za iskanje, zaklepanje ali uničenje. 
   To lahko vključite/izključite v nastavitvah."</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">Za lociranje, zaklep ali ponastavitev. Funkcijo lahko vklopite/izklopite v nastavitvah.</string>
   <string name="find_device_dspt_provision_4">Če zamenjate SIM kartice bo samodejno poslan SMS za ponovno aktiviranje te funkcije.</string>
   <string name="find_device_enabling">Vklapljam…</string>
@@ -101,7 +99,6 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_error_server">Prišlo je do napake na naših strežnikih.</string>
   <string name="find_device_error_unknown">Neznana napaka.</string>
   <string name="find_device_notice_p1">Pojdi na</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" da najdete, zaklenete ali uničite svojo napravo na daljavo.
   Če zamenjate SIM kartico bo poslan še en SMS za ponovno aktiviranje storitve."</string>
   <string name="find_device_operation_failure_rpc">"Zaradi RPC napake opravila ni mogoče izvesti ."</string>
@@ -271,8 +268,6 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_find_device_open_fail">"Ne morem vključiti Najdi napravo"</string>
   <string name="micloud_find_device_opened">Najdi napravo vključeno</string>
   <string name="micloud_find_device_opened_content">Prijavite se na %s da najdete svojo napravo</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-  <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_find_device_verify_button">Ponovno aktiviraj Najdi napravo</string>
   <string name="micloud_find_device_verify_close">Izključi Najdi napravo</string>
   <string name="micloud_find_device_verify_fail">"Ne morem ponovno aktivirati Najdi napravo"</string>
@@ -542,8 +537,6 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_dspt_entrance_provision_network">Ta aplikacija za normalno delo potrebuje spletni dostop. Sinh. podatkov lahko zahteva mobilno podatkovno povezavo in vklop WiFi ja.</string>
   <string name="sync_dspt_entrance_provision_skip">Preskoči ta korak</string>
   <string name="sync_dspt_provision">"Sinhronizirajte vaše fotografije, stike, beležke in ostalo med vsemi vašimi napravami ali dostopajte do njih na "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">"To funkcijo lahko kadarkoli vklopite/izklopite v Nastavitvah.     
   
   

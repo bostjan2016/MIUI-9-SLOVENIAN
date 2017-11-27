@@ -26,7 +26,6 @@
   <string name="find_device_error_unknown">Neznana napaka (%s).</string>
   <string name="find_device_noise_title">Najdi napravo alarm</string>
   <string name="find_device_notice_p1">Pojdite na</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" da najdete, zaklenite, ali zbrišete svojo napravo na daljavo.
 Če zamenjate SIM kartico bo poslano še eno SMS sporočilo za ponovno aktiviranje te funkcije."</string>
   <string name="find_device_stop_noise">Dotaknite se V redu da utišate</string>

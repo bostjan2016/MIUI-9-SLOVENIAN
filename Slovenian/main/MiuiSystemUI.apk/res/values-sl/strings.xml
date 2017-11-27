@@ -421,22 +421,15 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="picture_color_mode_desc">Uporabi sRGB</string>
   <string name="pointer_location">Mesto kazalca</string>
   <string name="pointer_location_summary">Na zaslonu se prikazujejo podatki o dotikih.</string>
-  <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti z elektriko</string>
-  <string name="power_charging_duration_ac_short">%1$s – %2$s</string>
-  <string name="power_charging_duration_short">%1$s – %2$s</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti preko USB</string>
-  <string name="power_charging_duration_usb_short">%1$s – %2$s</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti brezžično</string>
-  <string name="power_charging_duration_wireless_short">%1$s – %2$s</string>
   <string name="power_discharging_duration">%1$s – še približno %2$s</string>
   <string name="power_discharging_duration_short">%1$s – še %2$s</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
   <string name="process_kernel_label">Android OS</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Ni dostopnih seznanjenih naprav</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Povezano</string>
@@ -541,7 +534,6 @@ Uporabljajte samo originalen polnilec.</string>
       d. MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
       d. MMMM"</string>
-  <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Danes: %1$s   Preostalo še: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan presežen:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Mesečna omejitev: %1$s"</string>
@@ -566,7 +558,6 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="status_bar_safepay_scanning">odkritje plačila...</string>
   <string name="status_bar_safepay_unknown">varnost plačila ni znana.</string>
   <string name="status_bar_settings_airplane">Letalo</string>
-  <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Ni spletne povezave</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Povezano na WiFi</string>
   <string name="status_bar_style_settings">Obvestila</string>
@@ -690,6 +681,6 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="wifi_security_none">Nič</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_verbose_logging">Dovoli obsežno prijavo na WiFi</string>
-  <string name="wifi_verbose_logging_summary">Povečan nivo prijave na WiFi, prikaz po SSID RSSI-ju v izborniku WiFi-ja</string>
+  <string name="wifi_verbose_logging_summary">Povečan nivo prijave na WiFi, prikaz po SSID RSSI-ju v meniju WiFi-ja</string>
   <string name="window_animation_scale_title">Hitrost animacije okna</string>
 </resources>

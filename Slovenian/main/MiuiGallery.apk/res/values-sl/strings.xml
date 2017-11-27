@@ -532,7 +532,6 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="gigabyteShort">GB</string>
   <string name="grain">Zrnatost filma</string>
   <string name="grant_permission_go_and_set">Nastavi</string>
-  <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do \n%s\n, pritisni \"Nastavi\" za dostop do Dovoljenj."</string>
   <string name="grant_permission_title">Dovoli dostop</string>
   <string name="grant_permission_unlock_and_set">Odkleni in nastavi</string>
@@ -914,7 +913,6 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="search_feedback_likely_check_title">Preveri</string>
   <string name="search_feedback_likely_title">Kaže da te fotografije lahko imajo \"%s\"</string>
   <string name="search_feedback_task_complete">Vse naloge so končane</string>
-  <string name="search_feedback_task_progress">Naloge %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">"Ne morem prejeti nagrado. poskusite ponovno kasneje.​"</string>
   <string name="search_feedback_task_requesting_award">Sprejemanje nagrade…</string>
   <string name="search_feedback_user_notice">"Prebral sem in se strinjam s %s."</string>

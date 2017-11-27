@@ -1333,6 +1333,7 @@ Poskusite ponovno ali pokličite podoporo</string>
   <string name="other">Ostalo</string>
   <string name="other_countries_and_regions">Ostale države</string>
   <string name="other_settings">Druge klicne nastavitve</string>
+  <string name="other_available_phone_accounts">Ostali dostopni računi</string>
   <string name="other_settings_category">Drugo</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="overseas_roaming_setting">Mednarodno gostovanje</string>
@@ -1436,15 +1437,10 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="pointer_location">Mesto kazalca</string>
   <string name="pointer_location_summary">Na zaslonu se pokažejo podatki o dotikih.</string>
   <string name="port_title">Številka vrat</string>
-  <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti z zidnim polnilcem</string>
-  <string name="power_charging_duration_ac_short">%1$s – %2$s</string>
-  <string name="power_charging_duration_short">%1$s – %2$s</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti preko USB-a</string>
-  <string name="power_charging_duration_usb_short">%1$s – %2$s</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti brezžično</string>
-  <string name="power_charging_duration_wireless_short">%1$s – %2$s</string>
   <string name="power_discharging_duration">%1$s – še približno %2$s</string>
   <string name="power_discharging_duration_short">%1$s – še %2$s</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
