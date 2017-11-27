@@ -95,7 +95,7 @@ nastavitev in aplikacij"</string>
   <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">Telefon</string>
   <string name="current_sim">Trenutna SIM kartica</string>
-  <string name="custom_progress">%d stvari</string>
+  <string name="data_detail_description">podrobnosti</string>
   <string name="data_item_desc">Podatki</string>
   <string name="data_no_enough_space_message">Na vaši napravi ni dovolj notranjega pomnilnika.</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
@@ -129,6 +129,7 @@ nastavitev in aplikacij"</string>
   <string name="every_day">Vsak dan</string>
   <string name="exchange_account">Zamenjaj račun</string>
   <string name="fail">Ni uspelo</string>
+  <string name="failed_description">Ni uspelo</string>
   <string name="feature_title_account">Račun</string>
   <string name="feature_title_call_log">Zgodovina klicev</string>
   <string name="feature_title_mms">MMS</string>
@@ -139,6 +140,7 @@ nastavitev in aplikacij"</string>
   <string name="feature_title_antispam">Seznam blokiranih</string>
   <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne morem uporabiti Mi Mover v načinu dela Gost."</string>
+  <string name="hide_password_description">Skrij geslo</string>
   <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
   <string name="hsa_code_null">Koda za preverjanje ne sme biti prazna</string>
   <string name="hsa_input_hint">Vnesite kodo za preverjanje</string>
@@ -302,6 +304,7 @@ nastavitev in aplikacij"</string>
   <string name="start_restore">Obnovi</string>
   <string name="state_mounting">Pristop prostoru za hrambo routerja…</string>
   <string name="state_waiting">Samo trenutek…</string>
+  <string name="succ_description">Uspešno</string>
   <string name="succeed">Končano</string>
   <string name="summary_err_backup_encrypting">Prijavite se v vaš mi Račun.</string>
   <string name="summary_err_backup_no_network">"Ne morem se povezati na omrežje"</string>
@@ -336,7 +339,6 @@ nastavitev in aplikacij"</string>
   <string name="task_running_restore_hint">To opravilo že teče v ozadju.</string>
   <string name="task_service_not_launched">Opravilo se še ni začelo</string>
   <string name="task_stopped_exception">Obnovitev preklicana</string>
-  <string name="total_num">Stvari %d,</string>
   <string name="total_size">, %s</string>
   <string name="trans_backingup">Izdelava var. kopije …</string>
   <string name="trans_backingup_no_items">Sinhr. …</string>
@@ -470,6 +472,7 @@ nastavitev in aplikacij"</string>
   <string name="user_notice_declaration_ignore">"Ne kaži več"</string>
   <string name="user_notice_message">Nekatere funkcije za normalno delo potrebujejo spletno povezavo.</string>
   <string name="user_notice_title">Pozor</string>
+  <string name="view_password_description">Prikaži geslo</string>
   <string name="wifi_title">WiFi nastavitve</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico.</string>

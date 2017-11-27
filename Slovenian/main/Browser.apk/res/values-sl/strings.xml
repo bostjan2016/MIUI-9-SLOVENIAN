@@ -266,7 +266,7 @@ zasebnost​"</string>
   <string name="download_default_path_txt">Zapomni si to odločitev</string>
   <string name="download_dialog_default_path_invalid">Lokacija prenosa je napačna. Uporabila se bo privzeta lokacija.</string>
   <string name="download_dialog_file_length_hint_txt">Velikost datoteke:</string>
-  <string name="download_dialog_file_length_lessthan1kb">manj kot 1K</string>
+  <string name="download_dialog_file_length_lessthan1kb">Manj od 1KB</string>
   <string name="download_dialog_file_length_nolength_error_txt">Ni mogoče prenesti</string>
   <string name="download_dialog_file_length_nolength_txt">Prenašam...</string>
   <string name="download_failed">Ni mogoče dokončati prenosa</string>
@@ -299,7 +299,7 @@ zasebnost​"</string>
   <string name="edit">Uredi</string>
   <string name="edit_bookmark">Uredi zaznamek</string>
   <string name="edit_quicklink">Uredi</string>
-  <string name="empty_app_name">Ostale aplikacije</string>
+  <string name="empty_app_name">Druga aplikacija</string>
   <string name="empty_bookmark">Prazno</string>
   <string name="empty_cloud_tab_login_hint">Ni cloud kartic</string>
   <string name="empty_cloud_tab_logout_hint">"Prijavite se v svoj Mi Račun\nu da vidite odprte kartice na drugih napravah."</string>
@@ -406,7 +406,7 @@ Zapustim to stran?"</string>
   <string name="media_error_timeout">Povezovanje z omrežjem je poteklo</string>
   <string name="media_error_video_not_exist">"Video ne obstaja"</string>
   <string name="media_player_error_button">V redu</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Tega videa ni mogoče deliti</string>
+  <string name="media_player_error_text_invalid_progressive_playback">"Ta videoposnetek ni veljaven za streaming na tej napravi."</string>
   <string name="media_player_error_text_unknown">Tega videa ni mogoče predvajati</string>
   <string name="media_player_error_title">Tega videa ni mogoče predvajati</string>
   <string name="media_player_loading_video">Nalagam video</string>
@@ -570,7 +570,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="open_app_confirm_message">Dovolim tej strani da odpre %s?</string>
   <string name="open_file_explorer_failed">"Ne morem odpreti aplik. Raziskovalec"</string>
   <string name="open_voice_permission">Glasovno iskanje potrebuje dostop do mikrofona da dela normalno.</string>
-  <string name="opening_file_error">Datoteke ni mogoče odpreti</string>
+  <string name="opening_file_error">"Datoteke ni mogoče odpreti"</string>
   <string name="page_info">Informacija o strani</string>
   <string name="page_info_address">Naslov:</string>
   <string name="page_info_view">Prikaz info o strani</string>
@@ -695,10 +695,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_weather_location_summary">"Uporabljeno s strani dodatka vremena brskalnika"</string>
   <string name="pref_weather_location_title">Lokacija vremena</string>
   <string name="private_browsing_warning">Ta funkcija ni podprta v tej verziji Androida.</string>
-  <string name="profiler_error_toast">Zbiranje podatkov ni mogoče</string>
-  <string name="profiler_no_storage_toast">Zbiranje podatkov ni mogoče ker zunanji pomnilnik ni na voljo</string>
-  <string name="profiler_started_toast">Začetek zbiranja podatkov</string>
-  <string name="profiler_stopped_toast">Zbiranje podatkov je zaključeno. Rezultati so shranjeni na %1$s.</string>
+  <string name="profiler_error_toast">"Ne morem zagnati profiler"</string>
+  <string name="profiler_no_storage_toast">Ne morem zagnati profiler ker zunanji pomnilnik ni na voljo</string>
+  <string name="profiler_started_toast">Profiler se je zagnal</string>
+  <string name="profiler_stopped_toast">Profiler je je končal. Rezultati shranjeni v %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Nastavitev ozadja...</string>
   <string name="pull_to_refresh_pull_label">Potegni za osvežitev…</string>
   <string name="pull_to_refresh_release_label">Potegni za priporočeno in osvežitev</string>

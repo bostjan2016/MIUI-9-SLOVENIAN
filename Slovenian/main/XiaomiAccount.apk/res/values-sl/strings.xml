@@ -18,6 +18,7 @@
   <string name="account_error_longer_user_name">"Ime ne sme biti daljše od 20 znakov"</string>
   <string name="account_error_shorter_user_name">Ime mora biti daljše od 2 znakov</string>
   <string name="account_error_user_birthday">Rojstni dan ni veljaven</string>
+  <string name="account_global_region">Globalno</string>
   <string name="account_has_been_set">Spremeni</string>
   <string name="account_limit_update_birthday">"Ne morem sedaj posodobiti datuma rojstva"</string>
   <string name="account_mibi_center">Mi Krediti</string>
@@ -353,7 +354,7 @@
   <string name="passport_reg_recycle_account_yes">Da</string>
   <string name="passport_reg_success">Račun ustvarjen</string>
   <string name="passport_reg_success_summary">%1$s je bil dodan na vaš račun. Lahko ga uporabite da se prijavite ali ponastavite geslo.</string>
-  <string name="passport_reg_type_email">Ustvari račun z uporabo e-pošte</string>
+  <string name="passport_reg_type_email">Naslov e-pošte</string>
   <string name="passport_reg_type_other_ways">Uporabite naslov e-pošte ali alternativno številko</string>
   <string name="passport_reg_type_other_ways_title">Ustvari račun z uporabo drugega načina</string>
   <string name="passport_reg_using_other_phone">&lt;u&gt;Uporabi alternativno številko telefona&lt;/u&gt;</string>

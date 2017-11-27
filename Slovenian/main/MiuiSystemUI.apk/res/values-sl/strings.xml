@@ -413,7 +413,7 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="oem_unlock_enable">OEM odklep</string>
   <string name="oem_unlock_enable_summary">Naj bo koda za zagon sistema odklenjena</string>
   <string name="oldman_airplane_mode_text">Letalo</string>
-  <string name="oldman_incall_text">Klic</string>
+  <string name="oldman_incall_text">Nazaj na klic</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>

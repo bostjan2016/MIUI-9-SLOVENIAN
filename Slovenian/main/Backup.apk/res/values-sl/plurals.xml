@@ -11,6 +11,14 @@
      <plurals name="trans_time_format_minute">
         <item quantity="other">%d min.</item>
         <item quantity="one">%d min.</item>
+    </plurals>
+	<plurals name="total_num">
+         <item quantity="other">%d stvari,</item>
+         <item quantity="one">%d stvar,</item>
+     </plurals>
+     <plurals name="custom_progress">
+         <item quantity="other">%d stvari</item>
+         <item quantity="one">%d stvar</item>
      </plurals>
      <plurals name="trans_time_format_hours">
         <item quantity="other">%d ur</item>

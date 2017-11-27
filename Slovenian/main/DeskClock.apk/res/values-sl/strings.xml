@@ -57,13 +57,14 @@
   <string name="force_touch_add_alarm">Dodaj Alarm</string>
   <string name="force_touch_enter_stopwatch">Štoparica</string>
   <string name="force_touch_enter_timer">Kronometer</string>
-  <string name="full_wday_month_day_no_year">EEEE, d. MMMM</string>
+  <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="go_back">Nazaj</string>
   <string name="hour">1 ura</string>
   <string name="hour_unit">h</string>
   <string name="hours">%d ur</string>
   <string name="install_weather_app_error">Ne morem naložiti aplikacije.</string>
   <string name="install_weather_app_loading">Samo trenutek…</string>
+  <string name="invalid_time">Neveljaven čas: %3$s %1$d: %2$d</string>
   <string name="keep_screen_on">Ohrani zaslon prižgan</string>
   <string name="label">Nastavi oznako</string>
   <string name="label_pref_summary">Nastavi oznako budilki</string>

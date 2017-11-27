@@ -567,6 +567,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="call_contact_block">Prestrezanje stikov</string>
   <string name="call_delete_hint">Izbrišem vse blokirane klice iz te številke?</string>
   <string name="call_delete_title">Izbriši klic</string>
+  <string name="call_oversea_block">Blokiraj klice iz tujine</string>
   <string name="call_prefix">Seznam blokiranih predštevilk</string>
   <string name="call_private">Zasebni klic</string>
   <string name="call_stranger_block">Prestrezanje tujcev</string>
@@ -914,6 +915,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="fw_blocked">Seznam blokiranih</string>
   <string name="fw_blocked_count">"Blokirano "</string>
   <string name="fw_blocked_join">" in "</string>
+  <string name="fw_oversea">Blokiraj klice iz tujine</string>
+  <string name="fw_oversea_content">Blokiraj dohodne klice iz tujih telefonskih številk</string>
   <string name="game_anti_disturb_msg">Igre DND</string>
   <string name="game_booster">Pohitritev igranja</string>
   <string name="game_booster_close">Pohitritev igranja je izključena</string>
@@ -2231,6 +2234,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_call_backsound_group">Zvok Seznama blokiranih</string>
   <string name="st_call_intercept_contacts">Blokiraj klice od stikov</string>
   <string name="st_call_intercept_forwarding">Blokiraj posredovane klice</string>
+  <string name="st_call_intercept_oversea">Blokiraj klice iz tujine</string>
   <string name="st_call_intercept_reported">Blokiraj klice s prijavljenih številk</string>
   <string name="st_call_intercept_stranger">Blokiraj klice od tujcev</string>
   <string name="st_call_intercept_unknown">Blokiraj klice iz neznanih številk</string>
@@ -2239,6 +2243,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_call_stranger_group">Blokiranje klicev od tujcev</string>
   <string name="st_confirm_dialog_btn_open">Odpri</string>
   <string name="st_confirm_dialog_summary_contact_call">Vsi klici od stikov bodo prestreženi.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Vključite da boste blokirali vse dohodne klice iz tujih številk telefona.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Vsi klici od tujcev bodo prestreženi.</string>
   <string name="st_filter_keywords_setting_summary1">SMS iz neznane številke ki vsebuje ključno besedo bo blokirana.</string>
   <string name="st_filter_keywords_setting_summary2">"

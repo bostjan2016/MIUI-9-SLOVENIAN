@@ -263,6 +263,7 @@
   <string name="mark_number_feedback_success">Povr. informacija poslana.</string>
   <string name="mark_number_marked_maintitle">Zamenjaj prijavo za to številko</string>
   <string name="mark_number_marked_subtitle">Prijavili ste to številko kot %s</string>
+  <string name="mark_number_notification_title">Prijavi sumljivo številko</string>
   <string name="mark_number_remove">Odstrani oznako</string>
   <string name="mark_title_null_hint">Polje ne sme biti prazno</string>
   <string name="menu_about_yellow_page">O tej strani</string>
