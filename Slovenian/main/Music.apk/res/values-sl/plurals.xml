@@ -17,8 +17,8 @@
          <item quantity="one">Izbrišem %d predmet?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
-         <item quantity="other">%d preuzimanja uklonjeno</item>
-         <item quantity="one">%d preuzimanje uklonjeno</item>
+         <item quantity="other">%d prenosov odstranjeno</item>
+         <item quantity="one">%d prenos odstranjen</item>
     </plurals>
 	<plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">"Ta mesec lahko prenesete %d Premium skladb. Nadgradite na Premium naročnino, da jih lahko prenesete več."</item>
@@ -114,6 +114,10 @@
         <item quantity="other">%d bralcev</item>
         <item quantity="one">%d bralec</item>
      </plurals>
+	 <plurals name="songs_count">
+        <item quantity="other">Pesmi: %d</item>
+        <item quantity="one">%d pesem</item>
+     </plurals>
       <plurals name="Nunbackup_audios">
         <item quantity="other">"%1$d pesmi ni shranjeno (%2$.1fMB)"</item>
         <item quantity="one">"%1$d pesem ni shranjena (%2$.1fMB)"</item>
@@ -148,8 +152,8 @@
         <item quantity="other">Izključuje optimizacijo albuma in teksta. Želite povrniti optimizirane informacije, album in tekst %d pesmi?</item>
         <item quantity="one">Izključuje optimizacijo albuma in teksta. Želite povrniti optimizirane informacije, album in tekst %d pesmi?</item>
      </plurals>
-     <plurals name="songs_count">
-        <item quantity="other">Pesmi: %d</item>
-        <item quantity="one">%d pesem</item>
+     <plurals name="Nassociate_songs">
+         <item quantity="other">Ujemanje albuma in teksta(%1$d/%2$d pesmi)</item>
+         <item quantity="one">Ujemanje albuma in teksta(%1$d/%2$d pesmi)</item>  
      </plurals>
 </resources> 

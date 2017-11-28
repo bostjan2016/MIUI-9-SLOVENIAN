@@ -1986,6 +1986,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="incoming_call_breathing_light_color_title">Barva LED indikatorja klicev</string>
   <string name="incoming_call_breathing_light_freq_title">Frekvenca LED indikatorja klicev</string>
   <string name="incoming_call_volume_title">Zvonenje</string>
+  <string name="infinity_display_settings">Prikaz preko celega zaslona</string>
+  <string name="infinity_display_slogan">Nadalnja rast neraziskanih tehnologij</string>
+  <string name="infinity_display_title">Prikaz preko celega zaslona</string>
   <string name="information_dialog_button_text">Razumem</string>
   <string name="input_method">Tipkovnica</string>
   <string name="input_method_selector">Načina vnosa</string>
@@ -2654,6 +2657,7 @@ Na tej napravi je več uporabnikov.
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
   <string name="mode_disable">Onemogočeno</string>
   <string name="mode_enable">Omogočeno</string>
+  <string name="model_name">Ime modela</string>
   <string name="model_number">Model naprave</string>
   <string name="modem_tool_log">Zabeleži zapise modema</string>
   <string name="modem_tool_log_start">Začni</string>
@@ -2722,6 +2726,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
+  <string name="music_dirac_mode_reduction_noise">Reduce Noise TypeC</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby efekti</string>
   <string name="music_dolby_eq_enter_alert_msg">Equalizer lahko uporabljate samo v Dolby glasbenem načinu. Ga omogočim?</string>

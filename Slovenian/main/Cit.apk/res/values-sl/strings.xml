@@ -149,6 +149,11 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_blue_tooth_scan_check_title">Bluetooth preverjanje</string>
   <string name="cit_blue_torch_on">Vključi svetilko modre barve</string>
   <string name="cit_bluetooth_address_open_error">"Ni morem dobiti Bluetooth naslova. Prišlo je do napake pri odpiranju Bluetooth naprave."</string>
+  <string name="cit_bluetooth_logging_confirm_info">Ta zapis bo samodejno zbral podatke o Bluetooth protokolu vaše naprave in zabeležil trenutne Bluetooth operacije. Zapisane bodo tudi informacije o zaščiti zasebnosti podatkov: Dostop Bluetooth imeniku/Zgodovini telefonskih klicev/SMS/MMS/Izmenjane datoteke/Meta podatki glasbe itd. Ti podatki so omejeni na interno odklanjanje napak firme XiaoMi z uporabniki in se ne morejo uporabljati za druge namene.</string>
+  <string name="cit_bluetooth_logging_confirm_ng">Zavračam</string>
+  <string name="cit_bluetooth_logging_confirm_notify">Ali se strinjate z omogočanjem zapisa?</string>
+  <string name="cit_bluetooth_logging_confirm_ok">Strinjam se</string>
+  <string name="cit_bluetooth_logging_confirm_title">Opozorilo zasebnosti za zapis Bluetooth zapisa</string>
   <string name="cit_bluetooth_not_support">"Ta naprava ne podpira Bluetooth"</string>
   <string name="cit_bluetooth_scan_retry">Preveri ponovno</string>
   <string name="cit_bluetooth_scanning">Preverjanje za bližnjimi Bluetooth napravami (traja okoli 4 sekunde)…</string>
