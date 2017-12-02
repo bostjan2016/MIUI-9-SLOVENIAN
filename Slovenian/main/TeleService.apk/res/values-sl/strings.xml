@@ -1112,6 +1112,7 @@ za uporabo top-up package"</string>
   <string name="missed_call_notify_times_summary">Izberite kolikokrat hočete biti opomnjeni o neodgovorjenih klicih (opomniki so ločeni s 5 minutnimi intervali)</string>
   <string name="missed_call_notify_times_title">Opomnik zgrešenih klicev</string>
   <string name="missed_call_notify_twice">2 krat</string>
+  <string name="miui_notification_network_selection_text" formatted="false">SIM %s Izbrano omrežje (%s) ni dostopno</string>
   <string name="mmiCancelled">Koda MMI preklicana</string>
   <string name="mmiStarted">Koda MMI zagnana</string>
   <string name="mo_call_type_title">Vrsta MO Klica</string>

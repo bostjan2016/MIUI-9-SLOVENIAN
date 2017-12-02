@@ -783,6 +783,7 @@
   <string name="bluetooth_unlock_turned_on">Vklopljen</string>
   <string name="bluetooth_untether_blank">%1$s bo osvobojen.</string>
   <string name="bluetooth_visibility_timeout">Časovna omejitev vidnosti</string>
+  <string name="bluetooth_wake">Zbudi z Bluetooth audio</string>
   <string name="bootloader">Fastboot način</string>
   <string name="bootloader_apply_step_1">Vključim Fastboot način?</string>
   <string name="bootloader_apply_step_2">Ko je vaša naprava v Fastboot načinu dela in priključena na računalnik</string>
@@ -4213,6 +4214,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="settings_license_activity_unavailable">Pri nalaganju licenc je prišlo do težave.</string>
   <string name="settings_manual_activity_title">Priročnik</string>
   <string name="settings_manual_activity_unavailable">Prišlo je do težav pri prenosu priročnika.</string>
+  <string name="settings_notify_need_backup">Izdelajte varnostno kopijo nastavitev na Mi Cloud da jo lahko uporabite po zamenjavi telefona.</string>
+  <string name="settings_notify_phone_recycled">Vaša telefonska številka je reciklirana. Pritisnite za dodajanje druge telefonske številke.</string>
   <string name="settings_safetylegal_activity_loading">Nalaganje …</string>
   <string name="settings_safetylegal_activity_title">Informacije o varnosti</string>
   <string name="settings_safetylegal_activity_unreachable">Nimate podatkovne povezave. Če si želite te podatke ogledati zdaj odprite %s iz katerega koli računalnika s spletno povezavo.</string>
@@ -4436,6 +4439,7 @@ Morda je koda PIN napačna."</string>
   <string name="spellchecker_security_warning">Ta pregledovalnik črkovanja bo morda lahko zbral vse besedilo ki ga vnesete, vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. Pregledovalnik je iz aplikacije %1$s. Ga želite uporabiti?</string>
   <string name="spellchecker_switch_title">Vključi Kontrolo pravopisa</string>
   <string name="spellcheckers_settings_title">Črkovalnik</string>
+  <string name="split_screen">Vstop v deljeni zaslon</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Nadzor omrežja</string>
   <string name="ssl_ca_cert_info_message">S to napravo upravlja:
@@ -4707,6 +4711,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="suggested_lock_settings_title">Zaklepanje zaslona</string>
   <string name="suggestion_additional_fingerprints">Dodaj še en prstni odtis</string>
   <string name="suggestion_additional_fingerprints_summary">Odkleni z drugim prstnim odtisom</string>
+  <string name="suggestion_for_phone_recycled">Dodajte drugo telefonsko številko</string>
   <string name="suggestion_remove">Odstrani</string>
   <string name="suggestions_title">Predlogi (%1$d)</string>
   <string name="sum_carrier_select">Izbira omrežnega operaterja</string>
@@ -4760,7 +4765,8 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="system_backup_section_title">Varnostna kopija</string>
   <string name="system_default_app">(Sistemska nastavitev)</string>
   <string name="system_package">Sistemskih posodobitev ni mogoče namestiti na zunanji medij.</string>
-  <string name="system_storage">Sistemski pomnilnik</string>
+  <string name="system_shortcut_wake">Zbudi z bližnjicmi na tipkah</string>
+  <string name="system_storage">Notranja shramba</string>
   <string name="system_ui_settings">Prikaži sprejemnik upor. vmes. sistema</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Sistemske posodobitve</string>
@@ -5283,6 +5289,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="vision_settings_description">To napravo lahko prilagodite svojim potrebam. Funkcije dostopnosti lahko spremenite kasneje v nastavitvah.</string>
   <string name="vision_settings_title">Nastavitve za vid</string>
   <string name="voice_category">Govor</string>
+  <string name="voice_helper_title">Govorni asistent</string>
   <string name="voice_input_output_settings">Glasovni vhod &amp; izhod</string>
   <string name="voice_input_output_settings_title">Nastavitve glasovnega vhoda &amp; izhoda</string>
   <string name="voice_input_settings">Nastavitve glasovnega vnosa</string>

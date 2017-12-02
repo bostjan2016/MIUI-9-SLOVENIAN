@@ -211,7 +211,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="settings_safetylegal_activity_loading">Samo trenutek…</string>
   <string name="show_system_app">Prikaži aplikacije sistema</string>
   <string name="sleep_config_enhance_description">Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, omejil NFC, Bluetooth, GPS, mobilne podatke in WiFi, ravnotako pa ne bo vklopil ekran pri obvestilih</string>
-  <string name="sleep_config_enhance_title">Način mirovanja</string>
+  <string name="sleep_config_enhance_description_non_nfc">Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, Bluetooth, GPS, mobilne podatke in WiFi,ravnotako pa ne bo vklopil ekran pri obvestilih</string>
   <string name="still">Slika</string>
   <string name="sucess">Končano</string>
   <string name="ui">Standardno</string>

@@ -14,6 +14,7 @@
   <string name="cloud_record">%d sinhnorizirano</string>
   <string name="cloud_record_open">Sinhr. posnetkov</string>
   <string name="cloud_record_tip">Sinhr. posnetkov z Mi Cloudom.</string>
+  <string name="cloud_service_state_open_reminder">Vključite sinkronizacijo z Mi Cloudom za sinkroniziranje posnete datoteke.</string>
   <string name="cloud_status_full_dialog_cancel">Ne zdaj</string>
   <string name="cloud_status_full_dialog_msg">"Vaša shramba v cloudu je polna, ne morete sinhronizirati posnetkov. Nadgradite svoj račun da boste dobili več prostora za shranjevanje."</string>
   <string name="cloud_status_full_dialog_ok">Nadgradnja</string>
