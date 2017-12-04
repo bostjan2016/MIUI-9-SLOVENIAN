@@ -18,6 +18,7 @@
   <string name="account_error_longer_user_name">"Ime ne sme biti daljše od 20 znakov"</string>
   <string name="account_error_shorter_user_name">Ime mora biti daljše od 2 znakov</string>
   <string name="account_error_user_birthday">Rojstni dan ni veljaven</string>
+  <string name="account_error_user_name">Vneseno ime ni veljavno</string>
   <string name="account_global_region">Globalno</string>
   <string name="account_has_been_set">Spremeni</string>
   <string name="account_limit_update_birthday">"Ne morem sedaj posodobiti datuma rojstva"</string>
@@ -28,7 +29,7 @@
   <string name="account_none_binded_info">Nič</string>
   <string name="account_none_binded_secure_phone">Ni številke telefona</string>
   <string name="account_none_user_name">Nič</string>
-  <string name="account_notification_message">Seja je potekla. Ponovno prijavite.</string>
+  <string name="account_notification_message">&gt;Seja je potekla. Ponovno prijavite.</string>
   <string name="account_protection">Zaščita računa</string>
   <string name="account_protection_off">Izklj.</string>
   <string name="account_protection_on">Vklj.</string>
@@ -249,6 +250,7 @@
   <string name="passport_completed">Zaključeno</string>
   <string name="passport_confirm">Potrdi</string>
   <string name="passport_confirm_recycle_account">Da</string>
+  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Kaže da je&lt;/font&gt; številko %s recikliral vaš operater, a Mi Račun je povezan z njo. Ali je ta račun vaš?"</string>
   <string name="passport_continue">Nadaljuj</string>
   <string name="passport_copy_message_text_success">Uspešno kopirano</string>
   <string name="passport_copy_message_vcode">Kopiraj kodo</string>
@@ -291,6 +293,10 @@
   <string name="passport_forget_password">Pozabljeno geslo</string>
   <string name="passport_forget_password_no_underline">Pozabljeno geslo</string>
   <string name="passport_get_back_pwd">Pridobi geslo računa</string>
+  <string name="passport_get_innetdate_agree">Preveri</string>
+  <string name="passport_get_innetdate_disagree">Ne</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Kaže da je&lt;/font&gt; številko %s recikliral vaš operater. Preverite ko je številka online?</string>
+  <string name="passport_get_innetdate_title">Preverite ko je številka online</string>
   <string name="passport_get_verify_code">Pridobi kodo</string>
   <string name="passport_getting_activator_phone">Sprejem podatkov o SIM kartice telefona…</string>
   <string name="passport_getting_verify_code">Prejemam</string>
@@ -439,6 +445,8 @@
   <string name="push_notify_dialog_message">"Neznana naprava se poskuša prijaviti na vaš Mi Račun. Vnesite kontrolno kodo v napravi. Če to niste bili vi, takoj zamenjajte geslo Mi Računa. Kontrolno kodo ne zaupajte nikomur."</string>
   <string name="push_notify_dialog_title">Kontrola računa</string>
   <string name="qq">QQ</string>
+  <string name="recycle_phone_notification_msg">Kaže da je vaša številka reciklirana. Pritisnite za posodobitev.</string>
+  <string name="recycle_phone_notification_title">SigurVarnostno tveganje Mi Računa</string>
   <string name="remove_account_notice">Kaj želite storiti s sporočili, stiki in ostalimi podatki ki niso sinhronizirani z vašega Mi Računa?</string>
   <string name="remove_device_success_notice">Če odstranite to napravo iz vašega seznama zaupanja vrednih naprav, boste morda morali znova iti na proces preverjanja ko se prijavite.</string>
   <string name="remove_trust_btn">Odstrani iz zaupanja vrednih naprav</string>
@@ -495,6 +503,8 @@
   <string name="service_error">Napaka usluge</string>
   <string name="set_success">Uspešno zamenjano</string>
   <string name="sign_in">Prijavi se</string>
+  <string name="sim_changed_notification_msg">Pritisnite za posodobitev vašega telefona in obdržite svoj račun varen.</string>
+  <string name="sim_changed_notification_title">Telefonska številka je spremenjena?</string>
   <string name="set_security_question_title">Nastavi varnostna vprašanja</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Poslano</string>

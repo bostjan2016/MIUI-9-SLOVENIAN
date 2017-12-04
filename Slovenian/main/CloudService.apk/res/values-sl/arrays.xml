@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string-array name="micloud_entrance_titleArray">
+         <item>Sinhr. podatke aplikacije</item>
+         <item>Izdelajte Var. kopijo postavitve začetnega zaslona</item>
+         <item>Izdelajte Var. kopije nastavitev sistema</item>
+         <item>Najdi napravo</item>
+     </string-array>
+     <string-array name="micloud_entrance_subtitleArray">
+         <item>Sinhronizirajte svoje stike, sporočila, beleške, koledar in še veliko drugega</item>
+         <item>Izdelajte Var. kopije aplikacij, postavitve začetnega zaslona in ozadja</item>
+         <item>Izdelajte Var. kopije pomembnih nastavitev vključno z WiFi in zaslonom</item>
+         <item>"Če je naprava izgubljena jo zaklenite na daljavo"</item>
+     </string-array>
+</resources>

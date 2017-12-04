@@ -3,9 +3,10 @@
   <string name="action_cancel">Prekliči</string>
   <string name="action_submit">Pošlji</string>
   <string name="announcement">Pozor</string>
-  <string name="app_empty">Niste prenesli še nobene aplikacije.</string>
+  <string name="app_empty">"Ne najdem aplikacije."</string>
   <string name="app_label">Pov. informacije</string>
   <string name="app_name">Pov. informacije</string>
+  <string name="app_search">Išči aplikacije</string>
   <string name="btn_send">Pošlji</string>
   <string name="bugreport_dialog_not_show_again">"Ne prikaži več"</string>
   <string name="bugreport_dialog_submit_content">Vaše povratne informacije lahko vsebujejo osebne podatke.</string>

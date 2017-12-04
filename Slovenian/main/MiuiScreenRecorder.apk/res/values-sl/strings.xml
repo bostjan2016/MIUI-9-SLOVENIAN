@@ -16,6 +16,8 @@
   <string name="cannot_change_parames">"Parametrov ne morem menjati med snemamjem"</string>
   <string name="cannot_record">"Ne morem posneti, poskusite ponovno kasneje."</string>
   <string name="date_day"/>
+  <string name="description_content">Snemanje zaslona ponuja možnost snemanja na sistemskem nivoju. To opravilo pomeni da boste odstranili funkcijo snemanja zaslona. Potrdite za nadaljevanje.</string>
+  <string name="description_title">O aplikaciji</string>
   <string name="deselect_all">Prekliči izbiro</string>
   <string name="error_open_file_failed_no_app_found">"Ne morem najti aplikacijo za obdelavo tega opravila"</string>
   <string name="frames">Število slik</string>

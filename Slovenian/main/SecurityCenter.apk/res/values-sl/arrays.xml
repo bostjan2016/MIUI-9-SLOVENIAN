@@ -112,7 +112,8 @@
         <item>Porabljeni prostor za shranjevanje</item>
         <item>Uporaba podatkov</item>
         <item>Poraba baterije</item>
-		  <item>čas namestitve</item>
+		  <item>Čas namestitve</item>
+		  <item>Te aplikacije lahko odstranite</item>
     </string-array>		     
 	 <string-array name="sort_title">
         <item>Razvrsti po statusu</item>
@@ -121,7 +122,8 @@
         <item>Razvrsti po izkor. pros. za shranjevanje</item>
         <item>Razvrsti po uporabi podatkov</item>
         <item>Razvrsti po porabi baterije</item>
-		  <item>razvrsti po času namestitve</item>
+		  <item>Razvrsti po času namestitve</item>
+		  <item>Najprej pokaži aplikacije ki se lahko dostranijo</item>
      </string-array>
 	 <string-array name="sms_report_type">
          <item>Uporaba podatkov</item>
