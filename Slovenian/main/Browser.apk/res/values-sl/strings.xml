@@ -526,6 +526,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="miuishare_account_need_activate">Weibo račun mora biti povezan z vašim Mi Računom. Prijava z Mi Računom?</string>
   <string name="miuishare_account_need_login">Weibo račun mora biti povezan z vašim trenutnim Mi Računom. Se prijavim za deljenje?</string>
   <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_dialog_cancel">Prekliči</string>
   <string name="miuishare_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="miuishare_publish">Pošlji</string>
   <string name="miuishare_share_done">Razdeljeno</string>
