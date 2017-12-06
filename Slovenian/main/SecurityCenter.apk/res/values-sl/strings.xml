@@ -219,6 +219,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_disabled">Onemogočeno</string>
   <string name="app_manager_disabled_by_admin">Onemogočil skrbnik</string>
   <string name="app_manager_dlg_cancel">Prekini</string>
+  <string name="app_manager_dlg_clear_cache_title">Očistitim predpomnilnik?</string>
   <string name="app_manager_dlg_ok">V redu</string>
   <string name="app_manager_enable_text">Omogoči</string>
   <string name="app_manager_enabled">Omogočeno</string>

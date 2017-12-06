@@ -31,6 +31,10 @@
   <string name="downloading">Prenašam…</string>
   <string name="downloading_in_3g">Prenašam preko 3G…</string>
   <string name="downloading_in_wifi">Prenašam…</string>
+  <string name="drive_low_memory_description_content">Premalo prostora. Izbrišite smeti da pridobite več prostora.</string>
+  <string name="drive_low_memory_description_title">Premalo prostora</string>
+  <string name="drive_low_memory_description_toast">Premalo prostora, očistite po uporabi Mi Drive-a</string>
+  <string name="drive_low_memory_positive_content">Izbriši</string>
   <string name="empty_file_download">"Prazne datoteke niso podprte."</string>
   <string name="empty_file_upload">"Prazne datoteke niso podprte."</string>
   <string name="file_already_downlaoded">Datoteka shranjena v \"%1$s\"</string>

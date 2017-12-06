@@ -447,6 +447,10 @@
   <string name="fetch_bank_sender_list_failure">"Ni bilo mogoče dobiti informacije"</string>
   <string name="fetching_attachment">Pridobivam priponke</string>
   <string name="file_deleted_success">Datoteka izbrisana</string>
+  <string name="file_defailt_save_path">Priloge se privzeto shranjujejo v mapo %s. Lahlo spremenite v nastavitvah.</string>
+  <string name="file_default_save_path_title">Privzeta lokacija za priponke</string>
+  <string name="file_save_path_dialog_cancel">Razumem</string>
+  <string name="file_save_path_dialog_ok">Zamenjaj</string>
   <string name="file_not_found">Datoteke ni bilo mogoče najti</string>
   <string name="file_not_found_redownload">Datoteke ni bilo mogoče najti</string>
   <string name="file_rar_not_support">Kodiranih rar datotek ni mogoče odpreti</string>
@@ -1023,6 +1027,7 @@ Poskusite z ostalo pošto."</string>
   <string name="system_folders_trash_title">Koš</string>
   <string name="system_security_open_error">Varnost ni mogoče nastaviti. Odprite dovoljenja v nastavitvah telefona</string>
   <string name="system_setup_open_error">"Ne morem zagnati sinhronizacijo računa, vključite "nastavitev" sistema v računu za sinhronizacijo e-pošte"</string>
+  <string name="system_root_path">Nastavitve notranjega pomnilnika</string>
   <string name="tablet">tablica</string>
   <string name="tap_to_configure">Tapni za nastavitev</string>
   <string name="tap_to_enable_sync">Tapni za vklop.</string>
@@ -1039,8 +1044,9 @@ Poskusite z ostalo pošto."</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Sprememba sinhronizacije koledarja in stikov je zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
   <string name="toastbar_local_calendar_sync_switch_close">Sprememba sinhronizacije koledarja je zaprta. Koledar se ne more sinhronizirati</string>
   <string name="toastbar_local_contacts_sync_swtich_close">Sprememba sinhronizacije stikov je zaprta. Stiki se ne morejo sinhronizirati</string>
+  <string name="toast_bar_send_fail_remind">"Ne morem poslati e-pošte. Shranjeno v mapo \"Odhodno\".</string>
   <string name="today_text">Danes</string>
-  <string name="too_large_to_attach_additional">Velikost datoteke ne sme preseči %1$s.</string>
+  <string name="too_large_to_attach_additional">"Velikost datoteke ne sme preseči %1$s."</string>
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_single">"Ne morem priložiti datoteke večje od %1$s."</string>
   <string name="topic_merge">Nastavitve prikaza</string>

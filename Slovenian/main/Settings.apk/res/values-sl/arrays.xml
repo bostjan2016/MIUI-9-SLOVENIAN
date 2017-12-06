@@ -824,8 +824,8 @@
         <item>Vedno vprašaj</item>     
 	</string-array>
 	<string-array name="status_bar_show_carrier_entries">
-        <item>Prikaži samo na zakl. zaslonu in plošči obvestil</item>
-        <item>Vedno prikaži ime operaterja</item>
+        <item>Prikaži samo na zakl. zaslonu</item>
+        <item>Prikaži samo v vrstici obvestil</item>
         <item>Nikoli ne prikaži ime operaterja</item>
      </string-array>
     <string-array name="wifi_calling_mode_choices">

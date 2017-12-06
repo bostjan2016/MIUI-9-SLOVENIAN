@@ -72,7 +72,7 @@
   <string name="class_0_message_activity">Sporočilo razreda 0</string>
   <string name="close">Zapri</string>
   <string name="cloud_recommend_msg">Dotaknite se za sinhr. sporočil z Mi Cloudom.</string>
-  <string name="cloud_state_disabled">Sinhr. z Mi Cloud je izključena</string>
+  <string name="cloud_state_disabled">Vključite sinhr. z Mi Cloudom da sinhronizirate sporočila</string>
   <string name="cloud_state_sync_finished">Sinhr. z Mi Cloudom</string>
   <string name="cloud_state_syncing">Sinhr. z Mi Cloud…</string>
   <string name="compressing">Slika je prevelika. Kompresiram...</string>

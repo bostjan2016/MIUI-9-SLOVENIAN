@@ -68,4 +68,14 @@
         <item>"Zavrni"</item>
         <item>"Odloži alarm"</item>
     </string-array>
+	<string-array name="weather_tips_value">
+        <item>Zmanjšajte aktivnosti na odprtem</item>
+        <item>Ceste so spolzke</item>
+        <item>Vreme je nevihtno, bodite previdni!</item>
+        <item>Zrak je onesnažen, nosite masko!</item>
+        <item>Vzemi dežnik za ven</item>
+        <item>Bodite previdni na cesti</item>
+        <item>Peščeni vihar prihaja, nosite masko!</item>
+        <item>Ugoden dan!</item>
+    </string-array>
 </resources> 

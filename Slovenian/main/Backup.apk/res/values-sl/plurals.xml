@@ -47,5 +47,9 @@
      <plurals name="save_item_failed_summary_seg2">
          <item quantity="other">Ponovno uvozite stvari %d</item>
          <item quantity="one">Ponovno uvozite stvar %d</item>
+	 </plurals>
+     <plurals name="data_item_count">
+        <item quantity="other">Stvari: %d</item>
+        <item quantity="one">%d stvar</item>
      </plurals>
 </resources>

@@ -10,6 +10,7 @@
   <string name="bluetooth_connecting">Seznanjanje…</string>
   <string name="bluetooth_disconnected">Ni seznanjeno</string>
   <string name="bluetooth_disconnecting">Prekinitev povezave…</string>
+  <string name="bluetooth_device_context_unpair">Razdruži</string>
   <string name="bluetooth_preference_connected_devices">Seznanjene naprave</string>
   <string name="bluetooth_preference_found_devices">Dostopne naprave</string>
   <string name="bluetooth_preference_scan_title">Najdi naprave</string>

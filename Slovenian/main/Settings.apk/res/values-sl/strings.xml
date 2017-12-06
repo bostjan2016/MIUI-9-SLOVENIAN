@@ -1988,7 +1988,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="incoming_call_breathing_light_freq_title">Frekvenca LED indikatorja klicev</string>
   <string name="incoming_call_volume_title">Zvonenje</string>
   <string name="infinity_display_settings">Prikaz preko celega zaslona</string>
-  <string name="infinity_display_slogan">Nadalnja rast neraziskanih tehnologij</string>
+  <string name="infinity_display_slogan">Inovacija na celem zaslonu</string>
   <string name="infinity_display_title">Prikaz preko celega zaslona</string>
   <string name="information_dialog_button_text">Razumem</string>
   <string name="input_method">Tipkovnica</string>
@@ -2287,9 +2287,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_secure_after_timeout_title">Potrebno je geslo</string>
   <string name="lock_screen_signature_summary">Sporočilo bo prikazano na zakl. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o lastniku na zakl. zaslonu</string>
-  <string name="lock_screen_unlock_show">Preskoči poteg zaslona</string>
-  <string name="lock_screen_unlock_show_summary">Pojdi direktno na začetni zaslon ali vnos gesla ko se telefon prebudi</string>
-  <string name="lock_secure_after_timeout_click_me_to_change_text">Klikni za spremembo</string>
+  <string name="lock_screen_unlock_show">Preskoči akl. zaslon</string>
+  <string name="lock_screen_unlock_show_summary">Odpri začetni zaslon ali neposreden vnos gesla</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Tapni za spremembo</string>
   <string name="lock_settings">Zakl. zaslon &amp; geslo</string>
   <string name="lock_settings_common_title">Nastavitve zaklepa</string>
   <string name="lock_settings_picker_fingerprint_message">Izberite nadomestni način zaklepanja zaslona</string>
@@ -4396,7 +4396,7 @@ Morda je koda PIN napačna."</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Vseeno preskoči</string>
   <string name="skip_label">Preskoči</string>
-  <string name="skip_lock_screen_confirm_msg">Obvestila, kontrole predvajanja glasbe, Kamera in Mi Home bodo onemogočeni na zakl. zaslonu.</string>
+  <string name="skip_lock_screen_confirm_msg">Obvestila, kontrole glasbe in bližnjice ne bodo prikazane na zakl. zaslonu.</string>
   <string name="skip_step">Preskoči</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_number">(Reža %1$d)</string>
@@ -5385,7 +5385,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="vr_listeners_title">Pomožne storitve za navidezno resničnost</string>
   <string name="wait_for_debugger">Počakajte na iskalnik napak</string>
   <string name="wait_for_debugger_summary">Aplikacija v kateri iščete napako pred izvajanjem čaka na povezavo z iskalnikom napak</string>
-  <string name="wakeup_for_keyguard_notification_title">Vključi zaslon pri obvestilih</string>
+  <string name="wakeup_for_keyguard_notification_title">Vključi zakl. zaslon pri obvestilih</string>
   <string name="wallpaper_attributions">Ozadja</string>
   <string name="wallpaper_desktop">Začetni zaslon</string>
   <string name="wallpaper_live">Živa ozadja</string>
