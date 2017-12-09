@@ -105,26 +105,6 @@
 	 <string-array name="long_add_menu">
          <item>Dodaj v izjeme</item>
     </string-array>
-	<string-array name="sort_type">
-    	<item>Status</item>
-        <item>Ime aplikacije</item>
-        <item>Pogostost uporabe</item>
-        <item>Porabljeni prostor za shranjevanje</item>
-        <item>Uporaba podatkov</item>
-        <item>Poraba baterije</item>
-		  <item>Čas namestitve</item>
-		  <item>Te aplikacije lahko odstranite</item>
-    </string-array>		     
-	 <string-array name="sort_title">
-        <item>Razvrsti po statusu</item>
-        <item>Razvrsti po imenu aplikacije</item>
-        <item>Razvrsti po pogostosti uporabe</item>
-        <item>Razvrsti po izkor. pros. za shranjevanje</item>
-        <item>Razvrsti po uporabi podatkov</item>
-        <item>Razvrsti po porabi baterije</item>
-		  <item>Razvrsti po času namestitve</item>
-		  <item>Najprej pokaži aplikacije ki se lahko dostranijo</item>
-     </string-array>
 	 <string-array name="sms_report_type">
          <item>Uporaba podatkov</item>
          <item>Stanje računa</item>
