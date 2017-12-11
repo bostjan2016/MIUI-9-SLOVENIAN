@@ -75,6 +75,11 @@
   <string name="disable_wallpaper_scroll">Izključi pomikanje slike</string>
   <string name="download_action">Prevzemi</string>
   <string name="edit_folder_title">Spremeni ime mape</string>
+  <string name="edit_mode_group">Grupiraj</string>
+  <string name="edit_mode_group_error_full">Ni dovolj prostora</string>
+  <string name="edit_mode_group_error_in_folder">Pred grupiranjem ikon zaprite mapo</string>
+  <string name="edit_mode_group_error_one_folder">"Mapo z izbranimi ikonami ni možno podvojiti"</string>
+  <string name="edit_mode_uninstall">Odstrani</string>
   <string name="editing_add_widget_tips">Spremeni pripomočke</string>
   <string name="editing_mode_enter_tip_text">Vščipni za urejanje začetnega zaslona</string>
   <string name="editing_mode_title">Izbrano %1$d</string>
@@ -162,6 +167,8 @@
   <string name="lock_screen_failed_message">"Ne morem nastaviti ozadje zakl. zaslona"</string>
   <string name="lock_screen_success_message">Nastavljeno za ozadje zakl. zaslona</string>
   <string name="lock_screen_wallpaper">Ozadje zakl. zaslona</string>
+  <string name="memory_clear_nothing_result">Predspomin je prazen</string>
+  <string name="memory_clear_result">Očiščeno %1$sB</string>
   <string name="menu_add">Dodaj</string>
   <string name="menu_auto_fill">Popolni prazna mesta</string>
   <string name="menu_back_desktop">Nazaj na začetni zaslon</string>

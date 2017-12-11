@@ -416,6 +416,7 @@
   <string name="qq_cache_files">QQ predpomnilnik</string>
   <string name="qq_clean">QQ čistilec</string>
   <string name="qq_clean_exit_confirm_msg">Ustavim pregled in izhod?</string>
+  <string name="qq_clean_finish_summary">Izbrane datoteke so uspešno odstranjene</string>
   <string name="qq_data_type_cache">QQ predpomnilnik</string>
   <string name="qq_data_type_cache_desc">"Te  datoteke boste lako povrnili ko se povežete na splet."</string>
   <string name="qq_data_type_chat">Zgodovina razgovorov razgovora</string>

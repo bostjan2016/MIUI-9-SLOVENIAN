@@ -86,8 +86,8 @@
         <item quantity="one">"Ne morem izvoziti %d videoposnetek. Osvobodite nekaj prostora in poskusite ponovno."</item>
      </plurals>
      <plurals name="wechat_empty_files">
-        <item quantity="other">(%1$d praznih datotek) %2$s</item>
-        <item quantity="one">(%1$d prazna datoteka) %2$s</item>
+        <item quantity="other">(%1$d praznih datotek)</item>
+        <item quantity="one">(%1$d prazna datoteka)</item>
      </plurals>
 	 <plurals name="app_usage_day">
          <item quantity="other">"Ni uporabljeno %d dni"</item>

@@ -216,7 +216,7 @@
   <string name="oauth_title">Prijavite se z Mi Računom</string>
   <string name="other_devices_title">Ostale naprave</string>
   <string name="passport_access_denied">Dostop zavrnjen</string>
-  <string name="passport_account_hint_text">Naslov e-pošte, telefonska številka ali ID Mi računa</string>
+  <string name="passport_account_hint_text">Email/Telefonska številka/ID Mi računa</string>
   <string name="passport_account_identity_title">Potrdite svojo identiteto</string>
   <string name="passport_account_label">Mi Račun</string>
   <string name="passport_account_name">Račun: %1$s</string>
@@ -259,7 +259,7 @@
   <string name="passport_downlink_reg">Telefonska številka</string>
   <string name="passport_email">Naslov E-pošte</string>
   <string name="passport_email_address_notice">E-pošta</string>
-  <string name="passport_email_or_id_hint_text">E-mail naslov ali ID Mi računa</string>
+  <string name="passport_email_or_id_hint_text">Email/ID Mi računa</string>
   <string name="passport_email_reg_success_summary">%1$s je bil povezan z vašim računom. Lahko ga uporabite da se prijavite ali za ponastavitev gesla.</string>
   <string name="passport_error_auth_fail">Seja potekla, ponovno se prijavite kasneje</string>
   <string name="passport_error_device_id">Ne morem dobiti ID naprave</string>

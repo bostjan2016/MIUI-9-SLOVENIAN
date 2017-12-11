@@ -883,6 +883,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_allow_wlan">Dovoli uporabo WiFi povezave</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
+  <string name="firewall_mobile">Mobilni podatki</string>
   <string name="firewall_fragment_sys_listempty">Prazno</string>
   <string name="firewall_fragment_tab_title_nonsys">Nameščeno</string>
   <string name="firewall_fragment_tab_title_sys">Sistem</string>
@@ -900,6 +901,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_restrict_wlan">Omejite WiFi povezave</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Gostovanje</string>
+  <string name="firewall_system_title">Uporaba podatkov za sistemske aplikacije</string>
+  <string name="firewall_wifi">WiFi</string>
   <string name="firewall_rule_group_title_wifi">WiFi</string>
   <string name="firewall_service_network_blocked">%1$s je omejeno za uporabo %2$s omrežja</string>
   <string name="firewall_wifi_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet z uporabo WiFi-ja če bo ta nastavitev izključena.​"</string>
@@ -2495,6 +2498,13 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratno informacijo!</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% od mes. podatkov)</string>
+  <string name="tether_custom_dialog_title">Omejitev mobilnih podatkov</string>
+  <string name="tether_limit_dialog_title">Omejitev mobilnih podatkov</string>
+  <string name="tether_over_limit_dialog_cancle_btn">Resetiraj dostopno točko</string>
+  <string name="tether_over_limit_dialog_message">Dosegli ste omejitev podatkov za dostopno točko.</string>
+  <string name="tether_over_limit_dialog_title">Opozorilo uporabe podatkov</string>
+  <string name="tether_over_limit_warning_notify_message">Izključi prenosno dostopno točko.</string>
+  <string name="tether_over_limit_warning_notify_title">Dosežena omejitev podatkov dostopne točke</string>
   <string name="text_button">V redu</string>
   <string name="text_cycle_day">%s</string>
   <string name="text_day"/>

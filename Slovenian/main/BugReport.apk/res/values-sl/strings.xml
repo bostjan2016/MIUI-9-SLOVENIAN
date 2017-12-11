@@ -121,6 +121,7 @@
   <string name="from">pošilja %1$s</string>
   <string name="goon_feedback_main">Nadaljuj</string>
   <string name="hint_feedback_main">Opišite težavo</string>
+  <string name="issue_search">Išči</string>
   <string name="loading_apps">Nalagam seznam…</string>
   <string name="login_system_failed">"Ne morem se prijaviti, poskusite ponovno"</string>
   <string name="logo_title">Središče za prijavo napak</string>

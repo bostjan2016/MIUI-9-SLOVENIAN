@@ -4782,6 +4782,8 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="testing_usage_stats">Statistika uporabe</string>
   <string name="testing_wifi_info">WiFi informacije</string>
   <string name="tether_and_hotspot_title">Deljenje povezave &amp; prenosni hotspot</string>
+  <string name="tether_data_usage_limit">Enkratna omejitev podatkov</string>
+  <string name="tether_data_usage_limit_summary">Omejitev podatkov bo uporabljena pri naslednji vključitvi dostopne točke</string>
   <string name="tether_devices_management_title">Upravljanje naprav</string>
   <string name="tether_devices_max_number">Omejitev povezanih naprav</string>
   <string name="tether_settings_disabled">Prenosna dostopna točka je izključena</string>
