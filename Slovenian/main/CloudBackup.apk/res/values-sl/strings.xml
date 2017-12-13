@@ -95,6 +95,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="desktop_recovering">Obnavljam</string>
   <string name="desktop_wait_wifi">Čakanje</string>
   <string name="desktop_waiting">Čakam</string>
+  <string name="device_corrupt">Mi Telefon (podatki so poškodovani)</string>
   <string name="device_delete_prompt">Izbrišem varnostno kopijo za %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dialog_cancel_backup_cancel">Prekliči</string>
@@ -154,11 +155,10 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="restore_task_in_process">Obnovitev…</string>
   <string name="restore_task_unfinished">Obnovitev aplikacij, poskusite ponovno kasneje</string>
   <string name="restore_unfinished">Obnovitev, poskusite ponovno kasneje</string>
-  <string name="restoring_file_tile">Obnavljanje datotek %d</string>
-  <string name="restoreing_file_tile">Obnovitev datotek %d</string>
   <string name="retry">Poskusi ponovno</string>
   <string name="self_phone">Ta telefon</string>
   <string name="settings_backup">Nastavitve sistema</string>
+  <string name="size_unknown">Neznana velikost</string>
   <string name="start_backup_to_micloud">Varnostno kopiraj aplikacije na Mi Cloud</string>
   <string name="start_recover">Obnavljanje %s</string>
   <string name="success_open_cloudbackup">Vključena izdelava var. kopije aplik. zač. zaslona</string>

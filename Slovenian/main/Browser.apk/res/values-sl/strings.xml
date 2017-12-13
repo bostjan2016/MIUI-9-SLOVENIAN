@@ -51,6 +51,9 @@
   <string name="action_menu_toolbox">Orodja</string>
   <string name="action_menu_useful_page">Dodaj bližnjico</string>
   <string name="action_menu_useful_page_added">Dodano na začetno stran</string>
+  <string name="action_menu_user_center">Uporabniški center</string>
+  <string name="action_modify_bookmark">Zamenjaj oznako</string>
+  <string name="action_put_in_search_box">Postavi %s v okno za iskanje</string>
   <string name="actionbar_share">Deli</string>
   <string name="actionbar_textselection_title">Izbira teksta</string>
   <string name="actionbar_web_search">Spletno iskanje</string>

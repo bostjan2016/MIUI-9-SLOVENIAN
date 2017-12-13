@@ -322,8 +322,8 @@
   <string name="callFailed_semantically_incorrect_message">Semantically incorrect message</string>
   <string name="callFailed_server_error">Napaka strežnika: poskusite znova pozneje.</string>
   <string name="callFailed_server_unreachable">Strežnik ni dosegljiv</string>
-  <string name="callFailed_service_option_not_available">Usluga ali opcija niso dostopne, nedorečeno</string>
-  <string name="callFailed_service_or_option_not_implemented">Usluga ali opcija niso izvjane, nedorečeno</string>
+  <string name="callFailed_service_option_not_available">Soritev ali opcija niso dostopne, nedorečeno</string>
+  <string name="callFailed_service_or_option_not_implemented">Storitev ali opcija niso izvjane, nedorečeno</string>
   <string name="callFailed_simError">Ni SIM-a ali napaka SIM-a</string>
   <string name="callFailed_switching_equipment_congestion">Zastoji opreme za prenos</string>
   <string name="callFailed_tempopary_failure">Trenutni neuspeh</string>
@@ -780,7 +780,7 @@
   <string name="error_type_account_301">Vnesena koda ni pravilna</string>
   <string name="error_type_account_302">Vnesena koda je že uporabljena</string>
   <string name="error_type_account_500">"Ne morem se povezati z omrežjem"</string>
-  <string name="error_type_account_inner">Interna napaka usluge</string>
+  <string name="error_type_account_inner">Interna napaka storitve</string>
   <string name="error_type_network">Napaka omrežja</string>
   <string name="error_type_unknown">Neznana napaka</string>
   <string name="error_updating_title">Napaka v nastavitvah klicev</string>
@@ -870,7 +870,7 @@
   <string name="ims_menu_discard">Zavrzi</string>
   <string name="ims_menu_save">Shrani</string>
   <string name="ims_service_capability">Storitvena sposobnost</string>
-  <string name="ims_service_capability_title">Možnosti IMS usluge</string>
+  <string name="ims_service_capability_title">Možnosti IMS storitve</string>
   <string name="ims_set_wifi_calling_preference_failed">Neuspešno nastavljanje nastavitev WiFi klica</string>
   <string name="ims_settings">IMS Nastavitve</string>
   <string name="ims_vt_call_quality_high">Visoka</string>
@@ -994,7 +994,7 @@
   <string name="list_language_summary">Izberite jezik novic</string>
   <string name="list_language_title">Jezik</string>
   <string name="livetalk_about_info">O</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na splet za uporabo te funkcije. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te usluge, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na splet za uporabo te funkcije. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te storitve, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
   <string name="livetalk_activate">Activacija top-up package</string>
   <string name="livetalk_activate_number">Preverjanje SIM kartice</string>
   <string name="livetalk_activate_number_1">Preverjanje SIM 1</string>
@@ -1115,7 +1115,9 @@ za uporabo top-up package"</string>
   <string name="missed_call_notify_times_summary">Izberite kolikokrat hočete biti opomnjeni o neodgovorjenih klicih (opomniki so ločeni s 5 minutnimi intervali)</string>
   <string name="missed_call_notify_times_title">Opomnik zgrešenih klicev</string>
   <string name="missed_call_notify_twice">2 krat</string>
-  <string name="miui_notification_network_selection_text" formatted="false">SIM %s Izbrano omrežje (%s) ni dostopno</string>
+  <string name="miui_network_selection_reset_text">Resetiraj</string>
+  <string name="miui_notification_network_selection_title">SIM ni storitve</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s ni storitve</string>
   <string name="mmiCancelled">Koda MMI preklicana</string>
   <string name="mmiStarted">Koda MMI zagnana</string>
   <string name="mo_call_type_title">Vrsta MO Klica</string>
@@ -2069,7 +2071,7 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="wifi_calling_summary">Omogoči WiFi Klicanje in izberite nastavitve za WiFi klic</string>
   <string name="wifi_calling_title">Wifi klicanje</string>
   <string name="wifi_calling_use_call_assistant">Uporabi Asistenta klicev</string>
-  <string name="wifi_calling_use_call_assistant_summary">Naj aplikacije ali usluge upravljajo z omrežji uporabljenimi za klice</string>
+  <string name="wifi_calling_use_call_assistant_summary">Naj aplikacije ali storitve upravljajo z omrežji uporabljenimi za klice</string>
   <string name="wifi_connected_no_internet">Povezano, brez spleta</string>
   <string name="wifi_disabled_generic">Onemogočeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a ni uspela</string>

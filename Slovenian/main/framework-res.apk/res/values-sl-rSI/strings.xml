@@ -594,7 +594,7 @@ Za odpenjanje pritisnite in držite istočasno tipko Domov in Vklop."</string>
   <string name="lockscreen_access_pattern_start">Vzorec se je začel</string>
   <string name="lockscreen_airplane_mode_on">Način Na letalu</string>
   <string name="lockscreen_battery_short">%d %%</string>
-  <string name="lockscreen_carrier_default">Ni usluge.</string>
+  <string name="lockscreen_carrier_default">Ni storitve.</string>
   <string name="lockscreen_charged">Napolnjeno</string>
   <string name="lockscreen_emergency_call">Klic v sili</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d krat nepravilno odkleniti. Če poskusite še %d krat in ne uspete bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
@@ -843,7 +843,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_accessContentProvidersExternally">Aplikaciji omogoča dostop do ponudnikov vsebine iz programske ovojnice. Ne bi smelo biti potrebno za navadne aplikacije.</string>
   <string name="permdesc_accessDrmCertificates">Aplikaciji omogoča dajanje in uporabo DRM certifikata. Ne bi smelo biti potrebno za navadne aplikacije.</string>
   <string name="permdesc_accessFineLocation">Aplikaciji omogoča da določi vašo natančno lokacijo na podlagi sistema GPS ali omrežnih lokacijskih virov, kot so bazne postaje mobilne telefonije ali WiFi. Te lokacijske storitve morajo biti vklopljene in na voljo v napravi, če želite da jih aplikacija uporablja. Aplikacije lahko na podlagi tega določijo vašo lokacijo in še dodatno izpraznijo akumulator.</string>
-  <string name="permdesc_accessImsCallService">Aplikaciji omogoča uporabo usluge neposrednih sporočil za klicanje brez vaše intervence.</string>
+  <string name="permdesc_accessImsCallService">Aplikaciji omogoča uporabo storitve neposrednih sporočil za klicanje brez vaše intervence.</string>
   <string name="permdesc_accessInputFlinger">Aplikaciji dovoljuje uporabo funkcij nizkega nivoja InputFlinger.</string>
   <string name="permdesc_accessLocationExtraCommands">Aplikaciji omogoča dostop do dodatnih ukazov ponudnika lokacij. S tem lahko program moti delovanje sistema GPS ali drugih virov lokacije.</string>
   <string name="permdesc_accessMockLocation">Ustvarjanje simuliranih virov lokacije za preverjanje ali namestitev novega ponudnika lokacije. S tem lahko aplikacija preglasi lokacijo in/ali stanje ki ga vrnejo drugi viri lokacije, kot so GPS in ponudniki lokacij.</string>
@@ -870,7 +870,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_bindAccessibilityService">Lastniku omogoča povezovanje z vmesnikom najvišje ravni storitve za ljudi s posebnimi potrebami. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindCarrierMessagingService">Lastniku omogoča povezovanje z vmesnikom najvišje ravni storitve mobilnega operaterja za pošiljanje sporočil. Ni potrebno za normalne aplikacije.</string>
   <string name="permdesc_bindCarrierServices">Lastniku omogoča povezovanje z storitvami mobilnega operaterja. Ni potrebno za normalne aplikacije.</string>
-  <string name="permdesc_bindConditionProviderService">Lastniku omogoča povezovanje z vmesnikom največje ravni usluge. Ni potrebno za normalne aplikacije.</string>
+  <string name="permdesc_bindConditionProviderService">Lastniku omogoča povezovanje z vmesnikom največje ravni storitve. Ni potrebno za normalne aplikacije.</string>
   <string name="permdesc_bindDeviceAdmin">Omogoča lastniku da pošlje namere skrbniku naprave. Nikoli se ne uporablja za navadne aplikacije.</string>
   <string name="permdesc_bindDreamService">Imetniku omogoča povezovanje z vmesnikom storitve sanjarjenja najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindGadget">Aplikaciji omogoča da sistemu ukaže katere pripomočke je mogoče uporabiti s katerim programom. S tem dovoljenjem lahko aplikacije drugim aplikacijam dajo dostop do osebnih podatkov. Ni za uporabo z navadnimi aplikacijami.</string>
@@ -885,8 +885,8 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_bindRemoteViews">Lastniku omogoča povezovanje z vmesnikom storitve pripomočka najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindTextService">Dovoljuje da se lastnik poveže z vmesnikom besedilne storitve najvišje ravni (npr. SpellCheckerService). Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindTvInput">Omogoča povezovanje na vmesnik najvišje ravni TV vhoda. Ne bi smelo biti potrebno za normalne aplikacije.</string>
-  <string name="permdesc_bindVoiceInteraction">Omogoča povezovanje na vmesnik najvišje ravni usluge glasovne interakcije. Ni potrebno za normalne aplikacije.</string>
-  <string name="permdesc_bindVpnService">Omogoča povezovanje na vmesnik najvišje ravni VPN usluge. Ne bi smelo biti potrebno za normalne aplikacije.</string>
+  <string name="permdesc_bindVoiceInteraction">Omogoča povezovanje na vmesnik najvišje ravni storitve glasovne interakcije. Ni potrebno za normalne aplikacije.</string>
+  <string name="permdesc_bindVpnService">Omogoča povezovanje na vmesnik najvišje ravni VPN storitve. Ne bi smelo biti potrebno za normalne aplikacije.</string>
   <string name="permdesc_bindWallpaper">Imetniku omogoča povezavo z vmesnikom ozadja najvišje ravni. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bind_call_service">Aplikaciji omogoča upravljanje s prikazom na zaslonu med klicem.</string>
   <string name="permdesc_bind_connection_service">Aplikaciji omogoča uporabo telefonskih storitev za klicanje/sprejemanje klicev.</string>

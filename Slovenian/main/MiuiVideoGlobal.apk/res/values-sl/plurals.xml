@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Podnapisi se premikajo za %.1f sek. naprej</item>
+        <item quantity="one">Podnapis se premakne za %.1f sek. naprej</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Podnapisi zaostajajo za %.1f sek.</item>
+        <item quantity="one">Podnapis zaostaja za %.1f sek.</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Velikost: %.2fKB</item>
+        <item quantity="one">Velikost: %.2fKB</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d videoposnetkov</item>
+        <item quantity="one">%d videoposnetek</item>
+    </plurals>
+</resources>

@@ -5472,7 +5472,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifi_connect">Poveži</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Prekliči</string>
   <string name="wifi_connect_cmcc_dialog_confirm">V redu</string>
-  <string name="wifi_connect_cmcc_dialog_content">Povezano na CMCC omrežne podatkovne usluge.</string>
+  <string name="wifi_connect_cmcc_dialog_content">Povezano na CMCC omrežne podatkovne storitve.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Ne prikaži ponovno"</string>
   <string name="wifi_connect_cmcc_dialog_title">Obvestila uporabe podatkov</string>
   <string name="wifi_connect_failed_message">Telefon se ni mogel povezati v to omrežje WiFi.</string>
