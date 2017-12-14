@@ -2727,7 +2727,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-  <string name="music_dirac_mode_reduction_noise">Reduce Noise TypeC</string>
+  <string name="music_dirac_mode_reduction_noise">Zmajnšanje hrupa (USB-C)</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby efekti</string>
   <string name="music_dolby_eq_enter_alert_msg">Equalizer lahko uporabljate samo v Dolby glasbenem načinu. Ga omogočim?</string>
@@ -4986,6 +4986,9 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez kode PIN. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Funkcije za zaščito naprave ne bodo delovale brez PIN-a. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Funkcije za zaščito naprave ne bodo delovale brez PIN-a.</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Funkcije zaščite profila ne bodo delovale brez vašega gesla.
+ 
+  Ne bo mogoče odkleniti svojega profila, autorizirati nakupa ali se prijaviti v aplikacije."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.</string>
@@ -5018,6 +5021,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="unlock_set_unlock_none_title">Vlečenje</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Brez</string>
+  <string name="unlock_set_unlock_password_none">Nič</string>
   <string name="unlock_set_unlock_password_summary">Vnesite 4 ali več črk ali številk za odklepanje naprave</string>
   <string name="unlock_set_unlock_password_title">Geslo</string>
   <string name="unlock_set_unlock_pattern_summary">Srednja varnost</string>

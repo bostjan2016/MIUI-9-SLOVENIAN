@@ -149,11 +149,11 @@
          <item quantity="one">Preskočena %d pesem. Vključite online vsebine v nastavitvah za poslušanje</item>
      </plurals>
      <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Izključuje optimizacijo albuma in teksta. Želite povrniti optimizirane informacije, album in tekst %d pesmi?</item>
-        <item quantity="one">Izključuje optimizacijo albuma in teksta. Želite povrniti optimizirane informacije, album in tekst %d pesmi?</item>
+        <item quantity="other">Izbrali ste da se samodejno ne iščejo ovitki in teksti skladbe. Izbrišem podatke za skladbe %d?</item>
+        <item quantity="one">Izbrali ste da se samodejno ne iščejo ovitki in teksti za lokane skladbe. Izbrišem podatke za %d skladbo?</item>
      </plurals>
      <plurals name="Nassociate_songs">
-         <item quantity="other">Ujemanje albuma in teksta(%1$d/%2$d pesmi)</item>
-         <item quantity="one">Ujemanje albuma in teksta(%1$d/%2$d pesmi)</item>  
+         <item quantity="other">Iskanje ovitka in teksta za album (%1$d/%2$d)</item>
+         <item quantity="one">Iskanje ovitka in teksta (%1$d/%2$d)</item>  
      </plurals>
 </resources> 

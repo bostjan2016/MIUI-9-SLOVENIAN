@@ -518,6 +518,15 @@
   <string name="white_list_large_file_header">Vel. datoteke in videoposnetki: %d</string>
   <string name="white_list_residual_header">Ostanki: %d</string>
   <string name="white_list_title">Izjeme</string>
+  <string name="wq_deep_clean_filter_all">Vse</string>
+  <string name="wq_deep_clean_filter_month_ago">Pred enim mesecem</string>
+  <string name="wq_deep_clean_filter_three_month_ago">Pred tremi meseci</string>
+  <string name="wq_deep_clean_filter_week_ago">Pred enim tednom</string>
+  <string name="wq_deep_clean_filter_years_ago">Pred šestimi meseci</string>
+  <string name="wqfile_group_chat_file">Datoteke poslane od pošiljatelja</string>
+  <string name="wqfile_group_chat_pic">Slike od pošiljatelja</string>
+  <string name="wqfile_group_chat_video">Videoposnetki od pošiljatelja</string>
+  <string name="wqfile_group_chat_voice">Voice messages</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yesterday">Včeraj</string>
 </resources>

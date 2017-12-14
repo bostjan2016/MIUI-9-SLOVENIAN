@@ -376,8 +376,8 @@
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Obvestila</string>
   <string name="theme_apply_audio_dialog_item_ringtone">melodija zvonjenja</string>
-  <string name="theme_apply_failured">"Ne morem nastaviti ozadje zakl. zaslona"</string>
-  <string name="theme_apply_success">Zakl. zaslon nastavljen</string>
+  <string name="theme_apply_failured">"Ne morem nastaviti"</string>
+  <string name="theme_apply_success">Uspešno nastavljeno</string>
   <string name="theme_applying">Nastavljanje…</string>
   <string name="theme_batch_update_all">Posodobi vse</string>
   <string name="theme_batch_update_dlg_content">Posodobim %1$s in še toliko tem %2$d?</string>
