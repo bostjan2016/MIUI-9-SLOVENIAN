@@ -122,7 +122,7 @@
   <string name="conn_of_function_safe">Mrežno povezovanje za varnost</string>
   <string name="connecting">Povezovanje…</string>
   <string name="deep_clean_completed_tips">Uspešno očiščeno</string>
-  <string name="deep_clean_data_path_clean_title">Očisti predspomin</string>
+  <string name="deep_clean_data_path_clean_title">Očisti predpomnilnik</string>
   <string name="deep_clean_normal_clean_progress_desc">Očiščeno datotek %1$s</string>
   <string name="deep_clean_uninstall_completed_tips">Uspešno odstranjeno</string>
   <string name="deepclean_1_k_clean">Hitro čiščenje</string>
@@ -341,7 +341,7 @@
   <string name="msg_update_error_code_unknown_error">Neznana napaka</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">Pravila o zasebnosti</string>
-  <string name="nb_clear_set">Počisti predspomin, prikaži baterijo in listo blokiranih v plošči obvestil</string>
+  <string name="nb_clear_set">Počisti predpomnilnik, prikaži baterijo in listo blokiranih v plošči obvestil</string>
   <string name="net_assistant_detail">Izkoriščeno %1$s, prihranjeno %2$s</string>
   <string name="net_assistant_title">Izkoriščeno %s mob. pod. ta mesec</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
@@ -430,8 +430,8 @@
   <string name="recommend_the_following">Sledite tem korakom da dobite največ iz vaše naprave</string>
   <string name="recommended">Priporočeno</string>
   <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; se še nekaj datotek lahko izbriše. Sprostite več prostora.&lt;/Data&gt;" "</string>
-  <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;Lahko očistite &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; predspomina ki ga generira QQ&lt;/Data&gt;" "</string>
-  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; od WeChat predspomina. Sprostite več prostora.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;Lahko očistite &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; predpomnilnika ki ga generira QQ&lt;/Data&gt;" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; od WeChat predpomnilnika. Sprostite več prostora.&lt;/Data&gt;" "</string>
   <string name="safety_check_detail">%1$d krat, dobljeno %2$d točk</string>
   <string name="safety_rank">Pred %d%% MIUI uporabniki glede varnosti</string>
   <string name="sc_allow_network_dialog_button">Dovoli</string>

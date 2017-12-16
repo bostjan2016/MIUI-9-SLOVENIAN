@@ -167,7 +167,7 @@
   <string name="lock_screen_failed_message">"Ne morem nastaviti ozadje zakl. zaslona"</string>
   <string name="lock_screen_success_message">Nastavljeno za ozadje zakl. zaslona</string>
   <string name="lock_screen_wallpaper">Ozadje zakl. zaslona</string>
-  <string name="memory_clear_nothing_result">Predspomin je prazen</string>
+  <string name="memory_clear_nothing_result">Predpomnilnik je prazen</string>
   <string name="memory_clear_result">Očiščeno %1$sB</string>
   <string name="menu_add">Dodaj</string>
   <string name="menu_auto_fill">Popolni prazna mesta</string>

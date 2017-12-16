@@ -85,7 +85,7 @@
   <string name="card_title_sport">Števec korakov</string>
   <string name="card_title_sportassist">Športni asistent</string>
   <string name="cleanup_garbage">Čistilec</string>
-  <string name="cleanup_memory">Očisti predspomin</string>
+  <string name="cleanup_memory">Očisti predpomnilnik</string>
   <string name="cleanup_power">Globinsko čiščenje</string>
   <string name="corpus_description_apps">Nameščene aplikacije</string>
   <string name="corpus_hint_apps">Išči aplikacije</string>

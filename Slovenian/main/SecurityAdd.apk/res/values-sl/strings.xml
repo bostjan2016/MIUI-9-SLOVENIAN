@@ -53,8 +53,8 @@
   <string name="get_sys_info">Pridobivanje informacij…</string>
   <string name="gs_anto_clean_memory_whitelist">Izjeme</string>
   <string name="gs_app_back_self_start">Varčevanje baterije</string>
-  <string name="gs_auto_clean_memory">Očisti predspomin</string>
-  <string name="gs_auto_clean_memory_detail">Očisti predspomin samodejno za optimiziranje iger</string>
+  <string name="gs_auto_clean_memory">Očisti predpomnilnik</string>
+  <string name="gs_auto_clean_memory_detail">Očisti predpomnilnik samodejno za optimiziranje iger</string>
   <string name="gs_dialog_confirm_close_msg">Bližnjica bo zbrisana iz začetnega zaslona. Za obnovitev pojdite v Varnost &gt; Nastavitve.</string>
   <string name="gs_dialog_confirm_close_title">Izključi</string>
   <string name="gs_game_disturb_msg">DND</string>
@@ -110,7 +110,7 @@
   <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
   <string name="privacy_declare_dialog_title">Pogoji ponujanja storitev</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti o operaterju bodo šifrirani in poslani na Mi strežnike."</string>
-  <string name="release_memory">Očisti predspomin</string>
+  <string name="release_memory">Očisti predpomnilnik</string>
   <string name="save_energy_text">Prepovej aplikacijam samodejni zagon v ozadju</string>
   <string name="save_energy_title">Optimiziranje baterije</string>
   <string name="scan_installed_games">Kontrola nameščenih iger…</string>

@@ -175,9 +175,9 @@
         <item>Prejemnik</item>
         <item>Domov</item>
         <item>Zadnja aktivnost</item>
-        <item>Predspomin (aktivnost)</item>
-        <item>Predspomin (klijent aktivnosti)</item>
-        <item>Predspomin (prazna)</item>
+        <item>Predpomnilnik (aktivnost)</item>
+        <item>Predpomnilnik (klijent aktivnosti)</item>
+        <item>Predpomnilnik (prazna)</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Zadnjih 30 dni</item>

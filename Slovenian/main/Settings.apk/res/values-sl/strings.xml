@@ -4048,7 +4048,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Zmanjšaj po dotiku;zmanjšaj;skrij</string>
   <string name="search_status_sim">SIM status;SIM</string>
   <string name="search_storage">Pomnilnik;Spomin</string>
-  <string name="search_storage_settings">Čistilec;Očisti predspomin;Predspomin</string>
+  <string name="search_storage_settings">Čistilec;Očisti predpomnilnik;Predpomnilnik</string>
   <string name="search_sync_settings">Sinhr.;Samod;samo WiFi</string>
   <string name="search_system_app_settings">Aplikacije sistema</string>
   <string name="search_tether">Deljenje povezave &amp; prenosna dostopna točka;Dostopna točka;Osebna dostopna točka;Deli;Deljenje;Deli splet;WiFi dostopna točka;Wifi dostopna točka;WiFi dostopna točka</string>
