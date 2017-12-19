@@ -28,6 +28,11 @@
         <item quantity="other">Vedro</item>
         <item quantity="one">Sončno</item>
     </plurals>
+	<plurals name="accessibility_desc_weather_temperature">
+         <item quantity="other">Vreme %d °C</item>
+         <item quantity="zero">Vreme %d °C</item>
+         <item quantity="one">Vreme %d °C</item>
+     </plurals>
 	<plurals name="fold_tips_title">
          <item quantity="other">%d neveljavnih obvestil</item>
          <item quantity="one">%d neveljavno obvestilo</item>

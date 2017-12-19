@@ -810,7 +810,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dlg_import_whitelist">Dodajanje…</string>
   <string name="dlg_keyword_ok">Shrani</string>
   <string name="dlg_message_not_open_stranger_identify">Za vklop te funkcije, pojdite v Nastavitve &gt; Telefon.</string>
-  <string name="dlg_no_block">Odblokiram to številko in vrnem klice s te številke v zgodovino klicev?</string>
+  <string name="dlg_no_block">Odblokiram to številko in vrnem klice s te številke v zgodovino klicev?\n(Številka bo dodana na seznam dovoljenih klicev)</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
   <string name="dlg_remove_address_blacklist">Odstranim to lokacijo s seznama blokiranih?</string>
   <string name="dlg_remove_address_whitelist">Odstranim to lokacijo iz izjem?</string>
@@ -854,7 +854,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="enable_network">Najprej vključite omrežno povezavo</string>
   <string name="every_day">Vsak dan</string>
   <string name="examination_score_100">Vse izgleda odlično!</string>
-  <string name="examination_score_100_with_recommend">Stvari (%d) se lahko optimizira</string>
+  <string name="examination_score_100_with_recommend">Toliko stvari(%d) se lahko optimizira</string>
   <string name="examination_score_60_0">Preveri zdaj</string>
   <string name="examination_score_80_100">Nekaj stvari je lahko optimiziranih</string>
   <string name="examination_score_80_100_with_recommend">Elementov (%d) se lahko optimizira</string>
@@ -2260,6 +2260,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_filter_keywords_setting_summary1">SMS iz neznane številke ki vsebuje ključno besedo bo blokirana.</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Uporabite \",\" za odvajanje več ključnih besed)"</string>
+  <string name="st_filter_keywords_setting_summary3">Sporočila z neznanih številk ki vsebujejo besede s tega seznama bodo dovoljene.</string>
   <string name="st_filter_keywords_setting_title">Konfiguriraj filter ključnih besed</string>
   <string name="st_filter_sms_button">Filtriraj SMS</string>
   <string name="st_group_list_management">Urejaj Seznam blokiranih</string>
@@ -2270,7 +2271,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_message_phone_AntiSpam">Blokiraj klice</string>
   <string name="st_message_phonepass">Dovoli klice</string>
   <string name="st_msg_intercept_contacts">Blokiraj SMS od tujcev</string>
+  <string name="st_msg_keyword_black">Seznam blokiranih ključnih besed</string>
   <string name="st_msg_keyword_group">Seznam blokiranih ključnih besed</string>
+  <string name="st_msg_keyword_white">Izjeme ključnih besed</string>
   <string name="st_msg_other_group">Ostalo</string>
   <string name="st_msg_settings">Blokiraj sporočila</string>
   <string name="st_msg_stranger_group">Sporočila od tujcev</string>
@@ -2311,7 +2314,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_title_call_wait_setting">Klic na čakanju</string>
   <string name="st_title_editblacklist">Uredi seznam blokiranih</string>
   <string name="st_title_editwhitelist">Uredi izjeme</string>
-  <string name="st_title_keywords_blacklist">Filter ključnih besed</string>
+  <string name="st_title_keywords_blacklist">Seznam blokiranih ključnih besed</string>
+  <string name="st_title_keywords_whitelist">Seznam dovoljenih ključnih besed</string>
   <string name="st_title_man_addblacklist">Dodaj številko na seznam blokiranih</string>
   <string name="st_title_man_addwhitelist">Dodaj štev. telefona v izjeme</string>
   <string name="st_title_man_editblacklist">Izberite predštevilko mesta za dodajanje na seznam blokiranih</string>

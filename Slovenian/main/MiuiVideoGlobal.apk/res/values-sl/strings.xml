@@ -27,7 +27,9 @@
   <string name="audio_changed">Nov audio posnetek</string>
   <string name="audio_title">Audio posnetek</string>
   <string name="audio_track">Audio posnetek</string>
-  <string name="do_not_show_this_again">Ne prikazuj ponovno</string>
+  <string name="com_permission_desc">"Mi Video ne more doostopiti do videoposntkov. Omogočite dostop v nastavitvah."</string>
+  <string name="com_permission_title">Potrebno je dovoljenje</string>
+  <string name="do_not_show_this_again">Ne kaži več</string>
   <string name="lp_advance_sound">Izboljšanje zvoka</string>
   <string name="lp_brightness">Nivo svetlobe</string>
   <string name="lp_fullscreen">Cel zaslon</string>

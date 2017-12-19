@@ -248,6 +248,7 @@
    ki ste ga prejeli v vaš poštni predal
   ."</string>
   <string name="passport_completed">Zaključeno</string>
+  <string name="passport_confirm_login">Nastavi</string>
   <string name="passport_confirm">Potrdi</string>
   <string name="passport_confirm_recycle_account">Da</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Kaže da je&lt;/font&gt; številko %s recikliral vaš operater, a Mi Račun je povezan z njo. Ali je ta račun vaš?"</string>

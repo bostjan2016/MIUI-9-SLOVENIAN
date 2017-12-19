@@ -299,6 +299,11 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_error_activated_fail">Aktivirajte SIM kartico.</string>
   <string name="micloud_main_error_network_disallowed">Preverite če ste dovolili dostop do spleta.</string>
   <string name="micloud_main_error_permission_limit">Omogočite Mi Cloudu dostop do shrambe.</string>
+  <string name="micloud_main_head_menu_cloud_backup">Mi Cloud var. kopija</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Ponovno napravi var. kopijo stikov, fotografij</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Koš za smeti</string>
+  <string name="micloud_main_head_menu_state_close">Zaprto</string>
+  <string name="micloud_main_head_menu_state_open">Odprto</string>
   <string name="micloud_main_last_sync_time">Zadnja sinhr. %s</string>
   <string name="micloud_main_master_sync_on">Sinkr. vklj.</string>
   <string name="micloud_main_memory_low_message">"Da sinhronizirate izbrišite nekatere stvari ki ste jih shranili v Cloud."</string>
@@ -347,6 +352,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_wait_wlan_charge">Povežite se z WiFi omrežjem in popolnoma napolnite napravo za nadaljevanje sinhronizacije.</string>
   <string name="micloud_main_wait_wlan_charge_sleep">Povežite se z WiFi omrežjem, izključite zaslon in popolnoma napolnite napravo za nadaljevanje sinhronizacije.</string>
   <string name="micloud_main_wlan_sync_data_count">Predmetov (%d) čaka na sinhr.</string>
+  <string name="micloud_manage_space_data">Urejaj podatke Mi Clouda</string>
   <string name="micloud_member">Mi Cloud članstvo</string>
   <string name="micloud_member_advantage">Kupite več prostora za shrambo.</string>
   <string name="micloud_member_buy_content" formatted="false">"Veljavnost %s-%s-%s
