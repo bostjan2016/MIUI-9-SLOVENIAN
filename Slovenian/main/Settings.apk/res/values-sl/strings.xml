@@ -405,6 +405,7 @@
   <string name="average_used">Povprečno uporabljeno (%)</string>
   <string name="avoid_ui">Blokiraj dotik</string>
   <string name="awake">Čas odklenjenega zaslona</string>
+  <string name="back_button">Nazaj</string>
   <string name="back_key">Nazaj</string>
   <string name="background_check_pref">Preverjanje v ozadju</string>
   <string name="background_check_title">Popolni dostop v ozadju</string>

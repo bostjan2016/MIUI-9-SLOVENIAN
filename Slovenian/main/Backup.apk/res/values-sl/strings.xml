@@ -459,7 +459,9 @@ nastavitev in aplikacij"</string>
   <string name="trans_select_data_no_space">"Premalo prostora na novi napravi.
  Izberite datoteke ponovno ali osvobodite %s prostora na novi napravi"</string>
   <string name="trans_select_data_tips">"Izberite datoteke za prenos.
-    Podobne datoteke na novi napravi bodo presnete"</string>
+ Podobne datoteke na novi napravi bodo presnete"</string>
+ <string name="trans_select_data_too_large">"Izbrali ste preveč stvari za prenos.
+Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="trans_select_device_receive">Izberite napravo za sprejem podatkov.</string>
   <string name="trans_select_device_send">Izberite napravo za prenos podatkov.</string>
   <string name="trans_sender">"Sem pošiljatelj"</string>
