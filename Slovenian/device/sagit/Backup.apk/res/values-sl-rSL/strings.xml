@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="custom_progress">Predmeti: %d</string>
+     <string name="total_num">%d predmeti,</string>
+     <string name="trans_pausing">Ustavljeno…</string>
+</resources>
