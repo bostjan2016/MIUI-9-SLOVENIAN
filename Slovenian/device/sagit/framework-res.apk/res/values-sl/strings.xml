@@ -1745,7 +1745,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
     <string name="usb_charging_notification_title">Polnjenje akumulatorja v napravi prek USB-ja</string>
   <string name="usb_choose_notification_title">Tapnite za izbiro USB opcije.</string>
     <string name="usb_midi_notification_title">USB za MIDI</string>
-    <string name="usb_midi_peripheral_name">Vrata USB za dodatno opremo za Android</string>
+  <string name="usb_midi_peripheral_manufacturer_name">Android</string>
   <string name="usb_midi_peripheral_name">Androidov USB priključek za periferne naprave</string>
     <string name="usb_midi_peripheral_product_name">Priključek USB za periferne naprave</string>
     <string name="usb_mtp_launch_notification_description">Dotaknite se, če si želite ogledati datoteke</string>
