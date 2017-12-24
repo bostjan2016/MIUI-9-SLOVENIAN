@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="active_input_method_subtypes">Aktivni načini vnosa</string>
+   <string name="battery_info_status_charging_lower">polnjenje</string>
+   <string name="bluetooth_enable_inband_ringing">Omogoči zvonjenje znotraj pasovne širine</string>
+   <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje melodij zvonjenja preko Bluetooth slušalk</string>
+   <string name="bluetooth_profile_a2dp_high_quality">Uporabljaj visokokvalitetni avdio: %1$s</string>
+   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Uporabljaj visokokvalitetni audio</string>
+   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Biti po vzorcu za Bluetooth Audio</string>
+   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Izberi kodek za Bluetooth Audio:
+biti po vzorcu"</string>
+   <string name="bluetooth_select_a2dp_codec_channel_mode">Način kanala za Bluetooth Audio</string>
+   <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Izberi kodek za Bluetooth Audio:
+način kanala"</string>
+   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Kodek za Bluetooth Audio LDAC: kvaliteta predvajanja</string>
+   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Izberi kodek za Bluetooth Audio LDAC:
+kvaliteta predvajanja"</string>
+   <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorca za Bluetooth Audio</string>
+   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Izberi kodek za Bluetooth Audio:
+brzina vzorčenja"</string>
+   <string name="bluetooth_select_a2dp_codec_streaming_label">Pretakanje: %1$s</string>
+   <string name="bluetooth_select_a2dp_codec_type">Kodek za Bluetooth Audio</string>
+   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Izberi kodek za Bluetooth Audio</string>
+   <string name="bluetooth_select_avrcp_version_dialog_title">Izberite verzijo AVRCP-a za Bluetooth</string>
+   <string name="bluetooth_select_avrcp_version_string">Verzija AVRCP-a za Bluetooth</string>
+   <string name="connected_via_network_scorer">Samodejno povezan preko %1$s</string>
+   <string name="connected_via_network_scorer_default">Samodejno povezan preko ocenjevalca omrežja</string>
+   <string name="content_description_menu_button">Meni</string>
+   <string name="debug_hw_renderer">Nastavi upodabljalnik GPU-a</string>
+   <string name="dev_logpersist_clear_warning_message">Ko prekinemo spremljanje s pomočjo trajnega zapisovalca, bomo morali izbrisati podatke zapisovalca v napravi.</string>
+   <string name="dev_logpersist_clear_warning_title">Želite izbrisati pomnilnik zapisovalca?</string>
+   <string name="direct_boot_unaware_dialog_message">Opomba: ta aplikacija se ne more zagnati po ponovnem zagonu dokler ne odklenete telefon</string>
+   <string name="disabled">Onemogočeno</string>
+   <string name="external_source_trusted">Dovoljeno</string>
+   <string name="external_source_untrusted">Ni dovoljeno</string>
+   <string name="failed_to_open_app_settings_toast">Odpiranje stvari za aplikacij %1$s ni uspelo</string>
+   <string name="ime_security_warning">Ta način vnosa morda lahko zbere besedilo ki ga vnašate, tudi osebne podatke kot gesla in številke kreditnih kartic. To omogoča aplikacija %1$s. Uporabim ta vnos?</string>
+   <string name="install_other_apps">Namestitev nepoznanih aplikacij</string>
+   <string name="pip_menu_title">Meni slike v sliki</string>
+   <string name="pip_notification_message">Če ne želite da %s uporablja to storitev jo izključite v nastavitvah.</string>
+   <string name="pip_notification_title">%s je v sliki v sliki</string>
+   <string name="pip_pause">Premor</string>
+   <string name="pip_phone_close">Zapri</string>
+   <string name="pip_phone_dismiss_hint">Podrsajte dol da zavržete</string>
+   <string name="pip_phone_expand">Raširi</string>
+   <string name="pip_phone_minimize">Strni</string>
+   <string name="pip_play">Predvajaj</string>
+   <string name="pip_skip_to_next">Skoči na naslednjo</string>
+   <string name="pip_skip_to_prev">Skoči na prejšnjo</string>
+   <string name="power_remaining_charging_duration_only">Še %1$s do napolnjenosti</string>
+   <string name="quick_settings_tiles">privzeto</string>
+   <string name="retail_demo_reset_message">Vnesite geslo za ponastavljanje v demo načinu</string>
+   <string name="retail_demo_reset_next">Naprej</string>
+   <string name="retail_demo_reset_title">Potrebno je geslo</string>
+   <string name="select_logpersist_dialog_title">Izberite medpomnilnike zapisnika ki bodo trajno shranjeni</string>
+   <string name="select_logpersist_title">Shrani podatke zapisovalca v napravo</string>
+   <string name="show_notification_channel_warnings">Pokaži opozorila kanala obvestil</string>
+   <string name="show_notification_channel_warnings_summary">Prikaže opozorilo na zaslonu kadar aplikacija objavi obvestilo brez veljavnega kanala</string>
+   <string name="telephony_monitor_switch">TelephonyMonitor</string>
+   <string name="telephony_monitor_switch_summary">TelephonyMonitor bo zbiral zapisnike kadar odkrije problem z delovanjem telefona/modema in obvestil uporabnika da prijavi programsko napako</string>
+   <string name="tethering_hardware_offload">Pohitritev hardverskega deljenja</string>
+   <string name="tethering_hardware_offload_summary">Uporabi pohitritev hardverskega deljenja če je dostopno</string>
+   <string name="use_system_language_to_select_input_method_subtypes">Uporabi jezike sistema</string>  
+   <string name="wapi_all_sel_mode">Izberi način</string>  
+   <string name="wapi_auto_sel_cert_fail">Ne morem samodejno izbrati certifikat. Izberite certifikat iz seznama in se poskusite povezati.</string>
+   <string name="wapi_cert_is_not_exist">Ni dostopnega certifikata, najprej namestite certifikat</string>
+   <string name="wapi_cert_is_not_selected">Najprej izberite certifikat</string>
+   <string name="wapi_cert_manage_error">Nastavljanje WAPI certifikata ni uspelo.</string>
+   <string name="wapi_cert_manage_summary">Dodajte ali izbrišite WAPI certifikat</string>
+   <string name="wapi_cert_manage_title">Urejajte WAPI certifikat</string>
+   <string name="wapi_cert_roaming">Povezovanje…</string>
+   <string name="wapi_no">ne</string>
+   <string name="wapi_no_vaild_cert">Ni dostopnih certifikatov, namestite jih?</string>
+   <string name="wapi_password_hex_format_add">Število hexadecimalnih znakov ne more biti parno</string>
+   <string name="wapi_password_is_empty">Polje za geslo ne sme ostati prazno</string>
+   <string name="wapi_password_is_not_hex_format">Neveljavni hexadecimalni znaki</string>
+   <string name="wapi_password_length_is_max">Geslo ne sme biti daljše od 64 znakov</string>
+   <string name="wapi_password_length_is_min">Geslo ne sme biti krajše od 8 znakov</string>
+   <string name="wapi_password_length_is_min_to_max">Geslo mora biti: 8-64 znakova</string>
+   <string name="wapi_yes">da</string>
+   <string name="wifi_auth_password_wrong">Geslo morda ni točno</string>
+   <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
+   <string name="wifi_disabled_by_recommendation_provider">Niste povezani ker je omrežje slabe kvalitete</string>
+   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
+   <string name="wifi_no_internet_no_reconnect">"Ni samodejne povezave"</string>
+   <string name="wifi_ssid_is_empty">SSID polje ne sme biti prazno</string>
+   <string name="wifi_ssid_length_is_max">SSID ne sme presegati 32 znakov</string>
+   <string name="wifi_wapi_as_certificate">AS certifikat</string>
+   <string name="wifi_wapi_cert_mode_hand_text">Ročno izberi certifikat</string>
+   <string name="wifi_wapi_certification_dont_exist">WAPI certifikati ne obstajajo. Namestite jih.</string>
+   <string name="wifi_wapi_fail_to_auth">"WAPI Kontrola pristnosti ni uspela
+Preverite veljavnost certifikata"</string>
+   <string name="wifi_wapi_fail_to_init">"Ne morem odpreti WAPI certifikate
+Potrdila o shranjevanju morda niso omogočena"</string>
+   <string name="wifi_wapi_psk_type">Vrsta gesla</string>
+   <string name="wifi_wapi_user_certificate">Uporabniški certifikat</string>
+</resources>
