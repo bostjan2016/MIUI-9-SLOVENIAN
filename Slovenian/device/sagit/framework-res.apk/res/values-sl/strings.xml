@@ -559,9 +559,6 @@ Ali res želite zapustiti to stran?"</string>
     <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
   <string name="kg_emergency_call_label">Klic v sili</string>
     <string name="kg_enter_confirm_pin_hint">Potrdite želeno kodo PIN</string>
-    <string name="kg_failed_attempts_almost_at_login">"Vzorec za odklepanje ste %1$d-krat napačno vnesli. Po nadaljnjih %2$d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
-
-Znova poskusite čez %d s."</string>
     <string name="kg_failed_attempts_almost_at_wipe">Telefon ste poskusili %1$d-krat napačno odkleniti. Če poskusite še %2$d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
     <string name="kg_failed_attempts_now_wiping">Telefon ste poskusili %d-krat napačno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
     <string name="kg_forgot_pattern_button_text">Pozabljen vzorec</string>
