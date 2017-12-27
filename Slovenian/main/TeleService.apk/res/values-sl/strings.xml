@@ -610,9 +610,11 @@
   <string name="dialerKeyboardHintText">Za klicanje uporabite tipkovnico</string>
   <string name="dialog_activate_livetalk">Potrdi številko</string>
   <string name="dialog_alert_title">Pozor</string>
+  <string name="dialog_cancel">Prekini</string>
   <string name="dialog_call_ordinary_telephone">Navaden klic (%ds)</string>
   <string name="dialog_hang_up">Konec klica</string>
   <string name="dialog_network_priority_title">Prioriteta</string>
+  <string name="dialog_report">Prijavi</string>
   <string name="dialog_no">Ne</string>
   <string name="dialog_purchase">Nakup</string>
   <string name="dialog_yes">Da</string>
@@ -1131,6 +1133,8 @@ za uporabo top-up package"</string>
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo nio nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
+  <string name="modem_dialog_body">Mobilno omrežje je nestabilno, povzroča prekinitve ali omrežne težave. Pošljem poročilo o napakah Mi za analizo? To poročilo lahko vsebuje osebne podatke. Vaše poročilo bo pomoč za reševanje te napake in se nikoli ne bo uporabilo v komercijalne namene.</string>
+  <string name="modem_dialog_title">Mobilno omrežje je nestabilno</string>
   <string name="msim_apn_not_set">Ni nastavljeno</string>
   <string name="msim_default_setting">Privzete nastavitve</string>
   <string name="msim_disable_sim_card_btn_text">V redu</string>

@@ -162,7 +162,6 @@
   <string name="account_sync_settings_settings">Sinhr. stike in koledar</string>
   <string name="account_sync_settingstip_description">Sinhr.</string>
   <string name="account_waiting_for_folders_msg">Nalagam mape...</string>
-  <string name="actionbar_large_unread_count">Neprebrano: več kot %1$d</string>
   <string name="activity_folder_selection">Izberi mapo</string>
   <string name="activity_mailbox_selection">Izberi račun</string>
   <string name="ad_merge">Oglasi &amp; Obvestila</string>
@@ -218,6 +217,8 @@
   <string name="auto_advance_help_title">"Po brisanju sporočil prikaži…</string>
   <string name="auto_advance_label">Izbriši potek sporočila</string>
   <string name="auto_advance_summary">Izberite kaj prikazati po brisanju sporočila</string>
+  <string name="auto_login_fail">Samodejna prijava ni uspela</string>
+  <string name="auto_login_fail_to_retry">Samodejna prijava ni uspela, poskusite ponovno.</string>
   <string name="auto_mail_describe">139 Email Storitev samod. nastavitev vam lahko pomaga da izpolnite podatke za prijavo v poštni nabiralnik. Želite omogočiti to funkcijo?</string>
   <string name="auto_mail_disable_txt">Onemogočeno</string>
   <string name="auto_mail_enable_txt">Začetne nastavitve</string>
@@ -528,7 +529,6 @@
   <string name="header_label_general_preferences">Splošno</string>
   <string name="help_and_info">Pomoč</string>
   <string name="help_config">Ročna nastavitev</string>
-  <string name="hide_atts_remaining">Skrij %1$d priponk</string>
   <string name="hide_elided">▼ Skrij citirano besedilo</string>
   <string name="hide_password">Skrij geslo</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -565,7 +565,6 @@
   <string name="loading_conversations">Nalagam...</string>
   <string name="loading_from_remote">Nalagam...</string>
   <string name="local_search">Lokalno iskanje</string>
-  <string name="local_search_result">Rezultati v sinhr. sporočilih %s</string>
   <string name="login">Prijavite se</string>
   <string name="login139">CMCC prijava z eno tipko</string>
   <string name="login_failed_ticker">Prijava računa %s neuspešna.</string>
@@ -660,7 +659,6 @@
   <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in upravljanje z vašimi računi samodejno. Ta funkcija je privzeto izključena za delo z povezanimi naslovi e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Z uporabo te funkcije se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji dajanja uslug&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Urejaj račune samodejno</string>
-  <string name="more_atts_remaining">%1$d ostane</string>
   <string name="more_context">Več</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Prestavi v mapo</string>
@@ -675,7 +673,6 @@
   <string name="network_try_again">Preverite omrežje</string>
   <string name="network_unavailable">Omrežje ni dostopno</string>
   <string name="new_incoming_messages_one">Novo sporočilo od %s. Prikaži.</string>
-  <string name="new_messages">Novih sporočil: %1$d</string>
   <string name="new_signature_has_saved">Uspešno shranjeno</string>
   <string name="next_action">Naprej</string>
   <string name="no">Ne</string>
@@ -834,6 +831,9 @@ Poskusite z ostalo pošto."</string>
   <string name="push_wps_confirm_message">Poskusite uporabiti WPS Office za odpiranje te priponke</string>
   <string name="push_wps_confirm_title">Poskusite WPS Office</string>
   <string name="push_wps_no_response_app">Ne najdem aplikacije za izvedbo tega dela</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">Uspešno kopirano; vrnite se na stran za prijavo in prilepite za izpolnitev polja za geslo</string>
+  <string name="qq_auto_login_failed_dialog_message">Kopirajte kodo za potrditev, vrnite se na stran za prijavo in kliknite \"Vnesite uporabniško ime in geslo za prijavo\"; prilepite da boste ročno izpolnili geslo</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Kopirajte kodo za potrditev</string>
   <string name="qq_bar_open_imap">Omogoči</string>
   <string name="qq_bar_send_message">Pošlji SMS</string>
   <string name="qq_login_basecode">Prijava na QQ Email preko spletne strani. Vnesite svoje samostojno geslo.</string>
@@ -859,7 +859,6 @@ Poskusite z ostalo pošto."</string>
   <string name="quick_3">Prebral bom kasneje in vas obvestil.</string>
   <string name="quick_4">Dogovorimo se za sestanek, da se pogovorimo o tem.</string>
   <string name="quick_reply_dialog_title">Izberi za odgovor</string>
-  <string name="quick_reply_hint">Odgovori vsem %1$d osebam</string>
   <string name="quick_reply_hint_bcc">(V Skp)</string>
   <string name="quick_reply_hint_cc">(V Kp)</string>
   <string name="quick_reply_hint_reply_only_from">Hitri odgovor (samo pošiljatelj)</string>
@@ -900,7 +899,6 @@ Poskusite z ostalo pošto."</string>
   <string name="refreshing_done">Končano</string>
   <string name="release_to_refresh">Spustite za osvežitev</string>
   <string name="remind_attachment_size_limit">Vaš e-mail bi moral biti manjši od %sMB</string>
-  <string name="remote_search_result">%s sporočil najdenih na strežniku</string>
   <string name="remove_account">Odstrani račun</string>
   <string name="remove_folder">Odstrani iz %1$s</string>
   <string name="remove_star">Odstrani zvezdico</string>
@@ -916,6 +914,7 @@ Poskusite z ostalo pošto."</string>
   <string name="request_permission_activity">Iskanje dovoljenja</string>
   <string name="require_manual_sync_message">Sinhronizacija za ta račun je izključena v gostovanju.</string>
   <string name="respond_inline">Odgovori v tekstu</string>
+  <string name="retry_login">Prijavite se ponovno</string>
   <string name="resume_draft">Uredi</string>
   <string name="retry">Poskusite znova</string>
   <string name="save_action">Shrani</string>

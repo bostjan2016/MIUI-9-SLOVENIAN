@@ -362,6 +362,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="apps_list_header_title_sms_access">Omeji dostop na kode za potrditev</string>
   <string name="auto_atsk_condition_battery_level_text_down">Ko baterija doseže %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Ko je baterija napolnjena do %s</string>
+  <string name="auto_back_booster">Zaustavi pospeševanje</string>
+  <string name="auto_booster_suc">Uspešno pospešeno</string>
   <string name="auto_clean_close">Samodejna čiščenja so izključena</string>
   <string name="auto_handle_title">Splošno</string>
   <string name="auto_import_games">Potavite vse vaše igre na eno mesto</string>
@@ -681,7 +683,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
   <string name="customize_limit_pkg">%s (prilagojeno)</string>
   <string name="customizer_mode_user_define_name">Moja pravila</string>
-  <string name="daily_limit_and_lock_screen">Omejitev podatkov &amp; obvestila</string>
+  <string name="daily_limit_and_lock_screen">Opozorilo porabe podatkov</string>
   <string name="daily_limit_network_available_body">Tapnite za pregled statistike porabe podatkov.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tapnite za vključitev mobilnih podatkov.</string>
   <string name="daily_limit_over_message">"Prekoračili ste svojo dnevno omejitev porabe podatkov."</string>
@@ -955,6 +957,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
   <string name="gateway_exception_title">Testiraj router</string>
+  <string name="gb_description_image_button_answer">Odgovori</string>
+  <string name="gb_description_image_button_reject">Zavrni</string>
+  <string name="gb_description_image_button_video_answer">Videoklic</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Nadaljuj</string>
@@ -965,6 +970,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gs_app_back_self_start">Varčevanje baterije</string>
   <string name="gs_auto_clean_memory">Očisti predpomnilnik</string>
   <string name="gs_auto_clean_memory_detail">Očisti predpomnilnik samodejno zaradi optimiziranja iger</string>
+  <string name="gs_autobooster">Pospeši samodejno</string>
+  <string name="gs_autobooster_detail">Samodejno povečajte hitrost za izbrane igre</string>
+  <string name="gs_autobooster_dialog_message">"Če uporabljate Xunyou povečanje hitrosti, odprite igre na določeni strani."</string>
   <string name="gs_call_handsfree">Odgovori na klic prostoročno</string>
   <string name="gs_call_handsfree_mute">Tiho</string>
   <string name="gs_dialog_confirm_close_msg">Bližnjica bo odstranjena iz začetnega zaslona. Pojdite v Varnost &gt; Nastavitve da jo obnovite.</string>

@@ -44,7 +44,6 @@
   <string name="accessibility_desc_reconfirm_block">Skrijem zdaj?</string>
   <string name="accessibility_desc_select_block_notification">Izberite obvestila za skrivanje</string>
   <string name="accessibility_desc_uncheck_block_notification">"Preklicana izbira %1$s obvestil"</string>
-  <string name="accessibility_desc_weather_temperature">Vremnska temperatura %1s</string>
   <string name="accessibility_desc_work_lock">Delovni Zaklj. zaslon</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Ta funkcija je eksperimentalna in lahko vpliva na zmogljivost.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravki barve</string>
@@ -203,6 +202,7 @@
   <string name="chooseUsbActivity">Izberi aplikacijo za USB napravo</string>
   <string name="choose_profile">Izbira profila</string>
   <string name="clear_adb_keys">Odpoklic avtorizacije za odpravljanje napak preko USB</string>
+  <string name="click_expand">Pritisni za razširitev</string>
   <string name="click_to_return_multi_window">Pritisni za vrnitev v Deljeni zaslon</string>
   <string name="confirm_enable_oem_unlock_text">OPOZORILO: storitve zaščite naprave ne bodo delovale, dokler je ta storitev vključena.</string>
   <string name="confirm_enable_oem_unlock_title">Dovolite OEM odklep?</string>
@@ -315,6 +315,19 @@
   <string name="force_resizable_activities_summary">Omogoči menjanje velikosti vseh aktivnosti za več oken, neodvisno od vrednosti manifesta.</string>
   <string name="force_rtl_layout_all_locales">Vsili od desne na levo</string>
   <string name="force_rtl_layout_all_locales_summary">Vsili smer od desne na levo za vse države/jezike</string>
+  <string name="fs_gesture_back_home_summary">Hiter poteg navzgor</string>
+  <string name="fs_gesture_back_ready_title">Kako se vrniti na zadnjo stran?</string>
+  <string name="fs_gesture_final_over">Končano</string>
+  <string name="fs_gesture_final_restart">Nauči ponovno</string>
+  <string name="fs_gesture_final_summary">Lahko nastavite v [Nastavitve-Ves zaslon]</string>
+  <string name="fs_gesture_final_title">Učenje končano</string>
+  <string name="fs_gesture_finish">Lepo!</string>
+  <string name="fs_gesture_left_back_ready_summary">Povleči levo od zaslona</string>
+  <string name="fs_gesture_right_back_ready_summary">Povleči desno od zaslona</string>
+  <string name="fs_gesture_skip">Nazaj</string>
+  <string name="fs_gesture_switch_recents_summary">Povleči navzgor in počakaj sekundo</string>
+  <string name="fsg_demo_back">Nazaj</string>
+  <string name="fsg_demo_go_on">Gremo naprej</string>
   <string name="gps_notification_found_text">Lokacijo nastavil GPS</string>
   <string name="gps_notification_searching_text">Iskanje GPS-a</string>
   <string name="hdcp_checking_dialog_title">Nastav. obnaš. HDCP prev.</string>
@@ -322,6 +335,9 @@
   <string name="headset_settings">Slušalke povezane</string>
   <string name="help_feedback_label">Pomoč in povratne inf.</string>
   <string name="home">Začetni zaslon nastavitev</string>
+  <string name="how_to_back_home">Kako se vrniti na Domov?</string>
+  <string name="how_to_switch_recents">Kako zamenjati na Nedavno?</string>
+  <string name="how_to_use_fsg">Kako uporabiti gesto na celem zaslonu?</string>
   <string name="immediately_destroy_activities">Odstranjevanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekine ko jo uporabnik zapusti.</string>
   <string name="important_desc">Vsa pomembna obvestila bodo prikazana v plošči obvestil.</string>
@@ -532,6 +548,7 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="screenshot_dlg_delete_button">Izbriši</string>
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_text">"Ne morem napraviti posnetka zaslona zaradi omejenega prostora za shranjevanje ali pa to ne dovoli aplikacija."</string>
+  <string name="screenshot_feedback_txt">Povratna inf.</string>
   <string name="screenshot_insert_failed">Ne morem prenesti posnetka zaslona. naredite ponovno ali preglejte sliko v Galeriji.</string>
   <string name="screenshot_long_screenshot">Nadaljuj</string>
   <string name="screenshot_saved_text">Tapni za ogled posnetka zaslona.</string>
@@ -540,6 +557,7 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="screenshot_saving_ticker">Shranjevanje posnetka zaslona...</string>
   <string name="screenshot_saving_title">Shranjevanje posnetka zaslona...</string>
   <string name="screenshot_send">Pošlji</string>
+  <string name="screenshot_toalbum_txt">Pregled</string>
   <string name="search_hint">Išči spletne strani, aplikacije, stike in videoposnetke</string>
   <string name="select_application">Izberite aplikacijo</string>
   <string name="select_logd_size_dialog_title">Izberite velikost medpomnilnika zapisnika</string>

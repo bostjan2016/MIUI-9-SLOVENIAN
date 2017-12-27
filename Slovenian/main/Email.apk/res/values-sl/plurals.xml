@@ -184,4 +184,36 @@
         <item quantity="other">+%1$d oseb</item>
         <item quantity="one">+%1$d oseba</item>
      </plurals>
+	 <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ neprebranih</item>
+        <item quantity="one">%1$d+ neprabrano</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Skrij priponke: %1$d</item>
+        <item quantity="one">Skrij %1$d priponko</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s rezultatov v sinhroniziranih sporočilih</item>
+        <item quantity="one">%s rezultat v sinhroniziranih sporočilih</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d ostalo</item>
+        <item quantity="one">%1$d ostalo</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d novih sporočil</item>
+        <item quantity="one">%1$d novo sporočilo</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Odgovori osobam: %1$d</item>
+        <item quantity="one">Odgovori %1$d osebi</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s rezultatov na strežniku</item>
+        <item quantity="one">%s rezultat na strežniku</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s neposlano v %2$s</item>
+        <item quantity="one">%1$s neposlano v %2$s</item>
+    </plurals>
 </resources>

@@ -25,6 +25,8 @@
   <string name="face_data_input_msg">Postavite obraz v okvir</string>
   <string name="face_data_input_ok">Končano</string>
   <string name="face_data_input_ok_msg">Vključite zaslon da odklenete napravo s pomočjo obraza.</string>
+  <string name="face_data_input_ok_msg_angle">"Odklenite napravo z obrazom dokler je zaslon vključen.
+ (Zabeležite podatke o obrazu vključno vse potrebne kote.)​"</string>
   <string name="face_data_input_ok_title">Uspešno dodano</string>
   <string name="face_data_input_title">Dodajte svoj obraz</string>
   <string name="face_data_introduction_msg">Obraz se lahko uporabi za odklepanje naprave ali potrditev vaše identitete. Dodajte geslo zakl. zaslona pred dodajanjem obraza.</string>
@@ -36,6 +38,8 @@
   <string name="face_data_manage_delete_title">Obraz</string>
   <string name="face_data_manage_unlock_msg">Odklenite svojo napravo s pomočjo prepoznavanja vašega obraza</string>
   <string name="face_data_manage_unlock_title">Odklenite z uporabo obraza</string>
+  <string name="face_data_siggesstion_next">Naprej</string>
+  <string name="face_data_siggesstion_next_time">Naprej (%ds)</string>
   <string name="face_data_suggesstion_first">Odklepanje s pomočjo obraza je manj varno od uporabe gesla za zakl. zaslon. Vaša naprava se bo mogoče odklenila osebi ki vam je podobna.</string>
   <string name="face_data_suggesstion_second">"Poskrbite da deli vašega obraza ne bodo prekriti in da bodo jasno vidni. Vaš obraz mora biti tudi dobro osvetljen."</string>
   <string name="face_unlock_adjust_distance">Preverite če je oddaljenost med obrazom in zaslonom optimalna.</string>
@@ -55,6 +59,8 @@
   <string name="face_unlock_passwork">Uporabi geslo</string>
   <string name="face_unlock_passwork_and_fingerprint">Uporabi geslo ali prepoznavanje obraza</string>
   <string name="face_unlock_quality">"Ne morem jasno vidjeti vašega obraza"</string>
+  <string name="face_unlock_reenter_content">Algoritem odklepa z obrazom je posodobljen. Tapnite za ponovno snemanje obraza.</string>
+  <string name="face_unlock_reenter_title">Posnemite vaš obraz ponovno.</string>
   <string name="face_unlock_reveal_eye">Napravite svoje oči vidnejše</string>
   <string name="face_unlock_reveal_mouth">Napravite svoje usnice vidljivejše</string>
   <string name="face_unlock_rise">Spustite glavo</string>
