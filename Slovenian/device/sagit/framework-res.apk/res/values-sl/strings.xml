@@ -555,10 +555,13 @@ Ali res želite zapustiti to stran?"</string>
     <string name="keyguard_password_enter_pin_prompt">Nova koda PIN</string>
     <string name="keyguard_password_enter_puk_code">Vnesite kodo PUK in novo kodo PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Koda PUK</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Dotaknite se za vnos gesla</font></string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dodirnite za tipkanje zaporke&lt;/font&gt;</string>
     <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
   <string name="kg_emergency_call_label">Klic v sili</string>
     <string name="kg_enter_confirm_pin_hint">Potrdite želeno kodo PIN</string>
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Napačno ste narisali vzorec za odklepanje %d krat. Po še toliko neuspešnih poskusih; %d boste morali odkleniti telefon s pomočjo računa e-pošte.
+
+ Poskusite ponovno čez %d s."</string>
     <string name="kg_failed_attempts_almost_at_wipe">Telefon ste poskusili %1$d-krat napačno odkleniti. Če poskusite še %2$d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
     <string name="kg_failed_attempts_now_wiping">Telefon ste poskusili %d-krat napačno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
     <string name="kg_forgot_pattern_button_text">Pozabljen vzorec</string>
@@ -639,6 +642,9 @@ Da odpnete, tapnite in držite istočasno tipke \"Domov\" in \"Vklop\"."</string
   <string name="lockscreen_charged">Napolnjeno</string>
     <string name="lockscreen_emergency_call">Klic v sili</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">Telefon ste poskusili %1$d-krat nepravilno odkleniti. Če poskusite še %2$d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Napačno ste izrisali vzorec za odklepanje %d krat. Po še toliko neuspelih poskusih: %d boste morali odkleniti telefon preko prijave na Google.
+
+ Poskusite ponovno čez %d s."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Telefon ste poskusili %d krat nepravilno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
     <string name="lockscreen_forgot_pattern_button_text">Ali ste pozabili vzorec?</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?

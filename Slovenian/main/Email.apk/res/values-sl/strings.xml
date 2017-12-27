@@ -1070,7 +1070,6 @@ Zaustavim sedaj?"</string>
   <string name="unknow">Neznano</string>
   <string name="unread_string">pogovor neprebran</string>
   <string name="unselected_lable">Več</string>
-  <string name="unsent_messages_in_outbox">Št. neposlanih sporočil v mapi %2$s: %1$s</string>
   <string name="unzip_file_failed">"Ne morem razširiti!"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="update_to_wps_mail">Uživajte v dodatnih funkcijah storitve WPS Mail</string>
