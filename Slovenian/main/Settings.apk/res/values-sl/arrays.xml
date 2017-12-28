@@ -802,11 +802,13 @@
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Vsak dan</item>
-        <item>Delovni dan</item>
+        <item>Vikend</item>
+        <item>delovni dan</item>
         <item>Lastno</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Vsak dan</item>
+        <item>Vikend</item>
         <item>Delovni dan</item>
         <item>Lastno</item>
     </string-array>

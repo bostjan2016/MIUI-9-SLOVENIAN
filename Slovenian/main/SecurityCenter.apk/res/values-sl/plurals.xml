@@ -77,6 +77,14 @@
          <item quantity="other">Aplikacij: %d</item>
          <item quantity="one">Aplikacija: %d</item>
      </plurals>
+	 <plurals name="bg_network_allow_count">
+         <item quantity="other">%d aplikacij se lahko v ozadju povežejo na omrežje</item>
+         <item quantity="one">%d aplikacija se lahko v ozadju poveže na omrežje</item>
+     </plurals>
+     <plurals name="bg_network_restrict_count">
+         <item quantity="other">"%d aplikacij se ne more v ozadju povezati na omrežje"</item>
+         <item quantity="one">"%d aplikacija se ne more v ozadju povezati na omrežje"</item>
+     </plurals>
      <plurals name="daily_sim_over_limit_notify_title">
          <item quantity="other">"Izkoristili ste že %s dnevnih omejitve podatkov."</item>
          <item quantity="one">"Izkoristili ste že %s dnevne omejitve podatkov."</item>
@@ -112,6 +120,10 @@
 	<plurals name="om_ill_proc_multi_app_title">
          <item quantity="other">"%d aplik. ne dela pravilno in porabljajo baterijo"</item>
          <item quantity="one">"%d aplik. ne dela pravilno in porablja baterijo"</item>
+     </plurals>
+	 <plurals name="network_restrict_count">
+         <item quantity="other">"Dostop do omrežja je omejen za &lt;font color='#ff0000'>%d:&lt;/font> aplik."</item>
+         <item quantity="one">"Dostop do omrežja je omejen za &lt;font color='#ff0000'>%d&lt;/font> aplikacijo"</item>
      </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dni "</item>
