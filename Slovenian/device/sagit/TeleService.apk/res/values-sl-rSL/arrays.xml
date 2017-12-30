@@ -26,7 +26,7 @@
         <item>Optimizirano na kakovost audioreprodukcije</item>
         <item>Uravnotežena kakovost audioreprodukcije in povezave</item>
         <item>Optimizirano na kakovost povezave</item>
-        <item>Najbolji rezultat (prilagodljiva brzina prijenosa)</item>
+        <item>Najbolji rezultat (prilagodljiva hitrost prenosa)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimizirano na kakovost audioreprodukcije (990 kbps/909 kbps)</item>

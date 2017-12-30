@@ -17,7 +17,7 @@ način kanala"</string>
 kvaliteta predvajanja"</string>
    <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorca za Bluetooth Audio</string>
    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Izberi kodek za Bluetooth Audio:
-brzina vzorčenja"</string>
+hitrost vzorčenja"</string>
    <string name="bluetooth_select_a2dp_codec_streaming_label">Pretakanje: %1$s</string>
    <string name="bluetooth_select_a2dp_codec_type">Kodek za Bluetooth Audio</string>
    <string name="bluetooth_select_a2dp_codec_type_dialog_title">Izberi kodek za Bluetooth Audio</string>
