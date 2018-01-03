@@ -16,7 +16,6 @@
   <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
   <string name="backup_now">Napravi var. kopijo zdaj</string>
   <string name="backup_size">Velikost: %s</string>
-  <string name="backup_size_summary">Velikost: %1$s</string>
   <string name="backup_success">Varnostna kopija uspešno napravljena</string>
   <string name="backup_successfully">Var. kopija uspešno napravljena</string>
   <string name="backup_to_cloud">Var. kopija aplikacij</string>
@@ -55,8 +54,6 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="cloud_back_up_frequence_choice_title">Razpored var. kopije</string>
   <string name="cloud_back_up_frequence_long">Vsakih 7 dni</string>
   <string name="cloud_back_up_frequence_short">Vsak dan</string>
-  <string name="cloud_back_up_interval_long">7 dni</string>
-  <string name="cloud_back_up_interval_short">Vsak dan</string>
   <string name="cloud_back_up_no_network_warn">"Ne morem se povezati na WiFi"</string>
   <string name="cloud_back_up_ok_btn">V redu</string>
   <string name="cloud_back_up_opening">Samo trenutek…</string>
@@ -66,9 +63,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="cloud_back_up_task">Izdelava var. kopije…</string>
   <string name="cloud_backup">Mi Cloud var. kopije</string>
   <string name="cloud_backup_detail_frequence">Razpored var. kopije</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s napravi eno var. kopijo</string>
   <string name="cloud_backup_detail_manage">Urejanje var. kopij</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s var. kopij, Velikost:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud var. kopija</string>
   <string name="cloud_backup_detail_state_summary">Aplikacije, začetni zaslon in nastavitve sistema</string>
   <string name="cloud_backup_detail_time">, Čas izdelave:%1$s</string>

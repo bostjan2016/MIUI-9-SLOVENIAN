@@ -304,6 +304,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_head_menu_recycle_bin_title">Koš za smeti</string>
   <string name="micloud_main_head_menu_state_close">Zaprto</string>
   <string name="micloud_main_head_menu_state_open">Odprto</string>
+  <string name="micloud_main_head_menu_state_unavailable">Nedostopno</string>
   <string name="micloud_main_last_sync_time">Zadnja sinhr. %s</string>
   <string name="micloud_main_master_sync_on">Sinkr. vklj.</string>
   <string name="micloud_main_memory_low_message">"Da sinhronizirate izbrišite nekatere stvari ki ste jih shranili v Cloud."</string>
@@ -493,6 +494,8 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Uporabi le Wifi za sinhronizacijo fotografij</string>
   <string name="pref_title_sync_video_on_wifi_only">Uporabi samo WiFi za sinhr. videoposnetkov.</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+  <string name="reading_status">Odčitavanje statusa…</string>
+  <string name="reading_status_failure">"Ne morem odčitati statusa."</string>
   <string name="recommend_open_all_sync">Sinhr. vse predmete</string>
   <string name="remind_later">Kasneje</string>
   <string name="restoreSync">Sinhroniziraj zdaj</string>
