@@ -15,6 +15,8 @@
   <string name="bugreport_dump_start_notification_summary">To lahko traja nekaj minut.</string>
   <string name="bugreport_dump_start_notification_title">Pripravljanje poročila o napakah…</string>
   <string name="bugreport_feedback_from">Pošilja: %s</string>
+  <string name="bugreport_intent_chooser_title">Deli poročilo o napaki</string>
+  <string name="bugreport_notification_channel">Poročilo o napaki</string>
   <string name="bugreport_tool_log_dumping_desc">Traja okoli minute</string>
   <string name="bugreport_tool_log_dumping_title">Izdelava poročila o napaki</string>
   <string name="cta_cancel">Prekliči</string>

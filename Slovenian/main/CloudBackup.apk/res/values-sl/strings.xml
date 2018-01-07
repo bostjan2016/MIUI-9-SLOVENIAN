@@ -68,6 +68,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="cloud_backup_detail_state_summary">Aplikacije, začetni zaslon in nastavitve sistema</string>
   <string name="cloud_backup_detail_time">, Čas izdelave:%1$s</string>
   <string name="cloud_backup_detail_title">Zač. zaslon, aplikacije in  nastavitve.</string>
+  <string name="cloud_backup_derail_size_summary">Velikost: %s</string>
   <string name="cloud_backup_have_data">Najdena var. kopija v Mi Cloudu</string>
   <string name="cloud_backup_in_cancel">Prekliči</string>
   <string name="cloud_backup_in_process">Izdelava var. kopije…</string>
@@ -83,6 +84,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="confirm_restore_summary">Začetni zaslon se bo ponovno zagnal in aplikacije se bodo samodejno prenesle ko bo povezano preko WiFi</string>
   <string name="confirm_restore_title">Obnovi</string>
   <string name="customization">&lt;u&gt;Uredi&lt;/u&gt;</string>
+  <string name="custom_progress">Stvari: %d</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarm</string>
   <string name="desktop_downloading">Prenašam</string>
@@ -153,6 +155,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="restore_task_in_process">Obnovitev…</string>
   <string name="restore_task_unfinished">Obnovitev aplikacij, poskusite ponovno kasneje</string>
   <string name="restore_unfinished">Obnovitev, poskusite ponovno kasneje</string>
+  <string name="restoreing_file_tile">Obnovitev datotek: %d</string>
   <string name="retry">Poskusi ponovno</string>
   <string name="self_phone">Ta telefon</string>
   <string name="settings_backup">Nastavitve sistema</string>
@@ -160,7 +163,9 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="start_backup_to_micloud">Varnostno kopiraj aplikacije na Mi Cloud</string>
   <string name="start_recover">Obnavljanje %s</string>
   <string name="success_open_cloudbackup">Vključena izdelava var. kopije aplik. zač. zaslona</string>
+  <string name="total_num">%d stvari,</string>
   <string name="total_space">Skupni prostor: %s</string>
+  <string name="trans_pausing">Premor…</string>
   <string name="try_again">Klikni za ponovni poskus</string>
   <string name="wait_icon_download">Prenos ikon aplikacij</string>
 </resources>

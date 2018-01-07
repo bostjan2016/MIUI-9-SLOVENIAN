@@ -119,4 +119,20 @@
          <item>Izključi in obvesti</item>
          <item>Samo obvesti</item>
      </string-array>
+	    <string-array name="sort_title">
+        <item>Razvrsti po statusu</item>
+        <item>Razvrsti po imenu aplikacije</item>
+        <item>Razvrsti po pogostosti uporabe</item>
+        <item>Razvrsti po izkor. pros. za shranjevanje</item>
+        <item>Razvrsti po času namestitve</item>
+        <item>Najprej prikaži aplikacije ki se lahko odstranijo</item>
+     </string-array>
+     <string-array name="sort_type">
+        <item>Status</item>
+        <item>Ime aplikacije</item>
+        <item>Pogostost uporabe</item>
+        <item>Izkoriščeni prostor za shranjevanje</item>
+        <item>Čas namestitve</item>
+        <item>Lahko odstranite te aplikacije</item>
+     </string-array>
 </resources>

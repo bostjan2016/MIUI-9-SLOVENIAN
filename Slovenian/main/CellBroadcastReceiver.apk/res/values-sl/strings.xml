@@ -117,6 +117,7 @@
   <string name="menu_view_details">Ogled podrobnosti</string>
   <string name="message_options">Možnosti sporočila</string>
   <string name="no_cell_broadcasts">Na vašem območju ni aktivnih opozoril. Nastavitve opozoril lahko spremenite v meniju z nastavitvami.</string>
+  <string name="notification_channel_broadcast_messages">Predvajana sporočila</string>
   <string name="notification_multiple">Št. neprebranih opozoril: %s.</string>
   <string name="notification_multiple_title">Nova opozorila</string>
   <string name="pws_other_message_identifiers">Opozorilo v sili</string>
@@ -125,6 +126,9 @@
   <string name="show_cmas_opt_out_summary">Po prikazu prvega opozorila CMAS (razen predsedniškega) pokaži pogovorno okno za onemogočenje.</string>
   <string name="show_cmas_opt_out_title">Pokaži pogovorno okno za onemogočenje</string>
   <string name="sms_cb_settings">Nastavitve oddaje v celici</string>
+  <string name="tw_alert_message">Opzorilno sporočilo</string>
+  <string name="tw_emergency_alert">Nujno sporočilo</string>
+  <string name="tw_required_monthly_test">Potrebn je mesečni test</string>
   <string name="updating_settings">Nastavitve posodobitev</string>
   <string name="updating_title">Nastavitve klica</string>
   <string name="view_details_title">Podrobnosti opozorila</string>

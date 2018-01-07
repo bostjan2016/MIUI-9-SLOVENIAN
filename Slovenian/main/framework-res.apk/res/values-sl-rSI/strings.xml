@@ -799,6 +799,7 @@ Znova poskusite čez %d s."</string>
   <string name="no_permissions">Ni zahtevanih dovoljenj</string>
   <string name="no_recent_tasks">Ni nedavnih aplikacij</string>
   <string name="noon">opoldne</string>
+  <string name="notification_channel_hotspot">Obvestila WiFi Hotspota</string>
   <string name="notification_header_divider_symbol">•</string>
   <string name="notification_hidden_by_policy_text">Pravilnik je skril vsebino</string>
   <string name="notification_hidden_text">Vsebina je skrita</string>

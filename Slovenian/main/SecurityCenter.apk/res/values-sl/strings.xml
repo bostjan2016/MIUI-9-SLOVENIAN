@@ -29,8 +29,8 @@
   <string name="ac_firstUseApplock_title">Nastavite geslo za zaščito vaše aplikacije</string>
   <string name="ac_mask_all_apps">Skrij za vse aplikacije</string>
   <string name="ac_summaryOff">Izključeno, geslo ni potrebno za odpiranje aplikacije</string>
-  <string name="ac_unmask_all_apps">Prikaži za vse aplikacije</string>
   <string name="ac_summaryOn">Vključeno, potrebna je geslo za odpiranje aplikacije</string>
+  <string name="ac_unmask_all_apps">Prikaži za vse aplikacije</string>
   <string name="access_control_app_is_launching">Aplikacija se zaganja</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Narišite vzorec odklepanja da uporabite nov prstni odtis</string>
   <string name="access_control_fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa."</string>
@@ -45,6 +45,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="action_button_text_60">Popravi</string>
   <string name="action_button_text_60_80">Popravi</string>
   <string name="action_button_text_80_100">Optimiziraj</string>
+  <string name="action_source_call_title">Blokirani klici</string>
   <string name="action_source_sms_title">Blokirani SMS-i</string>
   <string name="activate_fingerprint_dialog_message">"Ta prstni odtis ni aktiven. Vnesite geslo da boste aktivirali ta prstni odtis."</string>
   <string name="activate_fingerprint_dialog_title">Vnesite geslo</string>
@@ -232,8 +233,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_globel_other_perm_title">Ostala dovoljenja</string>
   <string name="app_manager_globel_perm_summary">Urejajte dovoljenja ki se nanašajo na lokacijo, prostor za shranjevanje, telefon, sporočila in stike.</string>
   <string name="app_manager_globel_perm_title">Dovoljenja aplikacij</string>
-  <string name="app_manager_has_not_data">Ni podatkov</string>
   <string name="app_manager_go_to_manger_app">Urejaj</string>
+  <string name="app_manager_has_not_data">Ni podatkov</string>
   <string name="app_manager_have_not_consume">Nič</string>
   <string name="app_manager_hide_system_server">Skrij sistemske storitve</string>
   <string name="app_manager_install_other_app">Namesti aplikacije iz neznanih virov</string>
@@ -436,6 +437,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_operation_sync">Sinhr.</string>
   <string name="auto_task_operation_vibration">Vibriranje</string>
   <string name="auto_task_operation_wifi">WiFi</string>
+  <string name="back">Nazaj</string>
   <string name="back_app_name">Vrni se na zakl. aplikacije</string>
   <string name="back_description_securitycenter">Nazaj</string>
   <string name="back_modifypassword">Vrni se na menjavo gesla</string>
@@ -443,7 +445,6 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="back_sound_fail">Neuspešno!</string>
   <string name="back_sound_success">Uspešno!</string>
   <string name="back_sound_support">"Trenutni omrežni operaterji to ne podpirajo!"</string>
-  <string name="back">Nazaj</string>
   <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju tej aplikaciji lahko povzroči težave pri delovanju, sprejemanju obvestil, prenosu vsebin itd. Omejim vseeno?</string>
   <string name="background_traffic">V ozadju %s</string>
   <string name="backsound_set_hint">Nastavim sporočilo \"Sem odsoten\" za %s?</string>
@@ -607,6 +608,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_deepclean_qq_title">QQ čistilec</string>
   <string name="card_main_deepclean_summary">Izbriši nepotrebne datoteke</string>
   <string name="card_main_deepclean_title">Globinsko čiščenje</string>
+  <string name="card_main_deepclean_wechat_action">Izbriši</string>
+  <string name="card_main_deepclean_wechat_summary">Izbriši WeChat predspomin da sprostite prostor za shranjevanje</string>
+  <string name="card_main_deepclean_wechat_title">WeChat predspomin</string>
   <string name="card_main_gamebooster_summary">Izboljšate hitrost &amp; nadgradite doživetje igranja</string>
   <string name="card_main_gamebooster_title">Izboljšajte hitrost igranja</string>
   <string name="card_main_hbassistant_summary">Pohitrite in izboljšajte reakcijo iger</string>
@@ -697,10 +701,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tapnite za vključitev mobilnih podatkov.</string>
   <string name="daily_limit_over_message">"Prekoračili ste svojo dnevno omejitev porabe podatkov."</string>
   <string name="daily_pkg_traffic">Omejitev porabe podatkov</string>
-  <string name="data_booster_desc">Deaktivirajte drugo SIM režo da obdržite povezavo stabilno</string>
-  <string name="data_booster_title">Stabiliziraj podatkovno povezavo</string>
   <string name="daily_sim_over_limit_dialog_message">"Izkoristili ste že %s dnevne omejitve podatkov.\n\nČe ponovo vključite mobilne podatke, vam bo vaš mobilni operater dodatno zaračunal."</string>
   <string name="daily_sim_over_limit_notify_title">"Izkoristili ste že %s dnevne omejitve podatkov."</string>
+ <string name="data_booster_desc">Deaktivirajte drugo SIM režo da obdržite povezavo stabilno</string>
+  <string name="data_booster_title">Stabiliziraj podatkovno povezavo</string>
   <string name="data_network_blocked_notification_title">Ni povezave s spletom</string>
   <string name="data_usage_correction_timeout_body">Tapnite za ročno posodobitev.</string>
   <string name="data_usage_correction_timeout_title">Potekel je čas za sinhronizacijo porabe podatkov</string>
@@ -761,6 +765,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Določite čas za vklop in izklop naprave</string>
   <string name="delete">Izbriši</string>
   <string name="delete_from_manual_item_white_list">Odstrani iz izjem</string>
+  <string name="delete_input">Izbriši</string>
   <string name="deleted_apps">Izbrisane aplikacije</string>
   <string name="descx_cleanuping_item">Optimiziraj %s</string>
   <string name="descx_finish_cleanup_cache">Zaključena optimizacija predpomnilnika</string>
@@ -898,10 +903,10 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_allow_wlan">Dovoli uporabo WiFi povezave</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
-  <string name="firewall_mobile">Mobilni podatki</string>
   <string name="firewall_fragment_sys_listempty">Prazno</string>
   <string name="firewall_fragment_tab_title_nonsys">Nameščeno</string>
   <string name="firewall_fragment_tab_title_sys">Sistem</string>
+  <string name="firewall_mobile">Mobilni podatki</string>
   <string name="firewall_mobile_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet s pomočjo mobilnih podatkov kadar je ta nastavitev izključena."</string>
   <string name="firewall_network_allow">Dovoljuje se %1$s da uporabi %2$s povezavo</string>
   <string name="firewall_network_restrict_notify_message">Tapnite za spremembo nastavitev.</string>
@@ -916,22 +921,24 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_restrict_wlan">Omejite WiFi povezave</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Gostovanje</string>
-  <string name="firewall_system_title">Uporaba podatkov za sistemske aplikacije</string>
-  <string name="firewall_wifi">WiFi</string>
   <string name="firewall_rule_group_title_wifi">WiFi</string>
   <string name="firewall_service_network_blocked">%1$s je omejeno za uporabo %2$s omrežja</string>
+  <string name="firewall_system_title">Uporaba podatkov za sistemske aplikacije</string>
+  <string name="firewall_wifi">WiFi</string>
   <string name="firewall_wifi_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet z uporabo WiFi-ja če bo ta nastavitev izključena.​"</string>
   <string name="five_percent_total_pkg">%s (5%% od mes. podatkov)</string>
   <string name="flow_rank_title">Uporaba podatkov</string>
-  <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovale če niste povezani na WiFi omrežje."</string>
-  <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
-  <string name="forbid_autobright_summary">"Osvetlitev zaslona bo ostala ista kadar igrate igre"</string>
+  <string name="forbid_autobright_summary">"Osvetlitev zaslona bo enaka ko igrate igrice"</string>
   <string name="forbid_autobright_title">Popravi osvetlitev zaslona</string>
+  <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovale če niste povezani preko WiFi omrežja."</string>
+  <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
   <string name="foreground_traffic">Prednja stran %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
   <string name="forget_password_button_text_normal">Pozabljeno geslo</string>
   <string name="forget_pattern">&lt;u&gt;Pozabljen vzorec?&lt;/u&gt;</string>
   <string name="free_send_net_booster">Brezplačno povečanje hitrosi omrežja</string>
+  <string name="free_send_net_booster_busniess">Pridobite brezplačno hitrost Xunlei</string>
+  <string name="free_send_net_booster_busniess_tip">Pritisni za sprejem</string>
   <string name="free_send_net_booster_tip">Uživajte v tekočem igranju z brezplačnim povečanjem hitrosti omrežja.</string>
   <string name="free_time_traffic">Izklj. maks. omejitev podatkov</string>
   <string name="free_time_traffic_hint">Vnesite Izklj. maks. omejitev podatkov</string>
@@ -944,6 +951,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="fw_blocked_join">" in "</string>
   <string name="fw_oversea">Blokiraj klice iz tujine</string>
   <string name="fw_oversea_content">Blokiraj dohodne klice iz tujih telefonskih številk</string>
+  <string name="game_ad_recommendation">Vsi igrajo</string>
   <string name="game_anti_disturb_msg">Igre DND</string>
   <string name="game_booster">Pohitritev igranja</string>
   <string name="game_booster_close">Pohitritev igranja je izključena</string>
@@ -951,8 +959,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="game_booster_jump_webview">Samo trenutek…</string>
   <string name="game_booster_tab_top">Najboljše</string>
   <string name="game_booster_title">Pohitritev</string>
-  <string name="game_bootser_tab_settings">Nastavitve pospeševanja</string>
   <string name="game_booster_total">Hitrost povečana %1$s krat, dodano %2$s časa igranja</string>
+  <string name="game_bootser_tab_settings">Nastavitve pospeševanja</string>
   <string name="game_improve_text1">Očisti predpomnilnik ozadja zaradi povečanja spomina za igranje</string>
   <string name="game_improve_text2">Očisti predpomnilnik ozadja zaradi povečanja spomina za igranje in poboljšanja zmogljivosti procesorja</string>
   <string name="game_improve_title">Optimiziraj zmogljivost</string>
@@ -1091,6 +1099,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="info_unantispam_sms">Dovoli SMS</string>
   <string name="information_setting">Priporočeno</string>
   <string name="input_aviable_traffic">Nastavi omejitev porabe podatkov</string>
+  <string name="input_password_hint_text">Vnesite geslo</string>
   <string name="input_traffic_pkg">Vnesite porabo podatkov</string>
   <string name="input_used_hint">Vnesite porabo podatkov</string>
   <string name="input_used_max_hint">Vnesite porabo podatkov (manj od %s)</string>
@@ -1233,6 +1242,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_tc_over">Uspešno kalibrirano</string>
   <string name="main_tc_send_sms">"Pošlji SMS\nza kalibracijo"</string>
   <string name="main_tc_wait_result">"Čaka se odgovor\noperatera"</string>
+  <string name="main_tobe_added_desc">Mobilni podatki od ¥0.03/MB</string>
   <string name="main_today_used">Porabljeno danes</string>
   <string name="main_toolbar_firewall">Omeji uporabo podatkov</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobilni podatki</string>
@@ -1305,6 +1315,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_bl_remove">Odblokiraj</string>
   <string name="menu_bl_sms_log">Prikaži blokirana SMS sporočila</string>
   <string name="menu_call">Kliči</string>
+  <string name="menu_charge_bill">Stanje doplačil</string>
+  <string name="menu_charge_traffic">Kupi podatke</string>
   <string name="menu_clear_all_call">Izbriši blokirane klice</string>
   <string name="menu_clear_all_sms">Izbriši blokirana SMS sporočila</string>
   <string name="menu_clear_current_call">Izbriši vsa SMS sporočila s te številke</string>
@@ -1360,6 +1372,14 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
   <string name="mian_page_primary_txt">Gostovanje</string>
+  <string name="mixed_need_to_confirm">Vnesite ponovno za potrditev</string>
+  <string name="mixed_password_confirmed_header_confirm">Uspešno nastavljeno. Pritisnite za potrditev.</string>
+  <string name="mixed_password_confirmed_header_continue">Uspešno nastavljeno. Pritisnite \"Naprej\".</string>
+  <string name="mixed_pattern_entered_header">Geslo uspešno nastavljeno</string>
+  <string name="mixed_recording_incorrect_too_short">Vnesite vsaj %d znakov.</string>
+  <string name="mixed_recording_intro_header">Vnesite vsaj 4 znake</string>
+  <string name="mixed_retry_button_text">Prekini</string>
+  <string name="mixed_settings_help_how_to_record">Kako nastaviti geslo</string>
   <string name="modify_password_mode">&lt;u&gt;Spremeni vrsto gesla&lt;/u&gt;</string>
   <string name="modifypassword">Zamenjajte geslo</string>
   <string name="monitor_app_add">Dodaj</string>
@@ -1368,6 +1388,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="month_report_month_report_switch">Prikaži mesečne prijave</string>
   <string name="more_game">Več iger</string>
   <string name="more_lock">Več</string>
+  <string name="more_settings">Več</string>
   <string name="msg_update_error_code_success">Končano</string>
   <string name="msg_update_up">Skrij</string>
   <string name="name">Ime</string>
@@ -1479,6 +1500,14 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notify_weekly_traffic_body">Da bi se samodejno omejila poraba podatkov nastavite vaš mesečni promet.</string>
   <string name="notify_weekly_traffic_title">Izkoriščeno %s ta teden</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s izkoriščeno %2$s ta teden</string>
+  <string name="numeric_need_to_confirm">Vnesite ponovno za potrditev</string>
+  <string name="numeric_password_confirmed_header_confirm">Uspešno nastavljeno. Pritisnite za potrditev.</string>
+  <string name="numeric_password_confirmed_header_continue">Uspešno nastavljeno. Pritisnite \"Naprej\".</string>
+  <string name="numeric_pattern_entered_header">PIN uspešno nastavljen</string>
+  <string name="numeric_recording_incorrect_too_short">Vnesite vsaj %d znakov.</string>
+  <string name="numeric_recording_intro_header">Vnesite geslo</string>
+  <string name="numeric_retry_button_text">Prekini</string>
+  <string name="numeric_settings_help_how_to_record">Kako nastaviti PIN</string>
   <string name="ok">V redu</string>
   <string name="ok_button">V redu</string>
   <string name="old_sdk_deny_warning">"Aplikacija ni skladna z najnovejšimi zahtjevami dovoljenj Androida. Zavrnjena dovoljenja lahko vplivajo na način delovanja aplikacije."</string>
@@ -1607,6 +1636,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Dodajte svoj Mi Račun da boste lahko preklicali geslo če ga pozabite.</string>
   <string name="password_promotion_postbutton_text">Dodaj</string>
   <string name="password_promotion_title">Dodaj Mi Račun</string>
+  <string name="password_type">Spremeni geslo</string>
+  <string name="password_type_underline">&lt;u&gt;Spremeni geslo&lt;/u&gt;</string>
   <string name="password_xspace_forget_pattern_message">Za spremembo gesla drugega prostora, morate izbrisati trenutni Drugi prostor in napraviti novega.</string>
   <string name="path_antispam">Aplikacije sistema/Varnost/Spisek blokiranih</string>
   <string name="path_antivirus">Aplikacije sistema/Varnost/Preverjanje virusov</string>
@@ -1887,6 +1918,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_key_half_year_package_start">Datum začetka</string>
   <string name="pref_key_half_year_package_switch">Polletni paket podatkov</string>
   <string name="pref_key_half_year_package_value">Velikost paketa</string>
+  <string name="pref_key_tethering_setting">Enkratna omejitev podatkov</string>
+  <string name="pref_key_tethering_title">Enkratna omejitev podatkov</string>
   <string name="pref_leisure_no_overlay">Vključeno</string>
   <string name="pref_leisure_not_opened">Izključeno</string>
   <string name="pref_leisure_traffic_limit">Kadar je maks. podatkov porabljen</string>
@@ -1994,6 +2027,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="quick_optimize_sub_summary_text">Dodano %s dobi trajanja baterije</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon prehitro prazni baterijo, popravite to</string>
   <string name="quick_optimize_suggest_battery_over_heat">Telefon se pregreva, popravite to</string>
+  <string name="quite_all_string">Prekini</string>
   <string name="reach_daily_limit_value_body">Zmanjšajte svoj mobilni podatkovni promet.</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Tapnite za vključitev Varčevanja podatkov.</string>
   <string name="reach_daily_limit_value_title">Dosežena omejitev dnevnih podatkov</string>
@@ -2031,6 +2065,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="resource_auto_restart">Urejaj samod. zagon</string>
   <string name="resource_buy_flow">Kupi mobilne podatke</string>
   <string name="resource_cleanmaster">Čistilec</string>
+  <string name="resource_gamebooster">Povečanje hitrosti igranja</string>
   <string name="resource_monthreport">Poročilo o varnosti</string>
   <string name="resource_networkassistant_1">Uporaba podatkov</string>
   <string name="resource_networkassistant_2">Kalibriraj podatkovni plan</string>
@@ -2106,6 +2141,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sc_allow_network_dialog_message">Ta aplikacija potrebuje povezavo na splet za normalano delo.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te funkcije"</string>
   <string name="sc_system_risk_fix_info_xspace">To se ne može rešiti v Drugem prostoru. Poskusite ponovno v Prvem prostoru.</string>
+  <string name="sc_warning_updater_not_found">Aplikacija Posodobitev ni najdena. Ni mogoče posodobiti!</string>
   <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
   <string name="scan_status_risk">Tvegano</string>
   <string name="scan_status_safe">Varno</string>
@@ -2130,9 +2166,12 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="see_more">Več</string>
   <string name="select_pattern">Izberi vzorec</string>
   <string name="set_applock_password">Nastavite geslo</string>
-  <string name="setting">Nastavitve</string>
   <string name="set_immediately">Nastavi</string>
+  <string name="set_mixed_password_name">Nastavi geslo</string>
+  <string name="set_numeric_password_name">Nastavi PIN</string>
+  <string name="set_pattern_password_name">Nastavi vzorec</string>
   <string name="seton_immediately">Vključi</string>
+  <string name="setting">Nastavitve</string>
   <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
   <string name="setting_traffic_pkg">Nastavite paket podatkov</string>
   <string name="settings">Nastavitve porabe podatkov</string>
@@ -2358,6 +2397,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="start_diagnostic_botton">Začni</string>
   <string name="start_downloading_app">Pričenjam s prenosom: %1$s</string>
   <string name="start_game">Start</string>
+  <string name="start_install">Namesti sedaj</string>
+  <string name="start_tc_button">Kalibriraj</string>
   <string name="status_bar_network_flow_content">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Preostalo: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Ta mesec: %2$s</string>
   <string name="status_bar_network_flow_exceed_content">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan presežen: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
@@ -2365,8 +2406,6 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="status_bar_network_flow_purchase">"   Kupi &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Nastavi podatkovni plan &gt;"</string>
   <string name="status_bar_network_flow_today">Danes: %1$s</string>
-  <string name="start_install">Namesti zdaj</string>
-  <string name="start_tc_button">Kalibriraj</string>
   <string name="still_retain_btn">Zadrži</string>
   <string name="stop_app_button">Ustavi</string>
   <string name="suffix_pay_risk_count_bottom">tveganj</string>
@@ -2527,6 +2566,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="ten_percent_total_pkg">%s (10%% od mes. podatkov)</string>
   <string name="tether_custom_dialog_title">Omejitev mobilnih podatkov</string>
   <string name="tether_limit_dialog_title">Omejitev mobilnih podatkov</string>
+  <string name="tether_limit_value_custom">Lastno</string>
   <string name="tether_over_limit_dialog_cancle_btn">Resetiraj dostopno točko</string>
   <string name="tether_over_limit_dialog_message">Dosegli ste omejitev podatkov za dostopno točko.</string>
   <string name="tether_over_limit_dialog_title">Opozorilo uporabe podatkov</string>
@@ -2752,8 +2792,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="traffic_setting_fragment_brand">Znamka</string>
   <string name="traffic_setting_fragment_button1_text">Opusti</string>
   <string name="traffic_setting_fragment_button2_text">Shrani</string>
-  <string name="traffic_setting_fragment_default">Privzeto</string>
   <string name="traffic_setting_fragment_city">Mesto</string>
+  <string name="traffic_setting_fragment_default">Privzeto</string>
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Ne veste operaterja?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne morem se povezati na omrežje. Preverite svojo podatkovno povezavo in poskusite ponovno."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne prikazuj ponovo"</string>
@@ -2786,6 +2826,12 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="unlike">Ne hvala</string>
   <string name="unlock_pattern">&lt;u&gt;Obrazec&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Vnesite geslo za aktiviranje prstnega odtisa</string>
+  <string name="unlock_set_unlock_password_summary">Kombinirajte različne znake</string>
+  <string name="unlock_set_unlock_password_title">Geslo</string>
+  <string name="unlock_set_unlock_pattern_summary">Povežite vsaj 4 pike</string>
+  <string name="unlock_set_unlock_pattern_title">Vzorak</string>
+  <string name="unlock_set_unlock_pin_summary">Vnesite 4 znake</string>
+  <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="updating_diagnostic_botton">Analiza podatkov…</string>
   <string name="usage_sorted_activity_lable">Poraba podatkov</string>
   <string name="usage_sorted_empty_text">Prazno</string>
@@ -2851,9 +2897,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="wl_no_whitelist">Ni izjem.</string>
   <string name="wlan_booster">WiFi optimizacija</string>
   <string name="wlan_change_protection_detail">"Ne zamenjaj samodejno na WiFi ko je povezano na mobilno omrežje"</string>
-  <string name="wlan_change_protection_title">Prepreči menjavo omrežij promjenu mreža</string>
-  <string name="xunyou_net_booster">Povečaj hitrost omrežja</string>
-  <string name="xunyou_net_booster_detail">Uporabi Xunyou uslugo povečanja hitrosti za igranje</string>
+  <string name="wlan_change_protection_title">Prepreči menjavo omrežij</string>
+  <string name="wrong_password">Napačno geslo</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite še</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obvestila Mi Data plana</string>
   <string name="xiaomi_traffic_pass_exhausted">"Ni dostopnih mobilnih podatkovna vašem Mi Data načrtu. Prestavljeno na načrt podatkov vašega mobilnega operaterja."</string>
@@ -2878,6 +2923,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="xiaomi_traffic_pass_used">Izkoriščeno %s vašega Mi Data plana</string>
   <string name="xiaomi_traffic_pass_warning">Ni dostopnih mobilnih podatkov v vašem Mi Data planu</string>
   <string name="xiaomi_traffic_return">Nazaj</string>
-  <string name="xunyou_pay_webview">Xunyou usluge</string>
+  <string name="xunyou_net_booster">Povečaj hitrost omrežja</string>
+  <string name="xunyou_net_booster_detail">Uporabi Xunyou storitev povečanja hitrosti za igranje</string>
+  <string name="xunyou_pay_webview">Xunyou storitve</string>
   <string name="xunyou_server_expired">Seja je potekla.</string>
 </resources>
