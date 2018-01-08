@@ -2,7 +2,7 @@
 <resources>
   <string name="accept_and_continue">Sprejmi in nadaljuj</string>
   <string name="access_links">Dostop do povezav</string>
-  <string name="access_list_of_links">Dostop do spiska povezav/string>
+  <string name="access_list_of_links">Dostop do spiska povezav</string>
   <string name="access_terms">Dostop do pogojev</string>
   <string name="admin_has_ability_to_monitor_device">Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, dovoljenja in podatke povezane s to napravo, vključno z omrežno dejavnostjo in podatki o lokaciji naprave.</string>
   <string name="admin_has_ability_to_monitor_profile">Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, dovoljenja in podatke povezane s tem profilom, vključno z omrežno dejavnostjo in podatki o lokaciji naprave.</string>
@@ -16,7 +16,7 @@
   <string name="cancel_setup_and_factory_reset_dialog_title">Prekinem in vrnem na tovarniške nastavitve?</string>
   <string name="cant_add_work_profile">Ne morm dodati delovni profil</string>
   <string name="cant_set_up_device">Nastavitev naprave ni uspela</string>
-  <string name="cant_set_up_profile">Nastavitev profila ni uspela<</string>
+  <string name="cant_set_up_profile">Nastavitev profila ni uspela</string>
   <string name="change_device_launcher">Zamenjajte launcher</string>
   <string name="close">Zapri</string>
   <string name="close_list">Zapri seznam</string>
