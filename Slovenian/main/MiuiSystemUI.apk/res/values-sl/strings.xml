@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="0">Uporabite geste da skrijete/prikažete tipke zaslona.</string>
   <string name="accessibility_action_divider_bottom_full">Spodaj cel zaslon</string>
   <string name="accessibility_action_divider_left_30">Levo 30%</string>
   <string name="accessibility_action_divider_left_50">Levo 50%</string>
