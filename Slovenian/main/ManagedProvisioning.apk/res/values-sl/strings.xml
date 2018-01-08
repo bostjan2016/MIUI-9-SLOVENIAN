@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accept_and_continue">Sprejmi in nadaljuj</string>
+  <string name="access_links">Dostop do povezav</string>
+  <string name="access_list_of_links">Dostop do spiska povezav/string>
+  <string name="access_terms">Dostop do pogojev</string>
   <string name="admin_has_ability_to_monitor_device">Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, dovoljenja in podatke povezane s to napravo, vključno z omrežno dejavnostjo in podatki o lokaciji naprave.</string>
   <string name="admin_has_ability_to_monitor_profile">Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, dovoljenja in podatke povezane s tem profilom, vključno z omrežno dejavnostjo in podatki o lokaciji naprave.</string>
   <string name="app_label">Delovni profil je nastavljen</string>
@@ -10,17 +14,32 @@
   <string name="cancel_setup_and_factory_reset_dialog_msg">Če prekinete nastavitev se bo naprava vrnila na tovarniške nastavitve in na prvi zaslon.</string>
   <string name="cancel_setup_and_factory_reset_dialog_ok">Vrni napravo na privzeto</string>
   <string name="cancel_setup_and_factory_reset_dialog_title">Prekinem in vrnem na tovarniške nastavitve?</string>
+  <string name="cant_add_work_profile">Ne morm dodati delovni profil</string>
+  <string name="cant_set_up_device">Nastavitev naprave ni uspela</string>
+  <string name="cant_set_up_profile">Nastavitev profila ni uspela<</string>
+  <string name="change_device_launcher">Zamenjajte launcher</string>
+  <string name="close">Zapri</string>
+  <string name="close_list">Zapri seznam</string>
+  <string name="collapse">Stiskanje</string>
+  <string name="comp_profile_benefits_description">Delovni profil vam omogoča da aplikacije za delo obdržite na enem mestu</string>
   <string name="company_controls_device">Vaša organizacija bo nadzirala to napravo in poskrbela za njeno varnost.</string>
   <string name="company_controls_workspace">Vaša organizacija nadzira ta profil in skrbi za njegovo varnost. Vi nadzirate vse drugo v napravi.</string>
+  <string name="contact_device_provider">Za vprašanja se obrnite na organizacijo %1$s.</string>
+  <string name="contact_your_admin_for_help">Kontaktirajte skrbnika</string>
   <string name="contact_your_admin_for_more_info">Za več informacij, vključno s pravilniki organizacije o zasebnosti se obrnite na skrbnika.</string>
+  <string name="continue_button">Naprej</string>
   <string name="continue_provisioning_notify_text">Tapnite če želite nadaljevati z nastavljanjem delovnega profila</string>
   <string name="continue_provisioning_notify_title">Šifriranje je dokončano</string>
   <string name="copying_certs">Nastavljanje digitalnih potrdil</string>
+  <string name="couldnt_set_up_device">Nastavljanje naprave ni uspelo. Kontaktirajte skrbnika.</string>
   <string name="default_first_meat_user_name">Primarni uporabnik</string>
   <string name="default_managed_profile_name">Delovni profil</string>
   <string name="default_owned_device_username">Uporabnik delovne naprave</string>
   <string name="delete_profile">IZBRIŠI</string>
   <string name="delete_profile_title">Odstranim delovni profil?</string>
+  <string name="device_already_set_up">Naprava je nastavljena</string>
+  <string name="device_doesnt_allow_encryption_contact_admin">Ta naprva ne dopušča šifriranja ki je potrebno za nastavljanje. Kontaktirajte skrbnika</string>
+  <string name="device_has_reset_protection_contact_admin">Na vaši napravi je vključena zaščita pred ponastavitvijo. Kontaktirajte skrbnika.</string>
   <string name="device_owner_cancel_cancel">PREKLIČI</string>
   <string name="device_owner_cancel_message">Ali želite ustaviti nastavitev in izbrisati podatke naprave?</string>
   <string name="device_owner_cancel_title">Ustavim nastavitev?</string>
@@ -38,6 +57,10 @@
   <string name="device_owner_error_reset">PONASTAVI</string>
   <string name="device_owner_error_wifi">Z omrežjem WiFi se ni mogoče povezati</string>
   <string name="device_owner_exists">Delovnih profilov ni mogoče nastaviti v upravljani napravi</string>
+  <string name="device_owner_info">Organizacija %1$s bo urejala to napravo in ji ponudila zaščito. Uporabljeni bodo pogoji %2$s</string>
+  <string name="device_owner_info_with_terms_headers">Organizacija %1$s bo urejala to napravo in ji ponudila zaščito. Uporabljeni bodo pogoji firme %2$s. %3$s</string>
+  <string name="dismiss">Zavrzi</string>
+  <string name="encrypt">Šifriraj</string>
   <string name="encrypt_device_cancel">Prekliči</string>
   <string name="encrypt_device_launch_settings">Šifriraj</string>
   <string name="encrypt_device_text">"Za nadaljevanje nastavitve vašega profila morate šifrirati vašo napravo. To lahko traja nekaj časa."</string>
