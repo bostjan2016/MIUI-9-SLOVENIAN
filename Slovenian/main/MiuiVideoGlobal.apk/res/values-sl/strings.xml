@@ -97,6 +97,7 @@
   <string name="t_password_null">Geslo ne sme biti prazno</string>
   <string name="t_password_wrong">Geslo je napačno. Poskusite ponovno.</string>
   <string name="t_search_null">Vnesite ključne besede za iskanje</string>
+  <string name="v_agree">Strinjam se</string>
   <string name="v_app_check_failed">Ne morem preveriti aplikacijo</string>
   <string name="v_app_click_to_install">Pritisni za namestitev.</string>
   <string name="v_app_download_failed">Ne morem prenesti, pritisni za ponoven prenos.</string>

@@ -45,6 +45,14 @@
      <plurals name="million">
          <item quantity="other">Preneslo %1$d oseb</item>
     </plurals>
+	<plurals name="gb_ad_people_play">
+         <item quantity="other">%1$d oseb igra</item>
+         <item quantity="one">%1$d oseba igra</item>
+     </plurals>
+     <plurals name="gb_ad_ten_thousand_people_play">
+         <item quantity="other">%1$d oseb igra</item>
+         <item quantity="one">%1$d oseba igra</item>
+     </plurals>
     <plurals name="view_num">
          <item quantity="other">%1$d ogledov</item>
          <item quantity="zero">%1$d ogledov</item>

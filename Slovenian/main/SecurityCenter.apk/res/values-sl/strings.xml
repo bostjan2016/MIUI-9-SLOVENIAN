@@ -924,6 +924,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_rule_group_title_wifi">WiFi</string>
   <string name="firewall_service_network_blocked">%1$s je omejeno za uporabo %2$s omrežja</string>
   <string name="firewall_system_title">Uporaba podatkov za sistemske aplikacije</string>
+  <string name="firewall_temp_rule_reason">%2$s je omejil spletno povezavo za %1$s​</string>
   <string name="firewall_wifi">WiFi</string>
   <string name="firewall_wifi_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet z uporabo WiFi-ja če bo ta nastavitev izključena.​"</string>
   <string name="five_percent_total_pkg">%s (5%% od mes. podatkov)</string>
@@ -981,6 +982,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Zavrni</string>
   <string name="gb_description_image_button_video_answer">Videoklic</string>
+  <string name="gb_new_feature">Nova funkcija</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Vključite to funkcijo če imate težave u uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>

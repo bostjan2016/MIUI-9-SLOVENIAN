@@ -171,4 +171,81 @@
         <item>Naravno doživetje barv doživljaj boje</item>
         <item>Barve optimizirane za digitalno vsebino</item>
     </string-array>
+	     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Samodejno (privzeto)</item>
+        <item>16 bitov po vzorcu</item>
+        <item>24 bitov po vzorcu</item>
+        <item>32 bitov po vzorcu</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Samodejno (privzeto)</item>
+        <item>16 bitov po vzorcu</item>
+        <item>24 bitov po vzorcu</item>
+        <item>32 bitov po vzorcu</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Samodejno (privzeto)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Samodejno (privzeto)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimizirano za kakovost avdio predvajanja</item>
+        <item>Uravnotežena kakovost avdio predvajanja in povezave</item>
+        <item>Optimizirano za kakovost veze</item>
+        <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizirano za kakovost avdio predvajanja (990 kbps/909 kbps)</item>
+        <item>Uravnotežena kakovost avdio predvajanja in povezave (660 kbps/606 kbps)</item>
+        <item>Optimizirano za kakovost povezave (330 kbps/303 kbps)</item>
+        <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Samodejno (privzeto)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Samodejno (privzeto)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Samodejno (privzeto)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Omogočanje izbirnih kodekov</item>
+        <item>Onemogočanje izbirnih kodekov</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Samodejno (privzeto)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Omogočanje izbirnih kodekov</item>
+        <item>Onemogočanje izbirnih kodekov</item>
+     </string-array>
+     <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (zadano)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+     </string-array>
+     <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (privzeto)</item>
+        <item>OpenGL (Skia)</item>
+     </string-array>
 </resources>

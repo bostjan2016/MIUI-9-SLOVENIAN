@@ -10,21 +10,31 @@
   <string name="accessibility_wifi_signal_full">WiFi signal je poln.</string>
   <string name="accessibility_wifi_three_bars">WiFi signal ima tri črtice.</string>
   <string name="accessibility_wifi_two_bars">WiFi signal ima dve črtice.</string>
+  <string name="active_input_method_subtypes">Aktivni načini vnosa</string>
   <string name="adb_keys_warning_message">Želite preklicati dostop do odpravljanja težav preko USB iz vseh računalnikov kjer ste to že dovolili?</string>
   <string name="adb_warning_message">Odpravljanja težav preko USB je namenjeno samo razvijalcem. Lahko se uporabi za kopiranje podatkov iz računalnika v napravo in obratno, namestitev aplikacij na napravo brez obvestil in za branje dnevniških zapisov.</string>
   <string name="adb_warning_title">Dovolim odpravljanje težav preko USB?</string>
   <string name="add_blocked_dialog_body">Blokirajte klice in sporočila ki jih pošilja</string>
   <string name="add_blocked_number_hint">Telefonska številka</string>
   <string name="add_vm_number_str">Dodaj številko</string>
+  <string name="alert_outgoing_call">Z aktiviranjem tega klica bo prekinjen klic v aplikaciji %1$s.</string>
   <string name="allow_mock_location">Dovoli lažne lokacije</string>
   <string name="allow_mock_location_summary">Dovoli lažne lokacije</string>
   <string name="animator_duration_scale_title">Lestvica trajanja animacije</string>
+  <string name="answer_incoming_call">Odgovori</string>
+  <string name="answering_ends_other_call">Če odgovorite bo prekinjen klic v aplikaciji %1$s</string>
+  <string name="answering_ends_other_calls">Če odgovorite bodo prekinjeni klici v aplikaciji %1$s</string>
+  <string name="answering_ends_other_managed_call">Če odgovorite bo prekinjen aktivni klic</string>
+  <string name="answering_ends_other_managed_calls">Če odgovorite bodo prekinjeni aktivni klici</string>
+  <string name="answering_ends_other_managed_video_call">Če odgovorite bo prekinjen aktivni video klic</string>
+  <string name="answering_ends_other_video_call">Če odgovorite bo prkinjen video klic v aplikaciji %1$s</string>
   <string name="apn_settings_not_available">Nastavitve imena dostopne točke niso na voljo za tega uporabnika</string>
   <string name="app_process_limit_title">Omejitev procesa v ozadju</string>
   <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="battery_info_status_charging">Polnjenje</string>
   <string name="battery_info_status_charging_ac">Polnjenje s polnilcem</string>
   <string name="battery_info_status_charging_ac_short">Polnjenje</string>
+  <string name="battery_info_status_charging_lower">polnjenje</string>
   <string name="battery_info_status_charging_usb">Polnj. prek USB-ja</string>
   <string name="battery_info_status_charging_usb_short">Polnjenje</string>
   <string name="battery_info_status_charging_wireless">Brezžično polnjenje</string>
@@ -58,6 +68,8 @@
   <string name="bluetooth_disconnecting">Prekinjanje povezave ...</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
   <string name="bluetooth_dun_profile_summary_use_for">Uporabi za klicni dostop na omrežje</string>
+  <string name="bluetooth_enable_inband_ringing">Omogoči zvok zvonenja znotraj pasovne širine</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje melodije zvonenja telefona preko Bluetooth slušalk</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezava s profilom za zvok telefona vzpostavljena</string>
   <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezava z vnosno napravo je vzpostavljena</string>
@@ -80,6 +92,8 @@
   <string name="bluetooth_pan_profile_summary_use_for">Uporabi za dostop do spleta</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Povezava z napravo za spletni dostop</string>
   <string name="bluetooth_profile_a2dp">Zvok predstavnosti</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Uporabljaj visokokakovosten avdio: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Uporabljaj visokokakovosten avdio</string>
   <string name="bluetooth_profile_dun">Dial-up Network Access</string>
   <string name="bluetooth_profile_headset">Zvok telefona</string>
   <string name="bluetooth_profile_hid">Vnosna naprava</string>
@@ -92,6 +106,23 @@
   <string name="bluetooth_profile_sap">Dostop do kartice SIM</string>
   <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartice SIM</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Biti po vzorcu za Bluetooth Audio</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Izberi kodek za Bluetooth Avdio:
+biti po vzorcu"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Način kanala za Bluetooth Avdio</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Izberi kodek za Bluetooth Avdio:
+način kanala"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Kodek za Bluetooth Avdio LDAC: kakovost predvajanja</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Izberi kodek za Bluetooth Avdio LDAC:
+kakovost predvajanja"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorčenja za Bluetooth Avdio</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Izberi kodek za Bluetooth Avdio:
+hitrost vzorčenja"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Tok: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_type">Kodek za Bluetooth Avdio</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Izberi kodek za Bluetooth Avdio</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Izberite verziju AVRCP-a za Bluetooth</string>
+  <string name="bluetooth_select_avrcp_version_string">Verzija AVRCP-a za Bluetooth</string>
   <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Zajemi vse pakete Bluetooth HCI v datoteko</string>
   <string name="bugreport_in_power">Bližnjica za por. o napakah</string>
@@ -100,6 +131,9 @@
   <string name="callFailed_simError">Napaka SIM kartice</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Ne morem poslati videoklica dokler poteka glasovni klic"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne morem izbirati med videoklicem"</string>
+  <string name="cant_call_due_to_ongoing_call">Klic ni mogoče vzpostaviti zaradi klica v aplikaciji %1$s.</string>
+  <string name="cant_call_due_to_ongoing_calls">Klic ni mogoče vzpostaviti zaradi klica v aplikaciji %1$s.</string>
+  <string name="cant_call_due_to_ongoing_unknown_call">Klic ni mogoče vzpostaviti zaradi klica v drugi aplikaciji.</string>
   <string name="category_personal">Osebno</string>
   <string name="category_work">Služba</string>
   <string name="change_default_dialer_dialog_affirmative">Nastavi privzeto</string>
@@ -114,9 +148,11 @@
   <string name="close">Zapri</string>
   <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev funkcije za zaščito naprave v tej napravi ne bodo delovale.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
+  <string name="connected_via_network_scorer">Samodejno povezan preko %1$s</string>
+  <string name="connected_via_network_scorer_default">Samodejno povezan preko ocenjevalca omrežja</string>
   <string name="connected_via_passpoint">Vzpostavljena povezava preko %1$s</string>
   <string name="connected_via_wfa">Povezava vzpostavljena preko pomočnika za WiFi</string>
-  <string name="content_description_menu_button">Izbornik</string>
+  <string name="content_description_menu_button">Meni</string>
   <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  Opozorilo! S tem bodo izbrisani vsi podatki.
  Ta funkcija je različice alfa, zato morda ne bo delovala pravilno.
@@ -139,13 +175,15 @@
   <string name="debug_debugging_category">Iskanje napak</string>
   <string name="debug_drawing_category">Risba</string>
   <string name="debug_hw_drawing_category">Upodabljanje s strojnim pospeševanjem</string>
-  <string name="debug_hw_overdraw">Prekoračitev območja GPE</string>
+  <string name="debug_hw_overdraw">Rešavanje GPU prekrivanja</string>
+  <string name="debug_hw_renderer">Nastavi polnilec GPU-a</string>
   <string name="debug_input_category">Vnos</string>
   <string name="debug_layout">Prikaz mej postavitve</string>
   <string name="debug_layout_summary">Pokaži meje obrezovanja, obrobe ipd.</string>
   <string name="debug_monitoring_category">Spremljanje</string>
   <string name="debug_networking_category">Omrežja</string>
   <string name="debug_view_attributes">Omogoči pregled atributa pogleda</string>
+  <string name="decline_incoming_call">Zavrni</string>
   <string name="delete_icon_description">Deblokiranje</string>
   <string name="dev_logpersist_clear_warning_message">Ko prekinemo sledenje s pomočjo trajnega zapisnikarja bomo morali izbrisati podatke zapisnikarja ki se nahajajo na napravi.</string>
   <string name="dev_logpersist_clear_warning_title">Želite izbrisati trajno shranjevanje zapisnikarja?</string>
@@ -157,8 +195,10 @@
   <string name="development_settings_title">Možnosti za razvijalce</string>
   <string name="dial_conference_fail_prompt">"Ne morem izbirati konferenčno, ker trenutno omrežje ne podpira VoLTE."</string>
   <string name="dial_vt_fail_prompt">"Trenutno omrežje ne podpira VoLTE. Preklopim na normalni klic?"</string>
+  <string name="direct_boot_unaware_dialog_message">Opomba: ta aplikacija se ne bo zagnala po novem zagonu naprave dokler ne odklenete telefon</string>
   <string name="disable_overlays">Onemogoči deljenje spomina</string>
   <string name="disable_overlays_summary">Za sestavljanje slike vedno uporabi graf. procesor</string>
+  <string name="disabled">Onemogočeno</string>
   <string name="disabled_by_admin">Onemogočil skrbnik</string>
   <string name="disabled_by_admin_summary_text">Nadzira skrbnik</string>
   <string name="duplicate_video_call_not_allowed">Klica trenutno ni mogoče dodati.</string>
@@ -173,6 +213,9 @@
   <string name="enable_webview_multiprocess">Omogoči večprocesni WebView</string>
   <string name="enable_webview_multiprocess_desc">Izvajanje upodabljalnikov za WebView v ločenem procesu.</string>
   <string name="enabled_by_admin">Omogočil skrbnik</string>
+  <string name="external_source_trusted">Dovoljeno</string>
+  <string name="external_source_untrusted">Ni dovoljeno</string>
+  <string name="failed_to_open_app_settings_toast">Odpiranje nastavitev za aplikacijo %1$s ni uspelo</string>
   <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
   <string name="force_allow_on_external_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsako aplikacijo zapisati v zunanjo shrambo</string>
   <string name="force_hw_ui">Vsili upodabljanje z GPE-jem</string>
@@ -190,6 +233,7 @@
   <string name="headset_plugin_view_title">Prostoročno</string>
   <string name="help_feedback_label">Pomoč in pov.informacije</string>
   <string name="home">Začetni zaslon</string>
+  <string name="ime_security_warning">Ta način vnosa lahko zbira tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. To omogoča aplikacija %1$s. Uporabin ta način vnosa?</string>
   <string name="immediately_destroy_activities">Ne obdrži dejavnosti</string>
   <string name="immediately_destroy_activities_summary">Uniči vsako dejavnost ko uporabnik preneha z njo</string>
   <string name="inactive_app_active_summary">Aktivno. Dotaknite se za preklop.</string>
@@ -199,18 +243,19 @@
   <string name="incall_error_power_off">Za klicanje izključite letalski način.</string>
   <string name="incall_error_supp_service_unknown">"Ta usluga ni podprta."</string>
   <string name="incoming_call_failed_low_battery">Dohodni klic spodletel zaradi slabe baterije.</string>
+  <string name="install_other_apps">Namestitev neznanih aplikacij</string>
   <string name="keep_screen_on">Brez zaklepanja</string>
   <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli zaklenil</string>
   <string name="launch_defaults_none">Ni privzetih nastavitev</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
   <string name="lch_dtmf_key">D</string>
-  <string name="local_backup_password_summary_change">Dotaknite se če želite spremeniti ali odstraniti geslo za popolno varnostno kopiranje namizja.</string>
+  <string name="legacy_dhcp_client_summary">Uporabljate DHCP klijent iz Lollipopa namesto novega Android DHCP klijenta.</string>
   <string name="local_backup_password_summary_none">Popolne varnostne kopije namizja trenutno niso zaščitene</string>
   <string name="local_backup_password_title">Geslo za varn. kop. rač.</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Novo geslo in potrditev se ne ujemata.</string>
   <string name="local_backup_password_toast_success">Novo geslo je nastavljeno</string>
   <string name="local_backup_password_toast_validation_failure">Nastavitev gesla ni uspela</string>
-  <string name="legacy_dhcp_client_summary">Uporabljate DHCP odjemalec iz Lollipopa namesto novega Android DHCP odjemalca.</string>
+  <string name="local_backup_password_toast_validation_failure">Nastavitev gesla za var. kopijo ni uspela</string>
   <string name="managed_user_title">Vse radne aplikacije</string>
   <string name="media_category">Predstavnosti</string>
   <string name="mobile_data_always_on">Mobilni podatki zmeraj aktivni</string>
@@ -223,6 +268,10 @@
   <string name="no_vm_number_msg">Na kartici SIM ni shranjena številka glasovne pošte.</string>
   <string name="non_primary_user">Samo lastnik naprave lahko pregleduje in kontrolira blokirane številke.</string>
   <string name="notification_AllMissedCallTitle">Vsi neodgovorjeni klici</string>
+  <string name="notification_channel_incoming_call">Dohodni klici</string>
+  <string name="notification_channel_missed_call">Zgrešeni klici</string>
+  <string name="notification_incoming_call">Klic v aplikaciji %1$s od uporabnika %2$s</string>
+  <string name="notification_incoming_video_call">Videoklic v aplikaciji %1$s od uporabnika %2$s</string>
   <string name="notification_missedCallTicker">Neodgovorjeni klic od %s</string>
   <string name="notification_missedCallTitle">Neodgovorjeni klic</string>
   <string name="notification_missedCall_call_back">Povratni klic</string>
@@ -250,6 +299,7 @@
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti preko brezž. pol.</string>
   <string name="power_discharging_duration">%1$s - še približno %2$s</string>
   <string name="power_discharging_duration_short">%1$s – še približno %2$</string>
+  <string name="power_remaining_charging_duration_only">Še %1$s do popolne napolnenosti</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
   <string name="process_kernel_label">Android OS</string>
@@ -265,6 +315,9 @@
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Hitri odgovori</string>
   <string name="respond_via_sms_setting_title_2">Urejanje hitrih odgovorov</string>
+  <string name="retail_demo_reset_message">Vnesite geslo za resetiranje v demo načinu</string>
+  <string name="retail_demo_reset_next">Naprej</string>
+  <string name="retail_demo_reset_title">Potrebno je geslo</string>
   <string name="running_process_item_user_label">Uporabnik: %1$s</string>
   <string name="runningservices_settings_summary">Poglejte in nadzirajte začete procese</string>
   <string name="runningservices_settings_title">Začete usluge</string>
@@ -295,6 +348,8 @@
   <string name="show_hw_screen_updates">Pokaži posod. pogleda GPE</string>
   <string name="show_hw_screen_updates_summary">Osvetli poglede v oknih pri risanju z GPE</string>
   <string name="show_non_rect_clip">Odpr. težav s postopki nepravokotnega izrezovanja</string>
+  <string name="show_notification_channel_warnings">Prikaži opozorila kanala obvestil</string>
+  <string name="show_notification_channel_warnings_summary">Prikazuje opozorilo na zaslonu ko aplikacija objavi obvestilo bez veljavnega kanala</string>
   <string name="show_screen_updates">Pokaži posodob. površine</string>
   <string name="show_screen_updates_summary">Ob posodobitvi osvetli celotne površine oken</string>
   <string name="show_touches">Pokaži dotike</string>
@@ -303,6 +358,8 @@
   <string name="strict_mode">Omogočen strogi način</string>
   <string name="strict_mode_summary">Zaslon se svetlika kadar operacije apl. v glavni niti dolgo trajajo.</string>
   <string name="telecommAppLabel">Telefon</string>
+  <string name="telephony_monitor_switch">TelephonyMonitor</string>
+  <string name="telephony_monitor_switch_summary">TelephonyMonitor bo zbiral zapisnike ko odkrije težavo z delovanjem telefona/modema in obvesti uporabnika da prijavi programsko napako</string>
   <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Račun iz Q Mobile</string>
   <string name="test_account_1_label">Market Wireless</string>
@@ -316,6 +373,8 @@
   <string name="tether_settings_title_usb">Internet prek USB-ja</string>
   <string name="tether_settings_title_usb_bluetooth">Internet prek mob. napr.</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
+  <string name="tethering_hardware_offload">Pospešitev strojnega deljenja</string>
+  <string name="tethering_hardware_offload_summary">Uporabi pospešek strojnega deljenja če je dostopno</string>
   <string name="tethering_settings_not_available">Nastavitve za povezavo z internetom prek mobilne naprave niso na voljo za tega uporabnika</string>
   <string name="title_convert_fbe">Spreminjanje v enkripcijo datotek</string>
   <string name="toast_make_video_call_failed">Ne morem opraviti video klca, napačna oblika številke</string>
@@ -355,6 +414,7 @@
   <string name="unknown">Neznano</string>
   <string name="usb_audio_disable_routing">On. us. zvoka prek USB-ja</string>
   <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanja na zun. zvoč. naprave USB</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemske jezike</string>
   <string name="userCallActivityLabel">Telefon</string>
   <string name="user_guest">Gost</string>
   <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene prek ADB/ADT, škodljive.</string>
@@ -366,12 +426,31 @@
   <string name="vpn_settings_not_available">Nastavitve VPN niso na voljo za tega uporabnika</string>
   <string name="wait_for_debugger">Počakajte na iskalnik napak</string>
   <string name="wait_for_debugger_summary">Aplikacija, v kateri iščete napako, pred izvajanjem čaka na povezavo z iskalnikom napak</string>
+  <string name="wapi_all_sel_mode">Izberi način</string>
+  <string name="wapi_auto_sel_cert_fail">Ne morem samodejno izbrati certifikat. Izberite certifikat s seznama in se poskusite povezati.</string>
+  <string name="wapi_cert_is_not_exist">Ni dostopnega certifikata, najprej namestite certifikat</string>
+  <string name="wapi_cert_is_not_selected">Najprej izberite certifikat</string>
+  <string name="wapi_cert_manage_error">Nastavitev WAPI certifikata ni uspela.</string>
+  <string name="wapi_cert_manage_summary">Dodajte ali izbrišite WAPI certifikat</string>
+  <string name="wapi_cert_manage_title">Upravljanje z WAPI certifikatom</string>
+  <string name="wapi_cert_roaming">Povezovanje…</string>
+  <string name="wapi_no">ne</string>
+  <string name="wapi_no_vaild_cert">Ni dostopnih certifikatov, ali jih namestim sedaj?</string>
+  <string name="wapi_password_hex_format_add">Število heksadecimalnih znakov ne sme biti parno število</string>
+  <string name="wapi_password_is_empty">Polje za geslo ne sme ostati prazno</string>
+  <string name="wapi_password_is_not_hex_format">Neveljavni heksadecimalni znaki</string>
+  <string name="wapi_password_length_is_max">Geslo ne sme imeti več kot 64 znakova</string>
+  <string name="wapi_password_length_is_min">Geslo ne sme biti krajše od 8 znakov</string>
+  <string name="wapi_password_length_is_min_to_max">Geslo mora biti: 8-64 znakov</string>
+  <string name="wapi_yes">da</string>
   <string name="wifi_aggressive_handover">Odločen prehod iz WiFi-ja v mobil. omr.</string>
   <string name="wifi_aggressive_handover_summary">Če je ta možnost omogočena, Wi-Fi odločneje preda podatkovno povezavo mobilnemu omrežju, ko je signal Wi-Fi šibek</string>
   <string name="wifi_allow_scan_with_traffic">Vedno omogoči iskanje omrežij Wi-Fi za gostovanje</string>
   <string name="wifi_allow_scan_with_traffic_summary">Omogoči/onemogoči iskanje omrežij Wi-Fi za gostovanje glede na količino podatkovnega prometa pri vmesniku</string>
   <string name="wifi_auth_password_wrong">Geslo je lahko napačno</string>
+  <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
   <string name="wifi_connected_no_internet">Vzpostavljena povezava, brez interneta</string>
+  <string name="wifi_disabled_by_recommendation_provider">Niste povezani ker je omrežje slabe kakovosti</string>
   <string name="wifi_disabled_generic">Onemogočeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
   <string name="wifi_disabled_password_failure">Težava s preverjanjem pristnosti</string>
@@ -380,6 +459,7 @@
   <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
   <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">Ni dostopa na splet.</string>
@@ -397,7 +477,18 @@
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+  <string name="wifi_ssid_is_empty">SSID polje ne sme biti prazno</string>
+  <string name="wifi_ssid_length_is_max">SSID ne sme biti večje od 32 znakov</string>
   <string name="wifi_verbose_logging">Omogoči podrob. zapis. dnevnika za Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Povečaj raven zapis. dnev. za Wi-Fi; v izbir. Wi‑Fi-ja pokaži glede na SSID RSSI</string>
+  <string name="wifi_wapi_as_certificate">AS certifikat</string>
+  <string name="wifi_wapi_cert_mode_hand_text">Ročni izberi certifikat</string>
+  <string name="wifi_wapi_certification_dont_exist">WAPI certifikati ne obstajajo. Namestite jih.</string>
+  <string name="wifi_wapi_fail_to_auth">"WAPI Kontrola pristnosti ni uspela
+Preverite veljavnost certifikata"</string>
+  <string name="wifi_wapi_fail_to_init">"WAPI certifikate ni mogoče odpreti 
+Shramba poverilnic mogoče ni omogočena"</string>
+  <string name="wifi_wapi_psk_type">Vrsta gesla</string>
+  <string name="wifi_wapi_user_certificate">Uporabniški certifikat</string>
   <string name="window_animation_scale_title">Hitrost animacije okna</string>
 </resources>

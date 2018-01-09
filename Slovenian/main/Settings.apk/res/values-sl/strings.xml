@@ -39,7 +39,8 @@
   <string name="accelerometer_title">Samodejno zasukaj zaslon</string>
   <string name="access_control_app_entry_multiple">Odpri %s</string>
   <string name="access_control_app_entry_single">Odpri aplikacijo</string>
-  <string name="access_control_need_password">"%s je zaščiten"</string>
+  <string name="access_control_need_password">"%s je zaščiten
+"</string>
   <string name="access_control_need_to_unlock">Potrebno geslo:</string>
   <string name="access_control_no_back_footer">Dotaknite se [ikone] za izhod</string>
   <string name="access_control_password_title">Geslo</string>
@@ -322,6 +323,7 @@
   <string name="app_restrictions_custom_label">Nastavitev omejitev za aplikacijo</string>
   <string name="app_sees_restricted_accounts">Ta aplikacija lahko dostopa do vaših računov</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Ta aplikacija lahko dostopa do vaših računov. Upravlja jo aplikacija %1$s.</string>
+   <string name="app_settings_link">Dodatne nastavitve v aplikaciji</string>
   <string name="app_special_disable_dlg_text">Če onemogočite to aplikacijo druge aplikacije morda ne bodo več delovale kot bi morale. Prav tako bodo izbrisani vaši podatki.</string>
   <string name="app_special_disable_dlg_title">Ali želite izbrisati podatke in onemogočiti aplikacijo?</string>
   <string name="app_switch_key">Nedavne</string>
@@ -785,6 +787,7 @@
   <string name="bluetooth_untether_blank">%1$s bo osvobojen.</string>
   <string name="bluetooth_visibility_timeout">Časovna omejitev vidnosti</string>
   <string name="bluetooth_wake">Zbudi z Bluetooth audio</string>
+  <string name="boot_sounds_title">Vključi zvok</string>
   <string name="bootloader">Fastboot način</string>
   <string name="bootloader_apply_step_1">Vključim Fastboot način?</string>
   <string name="bootloader_apply_step_2">Ko je vaša naprava v Fastboot načinu dela in priključena na računalnik</string>
@@ -839,6 +842,7 @@
   <string name="button_convert_fbe">Izbriši in preklopi …</string>
   <string name="button_disconnect_network">Prekinitev povezave z omrežjem</string>
   <string name="button_light_timeout">Nastavitve svetilnosti tipke</string>
+  <string name="button_start_transfer">Kopiraj</string>
   <string name="button_text_accept">Sprejmem</string>
   <string name="button_text_accept_timer">Sprejmem(%d)</string>
   <string name="button_text_cancel">Prekini</string>

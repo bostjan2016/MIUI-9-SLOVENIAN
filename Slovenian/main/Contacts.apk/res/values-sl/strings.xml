@@ -402,6 +402,7 @@ Vizitke stikov so izključene"</string>
   <string name="dialer_empty_text_loading">Nalagam…</string>
   <string name="dialer_empty_text_no_call_log">Ni nedavnih stikov</string>
   <string name="dialer_empty_text_no_search_result">Najdenih ni nobenih stikov</string>
+  <string name="dialer_firewall_entry_name">Blokirani zapisniki klicev</string>
   <string name="dialer_menu_description">Prikaži tipkovnice</string>
   <string name="dialer_menu_title">Možnosti izbiranja</string>
   <string name="dialer_returnToInCallScreen">Vrni se na klic v teku</string>

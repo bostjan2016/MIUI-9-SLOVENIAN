@@ -39,6 +39,7 @@
   <string name="cancle">Prekliči</string>
   <string name="choose_open_time">Izberite kdaj bi radi začeli</string>
   <string name="clear_data">Očisti</string>
+  <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Poskusite ponovno.</string>
   <string name="complete_time">Končano:</string>
   <string name="confirm">V redu</string>
   <string name="confirm_delete_downloads_message">%d prenosov bo izbrisanih</string>

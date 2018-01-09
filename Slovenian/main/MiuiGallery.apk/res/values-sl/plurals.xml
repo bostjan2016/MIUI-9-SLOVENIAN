@@ -24,6 +24,14 @@
          <item quantity="other">%d mesecev</item>
          <item quantity="one">%d mesec</item>
      </plurals>
+	 <plurals name="add_to_album_failed_with_reason_and_count">
+         <item quantity="other">"%2$d stvarini mogoče dodati v album. %1$s."</item>
+         <item quantity="one">"%2$d stvar ne more biti dodana v album. %1$s."</item>
+     </plurals>
+     <plurals name="add_to_secret_failed_with_reason_and_count">
+         <item quantity="other">"%2$d stvari ni mogoče dodati v skriti album. %1$s."</item>
+         <item quantity="one">"%2$d stvar ni mogoče dodati v skriti album. %1$s."</item>
+     </plurals>
      <plurals name="age_day">
          <item quantity="other">%d dni</item>
          <item quantity="one">%d dan</item>
@@ -204,6 +212,10 @@
         <item quantity="other">Izbrano stvari %d</item>
         <item quantity="one">Izbrana %d stvar</item>
     </plurals>
+	<plurals name="fail_reason_processing_file">
+         <item quantity="other">Obdelava fotografij…</item>
+         <item quantity="one">Obdelava fotografije…</item>
+     </plurals>
 	<plurals name="fast_share_auto_render_failed">
         <item quantity="other">"Izpuščeno %1$d fotografij ki niso mogle biti deljene."</item>
         <item quantity="one">"Izpuščena fotografija ki ni mogla biti deljena."</item>
@@ -260,8 +272,16 @@
          <item quantity="other">Dodano %1$d fotografij v \"%2$s\".</item>
          <item quantity="one">Dodana %1$d fotografija v \"%2$s\".</item>
      </plurals>
+	 <plurals name="remove_from_secret_failed_with_reason_and_count">
+         <item quantity="other">"%2$d stvari ni mogoče odstraniti iz skritega albuma. %1$s."</item>
+         <item quantity="one">"%2$d stavr ne more biti odstranjena iz skritega albuma. %1$s."</item>
+		 </plurals>
      <plurals name="search_feedback_done_mark_and_contribute_false_negative">
          <item quantity="other">Dodano %1$d fotografija v \"%2$s\" in v bazo podatkov.</item>
          <item quantity="one">Dodana %1$d fotografija v \"%2$s\" in v bazo podatkov.</item>
+     </plurals>
+	 <plurals name="send_processing_files_error">
+         <item quantity="other">"Ne morem deliti. Še vedno se obdeluje %d fotografij…"</item>
+         <item quantity="one">"Ne morem deliti. Še vedno se obdeluje %d fotografija…"</item>
      </plurals>
 </resources>

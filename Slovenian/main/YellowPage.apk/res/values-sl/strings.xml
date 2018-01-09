@@ -22,6 +22,14 @@
   <string name="all_resources">Vse</string>
   <string name="all_services">Vse</string>
   <string name="allow">Dovoli</string>
+  <string name="antispam_curr_version">Trenutna verzija: %d</string>
+  <string name="antispam_data_downloading">Prenos podatkov o klicatelju. To lahko traja 3-5 sekund.</string>
+  <string name="antispam_data_downloading_error">"Ne morem se povezati v omrežje"</string>
+  <string name="antispam_local_newest">Trenutna verzija je posodobljena.</string>
+  <string name="antispam_network_remind_summary">Prenesem posodobitev preko mobilnih podatkov?</string>
+  <string name="antispam_network_remind_title">Opozorilo uporabe podatkov</string>
+  <string name="antispam_pull_newest">Uspešno posodobljeno na %d verziju</string>
+  <string name="antispam_update_version">Preveri posodobitve</string>
   <string name="app_label">Mapa</string>
   <string name="app_recommendation_install">Namestitev</string>
   <string name="average_price">Povprečno %d RMB</string>
@@ -56,6 +64,7 @@
   <string name="custom_mark_category">Po meri</string>
   <string name="data_error">Prišlo je do napake</string>
   <string name="data_error_show">Prišlo je do napake</string>
+  <string name="data_error_w">Prišlo je do napake</string>
   <string name="delete">Izbriši</string>
   <string name="deleting">Brisanje...</string>
   <string name="description_author">Avtor</string>
@@ -292,6 +301,7 @@
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">"Omrežna povezava ni na voljo."</string>
   <string name="miuishare_publish">Pošlji</string>
+  <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">Uspešno deljeno</string>
   <string name="miuishare_share_editor_title">Skupna raba</string>
   <string name="miuishare_title_more">Več</string>
@@ -302,6 +312,7 @@
   <string name="more_express_numbers">Več ekspresnih številk</string>
   <string name="navigation_search_all_cities">Vsa mesta</string>
   <string name="navigation_search_automatically_positioned_city">Trenutno mesto</string>
+  <string name="navigation_search_default_hint">Vnesite besede ki jih želite iskati</string>
   <string name="navigation_search_hot_cities">Popularno</string>
   <string name="navigation_search_no_city_list">Nisem našel ničesar</string>
   <string name="navigation_search_positioning">Lociram...</string>
@@ -567,10 +578,14 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
   <string name="turn_off_hint_title">"Naj ne identificiram neznanih številk?"</string>
   <string name="turn_off_phone_event_hint">"Ne boste mogli videti podrobnosti o poročilu neznane številke."</string>
   <string name="turn_off_smart_antispam_hint">"Izklopitm zaščito pri klicu neznanih številk?"</string>
+  <string name="turn_on_online_antispam_enable">Vključi</string>
+  <string name="turn_on_online_antispam_summary">Vključi ID Klicatelja da prepozna neznane številke.</string>
+  <string name="turn_on_online_antispam_title">Vključi ID Klicatelja</string>
   <string name="turn_on_phone_event_dialog_title">Posodobi bazo podatkov znanih številk</string>
   <string name="turn_on_phone_event_summary">Dovolite Yellow pages da sprejema in pošilja informacije o storitvah pooblaščenih ponudnikov.</string>
   <string name="turn_on_phone_event_title">Prejemanje informacij o storitvi</string>
   <string name="turn_on_smart_antispam_hint">"Identificiraj klice iz neznanih številk z uporabo Xiaomijeve podatkovne baze"</string>
+  <string name="turn_on_smart_antispam_summary">Pošlji in identificiraj neznane številke telefona iz zgodovine klicev in SMS sporočil</string>
   <string name="turn_on_smart_antispam_summary_off">Išči samo številke shranjene na tej napravi</string>
   <string name="turn_on_smart_antispam_summary_on">Naloži in določi neznane številke iz dnevnika klicev in besedilnih sporočil</string>
   <string name="turn_on_smart_antispam_title">Identificiraj neznane številke</string>

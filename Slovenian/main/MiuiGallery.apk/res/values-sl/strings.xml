@@ -24,13 +24,13 @@
   <string name="add_to_album_bulk_result">Napaka (%d)</string>
   <string name="add_to_album_exist">Fotografija že obstaja</string>
   <string name="add_to_album_failed">"Ne morem dodati v album"</string>
+  <string name="add_to_album_failed_with_reason">"Ne morem dodati v album. %1$s."</string>
   <string name="add_to_album_success">Dodano v album</string>
   <string name="add_to_album_tip">Cloud fotografije</string>
   <string name="add_to_favorites_failed">"Ne morem dodati v priljubljene"</string>
   <string name="add_to_secret_exist">Fotografija že obstaja v skritem albumu</string>
   <string name="add_to_secret_fail">"Ne morem dodati v skriti album"</string>
   <string name="add_to_secret_failed_with_reason">"Ne more biti dodano v skriti album. %1$s."</string>
-  <string name="add_to_secret_failed_with_reason_and_count">"%2$s predmetov ne more biti dodano v skriti album. %1$s."</string>
   <string name="add_to_secret_successful">Dodano v skriti album</string>
   <string name="add_to_share_album_not_delete">"Ne morem izbrisati fotografije v deljenem albumu"</string>
   <string name="added_to_favorites_tip">Dodano v album \"Priljubljeno\"</string>
@@ -644,6 +644,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="loading_image">Prenašam sliko…</string>
   <string name="loading_image_thumbnail">Prenašanje sličic…</string>
   <string name="loading_members">Nalaganje članov…</string>
+  <string name="loading_processing_tip">Obdelava fotografije…</string>
   <string name="loading_suspend">Nalaganje ustavljeno. Nadaljevalo se bo ko bo WiFi na voljo.</string>
   <string name="loading_video">Prenašam videoposnetek…</string>
   <string name="loading_video_fail_sync_without_network">Povežite se na omrežje da boste prevzeli metapodatke</string>
@@ -706,6 +707,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="open">Vključi</string>
   <string name="open_public_message">Ustvari povezavo za deljenje s prijatelji</string>
   <string name="open_public_title">Deli</string>
+  <string name="operate_processing_file_error">Počakajte dokler se ne obdelajo vse fotografije.</string>
   <string name="operation_add_album">Dodaj v album</string>
   <string name="operation_add_picture">Dodaj slike</string>
   <string name="operation_add_secret">Skrij</string>
@@ -911,7 +913,6 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="remove_from_other_albums_tip">Premestim ta album iz albuma Ostalo?</string>
   <string name="remove_from_secret_fail">"Ne morem odstraniti iz skritega albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne morem odstraniti iz skritega albuma. %1$s."</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">"%2$s stvari ne more biti odstranjeno iz skritega albuma. %1$s."</string>
   <string name="remove_from_secret_successful">Odstranjeno iz skritega albuma</string>
   <string name="remove_to_album_title">Združi z</string>
   <string name="remove_to_other_album">Združi z drugo osebo</string>

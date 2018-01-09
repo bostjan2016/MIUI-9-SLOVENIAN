@@ -30,9 +30,10 @@
   <string name="accessibility_wifi_three_bars">WiFi signal ima tri črtice.</string>
   <string name="accessibility_wifi_two_bars">WiFi signal ima dve črtice.</string>
   <string name="accessibility_wimax_one_bar">WiMAX ima eno črtico.</string>
-  <string name="adb_keys_warning_message">Želite li opozvati pristup uklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
-  <string name="adb_warning_message">Otklanjanje pogrešaka putem USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
-  <string name="adb_warning_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>
+  <string name="active_input_method_subtypes">Aktivni načini vnosa</string>
+  <string name="adb_keys_warning_message">Ali želite preklicati dostop onemogočanja napak preko USB-a z vseh računalnikov ki ste jih avtorizirali?</string>
+  <string name="adb_warning_message">Odstranjevanje napak preko USB-a je namenjeno samo v razvojne namene. Lahko se uporablja za kopiranje podatkov z računalnika na napravo in obratno, namestitev aplikacije na napravi brez obvestil in za branje dnevniških zapisov.</string>
+  <string name="adb_warning_title">Omogočim odstranjevanje napak preko USB-a?</string>
   <string name="additional_permissions">Dodatna dovoljenja</string>
   <string name="allPerms">Vse</string>
   <string name="all_permissions">Vsa dovoljenja</string>
@@ -41,6 +42,8 @@
   <string name="allow_source_dlg_text">%1$s želi namestiti druge aplikacije. Dovolim to zdaj in v prihodnje?</string>
   <string name="allow_source_dlg_title">Dovoli namestitev aplikacij iz neznanih virov.</string>
   <string name="animator_duration_scale_title">Merilo daljine animatorja</string>
+  <string name="anonymous_source_continue">Nadaljuj</string>
+  <string name="anonymous_source_warning">Vaš telefon in osebni podatki so podvrženi napadom neznanih aplikacij. Z namestitvijo te aplikacije sprejemate odgovornost za poškodovanje telefona ali krajo podatkov do katere lahko pride z njeno uporabo.</string>
   <string name="apn_settings_not_available">Nastavitve pristopne točke niso dostopne temu uporabniku</string>
   <string name="app_name">Orodje za namestitev paketa.</string>
   <string name="app_name_unknown">Neznano</string>
@@ -59,6 +62,7 @@
   <string name="battery_info_status_charging">Polnjenje</string>
   <string name="battery_info_status_charging_ac">Polnjenje z omrežnim polnilcem</string>
   <string name="battery_info_status_charging_ac_short">Polnjenje</string>
+  <string name="battery_info_status_charging_lower">polnjenje</string>
   <string name="battery_info_status_charging_usb">Polnjenje preko USB-a</string>
   <string name="battery_info_status_charging_usb_short">Polnjenje</string>
   <string name="battery_info_status_charging_wireless">Brezžično polnjenje</string>
@@ -81,6 +85,8 @@
   <string name="bluetooth_disconnecting">Izključevanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
   <string name="bluetooth_dun_profile_summary_use_for">Uporabi za dial-up dostop</string>
+  <string name="bluetooth_enable_inband_ringing">Omogoči zvok zvonjenja znotraj pasovne širine</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje melodij zvonenja telefona preko Bluetooth slušalk</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano s telefonskim zvokom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Uporabi za telefonski zvok</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano z vhodno napravo</string>
@@ -103,6 +109,8 @@
   <string name="bluetooth_pan_profile_summary_use_for">Uporabi za dostop do spleta</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Povezano z napravo za dostop do spleta</string>
   <string name="bluetooth_profile_a2dp">Medijski zvok</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Uporabljaj visokokakovosten avdio: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Uporabljaj visokokakovosten avdio</string>
   <string name="bluetooth_profile_dun">Dial-up dostop</string>
   <string name="bluetooth_profile_headset">Zvok telefona</string>
   <string name="bluetooth_profile_hid">Vhodna naprava</string>
@@ -115,6 +123,23 @@
   <string name="bluetooth_profile_sap">Dostop do SIM-a</string>
   <string name="bluetooth_sap_profile_summary_connected">Povezano s SAP-om</string>
   <string name="bluetooth_sap_profile_summary_use_for">Uporabi za dostop do SIM-a</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Biti po vzorcu za Bluetooth Avdio</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Izberi kodek za Bluetooth Avdio:
+bitov po vzorcu"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Način kanala za Bluetooth Avdio</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Izberi kodek za Bluetooth Avdio:
+način kanala"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Kodek za Bluetooth Avdio LDAC: kakovost predvajanja</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Izberi kodek za Bluetooth Avdio LDAC:
+kakovost predvajanja"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorca za Bluetooth Avdio</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Izberi kodek za Bluetooth Avdio:
+hitrost vzorčenja"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Prenašanje: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_type">Kodek za Bluetooth Avdio</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Izberi kodek za Bluetooth Avdio</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Izberite verzijo AVRCP-a za Bluetooth</string>
+  <string name="bluetooth_select_avrcp_version_string">Verzija AVRCP-a za Bluetooth</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Posnemi vse Bluetooth HCI pakete v datoteki</string>
   <string name="btn_text_full_scan">Popolno preverjanje</string>
@@ -138,6 +163,8 @@
   <string name="clear_all_message">Želite izbrisati vse podatke in stike?</string>
   <string name="confirm_enable_oem_unlock_text">OPOZORILO: funkcije za zaščito naprave ne bodo delovale dokler je ta nastavitev vključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite dovoliti OEM odklepanje?</string>
+  <string name="connected_via_network_scorer">Samodejno povezan preko %1$s</string>
+  <string name="connected_via_network_scorer_default">Samodejno povezan preko ocenjevalca omrežja</string>
   <string name="connected_via_passpoint">Povezano preko %1$s</string>
   <string name="connected_via_wfa">Povezani preko pomočnika za WiFi</string>
   <string name="content_description_menu_button">Meni</string>
@@ -170,6 +197,7 @@
   <string name="debug_drawing_category">Risba</string>
   <string name="debug_hw_drawing_category">Strojno pospešeno renderiranje</string>
   <string name="debug_hw_overdraw">Rešavanje GPU preklapanja</string>
+  <string name="debug_hw_renderer">Nastavi prikazovalec GPU-a</string>
   <string name="debug_input_category">Vhod</string>
   <string name="debug_layout">Prikaži okvir prikaza</string>
   <string name="debug_layout_summary">Prikazujejo se obrobe, meje itd. izsekov.</string>
@@ -186,8 +214,10 @@
   <string name="development_settings_summary">Nastavi možnosti za razvoj aplikacij</string>
   <string name="development_settings_title">Možnosti za razvijalce</string>
   <string name="devicePerms">Dostop do naprave</string>
+  <string name="direct_boot_unaware_dialog_message">Opomba: ta aplikacija se ne more zagnatipo ponovnem zagonu naprave dokler ne odklenete napravo</string>
   <string name="disable_overlays">Onem. strojni medp.</string>
   <string name="disable_overlays_summary">Za sestavljanje slike vedno uporabi graf. procesor</string>
+  <string name="disabled">Onemogočeno</string>
   <string name="disabled_by_admin">Onemogočil skrbnik</string>
   <string name="disabled_by_admin_summary_text">Nadzira skrbnik</string>
   <string name="dlg_app_replacement_statement">Aplikacija ki jo želite namestiti bo nadomestila drugo aplikacijo. Vsi obstoječi podatki aplikacije bodo shranjeni.</string>
@@ -209,6 +239,10 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="enable_webview_multiprocess">Večprocesni WebView</string>
   <string name="enable_webview_multiprocess_desc">Izvajanje upodabljalnikov za WebView ločeno</string>
   <string name="enabled_by_admin">Omogočil skrbnik</string>
+  <string name="external_source_trusted">Dovoljeno</string>
+  <string name="external_source_untrusted">Ni dovoljeno</string>
+  <string name="external_sources_settings">Nastavitve</string>
+  <string name="failed_to_open_app_settings_toast">Odpiranje nastavitev za aplikacijo %1$s ni uspela</string>
   <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
   <string name="force_allow_on_external_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsako aplikacijo zapisati v zunanjo shrambo</string>
   <string name="force_hw_ui">Vsili upodabljanje z GPE-jem</string>
@@ -219,16 +253,20 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="force_resizable_activities_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsem aktivnostim povečati velikost za način z več okni.</string>
   <string name="force_rtl_layout_all_locales">Vsili od desne proti levi</string>
   <string name="force_rtl_layout_all_locales_summary">Vsili smer postavitve na zaslonu od desne proti levi za vse jezike</string>
+  <string name="generic_error_dlg_text">Odstranitev aplikacije ni uspela.</string>
+  <string name="generic_error_dlg_title">Napaka</string>
   <string name="grant_confirm_question">Ali želite odobriti naslednja dovoljenja? S tem bo omogočen dostop do:</string>
   <string name="grant_dialog_button_allow">Dovoli</string>
   <string name="grant_dialog_button_deny">Zavrni</string>
   <string name="grant_dialog_button_deny_anyway">Vseeno zavrni</string>
+  <string name="grant_dialog_button_more_info">Več informacij</string>
   <string name="hdcp_checking_dialog_title">Nastavi preverjanje HDCP.</string>
   <string name="hdcp_checking_title">Preverjanje HDCP</string>
   <string name="help_app_permissions"/>
   <string name="help_feedback_label">Pomoč in povratne informacije</string>
   <string name="high_risk_perms">Dovoljenje visokega tveganja</string>
   <string name="home">Začetna stran nastavitev</string>
+  <string name="ime_security_warning">Ta način vnosa lahko zbira ves tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. To omogoča aplikacija %1$s. Uporabim ta način vnosa?</string>
   <string name="immediately_destroy_activities">Ne obdrži dejavnosti</string>
   <string name="immediately_destroy_activities_summary">Uniči vsako dejavnost, ko uporabnik preneha z njo</string>
   <string name="inactive_app_active_summary">Aktivno. Dotaknite se za preklop.</string>
@@ -256,7 +294,9 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="install_failed_verify_failed">Paket ni opravil preverjanja in ga ni mogoče namestiti.</string>
   <string name="install_failed_verify_timeout">Potekel je čas pri preverjanju tega paketa. Poskusite ga namestiti ponovno pozneje.</string>
   <string name="install_from_appstore_hint">Priporočamo vam da instalirate aplikacijo iz App Store</string>
+  <string name="install_other_apps">Namestitev neznanih aplikacij</string>
   <string name="installing">Nameščanje...</string>
+  <string name="installing_app">Nameščanje paketa %1$s…</string>
   <string name="keep_screen_on">Brez zaklepanja</string>
   <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli zaklenil</string>
   <string name="launch">Odpri</string>
@@ -267,6 +307,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="lb_date_separator">/</string>
   <string name="lb_guidedaction_continue_title">Nadaljuj</string>
   <string name="lb_guidedaction_finish_title">Končano</string>
+  <string name="lb_media_player_error">Koda napake MediaPlayera: %1$d, dodatno %2$d</string>
   <string name="lb_navigation_menu_contentDescription">Meni za krmarjenje</string>
   <string name="lb_onboarding_accessibility_next">Dalje</string>
   <string name="lb_onboarding_get_started">ZAČNITE</string>
@@ -274,6 +315,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="lb_playback_controls_closed_captioning_enable">Omogoči podnapise</string>
   <string name="lb_playback_controls_fast_forward">Previj naprej</string>
   <string name="lb_playback_controls_fast_forward_multiplier">Hitro previjanje naprej – %1$d-kratno</string>
+  <string name="lb_playback_controls_hidden">Medijske kontrole so skrite, pritisnite D-pad za prikaz</string>
   <string name="lb_playback_controls_high_quality_disable">Onemogoči visoko kakovost</string>
   <string name="lb_playback_controls_high_quality_enable">Omogoči visoko kakovost</string>
   <string name="lb_playback_controls_more_actions">Več dejanj</string>
@@ -285,6 +327,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="lb_playback_controls_repeat_one">Ponovi eno</string>
   <string name="lb_playback_controls_rewind">Previj nazaj</string>
   <string name="lb_playback_controls_rewind_multiplier">Previjanje nazaj – %1$d-kratno</string>
+  <string name="lb_playback_controls_shown">Medijske kontrole prikazane</string>
   <string name="lb_playback_controls_shuffle_disable">Onemogoči naključno predvajanje</string>
   <string name="lb_playback_controls_shuffle_enable">Omogoči naključno predvajanje</string>
   <string name="lb_playback_controls_skip_next">Preskoči naslednje</string>
@@ -423,6 +466,9 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="permission_review_title_template_install">Izberite kaj dovoliti %1$s za dostop</string>
   <string name="permission_review_title_template_update">%1$s je posodobljen. Izberite dovoljenja za dostop.</string>
   <string name="permission_review_warning_title_template_update">%1$s je posodobljen. Dovolite %1$s da ima dostop do?</string>
+  <string name="permission_revoked_all">vse onemogočeno</string>
+  <string name="permission_revoked_count">Onemogočeno: %1$d</string>
+  <string name="permission_revoked_none">nič ni onemogočeno</string>
   <string name="permission_send_sms_descx">Aplikacija lahko pošilja SMS in MMS</string>
   <string name="permission_summary_enforced_by_policy">Uveljavlja pravilnik</string>
   <string name="permission_title">Dovoljenja za: %1$s</string>
@@ -438,6 +484,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti prek brezž. pol</string>
   <string name="power_discharging_duration">%1$s – še približno %2$s</string>
   <string name="power_discharging_duration_short">%1$s – še %2$s</string>
+  <string name="power_remaining_charging_duration_only">Še %1$s do popolne napolnjenosti</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
   <string name="privacyPerms">Zasebnost</string>
@@ -446,6 +493,9 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="reboot_time">Pripravlja se ponovni zagon…(%1$s)</string>
   <string name="remaining_length_format">Še %1$s</string>
   <string name="remove">Odstrani</string>
+  <string name="retail_demo_reset_message">Vnesite geslo za resetiranje v demo načinu</string>
+  <string name="retail_demo_reset_next">Naprej</string>
+  <string name="retail_demo_reset_title">Potrebno je geslo</string>
   <string name="review_button_cancel">Prekini</string>
   <string name="review_button_continue">Nadaljuj</string>
   <string name="running_process_item_user_label">Uporabnik: %1$s</string>
@@ -463,6 +513,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="screen_zoom_summary_large">Veliko</string>
   <string name="screen_zoom_summary_small">Malo</string>
   <string name="screen_zoom_summary_very_large">Večje</string>
+  <string name="search_menu_title">Išči</string>
   <string name="security_settings_desc">Dovoli da ta aplikacija:</string>
   <string name="select_application">Izberite aplikacijo</string>
   <string name="select_logd_size_dialog_title">Izberite velikost medpomnilnika dnevnika</string>
@@ -484,6 +535,8 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="show_hw_screen_updates">Pokaži posod. pogleda GPE</string>
   <string name="show_hw_screen_updates_summary">Osvetli poglede v oknih pri risanju z GPE</string>
   <string name="show_non_rect_clip">Odpr. težav s postopki nepravokotnega izrezovanja</string>
+  <string name="show_notification_channel_warnings">Prikaži opozorila kanala obvestil</string>
+  <string name="show_notification_channel_warnings_summary">Prikazuje opozorilo na zaslonu ko aplikacija objavi obvestilo brez veljavnega kanala</string>
   <string name="show_screen_updates">Pokaži posodob. površine</string>
   <string name="show_screen_updates_summary">Ob posodobitvi osvetli celotne površine oken.</string>
   <string name="show_touches">Prikaz dotikov</string>
@@ -493,6 +546,8 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="strict_mode">Strog način je omogočen</string>
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti.</string>
   <string name="system_warning">Če zavrnete to dovoljenje osnovne funkcije naprave morda ne bodo več delovale kot bi morale.</string>
+  <string name="telephony_monitor_switch">TelephonyMonitor</string>
+  <string name="telephony_monitor_switch_summary">TelephonyMonitor bo zbiral zapisnike ko odkrije težavo z delovanjem telefona/modema in obvesti uporabnika da prijavi programsko napako</string>
   <string name="tether_settings_title_all">Modem/prenosna dost. točka</string>
   <string name="tether_settings_title_bluetooth">Splet prek Bluetootha</string>
   <string name="tether_settings_title_usb">Splet prek USB-ja</string>
@@ -541,23 +596,33 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="uninstall_blocked_profile_owner">Ta aplikacija je potrebna za delovni profil in je ni mogoče odstraniti.</string>
   <string name="uninstall_confirm_question">Odstranim to aplikacijo?</string>
   <string name="uninstall_done">Aplikacija je odstranjena</string>
+  <string name="uninstall_done_app">Aplikacija %1$s odstranjena</string>
   <string name="uninstall_failed">Ne morem odstraniti te aplikacije</string>
+  <string name="uninstall_failed_app">Odstranitev aplikacije %1$s ni uspela.</string>
   <string name="uninstall_failed_device_policy_manager">Ni mogoče odstraniti paketa, ker je aktivni skrbnik naprave.</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Tega paketa ni mogoče odstraniti, ker je aktivni skrbnik naprav za uporabnika %1$s.</string>
   <string name="uninstall_failed_msg">%1$s ni mogoče odstraniti</string>
   <string name="uninstall_failed_retained_app_msg">Ta aplikacija je bila spremenjena in je ni mogoče odstraniti v sedanji obliki.</string>
+  <string name="uninstall_failure_notification_channel">Neuspela odstranitev</string>
   <string name="uninstall_update_text">Aplikacija bo nadomeščena z originalno verzijo.</string>
   <string name="uninstall_update_text_multiuser">Zamenjam to aplikacijo z originalno verzijo? Vsi podatki bodo odstranjeni. To bo vpljivalo na vse uporabnike te naprave, vključno z delovnimi profili.</string>
   <string name="uninstall_update_title">Odstranim to posodobitev?</string>
   <string name="uninstalling">Odstranjujem...</string>
+  <string name="uninstalling_app">Odstranjevanje aplikacije %1$s…</string>
+  <string name="uninstalling_notification_channel">Odstranitve v teku</string>
   <string name="unknown">Neznano</string>
   <string name="unknown_apps_admin_dlg_text">Vaš skrbnik ne dovoli nameščanje aplikacij iz neznanih virov.</string>
   <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako da blokira namestitve aplikacij iz neznanih virov. Lahko pa to funkcijo izklopite v Nastavitve&gt; Varnost&gt; Neznani viri.</string>
   <string name="unknown_apps_dlg_title">Namestitev je blokirana</string>
+  <string name="unknown_apps_user_restriction_dlg_text">Ta uporabnik ne more nameščati neznane aplikacije</string>
   <string name="unknown_installer">Neznana PC orodja</string>
+  <string name="untrusted_external_source_warning">Iz varnostnih razlogov telefon nima dovoljenje za nameščanje neznanih aplikacij iz tega vira.</string>
   <string name="usb_audio_disable_routing">Onemogoči USB audio usm.</string>
   <string name="usb_audio_disable_routing_summary">Onemogoči sam. usmerjanje na USB audio periferijo</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemske jezike</string>
   <string name="user_guest">Gost</string>
+  <string name="user_is_not_allowed_dlg_text">Trenutni uporabnik nima dovoljenja za to odstranitev.</string>
+  <string name="user_is_not_allowed_dlg_title">Ni dovoljeno</string>
   <string name="v7_preference_off">Izkl.</string>
   <string name="v7_preference_on">Vklj.</string>
   <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene prek ADB/ADT, škodljive.</string>
@@ -571,6 +636,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="wait_for_debugger">Počakajte na iskalnik napak</string>
   <string name="wait_for_debugger_summary">Aplikacija, v kateri iščete napako, pred izvajanjem čaka na povezavo z iskalnikom napak</string>
   <string name="waiting_tip">To lahko traja nekaj časa, a se splača...</string>
+  <string name="wear_app_channel">Namestitev/odstranitev Wear apl.</string>
   <string name="wear_not_allowed_dlg_text">Nam./odstr. opravil ni dovoljeno na Wear-u.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
   <string name="wifi_aggressive_handover">Aktivni prehod iz WiFi na mob. omrežje</string>
@@ -578,6 +644,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="wifi_allow_scan_with_traffic">Vedno dovoli prosto iskanje WiFi omrežja</string>
   <string name="wifi_allow_scan_with_traffic_summary">Dovolite ali blokirajte prosto iskanje WiFi omrežij na podlagi količine podatkovnega prometa na vmesniku.</string>
   <string name="wifi_connected_no_internet">Povezano, brez spleta</string>
+  <string name="wifi_disabled_by_recommendation_provider">Niste povezani ker je omrežje slabe kakovosti</string>
   <string name="wifi_disabled_generic">Onemogočeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a ni uspjela</string>
   <string name="wifi_disabled_password_failure">Težava pri prijavi</string>

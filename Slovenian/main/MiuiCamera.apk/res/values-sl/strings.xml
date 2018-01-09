@@ -27,6 +27,7 @@
   <string name="audio_focus_exit_button_text">Izključi</string>
   <string name="beauty_fragment_tab_name_beauty">Olepšaj</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>
+  <string name="bokeh_use_hint">Globinski efekt</string>
   <string name="burst_shoot_exit_button_text">Izključi</string>
   <string name="button_fisheye_camera_title">Ribje oko</string>
   <string name="button_front_camera_title">Napravi selfie</string>
@@ -203,6 +204,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_beautify_entry_high">Visoko</string>
   <string name="pref_camera_beautify_entry_low">Nizko</string>
   <string name="pref_camera_beautify_entry_normal">Srednje</string>
+  <string name="pref_camera_bokeh_title">Portret</string>
   <string name="pref_camera_coloreffect_entry_big_face">Širjenje</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Ribje oko</string>
@@ -269,6 +271,8 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_focusmode_entry_manual">Ročno</string>
   <string name="pref_camera_focusmode_entry_normal">Standardno</string>
   <string name="pref_camera_focusmode_title">Fokusni način</string>
+  <string name="pref_camera_front_bokeh_entry_off">Izključeno</string>
+  <string name="pref_camera_front_bokeh_entry_on">Vključeno</string>
   <string name="pref_camera_gradienter_title">Izravnaj</string>
   <string name="pref_camera_groupshot_mode_title">Skupinski selfie</string>
   <string name="pref_camera_hand_night_title">HHT</string>
@@ -312,6 +316,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_multilevel_entry_middle">Srednje (privzeto)</string>
   <string name="pref_camera_multilevel_entry_normal">Normalno</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
+  <string name="pref_camera_parallel_process_enable_title">Omogoči vzporedni proces slike</string>
   <string name="pref_camera_peak_entry_off">Izključeno</string>
   <string name="pref_camera_peak_entry_on">Vključeno</string>
   <string name="pref_camera_peak_title">Peaking Focus</string>

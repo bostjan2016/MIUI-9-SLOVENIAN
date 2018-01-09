@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="0">Uporabite geste da skrijete/prikažete tipke zaslona.</string>
   <string name="accessibility_action_divider_bottom_full">Spodaj cel zaslon</string>
   <string name="accessibility_action_divider_left_30">Levo 30%</string>
   <string name="accessibility_action_divider_left_50">Levo 50%</string>
@@ -111,7 +112,8 @@
   <string name="battery_info_status_charging">Polnjenje</string>
   <string name="battery_info_status_charging_ac">Polnjenje s polnilcem</string>
   <string name="battery_info_status_charging_ac_short">Polnjenje</string>
-  <string name="battery_info_status_charging_usb">Polnjenje preko USB</string>
+  <string name="battery_info_status_charging_lower">polnjenje</string>
+  <string name="battery_info_status_charging_usb">Polnjenje preko USB-a</string>
   <string name="battery_info_status_charging_usb_short">Polnjenje</string>
   <string name="battery_info_status_charging_wireless">Brežično polnjenje</string>
   <string name="battery_info_status_charging_wireless_short">Polnjenje</string>
@@ -493,6 +495,7 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="nav_guide_message">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
   <string name="0">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
   <string name="nav_guide_title">Skrij tipke zaslona</string>
+  <string name="no_application">Nič</string>
   <string name="no_multi_window_app">Ni aplikacij ki lahko delujejo v načinu deljenega zaslona</string>
   <string name="no_notification_tips">Ni obvestil</string>
   <string name="no_weather_description">Pridobivanje podatkov o vremenu &gt;</string>
