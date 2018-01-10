@@ -350,6 +350,7 @@ Vizitke stikov so izključene"</string>
   <string name="description_minus_button">Minus</string>
   <string name="description_plus_button">plus</string>
   <string name="description_quick_contact_for">Hitri stik za %1$s</string>
+  <string name="description_quick_dial_button">Hitro izbiranje</string>
   <string name="description_search_button">Išči</string>
   <string name="description_send_message">Pošlji sporočilo stiku %1$s</string>
   <string name="description_send_text_message">Pošiljanje SMS sporočila: %1$s</string>
@@ -1045,6 +1046,12 @@ Napravite varnostno kopijo stikov."</string>
   <string name="pull_to_refresh_release_label">Spustite za osvežitev…</string>
   <string name="qr_card_card">Moja QR koda</string>
   <string name="qrcode_card_title">QR koda</string>
+  <string name="quick_dial_setting_delete_dialog_message">Izbrišem izbrano številko za hitro klicanje?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Izbriši</string>
+  <string name="quick_dial_setting_hint">Za dodajanje ali brisanje hitrega klicanja pritisnite tipko. Za klicanje pritisnite in držite tipko z izbrano številko za klicanje.</string>
+  <string name="quick_dial_setting_set_dialog_message">Dodam številko za hitro klicanje tej tipki?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Da</string>
+  <string name="quick_dial_setting_title">Hitro klicanje</string>
   <string name="qrcode_detail_menu_edit">Uredi QR kodo</string>
   <string name="qrcode_detail_menu_scan">Skeniraj</string>
   <string name="qrcode_editor_flash">QR koda posodobljena</string>
@@ -1127,6 +1134,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="search_key_rebuild_t9_index_title">Organiziraj;Stiki;t9</string>
   <string name="search_key_sim_manage">Organiziraj;Stiki</string>
   <string name="search_preference_contacts_filter">Stiki;Prikaz</string>
+  <string name="search_quick_dial_setting">Stiki</string>
   <string name="search_remove_duplicate">Organiziraj;Stiki</string>
   <string name="search_results_searching">Iščem…</string>
   <string name="search_settings_description">Imena vaših stikov</string>

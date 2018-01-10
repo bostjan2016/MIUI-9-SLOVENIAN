@@ -228,7 +228,7 @@
   <string name="battery_info_status_charging">Polnjenje</string>
   <string name="battery_info_status_charging_ac">Polnjenje preko polnilca</string>
   <string name="battery_info_status_charging_ac_short">Polnjenje</string>
-  <string name="battery_info_status_charging_usb">Polnjenje preko USB-a</string>
+  <string name="battery_info_status_charging_lower">polnjenje</string>
   <string name="battery_info_status_charging_usb">Polnjenje preko USB-a</string>
   <string name="battery_info_status_charging_usb_short">Polnjenje</string>
   <string name="battery_info_status_charging_wireless">Brezžično polnjenje</string>
@@ -1662,6 +1662,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="puk_unlock_failed">Neuspešno odklepanje PUK</string>
   <string name="puk_unlock_success">Uspešno odklepanje PUK</string>
   <string name="puk_unlocked">Vaša SIM kartica je bila odblokirana. Vaš telefon se odklepa...</string>
+  <string name="quick_dial_setting_title">Hitro izbiranje</string>
   <string name="purchase">Kupi</string>
   <string name="purchase_confirm">Kupi</string>
   <string name="purchase_description_summary">"- Kliči kogarkoli na svetu, ni omejitev ponudnika.- Ni v nasprotju s trenutnim načrtom.- Top up in začnite klicati.- Ni zapletenih nastavitev."</string>
@@ -1845,7 +1846,6 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="simFdnContacts_empty">Ni stikov za fiksno izbiranje.</string>
   <string name="sim_absent">Ni</string>
   <string name="sim_accounts">SIM računi</string>
-  <string name="sim_absent">Ni</string>
   <string name="sim_activated">Preverjeno</string>
   <string name="sim_card_activate">Preverjanje SIM kartice</string>
   <string name="sim_card_num">SIM %s</string>

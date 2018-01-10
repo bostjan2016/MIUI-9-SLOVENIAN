@@ -1227,7 +1227,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_button_usage_adjusting_bill">Sprememba…</string>
   <string name="main_button_usage_package_setting">Nastavite omejitev porabe podatkov</string>
   <string name="main_daily_package">Dnevna omejitev podatkov</string>
-  <string name="main_indicator_title">Čakanje na aktivacijo</string>
+  <string name="main_indicator_title">Aktivacija</string>
   <string name="main_leisure_remained">Preostalo podatkov</string>
   <string name="main_month_total_used">Porabljeno ta mesec</string>
   <string name="main_month_used">Mob. podatki</string>

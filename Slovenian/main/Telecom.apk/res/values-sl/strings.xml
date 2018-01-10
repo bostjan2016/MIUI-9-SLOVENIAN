@@ -250,11 +250,11 @@ hitrost vzorčenja"</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
   <string name="lch_dtmf_key">D</string>
   <string name="legacy_dhcp_client_summary">Uporabljate DHCP klijent iz Lollipopa namesto novega Android DHCP klijenta.</string>
-  <string name="local_backup_password_summary_none">Popolne varnostne kopije namizja trenutno niso zaščitene</string>
-  <string name="local_backup_password_title">Geslo za varn. kop. rač.</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Novo geslo in potrditev se ne ujemata.</string>
-  <string name="local_backup_password_toast_success">Novo geslo je nastavljeno</string>
-  <string name="local_backup_password_toast_validation_failure">Nastavitev gesla ni uspela</string>
+  <string name="local_backup_password_summary_change">Pritisnite za zamenjavo ali odstranitevgesla za popolne varnostne kopije na računalniku</string>
+  <string name="local_backup_password_summary_none">Popolne varnostne kopije na namiznem računalniku trenutno niso zaščitene</string>
+  <string name="local_backup_password_title">Geslo varnostne kopije</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Novo geslo in potrdilo nista pravilna</string>
+  <string name="local_backup_password_toast_success">Novo geslo za varnostno kopijo je nastavljeno</string>
   <string name="local_backup_password_toast_validation_failure">Nastavitev gesla za var. kopijo ni uspela</string>
   <string name="managed_user_title">Vse radne aplikacije</string>
   <string name="media_category">Predstavnosti</string>

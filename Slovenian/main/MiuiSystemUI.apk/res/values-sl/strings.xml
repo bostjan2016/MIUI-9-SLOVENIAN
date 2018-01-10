@@ -354,7 +354,7 @@ hitrost vzorčenja"</string>
   <string name="fs_gesture_back_ready_title">Kako se vrniti na zadnjo stran?</string>
   <string name="fs_gesture_final_over">Končano</string>
   <string name="fs_gesture_final_restart">Nauči ponovno</string>
-  <string name="fs_gesture_final_summary">Lahko nastavite v [Nastavitve-Ves zaslon]</string>
+  <string name="fs_gesture_final_summary">Lahko spremenite tipko"Pojdi nazaj"v Nastavitve &gt; Ves zaslon</string>
   <string name="fs_gesture_final_title">Učenje končano</string>
   <string name="fs_gesture_finish">Lepo!</string>
   <string name="fs_gesture_left_back_ready_summary">Povleči levo od zaslona</string>
@@ -493,7 +493,7 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="mount_storage">"Da"</string>
   <string name="nav_guide_cancel">Ignoriraj</string>
   <string name="nav_guide_message">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
-  <string name="0">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
+  <string name="nav_guide_ok">Nastavitev</string>
   <string name="nav_guide_title">Skrij tipke zaslona</string>
   <string name="no_application">Nič</string>
   <string name="no_multi_window_app">Ni aplikacij ki lahko delujejo v načinu deljenega zaslona</string>
