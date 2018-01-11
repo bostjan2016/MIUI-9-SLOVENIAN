@@ -46,6 +46,10 @@
   <string name="authorize_detail">Blokirano %d aplik.</string>
   <string name="auto_clean_switch_off">Izključi</string>
   <string name="auto_clean_switch_on">Vključi</string>
+  <string name="auto_clean_time_every_day">Vsak dan</string>
+  <string name="auto_clean_time_fifteen_day">Vsakih 15 dni</string>
+  <string name="auto_clean_time_seven_day">Vsakih 7 dni</string>
+  <string name="auto_clean_time_three_day">Vsake 3 dni</string>
   <string name="auto_cleaner_open">Vključi</string>
   <string name="back">Nazaj</string>
   <string name="browser_scan_history_desc">Zgodovina brskalnika</string>

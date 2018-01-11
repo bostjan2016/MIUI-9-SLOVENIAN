@@ -243,10 +243,12 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_manage_space">Urejaj prostor</string>
   <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Izbriši podatke</string>
+  <string name="app_manager_mobile_slot1">Mobilni podatki (SIM 1)</string>
+  <string name="app_manager_mobile_slot2">Mobilni podatki (SIM 2)</string>
   <string name="app_manager_more_times">Dostopano 100000+ krat</string>
   <string name="app_manager_my_app">Moje apliakcije</string>
   <string name="app_manager_net_control_title">Omeji uporabo podatkov</string>
-  <string name="app_manager_net_mobile">Podatki</string>
+  <string name="app_manager_net_mobile">Mobilni podatki</string>
   <string name="app_manager_net_wifi">WiFi</string>
   <string name="app_manager_not_allow">Ne</string>
   <string name="app_manager_not_support_uninstall">"Te aplikacije ne morem odstraniti"</string>
