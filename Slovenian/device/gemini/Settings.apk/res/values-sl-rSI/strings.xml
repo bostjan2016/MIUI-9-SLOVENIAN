@@ -3717,7 +3717,6 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="settings_license_activity_unavailable">Pri nalaganju licenc je prišlo do težave.</string>
   <string name="settings_manual_activity_title">Priročnik</string>
   <string name="settings_manual_activity_unavailable">Težava pri nalaganju priročnika.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">Nalaganje …</string>
   <string name="settings_safetylegal_activity_title">Informacije o varnosti</string>
   <string name="settings_safetylegal_activity_unreachable">Nimate podatkovne povezave. Če si želite te podatke ogledati zdaj odprite %s iz katerega koli računalnika s spletno povezavo.</string>

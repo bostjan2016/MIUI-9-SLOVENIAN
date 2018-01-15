@@ -92,7 +92,7 @@
   <string name="confirm_export_dialog_description">Prejšnji pogovori s tem stikom ne bodo več skriti.</string>
   <string name="confirm_export_dialog_title">Odstrani iz zasebnih stikov</string>
   <string name="confirm_no_block_positive">"Ne blokiraj in vrni"</string>
-  <string name="confirm_no_block_title">"Deblokiram to številko in obnovim vsa sporočila poslana s te številke?\n(Številka bo dodana na seznam dovoljenih obvestil)"</string>
+  <string name="confirm_no_block_title">"Deblokiram to številko in obnovim vsa sporočila poslana s te številke?\n(Številka bo dodana v izjeme)"</string>
   <string name="confirm_rate_limit">Veliko število multimedijskih sporočil je v pošiljanju.</string>
   <string name="confirm_restore_all_title">Vrnem vsa sporočila poslana iz te številke?</string>
   <string name="confirm_restore_checkbox">Vrni izbrana sporočila</string>

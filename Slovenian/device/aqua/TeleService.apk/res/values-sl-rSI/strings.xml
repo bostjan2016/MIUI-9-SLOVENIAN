@@ -436,7 +436,6 @@
   <string name="cell_broadcast_sms">SMS iz mobilnega omrežja</string>
   <string name="cellular_only">Samo omrežje</string>
   <string name="cellular_preferred">Prednostno omrežje</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="cf_mobile_date">Prosim vključite mobilne podatke in izključite WiFi</string>
   <string name="cf_setting_mobile_data_alert">Please turn on mobile data and make sure that WLAN is off</string>
   <string name="cf_setting_mobile_data_roaming_alert">Please turn on data roaming</string>
@@ -1668,7 +1667,6 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="setting_duration_other_prompt">"Za mednarodne cene klicev preverite "</string>
   <string name="setting_duration_title">Preostali čas</string>
   <string name="settings_label">Omrežne nastavitve</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">Pokaži okna neodzivanj</string>
   <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
   <string name="show_cpu_usage">Show CPU usage</string>

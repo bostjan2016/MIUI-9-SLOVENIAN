@@ -79,6 +79,8 @@ Morate se strinjati s Pogoji nudenja storitve in Pravili o zasebnosti predno lah
   <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kodo</string>
   <string name="user_agreement">Pogoji uporabe</string>
+  <string name="voice_assist_desp">Recite \"Mi AI\" v svoj telefon. Mi AI bo prepoznal vaš glas in lahko kontroliral vašo napravo.</string>
+  <string name="voice_assist_title">Zbudi z glasom</string>
   <string name="user_strayed_warning">Ta stran je oblikovana za tovarniško preverjanje, pritisnite tipko nazaj za izhod.</string>
   <string name="welcome">Dobrodošli</string>
 </resources>

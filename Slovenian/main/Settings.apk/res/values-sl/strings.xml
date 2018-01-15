@@ -2293,7 +2293,7 @@ Ko vklju훾ite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_secure_after_timeout_title">Potrebno je geslo</string>
   <string name="lock_screen_signature_summary">Sporo훾ilo bo prikazano na zakl. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o lastniku na zakl. zaslonu</string>
-  <string name="lock_screen_unlock_show">Presko훾i akl. zaslon</string>
+  <string name="lock_screen_unlock_show">Presko훾i zakl. zaslona</string>
   <string name="lock_screen_unlock_show_summary">Odpri za훾etni zaslon ali neposreden vnos gesla</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Tapni za spremembo</string>
   <string name="lock_settings">Zakl. zaslon &amp; geslo</string>

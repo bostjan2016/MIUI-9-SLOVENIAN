@@ -167,7 +167,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_battery_low_notification_message">Priključite polnilec za sinhr.</string>
   <string name="micloud_battery_low_notification_title">Slaba baterija</string>
   <string name="micloud_buy_member">Kupite Mi Cloud članstvo</string>
-  <string name="micloud_buy_member_safe">Kupite Mi Cloud članstvo</string>
+  <string name="micloud_buy_member_safe">Dobite več Mi Cloud prostora</string>
   <string name="micloud_check_sim_notify_text">"Kaže da ste zamenjali SIM kartico. Vpišite se 
   v Mi račun za aktivacijo Mi Cloud-a."</string>
   <string name="micloud_check_sim_notify_title">Reaktiviraj Mi račun</string>
@@ -299,11 +299,11 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_error_activated_fail">Aktivirajte SIM kartico.</string>
   <string name="micloud_main_error_network_disallowed">Preverite če ste dovolili dostop do spleta.</string>
   <string name="micloud_main_error_permission_limit">Omogočite Mi Cloudu dostop do shrambe.</string>
-  <string name="micloud_main_head_menu_cloud_backup">Mi Cloud var. kopija</string>
-  <string name="micloud_main_head_menu_recycle_bin_summary">Ponovno napravi var. kopijo stikov, fotografij</string>
-  <string name="micloud_main_head_menu_recycle_bin_title">Koš za smeti</string>
-  <string name="micloud_main_head_menu_state_close">Zaprto</string>
-  <string name="micloud_main_head_menu_state_open">Odprto</string>
+  <string name="micloud_main_head_menu_cloud_backup">Var. kopija zač. zaslona</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Vrni izbrisane stvari</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Izbrisane stvari</string>
+  <string name="micloud_main_head_menu_state_close">Izključeno</string>
+  <string name="micloud_main_head_menu_state_open">Vključeno</string>
   <string name="micloud_main_head_menu_state_unavailable">Nedostopno</string>
   <string name="micloud_main_last_sync_time">Zadnja sinhr. %s</string>
   <string name="micloud_main_master_sync_on">Sinkr. vklj.</string>
