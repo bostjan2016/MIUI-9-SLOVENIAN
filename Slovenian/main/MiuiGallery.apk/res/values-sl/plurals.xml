@@ -244,6 +244,18 @@
          <item quantity="other">%d fotografij ali videoposnetkov | Zaustavljeno</item>
          <item quantity="one">%d fotografija ali videoposnetek | Zaustavljen</item>
      </plurals>
+	 <plurals name="slim_complete_photo_count">
+         <item quantity="other">Optimizirano fotografij: %d</item>
+         <item quantity="one">Optimizirana je %d fotografija</item>
+     </plurals>
+     <plurals name="slim_exit_dialog_message">
+         <item quantity="other">"%d fotografij ni optimizirano. Zaustavim?"</item>
+         <item quantity="one">"%d fotografija ni optimizirana. Zaustavim?"</item>
+     </plurals>
+     <plurals name="slim_remain_photo_count">
+         <item quantity="other">ostalo %d fotografij</item>
+         <item quantity="one">ostala %d fotografija</item>
+     </plurals>
      <plurals name="sync_error_title">
          <item quantity="other">Ni shranjeno %d fotografij ali videoposnetkov</item>
          <item quantity="one">Ni shranjena %d fotografija ali videoposnetek</item>

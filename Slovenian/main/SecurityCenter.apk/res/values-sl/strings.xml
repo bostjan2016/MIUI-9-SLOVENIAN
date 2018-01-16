@@ -157,7 +157,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_update_db">%s</string>
   <string name="apn_exception_summary">Test nastavitve APN-jev mobilnega operaterja</string>
   <string name="apn_exception_title">Preverite nastavitve APN-ja</string>
-  <string name="app_bg_restrict_dialog_message">Omejevanje omrežne povezave v ozadju lahko prepreči normalno delovanje aplikacije. Na primer, mogoče ne bo več prejemala obvestil in posodabljala vsebino. Vseeno omejim?</string>
+  <string name="app_bg_restrict_dialog_message">Omejitev povezave v ozadju lahko prepreči normalno delovanje aplikacije.</string>
   <string name="app_check_no_issue">Kaže da ni problemov z baterijo. Super!</string>
   <string name="app_check_optimize_title">Optimiziraj aktivnosti v ozadju</string>
   <string name="app_check_reason_background_cpu">Aktivnost v ozadju CPU-a</string>
@@ -443,10 +443,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="back_app_name">Vrni se na zakl. aplikacije</string>
   <string name="back_description_securitycenter">Nazaj</string>
   <string name="back_modifypassword">Vrni se na menjavo gesla</string>
-  <string name="back_sound_data">Potreben je prenos podatkov, poskusite ponovno!</string>
-  <string name="back_sound_fail">Neuspešno!</string>
-  <string name="back_sound_success">Uspešno!</string>
-  <string name="back_sound_support">"Trenutni omrežni operaterji to ne podpirajo!"</string>
+  <string name="back_sound_data">Vključite mobilne podatke in poskusite znova.</string>
+  <string name="back_sound_fail">"Ne morem nastaviti. Nastavitve operaterja so spremenjene. Nastavite trenutno SIM kartico kot podatkovno kartico, povežite se na omrežje in poskusite ponovno."</string>
+  <string name="back_sound_success">Uspešno nastavljeno</string>
+  <string name="back_sound_support">"Omrežje vašega operaterja ne podpira te storitve"</string>
   <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju tej aplikaciji lahko povzroči težave pri delovanju, sprejemanju obvestil, prenosu vsebin itd. Omejim vseeno?</string>
   <string name="background_traffic">V ozadju %s</string>
   <string name="backsound_set_hint">Nastavim sporočilo \"Sem odsoten\" za %s?</string>
@@ -2145,7 +2145,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sc_allow_network_dialog_message">Ta aplikacija potrebuje povezavo na splet za normalano delo.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te funkcije"</string>
   <string name="sc_system_risk_fix_info_xspace">To se ne može rešiti v Drugem prostoru. Poskusite ponovno v Prvem prostoru.</string>
-  <string name="sc_warning_updater_not_found">Aplikacija Posodobitev ni najdena. Ni mogoče posodobiti!</string>
+  <string name="sc_warning_updater_not_found">"Aplikacija Posodobitev ni najdena."</string>
   <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
   <string name="scan_status_risk">Tvegano</string>
   <string name="scan_status_safe">Varno</string>

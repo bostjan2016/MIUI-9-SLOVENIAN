@@ -4857,6 +4857,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="title_font_current2">Font sistema</string>
   <string name="title_font_size">Velikost pisave</string>
   <string name="title_hdmi_color_calibration">Barvna korekcija nastavljena</string>
+  <string name="title_jeejen">Jeejen začetni zaslon</string>
   <string name="title_layout_current">Izberi velikost pisave</string>
   <string name="title_layout_current2">Velikost teksta</string>
   <string name="title_local_resource">Lokalni viri</string>

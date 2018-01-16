@@ -209,11 +209,11 @@
         <item quantity="one">Odgovori %1$d osebi</item>
     </plurals>
     <plurals name="remote_search_result">
-        <item quantity="other">%s rezultatov na strežniku</item>
-        <item quantity="one">%s rezultat na strežniku</item>
+        <item quantity="other">%s rezultatov na vseh računih</item>
+        <item quantity="one">%s rezultat na vseh računih</item>
     </plurals>
     <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">%1$s neposlano v %2$s</item>
-        <item quantity="one">%1$s neposlano v %2$s</item>
+        <item quantity="other">%1$s neposlanih sporočil v %2$s</item>
+        <item quantity="one">%1$s neposlano sporočilo v %2$s</item>
     </plurals>
 </resources>
