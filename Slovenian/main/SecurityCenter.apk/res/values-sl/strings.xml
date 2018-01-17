@@ -210,7 +210,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_default_open">Odpri v skladu z nastavitvami</string>
   <string name="app_manager_default_open_summary">Aplikacija se je zagnala zaradi nastavitve nekega opravila.</string>
   <string name="app_manager_default_open_title">Izbriši nastavitev</string>
-  <string name="app_manager_defaults_setting">Privzeto</string>
+  <string name="app_manager_defaults_setting">Privzete aplikacije</string>
   <string name="app_manager_details_electric_title">Baterija</string>
   <string name="app_manager_details_storage_title">Prostor za shranjevanje</string>
   <string name="app_manager_details_traffic_title">Uporaba mobilnih podatkov ta mesec</string>
@@ -1010,7 +1010,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gs_game_net_priority">Prioriteta povezave</string>
   <string name="gs_game_net_priority_detail">Omejite hitrost prenosov da boste imeli dovolj prepustnosti za igranje</string>
   <string name="gs_game_performance">Zmogljivost</string>
-  <string name="gs_game_shortcut">Uživajte v večjem doživljanju igranja</string>
+  <string name="gs_game_shortcut">Izboljšajte izkušnje igranja</string>
   <string name="gs_only_self_start_for_list">Omejite procese v ozadju za prihranek baterije za igranje</string>
   <string name="gs_open_game_booster">Pohitritev</string>
   <string name="gs_performance_mode">Način za zmogljivost</string>
@@ -1704,7 +1704,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_btn_analyze">Analiziraj porabo baterije</string>
   <string name="power_cell">Stanje mirovanja</string>
   <string name="power_center_auto_shutdown">Načrtovan čas vklop/izklop</string>
-  <string name="power_center_battery_full">Baterija je napolnjena</string>
+  <string name="power_center_back">Nazaj v Baterija</string>
+  <string name="power_center_battery_full">"Baterija je napolnjena "</string>
   <string name="power_center_charge_time">%1$s do konca polnjenja</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>
   <string name="power_center_consume_time">%1$s preostanka</string>

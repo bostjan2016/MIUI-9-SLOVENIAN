@@ -2996,7 +2996,7 @@ Na tej napravi je več uporabnikov.
   <string name="only_one_home_message">Nastavitve za začetno stran bodo skrite dokler ne namestite druge aplikacije za začetno stran.</string>
   <string name="only_when_charging">Šele ko je priključen na električno omrežje</string>
   <string name="onscreen_keyboard_settings_summary">Nastavitve zaslonske tipkovnice</string>
-  <string name="open_demo_mode">Odpri</string>
+  <string name="open_demo_mode">Vključi</string>
   <string name="open_demo_mode_warning_message">Ko je Demo način vključen se bo ura v vrstici stanja ustavila, baterija in ikone signala bodo prikazane kot polne. Lahko izključite Demo način ali ponovno zaženete napravo da spremenite.</string>
   <string name="open_anr_debug">Vključi ANR odpravljanje napak</string>
   <string name="open_miui_optimization_title">Vključi MIUI optimizacijo</string>
@@ -4465,7 +4465,7 @@ Morda je koda PIN napačna."</string>
   <string name="spellchecker_security_warning">Ta pregledovalnik črkovanja bo morda lahko zbral vse besedilo ki ga vnesete, vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. Pregledovalnik je iz aplikacije %1$s. Ga želite uporabiti?</string>
   <string name="spellchecker_switch_title">Vključi Kontrolo pravopisa</string>
   <string name="spellcheckers_settings_title">Črkovalnik</string>
-  <string name="split_screen">Vstop v deljeni zaslon</string>
+  <string name="split_screen">Odpri deljeni zaslon</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Nadzor omrežja</string>
   <string name="ssl_ca_cert_info_message">S to napravo upravlja:
@@ -5496,6 +5496,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifi_calling_suggestion_title">Vključite WiFi klice</string>
   <string name="wifi_cancel">Prekliči</string>
   <string name="wifi_certificate">Certifikat</string>
+  <string name="wifi_click_login_wlan">Zahteva prijavo/avtorizacijo</string>
   <string name="wifi_click_share_wlan">Dotaknite se za skupno rabo gesla</string>
   <string name="wifi_config_info">WiFi konfiguracija</string>
   <string name="wifi_configure_titlebar">Nastavi WiFi</string>

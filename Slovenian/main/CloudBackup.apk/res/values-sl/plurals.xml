@@ -5,11 +5,11 @@
          <item quantity="one">Napravi var. kopijo vsak dan</item>
      </plurals>
      <plurals name="cloud_backup_detail_manage_summary">
-         <item quantity="other">Var. kopije %1$s, velikost:%2$s</item>
-         <item quantity="one">Var. kopija %1$s, velikost:%2$s</item>
+         <item quantity="other">Var. kopije %1$s (%2$s)</item>
+         <item quantity="one">Var. kopija %1$s (%2$s)</item>
      </plurals>
    <plurals name="restoring_file_tile">
-       <item quantity="other">Obnovitev datotek %d</item>
+       <item quantity="other">Obnovitev datotek: %d</item>
        <item quantity="one">Obnovitev %d datoteke</item>
    </plurals>
 </resources>

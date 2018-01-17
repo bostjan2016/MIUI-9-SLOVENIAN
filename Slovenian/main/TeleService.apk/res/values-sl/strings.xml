@@ -1194,8 +1194,8 @@ za uporabo top-up package"</string>
   <string name="missed_call_notify_times_title">Opomnik zgrešenih klicev</string>
   <string name="missed_call_notify_twice">2 krat</string>
   <string name="miui_network_selection_reset_text">Resetiraj</string>
-  <string name="miui_notification_network_selection_title">SIM ni storitve</string>
-  <string name="miui_notification_network_selection_title_by_sim">SIM %s ni storitve</string>
+  <string name="miui_notification_network_selection_title">SIM: ni storitve</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s: ni storitve</string>
   <string name="mmiCancelled">Koda MMI preklicana</string>
   <string name="mmiStarted">Koda MMI zagnana</string>
   <string name="mo_call_type_title">Vrsta MO Klica</string>

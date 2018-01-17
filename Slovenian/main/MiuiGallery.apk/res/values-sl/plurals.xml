@@ -101,7 +101,7 @@
         <item quantity="one">Izbrišem to fotografijo iz tega albuma in Mi Clouda?</item>
      </plurals>
      <plurals name="delete_video_from_local">
-         <item quantity="other">Izbrišem videoposnetke %d?</item>
+         <item quantity="other">Izbrišem videoposnetke: %d?</item>
          <item quantity="one">Izbrišem ta videoposnetek?</item>
      </plurals>
      <plurals name="delete_video_from_all_devices_and_cloud_msg">
@@ -113,7 +113,7 @@
          <item quantity="one">Izbrišem ta videoposnetek iz tega albuma in Mi Clouda?</item>
      </plurals>
      <plurals name="delete_media_from_local">
-         <item quantity="other">Izbrišem stvari %d?</item>
+         <item quantity="other">Izbrišem stvari: %d?</item>
          <item quantity="one">Izbrišem %d stvar?</item>
       </plurals>
      <plurals name="delete_media_from_all_devices_and_cloud_msg">
@@ -129,7 +129,7 @@
         <item quantity="one">(%d stvar)</item>
     </plurals>
     <plurals name="album_count">
-        <item quantity="other">Fotografij %d</item>
+        <item quantity="other">Fotografij: %d</item>
         <item quantity="one">%d fotografija</item>
 	</plurals>  
     <plurals name="album_count_and_size">

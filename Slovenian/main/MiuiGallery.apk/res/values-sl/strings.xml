@@ -137,7 +137,7 @@
   <string name="baby_album_sharer_recommand_face">Dodati obstoječo fotografijo od %1$s?</string>
   <string name="baby_album_sharers_page_title">Podelite z družino</string>
   <string name="baby_birthday">Rojstni dan</string>
-  <string name="baby_lock_wallpaper">Slika za zakl. zaslon</string>
+  <string name="baby_lock_wallpaper">Slika Zakl. zaslona</string>
   <string name="baby_lock_wallpaper_cancelled">Vrnjeno na privzeto ozadje zakl. zaslona</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Uporabim trenutne nastavitve?</string>
   <string name="baby_lock_wallpaper_title">"Uporabi fotografijo otroka kot ozadje zakl. zaslona"</string>
@@ -320,7 +320,7 @@
   <string name="create_baby_album">Ustvari otroški album</string>
   <string name="create_baby_album_dialog_msg">Ustvarim album za \"%s\"?</string>
   <string name="create_baby_album_later_toast">Ustvarite otroški album kadarkoli v Nastavitvah</string>
-  <string name="create_new_album">Izdelaj nov Album</string>
+  <string name="create_new_album">Izdelaj Album</string>
   <string name="create_new_album_failed">"Ne morem izdelati"</string>
   <string name="create_new_face">Nova oseba</string>
   <string name="create_quick_icon_on_desk">Napravi bližnjico</string>
@@ -690,7 +690,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="more_album_hint">,itd</string>
   <string name="more_face">Več oseb ki so si podobne</string>
   <string name="more_face_album_name">Več oseb</string>
-  <string name="move_to_other_albums_tip">Premestim ta album v albume Ostalo?</string>
+  <string name="move_to_other_albums_tip">Premestim ta album v album Ostalo?</string>
   <string name="must_pick_file">Izberi sliko</string>
   <string name="name_split">, </string>
   <string name="need_to_turn_on_network">"Naprava ni povezana s spletom."</string>
@@ -715,7 +715,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="not_is">Ne</string>
   <string name="not_remind_again">"Ne prikazuj ponovno"</string>
   <string name="not_remind_any_more">"Ne prikaži ponovno"</string>
-  <string name="number_of_uploading_finish">Var. kopija Albuma izdelana samodejno</string>
+  <string name="number_of_uploading_finish">Var. kopija albuma izdelana samodejno</string>
   <string name="ok">V redu</string>
   <string name="old">Staro</string>
   <string name="onekey_auto">Avto</string>
