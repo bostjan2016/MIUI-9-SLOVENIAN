@@ -402,7 +402,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="fragment_title_personal">Osebno</string>
   <string name="fragment_title_recommend">Priporočeno</string>
   <string name="garbage_cleanup">Čistilec</string>
-  <string name="go_to_settings">Nastavitve</string>
+  <string name="go_to_settings">Pojdi v nastavitve</string>
   <string name="group_artist">Skupine</string>
   <string name="handle_later">Ne zdaj</string>
   <string name="hide_album">Skrij ovitek album</string>
@@ -414,7 +414,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="home_tab_online">Otkrijte</string>
   <string name="i_know">V redu</string>
   <string name="i_know_it">V redu</string>
-  <string name="impunity_declaration_content1">"Z dotikom Strinjam se, pristajate na pogoje navedene v našem "</string>
+  <string name="impunity_declaration_content1">"Z dotikom \"Strinjam se\", pristajate na pogoje navedene v našem "</string>
   <string name="impunity_declaration_content2">Uporabniškem sporazumu</string>
   <string name="impunity_declaration_content3">" in "</string>
   <string name="impunity_declaration_content4">Pravilih o zasebnosti</string>
@@ -423,7 +423,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="impunity_declaration_negative_text">Zapri</string>
   <string name="impunity_declaration_positive_text">V redu</string>
   <string name="impunity_declaration_settings">Prikaži pogoje storitev</string>
-  <string name="impunity_declaration_summary">Prikaži pojavno okno za Baidu Online Music Service vsakič ko se aplikacija Glasba odpre</string>
+  <string name="impunity_declaration_summary">Prikaži "Pogoji nudenja storitve" vsakič kadar se zažene aplikacija "Glasba"</string>
   <string name="impunity_declaration_title">Pogoji storitev</string>
   <string name="in_searching_please_wait">Iščem...</string>
   <string name="individuation_recommend_message">Vključite priporočila za prejemanje prilagojenih predlogov na osnovi vaših nastavitev.</string>
@@ -459,7 +459,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="local_music">Izvenmrežno</string>
   <string name="local_music_empty">Lokalni seznam pesmi je prazen</string>
   <string name="local_music_empty_goto_online">Ni najdenih pesmi</string>
-  <string name="local_music_is_not_available">Lokalna glasba ni na voljo</string>
+  <string name="local_music_is_not_available">"Na vaši napravi ni skladb."</string>
   <string name="local_page_album_more">Prikaži vse</string>
   <string name="local_page_artist">Spremljaj izvajalce</string>
   <string name="local_page_artist_more">Več skladb od %s</string>
@@ -600,14 +600,11 @@ predvsem nudi Ultimate Inc.</string>
   <string name="notif_text_engine_off">Xunlei accelerator je izključen.</string>
   <string name="notif_text_engine_on">Pospeševanje prenosa…</string>
   <string name="notif_title_file_size">%1$d skupno</string>
-  <string name="notif_title_multiple_downloading">Prenos: %1$d</string>
   <string name="notif_title_single_downloading">Prenos: %1$s</string>
   <string name="notification_des_next_song">Naslednja pesem: %s</string>
   <string name="notification_des_no_song">Mi Glasba. Vsakodnevno nova glasba.</string>
   <string name="notification_download_complete">Prenos je končan.</string>
   <string name="notification_download_failed">Prenos ni uspel.</string>
-  <string name="notification_download_failed_more">"Ne morem prenesti skladbe %1$d"</string>
-  <string name="notification_download_success_more">%1$d prenešeno</string>
   <string name="notification_favorite_summary">Dobivajte obvestila o novih izdajah in najnovejših hitih</string>
   <string name="notification_favorite_title">Ovestilo o priljubljenih izvajalcih</string>
   <string name="notification_headset_custom">Zavrzi</string>
@@ -647,8 +644,8 @@ predvsem nudi Ultimate Inc.</string>
   <string name="open_download">Odpri</string>
   <string name="open_online_service">Vključiti morate uslugo online glasbe, jo vključim?</string>
   <string name="open_service">Vključi</string>
-  <string name="optimize_all_until_optimized">Optimiziraj informacije o skladbi, albumu in tekstu</string>
-  <string name="optimize_all_until_scanned">Skeniranje lokalnih skladb, poskusite kasneje</string>
+  <string name="optimize_all_until_optimized">Uporaba novih naslovov in teksta…</string>
+  <string name="optimize_all_until_scanned">Počakajte dokler aplikacija ne zaključi iskanje skladb na vaši napravi</string>
   <string name="order_pending">Čakanje potrditve</string>
   <string name="order_process_fail">Vaš račun ni mogel biti odobren. Počakajte nekaj minut in poskusite znova.</string>
   <string name="other_filter">Ostalo</string>
@@ -684,7 +681,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Seznam pesmi</string>
   <string name="playlist_type_recommend">Poudarjeni seznam pesmi</string>
-  <string name="playlist_unavailable">"Na žalost seznam ni dostopen. Da ga izbrišete pritisnite in držite, potem pa izberite izbriši."</string>
+  <string name="playlist_unavailable">"Seznam ni dostopen. Za izbris pritisnite in držite, potem pa izberite \"Izbriši\"."</string>
   <string name="please_download_first">Skladbo morate najprej prenesti preden jo lahko uporabite za zvonjenje</string>
   <string name="please_search_or_select">Išči ali izberi polje</string>
   <string name="please_select_song">Izberite pesem</string>
@@ -788,7 +785,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="selected_count">Izbrano %1$d od %2$d</string>
   <string name="send_to">Pošlji</string>
   <string name="send_to_title">Pošlji (%1$s)</string>
-  <string name="server_error">Napaka strežnika. Poskusite ponovno kasneje</string>
+  <string name="server_error">Prišlo je do napake, počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="service_and_settings">Storitve in nastavitve</string>
   <string name="service_stop">Storitev je ustavljena</string>
   <string name="set_album_successful">Album shranjen</string>
@@ -872,10 +869,15 @@ predvsem nudi Ultimate Inc.</string>
   <string name="tab_track_list">Skladbe</string>
   <string name="take_effect_afater_restart">Ponovno morate zagnati aplikacijo, da bo ta nastavitev efektivna.</string>
   <string name="talkback_back">Pojdi nazaj</string>
+  <string name="talkback_cloud_setting">Nastavitve</string>
   <string name="talkback_device">Predvajaj na drugih napravah</string>
   <string name="talkback_download">Prenesi</string>
   <string name="talkback_favorite">Všeč mi je ta pesem</string>
+  <string name="talkback_follow">Spremljaj</string>
+  <string name="talkback_followed">Ne spremljaj</string>
+  <string name="talkback_header_search">"Išči"</string>
   <string name="talkback_karaoke">Odpri Karaoke</string>
+  <string name="talkback_like">Všeč mi je</string>
   <string name="talkback_mode">Loop</string>
   <string name="talkback_mode_repeat_all">Loop način</string>
   <string name="talkback_mode_repeat_current">Ponovi</string>
@@ -890,6 +892,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="talkback_radar">Prepoznavanje glasbe</string>
   <string name="talkback_search">Išči</string>
   <string name="talkback_share">Skupna raba</string>
+  <string name="talkback_unlike">Ni mi všeč</string>
   <string name="task_already_exist">Naloga že obstaja</string>
   <string name="ticket_summary">Kupite vstopnice za predstave, koncerte, predstave in druge manifestacije</string>
   <string name="ticket_title">Prikaži vstopnice</string>
@@ -972,7 +975,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="warning_tip_ok">Premor</string>
   <string name="warning_tip_title">Opozorilo uporabe podatkov</string>
   <string name="welcome_to_new_music">Dobrodošli v novo verzijo Mi Glasbe!</string>
-  <string name="wifi_required_body" formatted="false">"Morate uporabiti WiFi da dokončate prenos %s . 
+  <string name="wifi_required_body" formatted="false">"Uporabite WiFi da dokončate prenos %s . 
 
 Pritisnite %s da zaženete prenos naslednjič ko se povežete preko WiFi."</string>
   <string name="wifi_required_title">Prenos je prevelik za omrežje operaterja</string>

@@ -2715,6 +2715,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, slušalke in ostale zvočne nastavitve</string>
   <string name="music_audio_effect_settings">Nastavitve efektov</string>
   <string name="music_dirac_control">Optimiziraj kakovost zvoka</string>
+  <string name="music_dirac_mode_cancelling">Mi Noise Cancelling (3.5mm)</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">Splošno</string>
@@ -2733,7 +2734,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-  <string name="music_dirac_mode_reduction_noise">Zmajnšanje hrupa (USB-C)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (TypeC)</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby efekti</string>
   <string name="music_dolby_eq_enter_alert_msg">Equalizer lahko uporabljate samo v Dolby glasbenem načinu. Ga omogočim?</string>
@@ -2786,6 +2787,8 @@ Na tej napravi je več uporabnikov.
   <string name="my_device">Moja naprava</string>
   <string name="my_device_disclaimer">Opomba: informacije o hardveru, vključno CPU, kapaciteto baterije, velikost in resolucijo ekrana in kamere ponujajo Xiaomi laboratorij, dizajnerji ter dobavitelji.</string>
   <string name="n_cacrts">%d CA certifikata</string>
+  <string name="navigation_guide_app_summary">Podrsajte s prstom levo ali desno od roba zaslona v zgornjem področju</string>
+  <string name="navigation_guide_app_title">"Zažene opravilo aplikacije"</string>
   <string name="navigation_guide_back_anim_summary">Gesta nazaj z animacijo</string>
   <string name="navigation_guide_back_anim_title">Animacija geste nazaj</string>
   <string name="navigation_guide_back_summary">Povleci levo ali desno od zaslona</string>
@@ -5496,7 +5499,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifi_calling_suggestion_title">Vključite WiFi klice</string>
   <string name="wifi_cancel">Prekliči</string>
   <string name="wifi_certificate">Certifikat</string>
-  <string name="wifi_click_login_wlan">Zahteva prijavo/avtorizacijo</string>
+  <string name="wifi_click_login_wlan">Povezano. Potrebna je kontrola.</string>
   <string name="wifi_click_share_wlan">Dotaknite se za skupno rabo gesla</string>
   <string name="wifi_config_info">WiFi konfiguracija</string>
   <string name="wifi_configure_titlebar">Nastavi WiFi</string>

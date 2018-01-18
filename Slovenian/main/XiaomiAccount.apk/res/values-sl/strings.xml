@@ -407,7 +407,7 @@
   <string name="passport_skip_setup_account_msg">Mi račun lahko uredite pozneje v nastavitvah.</string>
   <string name="passport_skip_setup_account_title">Preskoči nastavitev</string>
   <string name="passport_sms_send_success">Poslano</string>
-  <string name="passport_sms_verification_code_login">Prijavite se z kodo ki ste jo prejeli v SMS sporočilu</string>
+  <string name="passport_sms_verification_code_login">Prijavite se s pomočjo SMS-a</string>
   <string name="passport_sync_account_data">Sinhr. podrobnosti računa…</string>
   <string name="passport_sync_account_data_failed_warning">Podatki o računu se trenutno sinhronizirajo, lahko se prijavite s pomočjo svojega ID Mi Računa. Če se želite prijaviti preko telefona ali e-pošte, počakajte da se informacije pololnoma sinhronizirajo.</string>
   <string name="passport_title_reg">Ustvari račun</string>

@@ -425,8 +425,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_sync_alert_dialog_title">Uporabi Mi Cloud</string>
   <string name="micloud_sync_off">Sinhr. z Mi Cloud je izključena</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">Stiki, Koledar in Beležke se samodejno sinhronizirajo. Da boste sinhronizirali več stvari, pojdite v Mi Cloud nastavitve.</string>
-  <string name="micloud_title_dspt" formatted="false">"Vsega prostora %s   
-   uporabljenega %s |  preostane %s"</string>
+  <string name="micloud_title_dspt" formatted="false">Izkoriščeno %s/Prostora skupaj %s,</string>
   <string name="micloud_title_dspt_remain">Preostalo %s</string>
   <string name="micloud_title_full_dspt">"Dosegli ste limit!"</string>
   <string name="micloud_unlogin_for_time_summary"/>
@@ -537,7 +536,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sub_sync_item_sms_title_wifi_only">Uporabi le WiFi za sinhronizacijo MMS</string>
   <string name="success_upgraded_space">%s dodano</string>
   <string name="sync_dspt">Sinh.</string>
-  <string name="sync_dspt_entrance_provision">"Mi Cloud vam pomaga sinhronizirati fotografije, stike in ostalo na vaših napravah. Do stvari ki jih sinhronizirate lahko dostopate iz kateregakoli brskalnika na %s."</string>
+  <string name="sync_dspt_entrance_provision">"Sinhronizirajte svoje fotografije, stike, zgodovino klicev in obvestila na vseh napravah. Sinhroniziranim stvarem dostopajte v kateremkoli brskalniku na %s."</string>
   <string name="sync_dspt_entrance_provision_2">Preberite več</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne uporabi"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijam je Mi Cloud potreben za izdelavo var. kopije fotografij, stikov, beležk in ostalega. Mi Cloud je brezplačen in pripravljen v trenutku."</string>
@@ -594,10 +593,10 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="virtual_sim_desc">Vključite Mi SIM da locirate napravo bez SIM kartice</string>
   <string name="voip_choose_sim">Izberite št.telefona za aktiviranje Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Preveri, če je sinhronizirano</string>
-  <string name="wipe_data_dialog_msg">"Nekateri predmeti (%s) niso sinhronizirani. Shranjeni bodo v napravi in ne bodo izbrisani."</string>
+  <string name="wipe_data_dialog_msg">"Nekateri predmeti %s niso sinhronizirani. Shranjeni bodo v napravi in ne bodo izbrisani."</string>
   <string name="wipe_data_dialog_msg_and_on">, in nekatere druge predmete</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
-  <string name="wipe_data_dialog_title">"Nekatere stvari niso sinhronizirane"</string>
+  <string name="wipe_data_dialog_title">"Stvari niso sinhronizirane"</string>
   <string name="wipe_secret_photo_dialog_title">"Skrite fotografije niso sinhronizirane"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
    <string name="xiaomi_cloud_service_subtitle">Vse pomembne stvari na enem mestu</string>

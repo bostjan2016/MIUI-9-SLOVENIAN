@@ -601,7 +601,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cancel_button">Prekliči</string>
   <string name="cancle">Prekliči</string>
   <string name="card_main_applock_action">Vključi</string>
-  <string name="card_main_applock_summary">Zaščitite zasebne stvari s zakl. aplikacije</string>
+  <string name="card_main_applock_summary">Zaščitite izbrane aplikacije s pomočjo gesla. Skrijte sporočila, fotografije, beležke in še kaj.</string>
   <string name="card_main_applock_title">Zakl. aplikacije</string>
   <string name="card_main_datasave_action">Vključi</string>
   <string name="card_main_datasave_summary">Strni podatke da prihranite do 20%</string>
@@ -1372,6 +1372,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
   <string name="menu_text_power_percent_title_default">Baterija</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
+  <string name="menu_white">Izjeme</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
