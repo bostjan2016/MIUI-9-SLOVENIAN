@@ -27,11 +27,11 @@
   <string name="accessibility_data_connection_cdma">CDMA</string>
   <string name="accessibility_data_connection_edge">Edge</string>
   <string name="accessibility_data_connection_gprs">GPRS</string>
-  <string name="accessibility_data_four_bars">Podatki: štiri črtice.</string>
-  <string name="accessibility_data_one_bar">Podatki: Ena črtica.</string>
+  <string name="accessibility_data_four_bars">Podatki: Štirje stolpci.</string>
+  <string name="accessibility_data_one_bar">Podatki: En stolpec.</string>
   <string name="accessibility_data_signal_full">Podatki: Signal poln.</string>
-  <string name="accessibility_data_three_bars">Podatki: Tri črtice.</string>
-  <string name="accessibility_data_two_bars">Podatki: Dve črtici.</string>
+  <string name="accessibility_data_three_bars">Podatki: Trije stolpci.</string>
+  <string name="accessibility_data_two_bars">Podatki: Dva stolpca.</string>
   <string name="accessibility_desc_app_allow_block">"Obvestila %1$s so lahko skrita"</string>
   <string name="accessibility_desc_app_unallow_block">"Obvestila %1$s ne morejo biti skrita"</string>
   <string name="accessibility_desc_block_notification">Skrij obvestila</string>
@@ -538,6 +538,7 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="picture_color_mode">Način barve slike</string>
   <string name="picture_color_mode_desc">Uporabi sRGB</string>
+  <string name="please_slide_agian">Podrsaj ponovno</string>
   <string name="pip_menu_title">Izbira slike v sliki</string>
   <string name="pip_notification_message">Če ne želite da %s uporablja to funkcijo odprite nastavitve in jo izključite.</string>
   <string name="pip_notification_title">%s je v sliki v sliki</string>

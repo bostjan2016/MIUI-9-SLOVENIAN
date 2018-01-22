@@ -96,10 +96,14 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="device_corrupt">Mi Telefon (podatki so poškodovani)</string>
   <string name="device_delete_prompt">Izbrišem varnostno kopijo za %s?</string>
   <string name="device_xiaomi">Mi Telefon</string>
+  <string name="dialog_btn_next">Naprej</string>
+  <string name="dialog_btn_restore_skip">Vrni kasneje</string>
   <string name="dialog_cancel_backup_cancel">Prekliči</string>
   <string name="dialog_cancel_backup_confirm">V redu</string>
   <string name="dialog_cancel_backup_msg">Sprememba bo povzročila prekinitev izdelave var. kopije.</string>
   <string name="dialog_cancel_backup_title">Odpovem izdelavo v teku?</string>
+  <string name="dialog_msg_restore_require_wlan">Za vračanje datotek var. kopije je potreben WiFi.</string>
+  <string name="dialog_title_require_wlan">Potreben je WiFi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_restore_home">Obnavljanje zač. zaslona in nastavitev sisitema…</string>
   <string name="done_remove">Uspešno odstranjeno</string>
