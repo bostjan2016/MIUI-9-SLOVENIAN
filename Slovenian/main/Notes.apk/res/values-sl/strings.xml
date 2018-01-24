@@ -142,6 +142,7 @@ Tapnite + da napravite mapo"</string>
   <string name="privacy_notes_fragment_title">Skrite beležke</string>
   <string name="recover_notes_hint">Prišlo je do napake, pojdite na i.mi.com da vrnete beležke.</string>
   <string name="redo">Ponovi</string>
+  <string name="refuse_to_open_as_pic_because_of_loading">Počakajte da se beležka naloži in poskusite ponovno.</string>
   <string name="refuse_to_share_as_pic_because_of_content">Ta beležka je prevelika za deljenje.</string>
   <string name="refuse_to_share_as_pic_because_of_loading">Počakajte da se beležka naloži in poskusite ponovno.</string>
   <string name="rename_folder_dialog_tile">Preimenuj mapo</string>
@@ -195,6 +196,7 @@ Tapnite + da napravite mapo"</string>
   <string name="theme_title_yellow">Rumena</string>
   <string name="theme_white_description">Bela</string>
   <string name="theme_yellow_description">Rumena</string>
+  <string name="toast_cancel_to_insert_image">Ne morem odpovedati vstavljanja slik.</string>
   <string name="toast_folder_privacy_mode">Ni mogoče spremeniti mape v načinu za goste</string>
   <string name="toast_mark_privacy_notes">Uspešno skrito</string>
   <string name="toast_mark_privacy_notes_count">%1$s uspešno skrito</string>

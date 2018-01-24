@@ -1193,6 +1193,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Preveč napačnih poiskusov!</string>
   <string name="lockpattern_tutorial_cancel_label">Prekliči</string>
   <string name="lockpattern_tutorial_continue_label">Naprej</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Klikni V redu</string>
+  <string name="lockpattern_tutorial_continue_label_next">Klikni Naprej</string>
   <string name="lockscreen_access_pattern_cell_added">Dodan je telefon</string>
   <string name="lockscreen_access_pattern_cleared">Vzorec je izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec je dokončan</string>
