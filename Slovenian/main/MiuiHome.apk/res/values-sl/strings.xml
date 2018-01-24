@@ -145,6 +145,7 @@
   <string name="gadget_clock_14_label">Ura 4x1</string>
   <string name="gadget_clock_22_label">Ura 2x2</string>
   <string name="gadget_clock_24_label">Ura 4x2</string>
+  <string name="gadget_clock_34_label">Ura 4x3</string>
   <string name="gadget_clock_label">Ura</string>
   <string name="gadget_error_text">Pripomočka ni mogoče naložiti</string>
   <string name="gadget_google_search_label">Google iskanje</string>
