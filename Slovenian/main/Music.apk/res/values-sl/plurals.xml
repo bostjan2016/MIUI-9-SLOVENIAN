@@ -39,8 +39,8 @@
         <item quantity="one">Izbrišem %d seznam skladb?</item>
     </plurals>
 	<plurals name="Nnew_tracks_count">
-        <item quantity="other">Novo: %d</item>
-		<item quantity="one">1 nova</item>
+        <item quantity="other">Nov skladbe: %d</item>
+		<item quantity="one">1 nova skladba</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">Skladb: %d</item>
@@ -131,7 +131,7 @@
         <item quantity="one">%d pesem</item>
      </plurals>
       <plurals name="Nunbackup_audios">
-        <item quantity="other">"%1$d pesmi ni shranjeno (%2$.1fMB)"</item>
+        <item quantity="other">"%1$d pesmi ni shranjeno (%2$.1fMB)\""</item>
         <item quantity="one">"%1$d pesem ni shranjena (%2$.1fMB)"</item>
      </plurals>
      <plurals name="Nupload_song_button">
@@ -147,9 +147,10 @@
         <item quantity="one">"%d pesem ni shranjena na Mi Cloud. Zaustavim?"</item>
      </plurals>
       <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Narejeno %1$s | skupaj %2$d pesmi</item>
-        <item quantity="zero">Narejeno %1$s | skupaj %2$d pesmi</item>
-        <item quantity="one">Narejeno %1$s | skupaj %2$d pesem</item>
+        <item quantity="other">Narejeno %1$s
+pesmi skupaj: %2$d</item>
+        <item quantity="one">Narejeno %1$s 
+skupaj %2$d pesemi</item>
      </plurals>
 	 <plurals name="Nalbum_total_songs">
          <item quantity="other">Skupaj %d pesmi</item>
