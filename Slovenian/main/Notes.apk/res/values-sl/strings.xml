@@ -196,7 +196,7 @@ Tapnite + da napravite mapo"</string>
   <string name="theme_title_yellow">Rumena</string>
   <string name="theme_white_description">Bela</string>
   <string name="theme_yellow_description">Rumena</string>
-  <string name="toast_cancel_to_insert_image">Ne morem odpovedati vstavljanja slik.</string>
+  <string name="toast_cancel_to_insert_image">Ne morem dodati sliko.</string>
   <string name="toast_folder_privacy_mode">Ni mogoče spremeniti mape v načinu za goste</string>
   <string name="toast_mark_privacy_notes">Uspešno skrito</string>
   <string name="toast_mark_privacy_notes_count">%1$s uspešno skrito</string>

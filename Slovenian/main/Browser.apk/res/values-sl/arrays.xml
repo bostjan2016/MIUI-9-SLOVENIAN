@@ -94,4 +94,49 @@
          <item>Izbriši</item>
          <item>Ne hvala</item>
      </string-array>
+	   <string-array name="suggestion_weather_condition_message">
+    <item>Vedro</item>
+    <item>Rahla oblačnost</item>
+    <item>Oblačno</item>
+    <item>Nevihta</item>
+    <item>Vihar</item>
+    <item>Toča</item>
+    <item>Dež s snegom</item>
+    <item>Rosenje</item>
+    <item>Dež</item>
+    <item>Nevihta</item>
+    <item>Dežni vihar</item>
+    <item>Močan naliv</item>
+    <item>Nenadni vihar</item>
+    <item>Gosto sneženje</item>
+    <item>Sneženje</item>
+    <item>Zmerno sneženje</item>
+    <item>Močno sneženje</item>
+    <item>Metež</item>
+    <item>Megla</item>
+    <item>Leden dež</item>
+    <item>Peščeni vihar</item>
+    <item>Rahel do zmeren dež</item>
+    <item>Zmeren do močan dež</item>
+    <item>Zmeren do nenaden dež</item>
+    <item>Nenaden dež ali nevihta</item>
+    <item>Vihar ali ekstremen dež</item>
+    <item>Rahlo do umerjeno sneženje</item>
+    <item>Umerjeno ali močno sneženje</item>
+    <item>Močno sneženje ali metež</item>
+    <item>Prah</item>
+    <item>Pesek</item>
+    <item>Peščeni vihar</item>
+    <item>Gosta megla</item>
+    <item>Gosta megla</item>
+    <item>Meglica</item>
+    <item>Zmerna meglica</item>
+    <item>Gosta meglica</item>
+    <item>Zmerna meglica</item>
+    <item>Gosta megla</item>
+    <item>Gosta megla</item>
+    <item>Nič</item>
+    <item>Dež</item>
+    <item>Sneg</item>
+  </string-array>
 </resources>
