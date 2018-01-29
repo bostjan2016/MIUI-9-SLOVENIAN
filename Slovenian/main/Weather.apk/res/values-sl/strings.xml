@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abrupt_weather_settings_summary_type_a">Sprememba vremenskih opozoril</string>
+  <string name="abrupt_weather_settings_summary_type_b">Sprememba vremenskih opozoril</string>
+  <string name="abrupt_weather_settings_title">Neobičajna vremenska opozorila</string>
   <string name="act_find_city_hint">Vnesi lokacijo</string>
   <string name="act_find_city_hot_attractions_title">Popularna mesta</string>
   <string name="act_find_city_hot_city_title">Popularna mesta</string>
@@ -52,6 +55,9 @@
   <string name="content_desc_activity_main_add_city">Dodaj kraj</string>
   <string name="content_desc_activity_main_add_city_manage">Upravljaj s krajom</string>
   <string name="content_desc_activity_main_more_settings">Več nastavitev</string>
+  <string name="content_desc_back_button">Nazaj</string>
+  <string name="content_desc_close_button">Zapri</string>
+  <string name="content_desc_edit_city_manage">Urejaj mesta</string>
   <string name="daily_forcast_drawer_on_bottom">Skrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s dnevna napoved</string>
   <string name="daily_forcast_no_stable_direction">Ni vetra</string>
@@ -124,19 +130,21 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="menu_minute_rain">Dvourna napoved padavin</string>
   <string name="menu_speeker">Glasovno predvajanje</string>
   <string name="minute_rain_after_an_hour">Uro kasneje</string>
+  <string name="minute_rain">Natančna napoved</string>
   <string name="minute_rain_after_two_hour">Dve ure kasneje</string>
   <string name="minute_rain_feedback_subtitle">Povej mi kakšno je vreme</string>
   <string name="minute_rain_feedback_text">Povratna inf.</string>
-  <string name="minute_rain_feedback_title">"Vreme ne kaže dobro..."</string>
+  <string name="minute_rain_feedback_title">"Vreme ne kaže dobro…"</string>
   <string name="minute_rain_let_go_refresh">Naj se osvježi</string>
   <string name="minute_rain_no_data">Ni podatkov</string>
   <string name="minute_rain_now">Zdaj</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Potegni dol za osvežitev</string>
   <string name="minute_rain_refreshing_now">Osveževanje</string>
+  <string name="missing_required_permission">Onemogočili ste potrebna dovoljenja.</string>
   <string name="more_details">Več podrobnosti</string>
   <string name="network_not_available">"Ne morem se povezati z omrežjem"</string>
-  <string name="network_unavailable">Ne morem se povezati z omrežjem.</string>
+  <string name="network_unavailable">"Ne morem se povezati z omrežjem."</string>
   <string name="night_not_disturb_settings_summary">Utišaj opozorila med 23:00 in 07:00</string>
   <string name="night_not_disturb_settings_title">"Ne moti ponoči"</string>
   <string name="no_network_btn">Poskusi ponovno</string>

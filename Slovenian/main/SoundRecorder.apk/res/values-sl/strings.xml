@@ -5,11 +5,9 @@
   <string name="alert_message_delete_record_title">Izbriši posnetek</string>
   <string name="app_name">Snemanje</string>
   <string name="back">Nazaj</string>
-  <string name="btn_clear_records">Izbriši posnetke(stvari %d)</string>
   <string name="button_queue_for_wifi">Počakaj</string>
   <string name="button_start_now">Nalagam</string>
   <string name="call_record">Posneti klici</string>
-  <string name="choose_call_records_count">stvari %d</string>
   <string name="clear_records">Izbriši sinhronizirane zapise</string>
   <string name="cloud_record">%d sinhnorizirano</string>
   <string name="cloud_record_open">Sinhr. posnetkov</string>
@@ -62,7 +60,6 @@
   <string name="notification_recording_ticker">Utišan</string>
   <string name="notification_stopped">Snemanje končano</string>
   <string name="notification_title_all_paused">Nalaganje začasno ustavljeno</string>
-  <string name="notification_warning">Premalo prostora (ostalo manj kot %d minut)</string>
   <string name="path_soundrecorder_setting">Sistemske aplikacije/Snemanje</string>
   <string name="pause">Odmor</string>
   <string name="playback_delete_records">Izbriši posnetek</string>

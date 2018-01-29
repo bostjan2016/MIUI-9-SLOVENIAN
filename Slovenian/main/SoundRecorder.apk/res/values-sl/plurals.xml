@@ -1,15 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+<plurals name="notification_warning">
+        <item quantity="other">Premalo prostora za shranjevanje (ostalo manj %d min.)</item>
+        <item quantity="one">Premalo prostora za shranjevanje (ostalo manj %d min.)</item>
+     </plurals>
     <plurals name="record_downloading_complete_count">
-        <item quantity="other">Prenešeno (%d ) posnetkov</item>
+        <item quantity="other">Prenešeno posnetkov: %d</item>
         <item quantity="one">%d posnetek prenešen</item>
     </plurals>
     <plurals name="local_records_count">
-        <item quantity="other">Stvari: %d</item>
-        <item quantity="one">Stvari: %d</item>
+        <item quantity="other">%d stvari</item>
+        <item quantity="one">%d stvar</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d ni sinhr.</item>
         <item quantity="one">%d ni sinhr.</item>
     </plurals>
+	<plurals name="btn_clear_records">
+         <item quantity="other">Izbriši posnetke (%d stvari)</item>
+         <item quantity="one">Izbriši posnetek (%d stvar)</item>
+     </plurals>
+     <plurals name="choose_call_records_count">
+         <item quantity="other">%d stvari</item>
+         <item quantity="one">%d stvar</item>
+     </plurals>
 </resources> 

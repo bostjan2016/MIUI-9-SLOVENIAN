@@ -2,7 +2,7 @@
 <resources>
   <string name="Call_ADRESS">Lokalni seznam blokiranih</string>
   <string name="Call_BLACKLIST">Seznam blokiranih klicev</string>
-  <string name="Call_PREFIX">Seznam blokiranih omrežnih številk</string>
+  <string name="Calnetwork_blocked_switch_wifiEFIX">Seznam blokiranih predštevilk</string>
   <string name="Call_PRIVATE_CALL">Zasebni klici</string>
   <string name="MALICIOUS_URL">Zlonameren URL</string>
   <string name="PAST_BLOCK">predhodno blokirano</string>
@@ -1414,6 +1414,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="network_blocked_connected_open_wifi">Povezovanje z javnim omrežjem</string>
   <string name="network_blocked_notification_summary">Test omrežja</string>
   <string name="network_blocked_switch_wifi">Zamenjaj omrežje</string>
+  <string name="network_changed_noti_summary">Uporaba mobilnih podatkov</string>
+  <string name="network_changed_noti_title">Povezava z WiFi je prekinjena</string>
   <string name="network_connected_exception_title">Test omrežja</string>
   <string name="network_control">Prikaz nastavitev aplikacije</string>
   <string name="network_diagnostics">Test omrežja</string>

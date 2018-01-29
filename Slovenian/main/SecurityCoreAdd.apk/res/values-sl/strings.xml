@@ -329,7 +329,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="xspace_default_setting_label">Privzeta aplik.</string>
   <string name="xspace_description">Klonirane aplikacije so kopije aplikacij ki se lahko uporabijo zasebno z drugim računom.\n\nNekateree dvojne aplikacije zahtevajo podporo Google Services Framework. V teh primerih se ustvari dvojni Google Services Framework.</string>
   <string name="xspace_guide_des">Uporabljaj 2 računa brez menjanja</string>
-  <string name="xspace_guide_title">Izdelaj Dvojno aplikacijo za %s</string>
+  <string name="xspace_guide_title">Izdelaj dvojno aplikacijo</string>
   <string name="xspace_header">Klonirane aplikacije</string>
   <string name="xspace_install_completed">Ikona dodana na začetni zaslon</string>
   <string name="xspace_install_failed">"Ne morem tega napraviti"</string>
