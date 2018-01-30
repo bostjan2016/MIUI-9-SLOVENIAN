@@ -271,6 +271,7 @@
   <string name="submit_dialog_cancel">Prekliči</string>
   <string name="submit_dialog_confirm">Pošlji</string>
   <string name="submit_dialog_content">"Vaše povratne informacije, skupaj s priponkami in zapisi bodo poslani na Mi strežnike. Če pride do napak pri pošiljanju, boste zaprošeni za ponovno pošiljanje."</string>
+  <string name="submit_dialog_content_global">"Vaše povratne informacije bodo skupaj z prilogami in poročili poslane na MIUI strežnike. To lahko vsebuje osebne podatke. Lahko izberete da ne pošiljate poročil v odgovarjajočem okviru."</string>
   <string name="submit_dialog_title">Pošlji poročilo o napaki</string>
   <string name="submit_feedback_info_failed">"Ne morem poslati poročilo"</string>
   <string name="suggestion_description">Opis napišite tukaj</string>

@@ -601,7 +601,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cancel_button">Prekliči</string>
   <string name="cancle">Prekliči</string>
   <string name="card_main_applock_action">Vključi</string>
-  <string name="card_main_applock_summary">Zaščitite sporočila, fotografije in ostale predmetwe z geslom.</string>
+  <string name="card_main_applock_summary">Zaščitite izbrane aplikacije z geslom.</string>
   <string name="card_main_applock_title">Zakl. aplikacije</string>
   <string name="card_main_datasave_action">Vključi</string>
   <string name="card_main_datasave_summary">Strni podatke da prihranite do 20%</string>

@@ -42,8 +42,8 @@
   <string name="multisim_settings_category">Nastavitve izbrane SIM kartice</string>
   <string name="multisim_settings_title">Najdene 2 SIM kartice</string>
   <string name="navigation_picker_gesture_guide">Vodič za kretnje</string>
-  <string name="navigation_picker_radio_text_full_screen">Cel zaslon</string>
-  <string name="navigation_picker_radio_text_virtual_key">Virtualne tipke</string>
+  <string name="navigation_picker_radio_text_full_screen">Kretnje v celem zaslonu</string>
+  <string name="navigation_picker_radio_text_virtual_key">Tipke</string>
   <string name="network_access_warning">Morate se povezati s spletom da boste aktivirali Mi Storitve in \"Najdi napravo\"</string>
   <string name="next">Naprej</string>
   <string name="next_fingerprint">Naprej</string>
