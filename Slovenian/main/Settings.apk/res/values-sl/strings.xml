@@ -2711,7 +2711,7 @@ Na tej napravi je več uporabnikov.
   <string name="multi_touch_points_category_title">Multi-touch točke</string>
   <string name="multi_touch_points_preference">Nastavitev bo začela veljati ko boste ponovno zagnali napravo</string>
   <string name="music_HiFi_title">HiFi avdio</string>
-  <string name="music_app_unavailable">Odvisno od aplikacije za glasbo, preverite če je dostopna</string>
+  <string name="music_app_unavailable">Preverite ali je aplikacija Mi Glasba dostopna.</string>
   <string name="music_audio_effect_optimize">Avdio nastavitve</string>
   <string name="music_audio_effect_optimize_summary">Dirac, slušalke in ostale zvočne nastavitve</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Zvok, slušalke in ostale nastavitve zvoka</string>
@@ -2737,7 +2737,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (TypeC)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling (Type-C)</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby efekti</string>
   <string name="music_dolby_eq_enter_alert_msg">Equalizer lahko uporabljate samo v Dolby glasbenem načinu. Ga omogočim?</string>

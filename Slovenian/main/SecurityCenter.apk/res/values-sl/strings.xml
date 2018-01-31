@@ -1374,7 +1374,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
   <string name="menu_text_power_percent_title_default">Baterija</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
-  <string name="menu_white">Izjeme</string>
+  <string name="menu_white">Dodaj v izjeme</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
