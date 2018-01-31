@@ -123,7 +123,7 @@
   <string name="face_beauty_smart">Smart</string>
   <string name="face_score_info">Rezultat: %.1f</string>
   <string name="front_camera_hint_text_rotate">Obrnite telefon</string>
-  <string name="front_camera_hint_text_place">Snemanje selfijev bo lažje če obrnete telefon</string>
+  <string name="front_camera_hint_text_place">Snemanje selfijev bo lažje\nče obrnete telefon</string>
   <string name="groupshot_mode_use_hint">"Več fotografij bo izbrano za najboljši
 izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="hibernate_hint">Pritisnite zaslon da zbudite kamero</string>
