@@ -56,6 +56,10 @@
          <item quantity="other">%d vnosov liste blokiranja</item>
          <item quantity="one">%d vnos liste blokiranja</item>
     </plurals>
+	<plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d vnosov v zakl. aplikacij</item>
+        <item quantity="one">%d vnos v zakl. aplikacij</item>
+    </plurals>
 	<plurals name="dirty_secretphoto_count">
          <item quantity="other">"%d skritih fotografij ni sinhronizirano. Odjavite se ko bodo vse stvari sinhronizirane da jih obdržite; drugače se bodo izbrisale."</item>
          <item quantity="one">"%d skrita fotografija ni sinhronizirana. Odjavite se ko bodo vse stvari sinhronizirane da jih obdržite; drugače se bodo izbrisale."</item>
