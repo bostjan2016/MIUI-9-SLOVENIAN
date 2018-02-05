@@ -116,7 +116,7 @@
   <string name="data_wipe_from_device">Izbriši iz te naprave</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_app">Izbriši aplikacijo</string>
-  <string name="delete_bank_card_message">Iz varnostnih razlogov bo ob odjavi vaša bančna kartica izbrisana</string>
+  <string name="delete_bank_card_message">Mi Pay bančne kartice in NFC kartice bodo izbrisane ko se odjavite.</string>
   <string name="delete_bank_card_title">Brisanje vaše bančne kartice</string>
   <string name="delete_browser">Izbriši brskalnik</string>
   <string name="delete_device">Izbriši napravo</string>
@@ -311,6 +311,7 @@
   <string name="passport_input_password_hint">Vnesi geslo</string>
   <string name="passport_input_phone_hint">Vnesi telefonsko številko</string>
   <string name="passport_input_vcode_hint">Vnesite kodo za preverjanje</string>
+  <string name="passport_input_voice_captcha_hint">Vnesite glasovno kodo za preveritev</string>
   <string name="passport_instant_login">Prijavi se</string>
   <string name="passport_license_host_unreachable">Ne morem se povezati z omrežjem. To stran si lahko ogledate na %s.</string>
   <string name="passport_loading">Nalaganje...</string>

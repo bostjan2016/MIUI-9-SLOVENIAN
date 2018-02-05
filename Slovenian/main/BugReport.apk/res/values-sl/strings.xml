@@ -82,9 +82,17 @@
   <string name="feedback_retest_label">Koraki za reprodukcijo</string>
   <string name="feedback_select_images">Dodajte slike</string>
   <string name="feedback_select_modem_log">Dodaj modem zapis</string>
+  <string name="feedback_select_modem_log_not_select_desc">"Niste izbrali \"Dodaj modem zapis\""</string>
+  <string name="feedback_select_modem_log_select_desc">Izbrano \"Dodaj modem zapis\"</string>
   <string name="feedback_select_problem">Težave</string>
+  <string name="feedback_select_problem_not_select_desc">"Niste izbrali \"Problemi\""</string>
+  <string name="feedback_select_problem_select_desc">Izbrano \"Problemi\"</string>
   <string name="feedback_select_suggestion">Predlogi</string>
+  <string name="feedback_select_suggestion_not_select_desc">"Niste izbrali \"Predlogi\""</string>
+  <string name="feedback_select_suggestion_select_desc">Izbrano \"Predlogi\"</string>
   <string name="feedback_select_upload_log">Dodaj zapise</string>
+  <string name="feedback_select_upload_log_not_select_desc">"Niste izbrali \"Dodaj zapise\""</string>
+  <string name="feedback_select_upload_log_select_desc">Izbrano \"Dodaj zapise\"</string>
   <string name="feedback_status_answered">Odgovorjeno</string>
   <string name="feedback_status_change_notification_title">"Vaš napredek poročila je posodobljen"</string>
   <string name="feedback_status_commit_failed_title">"Ne morem poslati poročila"</string>

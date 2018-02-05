@@ -231,6 +231,7 @@ nastavitev in aplikacij"</string>
   <string name="notif_icloud_need_wifi_summary">Čakanje na Wifi</string>
   <string name="notif_icloud_saved_summary">Uvoz je končan</string>
   <string name="notif_icloud_saving_summary">Vračanje podatkov…</string>
+  <string name="notif_miasist_try_to_connect">Mi PC Suite se poskuša povezati z vašo napravo</string>
   <string name="notif_parse_select_descript_error">"Ne morem sinhronizirati seznam shranjenih stvari."</string>
   <string name="notif_receiving_transingsd">Sprejem %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">Uspešno vrnjeno</string>

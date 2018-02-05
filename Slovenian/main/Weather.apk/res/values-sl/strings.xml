@@ -113,6 +113,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="information_manager_information">Informacije o vremenu</string>
   <string name="information_manager_wlan">Naloži ko je povezano na WiFi</string>
   <string name="information_set">Ostale nastavtve</string>
+  <string name="information_settings_title">Informacije o vremenu</string>
   <string name="install">Namesti</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
   <string name="international_details_pressure_title">Pritisk</string>
@@ -153,6 +154,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="open_browser">Odpri v brskalniku</string>
   <string name="open_now">Odpri</string>
   <string name="other">Ostalo</string>
+  <string name="other_settings">Ostale nastavitve</string>
   <string name="other_warning_settings">Ostala opozorila</string>
   <string name="particulate_matter_exceeded">Visoko</string>
   <string name="particulate_matter_not_exceeded">Normalno</string>
