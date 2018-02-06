@@ -373,9 +373,11 @@ hitrost vzorčenja"</string>
   <string name="headset_settings">Slušalke povezane</string>
   <string name="help_feedback_label">Pomoč in povratne inf.</string>
   <string name="home">Začetni zaslon nastavitev</string>
-  <string name="how_to_back_home">Kako se vrniti na Domov?</string>
-  <string name="how_to_switch_recents">Kako zamenjati na Nedavno?</string>
-  <string name="how_to_use_fsg">Kako uporabiti gesto na celem zaslonu?</string>
+  <string name="how_to_back_home">Pojdi na začetni zaslon</string>
+  <string name="how_to_switch_recents">Odpri Nedavno</string>
+  <string name="how_to_use_drawer">Kako uporabiti funkcijo vlečenje aplikacij</string>
+  <string name="how_to_use_drawer_summary">Podrsajte iz zgornje leve strani</string>
+  <string name="how_to_use_fsg">To lahko naredite s pomočjo kretenj:</string>
   <string name="ime_security_warning">Ta način vnosa mogoče lahko zbira tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. To omogoča aplikacija %1$s. Uporabim ta način vnosa?</string>
   <string name="immediately_destroy_activities">Odstranjevanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekine ko jo uporabnik zapusti.</string>

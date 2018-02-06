@@ -20,4 +20,8 @@
         <item quantity="other">Naredite še %1$d korakov za odklepanje vseh funkcij</item>
         <item quantity="one">Naredite še %1$d korak za odklep vseh funkcij</item>
     </plurals>
+	<plurals name="search_app_count_txt_na">
+        <item quantity="other">Išči aplikacije: %d</item>
+        <item quantity="one">Išči %d aplikacijo</item>
+    </plurals>
 </resources>
