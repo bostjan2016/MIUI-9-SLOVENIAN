@@ -1157,7 +1157,6 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="ssl_ca_cert_warning">Network may be monitored</string>
   <string name="ssl_certificate">Security certificate</string>
   <string name="ssl_certificate_is_valid">This certificate is valid.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
   <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
   <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>

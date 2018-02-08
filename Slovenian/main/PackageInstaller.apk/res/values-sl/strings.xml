@@ -542,7 +542,6 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="show_touches">Prikaz dotikov</string>
   <string name="show_touches_summary">Prikaz vizualnih povratnih informacij za dotike</string>
   <string name="simulate_color_space">Simul. barvnega prostora</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="strict_mode">Strog način je omogočen</string>
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti.</string>
   <string name="system_warning">Če zavrnete to dovoljenje osnovne funkcije naprave morda ne bodo več delovale kot bi morale.</string>

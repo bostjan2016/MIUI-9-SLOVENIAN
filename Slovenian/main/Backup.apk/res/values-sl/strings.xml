@@ -494,6 +494,7 @@ Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kodo z vašo staro napravo</string>
   <string name="trans_start_failed_message">"Pošiljanje ni uspelo, poskusite ponovno ali ponovno zaženite napravo in poskusite ponovno."</string>
   <string name="trans_start_failed_title">"Pošiljanje ni uspelo"</string>
+  <string name="trans_switching_5g">Menjava na 5GHz WiFi…</string>
   <string name="trans_time_format_second">Manj od 1 minute</string>
   <string name="trans_time_spent">"   
   Porabljeni čas %s"</string>
@@ -505,7 +506,7 @@ Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="trans_wlan_tips_message">"Ne izključite niti zamenjajte WiFi med prenosom podatkov. Drugače Mi Mover ne bo mogel pošiljati podatke."</string>
   <string name="trans_wlan_tips_title">"Ne izključite niti zamenjajte WiFi med prenosom podatkov"</string>
   <string name="unit_byte">B</string>
-  <string name="unit_piece">predmeti</string>
+  <string name="unit_piece">" stvari"</string>
   <string name="unknown_hint">Nepoznan</string>
   <string name="user_name">Apple ID ali E-pošta</string>
   <string name="user_name_null">Uporabniško ime ne sme biti prazno</string>

@@ -3908,7 +3908,6 @@ Skrbnik lahko nadzira vašo dejavnost v omrežju, vključno z e-pošto, aplikaci
   <string name="status_bar_app_enable_keyguard">Zakl.  zaslon</string>
   <string name="status_bar_app_enable_message">Značke</string>
   <string name="status_bar_key_position_custom">Promjenite položaj tipki</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_desc">Podrsajte navzdol da skrijete tipko zaslona</string>
   <string name="status_bar_screen_button_key">Tipke zaslona</string>
   <string name="status_bar_screen_button_key_can_hide">Tipke zaslona se lahko skrijejo</string>

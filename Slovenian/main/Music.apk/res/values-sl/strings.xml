@@ -780,7 +780,6 @@ predvsem nudi Ultimate Inc.</string>
   <string name="privacy_notif_content">Pritisnite za pregled podrobnosti.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
-  <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
   <string name="privacy_tip_cancel">Prekini</string>
   <string name="privacy_tip_content">"Uporabim Xunlei Accelerator za pospešek prenosa? Povetava lastnika prenosa bo prenešena na Xunlei strežnik. Podrobnosti vašega Mi Računa bodo prenešene zaradi kontrole naročenine na storitev."</string>
   <string name="privacy_tip_ok">V redu</string>
@@ -1056,7 +1055,6 @@ predvsem nudi Ultimate Inc.</string>
   <string name="upgrade_vip">Nadgradi Premium</string>
   <string name="upgrade_waringing">"Lahko boste poslušali samo glasbo shranjeno v vaši napravi."</string>
   <string name="user_agreement">Uporabniški sporazum</string>
-  <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
   <string name="valid_period">Veljavno:</string>
   <string name="version_info">Verzija</string>
   <string name="vip_auto_renew_message">Vaša naročnina bo samodejno obnovljena zvečer. Poskrbite za dovolj Mi Kreditov na računu za dokončanje plačila.</string>

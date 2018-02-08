@@ -121,7 +121,6 @@
   <string name="sort_direction_descending">Odhodno</string>
   <string name="sort_name">Po imenu</string>
   <string name="sort_size">Po velikosti</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="title_open">Odpri iz mape</string>
   <string name="title_save">Shrani v</string>
   <string name="toast_failed_delete">Nekaterih dokumentov ni mogoče izbrisati</string>

@@ -1161,7 +1161,6 @@ za račun %s."</string>
   <string name="ssl_ca_cert_warning">Omrežje je lahko nadzorovano</string>
   <string name="ssl_certificate">Varnostno potrdilo</string>
   <string name="ssl_certificate_is_valid">To potrdilo je veljavno.</string>
-  <string name="status_bar_notification_info_overflow">999 +</string>
   <string name="stk_cc_ss_to_dial">Zahteva SS je spremenjena v zahtevo DIAL.</string>
   <string name="stk_cc_ss_to_ss">Zahteva SS je spremenjena v novo zahtevo SS.</string>
   <string name="stk_cc_ss_to_ussd">Zahteva SS je spremenjena v zahtevo USSD.</string>

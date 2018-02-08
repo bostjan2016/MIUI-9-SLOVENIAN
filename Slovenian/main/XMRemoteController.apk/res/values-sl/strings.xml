@@ -987,7 +987,6 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="start_auto_tune">samodejno nastavi kanal po vključitvi</string>
   <string name="start_diagnosis">Test</string>
   <string name="start_match">Seznani</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Set-top box</string>
   <string name="stb_power">STB vklj/izklj.</string>
   <string name="steps">Poskus #%d</string>
