@@ -5212,7 +5212,8 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="use_location_title">Lokacija in Iskanje Google</string>
   <string name="use_nuplayer">Uporabi NuPlayer (presk.)</string>
   <string name="use_nuplayer_summary">Uporabi NuPlayer namesto AwesomePlayerja</string>
-  <string name="use_personalized_ad_service">Uporabi prepoznavanje oglasov</string>
+  <string name="use_personalized_ad_service">Osebna priporočila oglasov</string>
+  <string name="use_personalized_ad_service_summary">Ko je storitev priporočila izključena boste še naprej videli enako količino oglasov, ampak ne prilagojenih vašemu zanimanju.</string>
   <string name="use_privacy_password_immediate">Uporabi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemski jezik</string>
   <string name="use_this_wlan">Ostani povezan</string>

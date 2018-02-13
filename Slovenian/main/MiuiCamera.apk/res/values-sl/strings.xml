@@ -34,7 +34,7 @@
   <string name="button_normal_video_title">Posnemi videoposnetek</string>
   <string name="camera_disabled">Kamera je onemogočena</string>
   <string name="camera_error_title">Napaka kamere</string>
-  <string name="camera_facedetection_sub_option_hint">Eksperimentalna opcija je zdaj dostopna</string>
+  <string name="camera_facedetection_sub_option_hint">Eksperimentalna opcija</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_mode_options">Načini</string>
   <string name="camera_setting">Kamera</string>
@@ -129,7 +129,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="hibernate_hint">Pritisnite zaslon da zbudite kamero</string>
   <string name="hine_hht">"Pri slabi svetlobi bo kamera posnela več fotografij
   nato pa izdelala fotografijo z minimalno količino šuma."</string>
-  <string name="hint_device_water_mark">Oznaka naprave bo samodejno dodana.</string>
+  <string name="hint_device_water_mark">Oznaka bo dodana na fotografijo samodejno.</string>
   <string name="hint_fast_motion">Videoposnetek ki ga snemate se bo predvajal hitreje.</string>
   <string name="hint_groupshot">"Kamera bo posnela več fotografij
   nato pa izdelala posnetek na katerem vsi zgledajo najboljše."</string>
@@ -158,7 +158,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Poravnajte puščico z referenčno črto</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Nadaljuj...</string>
-  <string name="pano_how_to_use_prompt_slow_down">Počasneje...</string>
+  <string name="pano_how_to_use_prompt_slow_down">Počasneje…</string>
   <string name="pano_how_to_use_prompt_start">Pritisnite puščico da spremenite smer in se začnite počasi premikati.</string>
   <string name="pano_how_to_use_prompt_to_move">Začni počasi premikati</string>
   <string name="photos_portrait_type_description">Fotografije portreta imajo globinski efekt ki zadrži objekt v fokusu in zamegli ozadje.</string>
@@ -240,7 +240,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_delay_capture_entry_audio">Zvok</string>
   <string name="pref_camera_delay_capture_entry_off">Izklj.</string>
   <string name="pref_camera_delay_capture_title">Odštevanje</string>
-  <string name="pref_camera_device_watermark_title">Oznaka naprave</string>
+  <string name="pref_camera_device_watermark_title">Oznaka fotografije</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -259,7 +259,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Samodejno</string>
   <string name="pref_camera_face_info_watermark_title">Prikaži podatke o starosti na fotografiji</string>
-  <string name="pref_camera_facedetection_auto_hidden_title">Samodejno skrij prepoznavanje obraza</string>
+  <string name="pref_camera_facedetection_auto_hidden_title">Skrij okvir za samodejno prepoznavanje obraza</string>
   <string name="pref_camera_facedetection_title">Prepoznavanje obraza</string>
   <string name="pref_camera_fisheye_title">Ribje oko</string>
   <string name="pref_camera_flashmode_entry_auto">Samodejno</string>
@@ -320,7 +320,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_multilevel_entry_middle">Srednje (privzeto)</string>
   <string name="pref_camera_multilevel_entry_normal">Normalno</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
-  <string name="pref_camera_parallel_process_enable_title">Omogoči vzporedni proces slike</string>
+  <string name="pref_camera_parallel_process_enable_title">Vključi vzporedno obdelavo</string>
   <string name="pref_camera_peak_entry_off">Izključeno</string>
   <string name="pref_camera_peak_entry_on">Vključeno</string>
   <string name="pref_camera_peak_title">Peaking Focus</string>
