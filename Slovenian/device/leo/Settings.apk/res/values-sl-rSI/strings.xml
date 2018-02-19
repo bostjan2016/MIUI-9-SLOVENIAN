@@ -737,7 +737,6 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bootloader_status_unlocked">Odklenjeno</string>
   <string name="bootloader_status_unlocked_info">Naprava je oklenjena</string>
   <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
-  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Barva LED lučk</string>
   <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
   <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
