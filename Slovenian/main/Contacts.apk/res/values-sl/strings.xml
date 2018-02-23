@@ -219,6 +219,8 @@
   <string name="contact_detail_calllog_call_note_tips">Beležke</string>
   <string name="contact_detail_calllog_call_record_tips">Posneti klici</string>
   <string name="contact_detail_calllog_empty">Ni seznama klicev</string>
+  <string name="contact_detail_entry_pay">Plačaj</string>
+  <string name="contact_detail_entry_pay_dialog_title">Izberi številko telefona</string>
   <string name="contact_detail_menu_delete_miprofile">Izbriši vizitko</string>
   <string name="contact_detail_miprofile_accept">Menjava vizitke</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Ne morem zamenjati vizitke"</string>
@@ -1001,6 +1003,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_dial_pad_touch_tone_title">Zvoki številčnice</string>
   <string name="preference_display">Prikaz</string>
   <string name="preference_displayOptions">Možnosti prikaza</string>
+  <string name="preference_display_contact">Možnosti prikaza</string>
   <string name="preference_export">Izvozi</string>
   <string name="preference_import">Uvozi</string>
   <string name="preference_import_export">Uvozi/Izvozi</string>
