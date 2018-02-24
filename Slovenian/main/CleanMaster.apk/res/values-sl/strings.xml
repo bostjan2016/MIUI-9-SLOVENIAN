@@ -522,6 +522,7 @@
   <string name="white_list_large_file_header">Vel. datoteke in videoposnetki: %d</string>
   <string name="white_list_residual_header">Ostanki: %d</string>
   <string name="white_list_title">Izjeme</string>
+  <string name="wechat_qq_deep_clean_button_text">Globoko čiščenje</string>
   <string name="wq_deep_clean_filter_all">Vse</string>
   <string name="wq_deep_clean_filter_month_ago">Pred enim mesecem</string>
   <string name="wq_deep_clean_filter_three_month_ago">Pred tremi meseci</string>
