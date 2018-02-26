@@ -3613,7 +3613,6 @@ Uporaba pripenjanja:
   <string name="security_encryption_attention_3">"Morali boste nastaviti novo geslo za zaklepanje zaslona."</string>
   <string name="security_encryption_attention_4">"Zapomnite si svoje geslo za zaklepanje zaslona drugače boste morali napraviti popolno obnovitev sistema in izbrisati vse podatke."</string>
   <string name="security_encryption_attention_info">Lahko šifrirate svoje račune, nastavitve, prenešene aplikacije in njihove podatke, medije in ostale datoteke.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Pomembno</string>
   <string name="security_encryption_close_dialog_info">Izbira "ne šifrirati naprave" lahko povzroči nedostopnost nekaterih Googlovih uslug.</string>
   <string name="security_encryption_close_dialog_title">Nazaj na privzeto zaščito</string>
