@@ -22,13 +22,13 @@
   <string name="cta_button_continue">Strinjam se</string>
   <string name="cta_button_quit">Izhod</string>
   <string name="cta_check_reminder">"Ne prikazuj ponovno"</string>
-  <string name="cta_message_license">Z uporabo tega proizvoda, se strinjate s pogoji navedenimi v naših Pogoji nudenja storitve in Pravili o zasebnosti.</string>
+  <string name="cta_message_license">Z uporabo tega proizvoda, se strinjate s pogoji navedenimi v naših Pogoji uporabe in Pravili o zasebnosti.</string>
   <string name="cta_message_permission">Ta aplikacija mora %2$s delati normalno.</string>
   <string name="cta_permission_and"> in </string>
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Pogoji uporabe</string>
-  <string name="day_following_good_friday"/>
   <string name="daydream">Dnevno sanjarenje</string>
+  <string name="day_following_good_friday"/>
   <string name="delete_frequent_phrases">Izbriši pogoste izraze</string>
   <string name="delete_frequent_phrases_confirm">Izbrišem izbrane pogoste izraze?</string>
   <string name="device_hongmi">Redmi</string>
@@ -50,6 +50,7 @@
   <string name="heavy_snow"/>
   <string name="hksar_establishment_day"/>
   <string name="hoar_frost_falls"/>
+  <string name="incomingmessage">Dohodno sporočilo</string>
   <string name="insects_awaken"/>
   <string name="international_womens_day">Mednarodni dan žena</string>
   <string name="labour_day"/>
@@ -83,10 +84,12 @@
   <string name="menu_edit">Uredi</string>
   <string name="miclassic">MiClassic</string>
   <string name="miui_device_name">Android</string>
+  <string name="messagesent">Sporočilo poslano</string>
   <string name="national_day"/>
   <string name="national_father_day"/>
   <string name="new_years_day"/>
   <string name="no_notification_tips">Brez obvestil</string>
+  <string name="notificationxylophone">Obvestilo (Xylophone)</string>
   <string name="partys_day"/>
   <string name="peace_day"/>
   <string name="presentation_payphone">Telefonska govorilnica</string>

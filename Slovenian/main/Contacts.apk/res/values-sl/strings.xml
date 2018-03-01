@@ -996,6 +996,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_contacts_display">Prikaži preference</string>
   <string name="preference_contacts_filter">Konfiguriraj seznam stikov</string>
   <string name="preference_contacts_more">Organiziraj stike</string>
+  <string name="preference_contacts_moresetting">Več</string>
   <string name="preference_dial_pad_touch_tone_default">Privzeto</string>
   <string name="preference_dial_pad_touch_tone_human">Glas</string>
   <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>

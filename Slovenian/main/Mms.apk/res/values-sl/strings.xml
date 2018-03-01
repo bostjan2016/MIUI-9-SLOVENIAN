@@ -39,6 +39,7 @@
   <string name="attach_sound">Avdio</string>
   <string name="attach_subject">Predmet</string>
   <string name="attach_take_photo">Zajemi fotografijo</string>
+  <string name="attach_transaction">Pošlji denar</string>
   <string name="attach_video">Video posnetek</string>
   <string name="audio_download_failed">"Ne morem prenesti zvoka"</string>
   <string name="audio_message_expired">Glasovno sporočilo je poteklo.</string>
@@ -577,6 +578,7 @@
   <string name="select_local_audio">Izberi zvok</string>
   <string name="select_local_video">Izberi video</string>
   <string name="select_message_send_sim">Izberi SIM kartico</string>
+  <string name="select_phone_number">Izberi številko telefona</string>
   <string name="select_recipient">Izberi prejemnika</string>
   <string name="select_sim">Izberi SIM kartico</string>
   <string name="select_top_text">Besedilo na vrhu</string>

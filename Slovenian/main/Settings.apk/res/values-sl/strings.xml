@@ -2888,7 +2888,9 @@ Na tej napravi je več uporabnikov.
   <string name="night_light">Nočni način</string>
   <string name="night_light_brightness">Moč osvetlitve</string>
   <string name="night_light_color">Barva</string>
-  <string name="night_light_summary">Minimiziraj osvetlitev v ozadju ob slabi svetlobi za vhod v nočno svetlobo</string>
+  <string name="night_light_color_tip">Spremembe bodo upoštevane ko bo Način branja izključen</string>
+  <string name="night_light_summary">Da vključite nočni način zmanjšajte svetlost zaslona ob slabi svetlobi</string>
+  <string name="night_light_tip">Spremembe bodo upoštevane ko bo nočni način vključen</string>
   <string name="night_mode_auto">Samodejno</string>
   <string name="night_mode_no">Svetlo</string>
   <string name="night_mode_title">Tema</string>

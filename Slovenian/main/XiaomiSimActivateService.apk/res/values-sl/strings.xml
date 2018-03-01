@@ -116,5 +116,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="phone_verify_processing">Preverjanje…</string>
   <string name="phone_verify_text">"%1$s ne bo dobil vaše telefonske številke. Samo preveril bo veljavnost številke. Se strinjate?"</string>
   <string name="phone_verify_title">Strinjam se da %1$s preveri mojo telefonsko številko</string>
+  <string name="privacy_revoke_failed_msg">Ni odobreno, ne morem dobiti številke telefona. Aktivacija ni uspela.</string>
+  <string name="privacy_revoke_tips">Če ne odobrite ne morete sinhronizirati SMS</string>
   <string name="sim_unactivated_title">"Vaša SIM kartica ni aktivirana"</string>
 </resources>

@@ -48,4 +48,11 @@
          <item quantity="other">Čez %d sek. se bo samodejno ustvarila nova stran</item>
          <item quantity="one">Čez %d sek. se bo samodejno ustvarila nova stran</item>
      </plurals>
+	      <plurals name="mw_last_num_days">
+        <item quantity="other">Zadnjih toliko dni: %d</item>
+     </plurals>
+     <plurals name="mw_matches_found">
+        <item quantity="other">%1$d od %2$d</item>
+        <item quantity="one">1 ujemanje</item>
+     </plurals>
 </resources> 
