@@ -130,6 +130,7 @@ nastavitev in aplikacij"</string>
   <string name="err_bakfile_broken">"Ne morem uporabiti te var. kopije."</string>
   <string name="err_filesystem_mount">"Ne morem pristopiti prostoru za shranjevanje na routerju"</string>
   <string name="err_low_storage">Premalo prostora</string>
+  <string name="err_not_allow">Ni podprto</string>
   <string name="err_router_disconnected">"Preverite priključek vašega routerja in poskusite znova."</string>
   <string name="err_router_files_delete">"Ne morem izbrisati var. kopije na routerju"</string>
   <string name="err_unknown">Neznana napaka</string>

@@ -721,12 +721,18 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="data_usage_leisure_warning_body">Tapnite za pregled podrobnosti porabe podatkov.</string>
   <string name="data_usage_leisure_warning_title">Omejitev porabe podatkov</string>
   <string name="data_usage_limit_body">Prtisnite za vključitev mobilnih podatkov.</string>
+  <string name="data_usage_mobile_dialog_title">"Porabili ste že 5GB mobilnih podatkov. MIUI bo izključil mobilne podatke."</string>
   <string name="data_usage_limit_snoozed_body">Prekoračena omejitev porabe podatkov za ta mesec.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Poraba podatkov prekoračena</string>
   <string name="data_usage_mobile_limit_title">Dosežena omejitev podatkov</string>
   <string name="data_usage_no_total_package_body">Tapnite za nastavitev omejitve porabe podatkov</string>
   <string name="data_usage_no_total_package_body_dual">Omejitev porabe podatkov za %s ni nastavljena</string>
   <string name="data_usage_no_total_package_title">Nastavi omejitev porabe podatkov</string>
+  <string name="data_usage_protected_dialog_message">"MIUI bo izključil mobilne podatke da prepreči dodatne stroške.
+
+Vaš mobilni operater vam lahko dodatno zaračuna če ponovno vključite mobilne podatke."</string>
+  <string name="data_usage_protected_notify_message">MIUI bo izključil mobilne podatke da prepreči dodatne stroške.</string>
+  <string name="data_usage_protected_notify_title">"Porabili ste že 5GB mobilnih podatkov"</string>
   <string name="data_usage_restricted_body">Tapnite da vključite podatke v ozadju</string>
   <string name="data_usage_restricted_title">Podatki v ozadju omejeni</string>
   <string name="data_usage_warning_body">Tapnite da boste videli podrobnosti porabe podatkov.</string>
@@ -802,6 +808,12 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dialog_msg_stop_virus_scan">Želite ustaviti varnostno preverjanje?</string>
   <string name="dialog_no_longer_alert">"Ne kaži več”</string>
   <string name="dialog_roaming_apps_sorted_title">Razvrsti po</string>
+  <string name="dialog_restrict_all_mobile_summary">%s Mobilna podatkovna povezava bo omejena za vse aplikacije.</string>
+  <string name="dialog_restrict_all_mobile_title">Omeji %s mobilno podatkovno povezavo</string>
+  <string name="dialog_restrict_all_wlan_summary">WiFi povezava bo po tem omejena za vse aplikacije.</string>
+  <string name="dialog_restrict_all_wlan_title">Omeji uporabo WiFi povezave</string>
+  <string name="dialog_restrict_negative">Omeji</string>
+  <string name="dialog_restrict_positive">Prekliči</string>
   <string name="dialog_roaming_message">Aplikacije na seznamu dovoljenih se bodo lahko povezovale na podatkovne storitve v mednarodnem gostovanju. Dodam to aplikacijo na seznam dovoljenih?</string>
   <string name="dialog_roaming_title">Gostovanje</string>
   <string name="dialog_text">Napravi bližnjico začetnega zaslona za pohitritev igranja</string>
@@ -991,6 +1003,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gb_description_image_button_reject">Zavrni</string>
   <string name="gb_description_image_button_video_answer">Videoklic</string>
   <string name="gb_new_feature">Nova funkcija</string>
+  <string name="gdpr_msg">&lt;Data&gt;"Za uporabo osnovnih funkcij aplikacije Varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke vključno informacije o načinu uporabe funkcij aplikacije Varnost (npr. statistične podatke uporabe mobilnih podatkov, podatke o zlonamernih programih in osnovne informacije o vaši napravi) in druge vrste informacij navedenih v naših &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Zasebnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Vključite to funkcijo če imate težave u uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>

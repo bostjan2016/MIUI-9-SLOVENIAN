@@ -131,10 +131,12 @@
   <string name="notify_device_lose_connection_title">Izgubljena povezava z %1$s</string>
   <string name="notify_server">Obvesti TCP server</string>
   <string name="ok_button">V redu</string>
+  <string name="opp_notification_group">Bluetooth skupna raba</string>
   <string name="outbound_history_title">Izhodni prenosi</string>
   <string name="outbound_noti_title">Bluetooth deljenje: Poslane datoteke</string>
   <string name="pbap_acceptance_timeout_message">Prišlo je do zakasnitve pri potrditvi povezave z/s %1$s</string>
   <string name="pbap_authentication_timeout_message">Prišlo je do zakasnitve pri vstopnem ključu z/s %1$s</string>
+  <string name="pbap_notification_group">Skupna raba Bluetooth stikov</string>
   <string name="pbap_session_key_dialog_header">Potrebna je šifra Bluetooth seje</string>
   <string name="pbap_session_key_dialog_title">Vpiši šifro seje za %1$s</string>
   <string name="permdesc_bluetoothAvrcpDataManager">Aplikaciji omogoča dostop do upravitelja za BluetoothAvrcpData in za uporabo za prikaz na UI.</string>

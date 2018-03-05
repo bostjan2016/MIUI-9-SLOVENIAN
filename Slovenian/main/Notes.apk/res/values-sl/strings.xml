@@ -35,6 +35,7 @@
   <string name="call_record_folder_name">Beležke klicev</string>
   <string name="default_folder_name">Neimenovana mapa</string>
   <string name="delete_folder_dialog_tile">Izbriši mapo</string>
+  <string name="dialog_privacy_revoke_tips">"Po preklicu avtorizacije bo aplikacija prenehala zbirati podatke in vsi zbrani podatki bodo izbrisani s strežnika. To lahko povzroči da je aplikacija praktično neuporabna. Vseeno prekličem avtorizacijo? Da zavarujete varnost računa se prijavite na i.mi.com predno prekličete avtorizacijo za storitve Mi Cloud."</string>
   <string name="dialog_share_as_pic">Deli beležko kot sliko</string>
   <string name="dialog_share_as_text">Deli beležko kot tekst</string>
   <string name="dialog_share_title">Deli beležko</string>

@@ -276,10 +276,10 @@
   <string name="section_err_type">Vrsta napake</string>
   <string name="section_screenshot">Posnetek zaslona</string>
   <string name="select_system_app_tag">Izberi oznake</string>
-  <string name="submit_dialog_cancel">Prekliči</string>
-  <string name="submit_dialog_confirm">Pošlji</string>
+  <string name="submit_dialog_cancel">Ne strinjam se</string>
+  <string name="submit_dialog_confirm">Strinjam se</string>
   <string name="submit_dialog_content">"Vaše povratne informacije, skupaj s priponkami in zapisi bodo poslani na Mi strežnike. Če pride do napak pri pošiljanju, boste zaprošeni za ponovno pošiljanje."</string>
-  <string name="submit_dialog_content_global">"Vaše povratne informacije bodo skupaj z prilogami (če obstajajo)  in poročili poslane na MIUI strežnike. To lahko vsebuje osebne podatke. Lahko izberete da ne pošiljate poročil v odgovarjajočem okvirju."</string>
+  <string name="submit_dialog_content_global">"Vaše povratne informacije bodo skupaj z prilogami (če obstajajo)  in poročili (lahko izberete kaj ne pošlje) poslane na MIUI strežnike. Informacije o vaših temah in forumu se bodo tudi zbirale za analizo in nadaljno komunikacijo. Dnevniki lahko vsebijejo osebne podatke in podatke o vaši lokaciji."</string>
   <string name="submit_dialog_title">Pošlji poročilo o napaki</string>
   <string name="submit_feedback_info_failed">"Ne morem poslati poročilo"</string>
   <string name="suggestion_description">Opis napišite tukaj</string>
