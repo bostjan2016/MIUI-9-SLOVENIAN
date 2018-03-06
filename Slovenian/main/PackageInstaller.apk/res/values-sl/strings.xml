@@ -340,7 +340,6 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="lb_search_bar_hint_speech">Izgovorite če želite iskati</string>
   <string name="lb_search_bar_hint_with_title">Iskanje: %1$s</string>
   <string name="lb_search_bar_hint_with_title_speech">Govorite če želite iskati %1$s</string>
-  <string name="lb_time_separator">:</string>
   <string name="legacy_dhcp_client_summary">Uporabljate DHCP klijent iz Lollipop-a namesto novega Android DHCP klijenta.</string>
   <string name="lift_ban">Dovoli</string>
   <string name="lift_ban_once">Dovoli enkrat</string>

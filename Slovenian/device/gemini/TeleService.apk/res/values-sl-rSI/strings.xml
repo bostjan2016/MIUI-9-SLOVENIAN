@@ -1841,7 +1841,6 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="time_end_minute">Čas in minuta</string>
   <string name="time_formate_am">AM</string>
   <string name="time_formate_pm">PM</string>
-  <string name="time_interval_char">:</string>
   <string name="time_start">Od</string>
   <string name="time_start_hour">Začetni čas ure</string>
   <string name="time_start_minute">Začetni čas minute</string>

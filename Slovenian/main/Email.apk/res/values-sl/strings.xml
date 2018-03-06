@@ -269,7 +269,6 @@
   <string name="click_to_reload">Dotaknite se zaslona za ponovno nalaganje</string>
   <string name="close">Zapri</string>
   <string name="collapse_recipient_details">Sesutje prejemnikovih podatkov</string>
-  <string name="colon">:</string>
   <string name="compose">Sestavi</string>
   <string name="compose_attachment_number_limit">"Ne morem dodati več kot 10 priponk"</string>
   <string name="compose_paste_address_oob">Vstavljeno besedilo je predolgo</string>
@@ -952,7 +951,6 @@ Poskusite z ostalo pošto."</string>
   <string name="send_feed_back_keywords">Pošlji povratne informacije</string>
   <string name="send_mail">Pošlji</string>
   <string name="sender_whitelist_cleared">Slike ne bodo samodejno prikazane.</string>
-  <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Pošiljanje...</string>
   <string name="sending_message">Pošiljanje sporočila...</string>
@@ -996,9 +994,6 @@ Poskusite z ostalo pošto."</string>
   <string name="special_text_3">寫道:</string>
   <string name="special_text_4">寫道：</string>
   <string name="special_text_5">wrote:</string>
-  <string name="special_text_colon_en">:</string>
-  <string name="special_text_colon_zh">：</string>
-  <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
   <string name="special_text_sender_en">sender</string>
   <string name="special_text_sender_zh">发件人</string>
   <string name="storage">Pomnilnik</string>
