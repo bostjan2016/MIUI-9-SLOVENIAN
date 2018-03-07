@@ -288,6 +288,7 @@
   <string name="passport_error_user_name">Neveljavno uporabniško ime</string>
   <string name="passport_error_verify_activator_phone_message">Preverite ali je storitev SIM kartice aktivirana in da je naprava povezana z omrežjem.</string>
   <string name="passport_error_verify_activator_phone_title">"Ne morem preveriti telefonske številke"</string>
+  <string name="passport_extra_gdpr_license">Z izdelavo Mi Računa se strinjate da bo Xiaomi uporabljal vaše osebne podatke. Preberite naša Pravila o zasebnosti da vidite kako obdelujemo in uporabljamo osebne podatke.</string>
   <string name="passport_error_verify_code">Koda ki ste jo vnesli je napačna</string>
   <string name="passport_failed_to_send_activate_email">Ne morem poslati aktivacijski e-mail</string>
   <string name="passport_find_password_on_web_msg">Obišči account.mi.com za ponastavitev gesla.</string>
@@ -522,9 +523,9 @@
   <string name="unbind_sns_description">Ko boste odstranili ta račun ne boste mogli uporabljati vaš %s za prijavo v svoj Mi račun.</string>
   <string name="unbind_weibo_description">Ko boste odstranili ta račun ne boste mogli sinhronizirati stike iz Weibo ali uporabiti Sina Weibo račun za prijavo."</string>
   <string name="unlock_help_notice">"Pomoč:
-· Če ste pozabili svoje geslo, pojdite na id.mi.com da ga ponastavite.
-· Če ne morete odkleniti naprave, pojdite na i.mi.com da izključite najdi napravo
-· Povejte to številko odklepanja službi za uporabnike: %s"</string>
+1. Če ste pozabili svoje geslo, pojdite na id.mi.com da ga ponastavite.
+2. Če ne morete odkleniti naprave, pojdite na i.mi.com da izključite najdi napravo.
+3. Povejte to številko odklepanja službi za uporabnike: %s"</string>
   <string name="update_contacts">Posodobi stike</string>
   <string name="update_contacts_description">Naj Sina Weibo uporablja vaš Mi račun za sinhronizacijo stikov na različnih platformah</string>
   <string name="update_email_address_dialog_message">Pred posodobitvijo e-pošte morate potrditi svojo identiteto.</string>

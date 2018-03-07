@@ -23,6 +23,7 @@
   <string name="action_menu_account_not_login_hint">Uporabi Cloud nastavitve pri prijavi</string>
   <string name="action_menu_bookshelf">Polica za knjige</string>
   <string name="action_menu_current_version">Trenutna verzija</string>
+  <string name="action_menu_download">Prenesi</string>
   <string name="action_menu_request_desktop_site">Dostop do spletnih strani</string>
   <string name="action_menu_request_desktop_site_off">Dostop do spletnih strani je izklj.</string>
   <string name="action_menu_request_desktop_site_on">Dostop do spletnih strani ja vklj.</string>
@@ -41,8 +42,9 @@
   <string name="action_menu_text_fullscreen">Cel zaslon</string>
   <string name="action_menu_text_history">Zaznamki &amp; Zgodovina</string>
   <string name="action_menu_text_nightmode">Nočni način</string>
-  <string name="action_menu_text_nightmode_off">Nočni način off</string>
-  <string name="action_menu_text_nightmode_on">Nočni način on</string>
+  <string name="action_menu_text_nightmode_off">Nočni način izključen</string>
+  <string name="action_menu_text_nightmode_on">Nočni način vključen</string>
+  <string name="action_menu_text_readmode">Način branja</string>
   <string name="action_menu_text_refresh">Osveži</string>
   <string name="action_menu_text_setting">Nastavitve</string>
   <string name="action_menu_text_share">Deli</string>
@@ -155,9 +157,10 @@
   <string name="clear_search_history">Počisti zgodovino</string>
   <string name="clear_video_download">Počisti Video</string>
   <string name="clip_dialog_title">Odprem kopirano povezavo?</string>
+  <string name="close">Zapri</string>
   <string name="close_ads_choice_no">Dovoli</string>
   <string name="close_ads_choice_yes">Blokiraj</string>
-  <string name="close_ads_message">Blokiram vsebino te spletne strani? Blokirane strani si lahko ogledate v Nastavitvah &gt; Napredno &gt; Blokirane strani.</string>
+  <string name="close_ads_message">"Blokiram vsebino te spletne strani? Blokirane strani si lahko ogledate v Nastavitvah &gt; Napredno &gt; Blokirane strani."</string>
   <string name="close_ads_title">Blokiram vsebino?</string>
   <string name="close_all_tab_alert_message">Zaprem vse trenuntno odprte zavihke?</string>
   <string name="close_all_tab_alert_title">Zapri vse zavihke</string>
@@ -221,8 +224,8 @@
   <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">"Vedno verjamite da se bo nekaj
 lepega zgodilo"</string>
-  <string name="custom_head_card_text_incognito">"Samo Bog in vi poznate to 
-zasebnost​"</string>
+  <string name="custom_head_card_text_incognito">"Zdaj ste anonimni!
+Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="data_traffic_prompt_change">Uporaba podatkovne povezave za gledanje videov bo zvišala njeno porabo. Če prekoračite limit svojega operaterja vam lahko to dodatno zaračuna.</string>
   <string name="data_traffic_prompt_message">Uporaba podatkovne povezave za iskanje po spletu bo zvišala njeno porabo. Če prekoračite limit svojega operaterja vam lahko to dodatno zaračuna.</string>
   <string name="data_traffic_prompt_message_short">Uporaba mobilnih podatkov za stream videoposnetkov lahko povzroči prekoračitev mesečne omejitve.</string>
@@ -312,6 +315,9 @@ zasebnost​"</string>
   <string name="enable_geolocation_confirm_message">Izklop te funkcije lahko povzroči slabo obnašanje nekaterih spletnih strani.</string>
   <string name="enter_developer_mode">Vstop v način za razvijalce</string>
   <string name="enter_incongnito_mode">Vstop v neviden način</string>
+  <string name="enter_the_group_name">Vnesi ime skupine</string>
+  <string name="enter_the_password">Vnesi geslo</string>
+  <string name="enter_the_user_name">Vnesi uporabniško ime</string>
   <string name="error_console_eval_button_text">Oceni</string>
   <string name="error_console_eval_text_hint">Oceni JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript konzola</string>
@@ -795,6 +801,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="save_image_success">Slika shranjena</string>
   <string name="save_page_capture_tip">Odpri ploščo obvestil za prikaz posnetka zaslona.</string>
   <string name="save_page_capture_to_camera">Posnetek zaslona shranjen</string>
+  <string name="save_to_bookmark">Shrani v zaznamke</string>
   <string name="save_password_message">Shranim geslo?</string>
   <string name="save_password_never">Nikoli</string>
   <string name="save_password_notnow">Ne zdaj</string>
@@ -871,8 +878,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="ssl_untrusted">Ta certifikat ni zaupanja vreden</string>
   <string name="ssl_warnings_header">Napaka z varnostnim certifikatom za to stran</string>
   <string name="start_save_page_capture">Shranjevanje posnetka zaslona…</string>
+  <string name="storage_close">Zapri</string>
   <string name="storage_internal">Notranji pomnilnik</string>
-  <string name="storage_permission_request_toast">Prenos potrebuje dovoljenje za dostop do pomnilnika, dovolite to</string>
+  <string name="storage_open">Odpri</string>
+  <string name="storage_permission_request_toast">"Prenos potrebuje dovoljenje za dostop do pomnilnika, dovolite to"</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">Zunanji pomnilnik</string>
   <string name="suggest_access_appstore">Mi App Store</string>

@@ -375,8 +375,8 @@ hitrost vzorčenja"</string>
   <string name="home">Začetni zaslon nastavitev</string>
   <string name="how_to_back_home">Pojdi na začetni zaslon</string>
   <string name="how_to_switch_recents">Odpri Nedavno</string>
-  <string name="how_to_use_drawer">Kako uporabiti funkcijo vlečenje aplikacij</string>
-  <string name="how_to_use_drawer_summary">Podrsajte iz zgornje leve strani</string>
+  <string name="how_to_use_drawer">Kako uporabiti meni</string>
+  <string name="how_to_use_drawer_summary">Podrsajte s prstom desno v zgornjem delu zaslona</string>
   <string name="how_to_use_fsg">To lahko naredite s pomočjo kretenj:</string>
   <string name="ime_security_warning">Ta način vnosa mogoče lahko zbira tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. To omogoča aplikacija %1$s. Uporabim ta način vnosa?</string>
   <string name="immediately_destroy_activities">Odstranjevanje aktivnosti</string>
@@ -577,7 +577,7 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="quick_settings_disclosure_monitoring">Omrežje se lahko spremlja</string>
   <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s lahko spremlja omrežni promet v vašem delovnem profilu</string>
   <string name="quick_settings_disclosure_named_management">S to napravo upravlja %1$s</string>
-  <string name="quick_settings_disclosure_named_management_monitoring">%1$s manages this device and may monitor network traffic</string>
+  <string name="quick_settings_disclosure_named_management_monitoring">%1$s upravlja s to napravo in lahko nadzira omrežni promet</string>
   <string name="quick_settings_disclosure_named_management_named_vpn">S to napravo upravlja %1$s in je povezan z %2$s</string>
   <string name="quick_settings_disclosure_named_management_vpns">S to napravo upravlja %1$s in je povezan z VPN-jem</string>
   <string name="quick_settings_disclosure_named_vpn">Naprava je povezana na %1$s</string>
@@ -589,6 +589,7 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="quick_settings_wifi_detail_empty_text">Ni dostopnih WiFi omrežij</string>
   <string name="quick_settings_wifi_label">WiFi</string>
   <string name="quick_settings_wifi_nearby">Izberite bližje omrežje</string>
+  <string name="recent_cannot_dock">"Ne morem vstopiti v način več oken v Drugem prostoru"</string>
   <string name="recent_dock_tip">Tapnite za izbiro aplikacij</string>
   <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_cleaning">Čiščenje aplikacij…</string>

@@ -173,7 +173,7 @@ Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritis
   <string name="phone_locked_forget_password_suggesstion_two_content">Izberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; obnovi\"&lt;/font&gt; in počakajte da se naprava ponovno zažene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
   <string name="phone_locked_string">Telefon je zaklenjen</string>
-  <string name="reset_device_detail_tip">Brezžično polnenje, poravnajte telefon z osnovo da zagotovite čomhitrejše polnjenje.</string>
+  <string name="reset_device_detail_tip">Pravilno postavite napravo na brezžični polnilec da boste zagotovili visoko hitrost polnjenja.</string>
   <string name="reset_device_tip">Polnjenje je počasno, premaknite telefon</string>
   <string name="set_lock_wallpaper_failed">Ni novih slik za ozadje</string>
   <string name="unlock_camera_steady">Bodite mirni</string>
@@ -190,5 +190,6 @@ Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritis
   <string name="wireless_charge_dialog_cancel">Prekini</string>
   <string name="wireless_charge_dialog_title">Nepravilen položaj, prestavite telefon</string>
   <string name="wireless_charge_stop">Brezžično polnjenje je ustavljeno</string>
+  <string name="wireless_current_charge">Trenutno polnjenje</string>
   <string name="wrong_password">Nepravilno geslo</string>
 </resources>

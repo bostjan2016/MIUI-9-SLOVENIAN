@@ -42,9 +42,13 @@
   <string name="button_abandon">Opusti spremembe</string>
   <string name="button_add_city">Dodaj mesto</string>
   <string name="button_allow">V redu</string>
-  <string name="button_confirm">Dovoli</string>
-  <string name="button_exit">Izhod</string>
+  <string name="button_confirm">Strinjam se</string>
+  <string name="button_exit">"Ne strinjam se"</string>
   <string name="button_not_allow">Prekliči</string>
+  <string name="button_settings_cancel">Prekini</string>
+  <string name="button_settings_confirm">Prekliči</string>
+  <string name="button_settings_confirm_to_revoke_msg">"Po preklicu avtorizacije ne bosti mogli uporabljati aplikacijo Vreme."</string>
+  <string name="button_settings_confirm_to_revoke_title">Prekličem avtorizacijo?</string>
   <string name="button_sure_abandon">Zavržem spremembe?</string>
   <string name="change_alert">Preverite omrežno povezavo in poskusite ponovno</string>
   <string name="city_exceeded_warning">Lahko dodate do 10 mest</string>
@@ -73,6 +77,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="edit_alert_city_title">Urejaj opozorila</string>
   <string name="edit_city">Uredi</string>
   <string name="empty">" "</string>
+  <string name="eu_region_version_first_start_network_msg">"Z uporabo se strinjate da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno koordinate mest ki jih uporabljate in druge vrste podatkov navedenih v našim pravilih o zasebnosti. Preberite jih. Z dotikom na "Strinjam se", se strinjate z Xiaomi %1$s in %2$s."</string>
   <string name="feedback_heavy_rain">Nevihta</string>
   <string name="feedback_heavy_snow">Sneg</string>
   <string name="feedback_light_rain">Miren dež</string>
@@ -167,6 +172,12 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="pull_fresh_updated">Uspešno posodobljeno</string>
   <string name="pull_fresh_updating">Posodabljanje…</string>
+  <string name="privacy_grant_failed">"Ne morem odobriti avtorizacijo. Počakajte minuto ali dve in poskusite ponovno."</string>
+  <string name="privacy_grant_or_revoke_settings">Odobravanje &amp; preklic avtorizacije</string>
+  <string name="privacy_grant_success">Avtorizacija uspešno odobrena</string>
+  <string name="privacy_revoke_failed">"Ne morem preklicati avtorizacijo. Počakajte minuto ali dve in poskusite ponovno."</string>
+  <string name="privacy_revoke_success">Avtorizacija uspešno preklicana</string>
+  <string name="privacy_settings">Pravila o zasebnosti</string>
   <string name="radar_cloud_image_title">Mapa Radarja</string>
   <string name="rainfall_settings_summary">Nastavitve padavin</string>
   <string name="rainfall_settings_title">Opozorilo padavin</string>

@@ -861,7 +861,13 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dlg_remove_whitelist">Odstranim te številke iz izjem?</string>
   <string name="dlg_remove_whitelist_ing">Odstranjevanje…</string>
   <string name="dlg_remove_whitelist_title">Odstrani</string>
+  <string name="dlg_sec_network_unavailable">"Aplikacija varnost se ne more pododobiti ker ste ji omejili spletno povezavo. Dovolim aplikaciji varnost da se poveže na splet?"</string>
   <string name="dlg_retore">Vrnem SMS sporočila v aplikacijo?</string>
+  <string name="dlg_update_btn_contiue">Nadaljuj</string>
+  <string name="dlg_update_btn_open">Dovoli</string>
+  <string name="dlg_update_data_content">"Niste povezani na WiFi. Uporaba mobilnih podatkov lahko povzroči dodatne stroške. Vseeno nadaljujem?"</string>
+  <string name="dlg_update_date_title">Opozorilo</string>
+  <string name="dlg_update_updating">Posodobljanje…</string>
   <string name="dlg_retore_ok">Vrni</string>
   <string name="dlg_title_not_open_stranger_identify">Prepoznaj strani</string>
   <string name="dlg_white_address_antispam_message">Dodam to lokacijo v izjeme?</string>
@@ -2253,6 +2259,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sms_prefix">Seznam blokiranih predštevilk</string>
   <string name="sms_service">Blokiraj SMS storitve</string>
   <string name="sms_smart_engine_update">Samodejno posodobi SMS filter</string>
+  <string name="sms_smart_engine_update_now">Posodobi</string>
   <string name="sms_stranger_block">Blokiraj SMS je od tujcev</string>
   <string name="songs_number">18 pesmi</string>
   <string name="songs_unit">" pesmi"</string>
@@ -2708,6 +2715,10 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_shortcut_install">Bližnjica postavljena na začetni zaslon</string>
   <string name="toast_shortcut_uninstall">Bližnjica odstranjena</string>
   <string name="toast_show_notification">Dodano v obvestilno vrstico</string>
+  <string name="toast_update_fail">"Ne morem posodobiti"</string>
+  <string name="toast_update_nonetwork">"Ne morem se povezati na omrežje"</string>
+  <string name="toast_update_notneed">Vse je posodobljeno</string>
+  <string name="toast_update_success">Uspešno posodobljeno</string>
   <string name="toast_virus_cloudscan">Preverjanje virusov bo uporabljalo online definicije</string>
   <string name="toast_virus_in_cloud_scanning">"Ne morem ustaviti cloud preverjanja"</string>
   <string name="top_game">Najboljše igre</string>

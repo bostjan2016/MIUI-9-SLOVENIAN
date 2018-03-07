@@ -98,8 +98,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_error_password_changed">Geslo računa je spremenjeno.</string>
   <string name="find_device_error_server">Prišlo je do napake na naših strežnikih.</string>
   <string name="find_device_error_unknown">Neznana napaka.</string>
-  <string name="find_device_gdpr_prompt">Z vklopom Najdi napravo se strinjate z \"Pravila o zasebnosti\". Če morate izključiti autorizacijo o zasebnosti, izključite to storitev.</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">\"Pravila o zasebnosti\"</string>
+  <string name="find_device_gdpr_prompt">Z vklopom Najdi napravo se strinjate z Pravila o zasebnosti. Če morate izključiti avtorizacijo o zasebnosti, izključite to storitev.</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">Pravila o zasebnosti</string>
   <string name="find_device_notice_p1">Pojdi na</string>
   <string name="find_device_notice_p3">" da najdete, zaklenete ali uničite svojo napravo na daljavo.
   Če zamenjate SIM kartico bo poslan še en SMS za ponovno aktiviranje storitve."</string>
@@ -399,14 +399,15 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_notif_title_sync_with_off">Sinhr. z Mi Cloudom</string>
   <string name="micloud_other_product_price">Primerjaj cene</string>
   <string name="micloud_privacy_cloud_off">Sinhronizacija izključena</string>
-  <string name="micloud_privacy_cloud_sync">Aktiviraj Mi Cloud</string>
-  <string name="micloud_privacy_explanation">Aktiviraj Mi Cloud po omogočenju avtorizacije</string>
+  <string name="micloud_privacy_cloud_sync">Vključite storitve usluge Mi Cloud</string>
+  <string name="micloud_privacy_explanation">Odobrite avtorizacijo za vklop storitve Mi Cloud</string>
   <string name="micloud_privacy_licence_agreed">Strinjam se z Mi Cloud Pravila o zasebnosti.</string>
   <string name="micloud_privacy_licence_privacy_policy">Pravila o zasebnosti</string>
   <string name="micloud_privacy_more">Več</string>
+  <string name="micloud_privacy_progress_content">Odobravanje avtorizacije…</string>
   <string name="micloud_privacy_warning_button">Nazaj</string>
   <string name="micloud_privacy_warning_content">"Ne morem aktivirati Mi Cloud. Poskusite kasneje."</string>
-  <string name="micloud_privacy_warning_title">Nasvet</string>
+  <string name="micloud_privacy_warning_title">Pozor</string>
   <string name="micloud_proceed">Nadaljuj</string>
   <string name="micloud_request_permission_confirm">Razumem</string>
   <string name="micloud_request_permission_content">Mi Cloud potrebuje dovoljenje za sinhronizacijo podatkov. Dovolite Mi Cloudu dostop do Koledarja, Stikov, Mi Računa, statusa SIM kartice, zgodovine klicev in sporočil.</string>
