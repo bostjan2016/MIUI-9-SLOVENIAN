@@ -76,7 +76,6 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="dislike_alert_dialog_title">Zakaj ne želite videti te vsebina?</string>
   <string name="edit_alert_city_title">Urejaj opozorila</string>
   <string name="edit_city">Uredi</string>
-  <string name="empty">" "</string>
   <string name="eu_region_version_first_start_network_msg">"Z uporabo se strinjate da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno koordinate mest ki jih uporabljate in druge vrste podatkov navedenih v našim pravilih o zasebnosti. Preberite jih. Z dotikom na "Strinjam se", se strinjate z Xiaomi %1$s in %2$s."</string>
   <string name="feedback_heavy_rain">Nevihta</string>
   <string name="feedback_heavy_snow">Sneg</string>

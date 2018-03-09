@@ -90,7 +90,6 @@
   <string name="edit_skin_smooth">Smooth</string>
   <string name="edit_skin_white">Ton</string>
   <string name="effect_setting_top_text">Filtri</string>
-  <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Ni bilo možno začeti avdio zajemanja</string>
   <string name="face_age_info">Starost: %d</string>
   <string name="face_analyze_info">%1$s %2$s let</string>

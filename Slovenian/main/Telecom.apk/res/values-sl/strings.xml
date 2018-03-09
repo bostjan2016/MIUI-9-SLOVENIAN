@@ -302,7 +302,6 @@ hitrost vzorčenja"</string>
   <string name="power_remaining_charging_duration_only">Še %1$s do popolne napolnenosti</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="pull_to_call_back">Tapnite za potegniti</string>
   <string name="remaining_length_format">Še %1$s</string>
   <string name="respond_via_sms_canned_response_1">Zdaj ne morem govoriti. Za kaj gre?</string>

@@ -630,7 +630,6 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="keep_local">"Ne sinhr."</string>
   <string name="keep_local_btn">Uporabi notranji pomnilnik telefona</string>
   <string name="label_custom_type">"Po meri"</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Ni najdenih podvojenih stikov</string>
   <string name="label_notes">Beležke</string>
   <string name="label_sip_address">"Spletni klic"</string>
@@ -944,7 +943,6 @@ Napravite varnostno kopijo stikov."</string>
   <string name="phoneLabelsGroup">Telefon</string>
   <string name="phone_call_type_livetalk">LiveTalk</string>
   <string name="phone_call_type_voip">Mi Voice</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Številka je predolga</string>
   <string name="phone_primary">Primarni</string>
   <string name="photoPickerNotFoundText">Na telefonu ni slik.</string>

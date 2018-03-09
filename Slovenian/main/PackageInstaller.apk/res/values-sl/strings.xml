@@ -488,7 +488,6 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="power_remaining_duration_only_short">Še %1$s</string>
   <string name="privacyPerms">Zasebnost</string>
   <string name="privacy_relative">Zasebnost</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="reboot_time">Pripravlja se ponovni zagon…(%1$s)</string>
   <string name="remaining_length_format">Še %1$s</string>
   <string name="remove">Odstrani</string>

@@ -1639,7 +1639,6 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="primary_account_summary_with">Prvotni račun. %s</string>
   <string name="private_num">Zasebna številka</string>
   <string name="proceed">Nadaljuj</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="product_reflash_button">Osveži…</string>
   <string name="progress_dialog_exiting_ecm">Izhod iz načina povratnega klica v sili</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE usluge niso dosegljive. Izključite VoLTE za klicanje."</string>

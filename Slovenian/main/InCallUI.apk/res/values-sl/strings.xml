@@ -241,7 +241,6 @@
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_yes">Da</string>
   <string name="payphone">Govorilnica</string>
-  <string name="phone_info_divider">"  |  "</string>
   <string name="picking_participant">Pridobivanje informacij o stiku…</string>
   <string name="private_num">Zasebna številka</string>
   <string name="remind_unlock_message">Vaša naprava je zaklenjena. \"%s\ bo dostopno ko odklenete napravo. Odklenem?"</string>

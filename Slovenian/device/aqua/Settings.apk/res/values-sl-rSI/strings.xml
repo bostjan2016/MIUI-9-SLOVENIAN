@@ -3032,7 +3032,6 @@ Na tej napravi je več uporabnikov.
   <string name="private_sms_recording_intro_header">Narišite vzorec za odklepanje:</string>
   <string name="private_sms_reset_by_account">Če želite ponastaviti geslo se prijavite v svoj Mi račun</string>
   <string name="process_dex2oat_label">Optimizacija aplikacij</string>
-  <string name="process_kernel_label">OS Android</string>
   <string name="process_mediaserver_label">Predstavnostni strežnik</string>
   <string name="process_provider_in_use_description">Ponudnik %1$s je v uporabi.</string>
   <string name="process_service_in_use_description">Storitev %1$s je v uporabi.</string>

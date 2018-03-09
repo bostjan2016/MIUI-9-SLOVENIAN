@@ -1491,7 +1491,6 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="primary_account_summary_with">Osnovni račun. %s</string>
   <string name="private_num">Zasebna številka</string>
   <string name="proceed">Nastavi</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="product_reflash_button">Osveži…</string>
   <string name="progress_dialog_exiting_ecm">Izhod iz načina za povratni klic v sili</string>
   <string name="propmpt_dialog_do_not_ask">Ne prikazuj ponovno</string>
