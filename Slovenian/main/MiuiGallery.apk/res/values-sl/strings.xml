@@ -236,7 +236,7 @@
   <string name="cleaner_scan_exit_dialog_positive">Ustavi</string>
   <string name="cleaner_scan_exit_dialog_title">Ustavi skeniranje</string>
   <string name="cleaner_scan_finish">Uspešno skenirano</string>
-  <string name="cleaner_scan_no_result">"Ne mogu osvoboditi dodatni prostor za shranjevanje"</string>
+  <string name="cleaner_scan_no_result">"Ne morem osvoboditi dodatni prostor za shranjevanje"</string>
   <string name="cleaner_scan_ok">Razumem</string>
   <string name="cleaner_scan_title">Skeniranje albuma…</string>
   <string name="cleaner_screen_shot_action">Izbriši</string>
