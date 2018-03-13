@@ -364,6 +364,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="go_supermarket_title">Več aplikacij, večja hitrost in manjša poraba podatkov v App Store</string>
   <string name="gold_medals">Zlate medalje</string>
   <string name="google_bookmarks">Google</string>
+  <string name="green_kid_block_request">Spletna stran je blokirana s starševskim geslom.</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na začetni zaslon</string>
   <string name="hint">Nasvet</string>
   <string name="history">Zgodovina</string>
@@ -1021,6 +1022,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="voice_connect_network">Ne morem se povezati na omrežje</string>
   <string name="voice_description">Glasovno iskanje</string>
   <string name="voice_network_connection">Za uporabo glasovnega iskanja je potrebna omrežna povezava, preverite jo</string>
+  <string name="voice_open_permission_baidu">Pojdite v nastavitve da vključite glasovna dovoljenja za nastavitve prepoznavanja govora</string>
+  <string name="voice_open_permission_xiaoai">Pojdite v nastavitve da vključite glasovna dovoljenja za Xiaoai Voice Engine</string>
+  <string name="voice_open_permission_xunfei">Pojdite v nastavitve da vključite glasovna dovoljenja za nastavitve glasu</string>
   <string name="voice_search_permission">Glasovno iskanje zahteva dostop do mikrofona za normalno delo</string>
   <string name="voice_semantic_analysis">Brskalnik bo lahko analiziral semantiko ko mu omogoćite povezavo.</string>
   <string name="voice_start_description">Začni</string>

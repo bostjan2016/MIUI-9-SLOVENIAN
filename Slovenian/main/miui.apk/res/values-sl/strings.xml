@@ -264,6 +264,7 @@ pojdite na: %s."</string>
   <string name="tuesday_short">Tor</string>
   <string name="tuesday_shortest">T</string>
   <string name="user_agreement">Pogoji uporabe</string>
+  <string name="user_experience_program">Program uporabniških izkušenj</string>
   <string name="user_manual">Navodila</string>
   <string name="web_sso_login_fail">Morate se ponovno prijaviti</string>
   <string name="web_sso_login_message">Prijava…</string>

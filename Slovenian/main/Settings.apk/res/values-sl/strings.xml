@@ -912,6 +912,8 @@
   <string name="carrier_enabled">Omogoči/onemogoči APN</string>
   <string name="carrier_enabled_summaryOff">APN onemogočen</string>
   <string name="carrier_enabled_summaryOn">APN omogočen</string>
+  <string name="carrier_show_in_lock_screen">Prikaži samo na Zaklj. zaslonu</string>
+  <string name="carrier_show_none">Nikoli ne prikazuj ime operaterja</string>
   <string name="category_personal">Osebno</string>
   <string name="category_work">Služba</string>
   <string name="cdma_security_settings_summary">Nastavitev Moje lokacije, odklepanja zaslona, zaklepanja shrambe poverilnic</string>
@@ -2570,6 +2572,8 @@ Na tej napravi je več uporabnikov.
   <string name="memory_settings_title">Pomnilnik</string>
   <string name="memory_size">Skupno prostora</string>
   <string name="memory_summary">Porabljeno povprečno %1$s od %2$s spomina</string>
+  <string name="memory_system_rom">Sistemska shramba</string>
+  <string name="memory_system_space">Sistemska shramba</string>
   <string name="memory_title">Na voljo: %1$s\u0009\u0009Skupaj: %2$s</string>
   <string name="memory_usage">Uporaba pomnilnika</string>
   <string name="memory_usage_apps">Pomnilnik ki ga uporabljajo aplikacije</string>
@@ -5118,7 +5122,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="untitled_apn">Brez naslova</string>
   <string name="update_new_version">Dostopna je posodobitev</string>
   <string name="update_progress_for_updates">Posodabljam (%s)</string>
-  <string name="upload_debug_log_summary">Podatki katere zbiramo lahko vsebujejo osebne podatke. Podatki se bodo uporabljali za iskanje in analiziranje težav sistema in nikoli ne bodo uporabljeni za vašo identifikacijo</string>
+  <string name="upload_debug_log_summary">Statistika uporabe ki nam pomaga pri iskanju in reševanju težav lahko vsebuje vaše osebne podatke</string>
   <string name="upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
   <string name="usage">Poraba</string>
   <string name="usage_access">Dostop do podatkov o uporabi</string>
@@ -5278,7 +5282,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="user_exit_guest_dialog_remove">Odstrani</string>
   <string name="user_exit_guest_title">Odstranitev gosta</string>
   <string name="user_experience_program">Program Uporabniških izkušenj</string>
-  <string name="user_experience_program_summary">Pomagajte izboljšati MIUI s pošiljanjem anonimnih podatkov o uporabi</string>
+  <string name="user_experience_program_summary">Pomagajte nam izboljšati naše proizvode in storitve s pošiljanjem podatkov o uporabi</string>
   <string name="user_experience_program_title">Program Uporabniških izkušenj</string>
   <string name="user_guest">Gost</string>
   <string name="user_image_choose_photo">Izberite fotografijo iz Galerije</string>

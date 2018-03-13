@@ -320,6 +320,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_system_mobile_disable">Izključi podatke</string>
   <string name="app_manager_title">Aplikacije</string>
   <string name="app_manager_total_size">Skupaj</string>
+  <string name="app_manager_uninstall">Odstrani</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Odstranitev sistemskih aplikacij lahko prepreči MIUI normalno delovanje. Vseeno odstranim?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Odstranitev sistemskih aplikacij</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Ustrezne  dvojne aplikacije bodo odstranjene skupaj s podatki aplikacij.</string>

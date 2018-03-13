@@ -455,6 +455,9 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="long_screenshot_stop">Končano</string>
   <string name="long_screenshot_top_msg">Daljši posnetek zaslona…</string>
   <string name="long_screenshot_top_msg_manual">Obrežite posnetek zaslona in pritisnite tipko za zaključek</string>
+  <string name="low_temperature_button_ok">Razumem</string>
+  <string name="low_temperature_warning_message">Temperatura je prenizka, telefon se lahko izključi kadarkoli, shranite podatke.</string>
+  <string name="low_temperature_warning_title">Opozorilo o izključitvi</string>
   <string name="managed_profile_foreground_toast">"Uporabite vaš delovni profil"</string>
   <string name="managed_user_title">Vse delujoče aplikacije</string>
   <string name="mdb_entering">Začenjam...</string>

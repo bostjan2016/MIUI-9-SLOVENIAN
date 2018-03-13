@@ -560,6 +560,7 @@ hitrost vzorčenja"</string>
   <string name="close">Zapri</string>
   <string name="close_dialog">V redu</string>
   <string name="close_profile">Izklopi</string>
+  <string name="close_volte">Izključi VoLTE</string>
   <string name="cloud_antispam_title">Prepoznaj neznane številke</string>
   <string name="cmcc_ut_data_enable_prompt">"Ne morem se povezati s pomočjo VoLTE omrežja. Vključite mobilne podatke."</string>
   <string name="command_error_fdn_failure">Najprej izklopite FDN</string>
@@ -1541,6 +1542,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="power_remaining_charging_duration_only">Še %1$s do polne napolnjenosti</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
+  <string name="prefered_network_type_3g_promp">Predno izberete 3G kot prednostno omrežje morate izključiti VoLTE. Izključim sedaj?</string>
   <string name="preference_auto_ip_summary_disable">Izključeno</string>
   <string name="preference_category_ringtone">Melodija zvonjenja &amp; vibracija</string>
   <string name="preference_data_usage_summary">Nastavite vaš podatkovni plan za kontrolo uporabe mobilnih podatkov</string>
@@ -1643,6 +1645,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="progress_dialog_exiting_ecm">Izhod iz načina povratnega klica v sili</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE usluge niso dosegljive. Izključite VoLTE za klicanje."</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Usluga ni dosegljiva. Izključite VoLTE v nastavitvah."</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Predno vključite VoLTE, izberite LTE kot prednostno omrežje.</string>
   <string name="prompt_when_turnon_volte_without_lte">"LTE omrežja niso dostopna. Vklop VoLTE-a vam lahko prepreči normalno klicanje."</string>
   <string name="propmpt_dialog_do_not_ask">Ne kaži več</string>
   <string name="propmpt_dialog_network_failed_title">potekel čas klica</string>
