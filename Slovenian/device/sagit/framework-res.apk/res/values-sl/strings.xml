@@ -834,7 +834,7 @@ Znova poskusite čez %d s."</string>
     <string name="permdesc_accessImsCallService">Aplikaciji dovoljuje uporabo storitev IMS za opravljanje klicev brez vašega posredovanja.</string>
   <string name="permdesc_accessInputFlinger">Aplikaciji dovoljuje uporabo storitev InputFlinger na nizkem nivoju.</string>
     <string name="permdesc_accessLocationExtraCommands">Aplikaciji omogoča dostop do dodatnih ukazov ponudnika lokacij. S tem lahko aplikacija moti delovanje sistema GPS ali drugih virov lokacije.</string>
-  <string name="permdesc_accessMockLocation">Ustvarjanje lažnih virov lokacije zaradi testiranja ali za namestitev novega ponudnika uslug lokacije. To aplikaciji omogoča izogibanje lokacije in/ali statusa ki ga vračajo drugi viri lokacije, npr. GPS.</string>
+  <string name="permdesc_accessMockLocation">Ustvarjanje lažnih virov lokacije zaradi testiranja ali za namestitev novega ponudnika storitev lokacije. To aplikaciji omogoča izogibanje lokacije in/ali statusa ki ga vračajo drugi viri lokacije, npr. GPS.</string>
   <string name="permdesc_accessMtp">Omogoča dostop do upravljalskega programa jedra MTP zaradi implementacije MTP USB protokola.</string>
     <string name="permdesc_accessNetworkConditions">Aplikaciji omogoča spremljanje razmer v omrežju. Pri navadnih aplikacijah to ne bi smelo biti potrebno.</string>
     <string name="permdesc_accessNetworkState">Aplikaciji omogoča ogled podatkov o omrežnih povezavah, na primer o obstoječih in povezanih omrežjih.</string>

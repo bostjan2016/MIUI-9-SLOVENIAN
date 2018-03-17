@@ -506,8 +506,10 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="no_application">Nič</string>
   <string name="no_multi_window_app">Ni aplikacij ki lahko delujejo v načinu deljenega zaslona</string>
   <string name="no_notification_tips">Ni obvestil</string>
+  <string name="no_sim_card">Ni SIM kartice</string>
   <string name="no_weather_description">Pridobivanje podatkov o vremenu &gt;</string>
   <string name="not_support_multi_window">"Trenutna aplikacija ne podpira deljenega zaslona"</string>
+  <string name="notch_status_bar_date_format_12">EEEE, MMMM d</string>
   <string name="notification_header_title">Obvestila</string>
   <string name="notification_hidden_text">Prejeto novo sporočilo</string>
   <string name="notification_low_battery_action_btn">Vključi</string>
@@ -566,6 +568,12 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="power_remaining_charging_duration_only">Še %1$s do popolne napolnjenosti</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
+  <string name="prompt_danger">Nevarno</string>
+  <string name="prompt_detecting">Odkrivanje</string>
+  <string name="prompt_failure">Neuspešno</string>
+  <string name="prompt_return_to_split">Deli</string>
+  <string name="prompt_safe">Varno</string>
+  <string name="prompt_unknown">Neznano</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Ni dostopnih seznanjenih naprav</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Povezano</string>

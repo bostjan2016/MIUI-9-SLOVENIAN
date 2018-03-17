@@ -55,7 +55,7 @@
   <string name="cta_declaration_ignore">"Ne prikaži ponovno"</string>
   <string name="cta_declaration_negative_text">"Ne dovoli"</string>
   <string name="cta_declaration_positive_text">Dovoli</string>
-  <string name="cta_declaration_title">Pogoji dajanja uslug</string>
+  <string name="cta_declaration_title">Pogoji uporabe</string>
   <string name="default_hint">Išči aplikacije, glasbo, videoposnetke, knjige…</string>
   <string name="delete_history">Izbriši to nastavitev</string>
   <string name="default_search_domain">.google.com</string>

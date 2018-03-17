@@ -313,7 +313,7 @@ hitrost vzorčenja"</string>
   <string name="bugreport_in_power_summary">Prikaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
   <string name="button_convert_fbe">Izbriši in pretvori…</string>
   <string name="callEnded_pulled">Poziv prenesen na drugo napravo.</string>
-  <string name="callFailed_QOS_unavailable">Kvaliteta uslug ni dostopna</string>
+  <string name="callFailed_QOS_unavailable">Kvaliteta storitev ni dostopna</string>
   <string name="callFailed_access_information_discarded"/>
   <string name="callFailed_bearer_capability_not_authorized"/>
   <string name="callFailed_bearer_capability_unavailable"/>
@@ -1330,7 +1330,7 @@ za uporabo top-up package"</string>
   <string name="not_sufficient_funds_content_title">Premalo sredstev</string>
   <string name="not_support_message">"Top-up paket trenutno ne podpira teh številk. Lahko uporabite navaden klic."</string>
   <string name="not_support_title">"Številka ni podprta"</string>
-  <string name="not_supported_number_content">"Paket doplačila ne podpira številke uslug. Namesto tega uporabite navadno SIM za klicanje. Stroški klica so vaš problem."</string>
+  <string name="not_supported_number_content">"Paket doplačila ne podpira številke storitev. Namesto tega uporabite navadno SIM za klicanje. Stroški klica so vaš problem."</string>
   <string name="not_supported_number_content_title">Ni podprto</string>
   <string name="not_voice_capable">Glasovno klicanje ni podprto</string>
   <string name="notification_action_end_call">Prekini povezavo</string>

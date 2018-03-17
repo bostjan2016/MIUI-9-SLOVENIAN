@@ -655,7 +655,7 @@
   <string name="mibill_privacy_policy_button1">"Ne strinjam se"</string>
   <string name="mibill_privacy_policy_button2">Strinjam se</string>
   <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in upravljanje z vašimi računi samodejno. Ta funkcija je privzeto izključena za delo z povezanimi naslovi e-pošte.</string>
-  <string name="mibill_privacy_policy_link">"Z uporabo te funkcije se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji dajanja uslug&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_link">"Z uporabo te funkcije se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji uporabe&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Urejaj račune samodejno</string>
   <string name="more_context">Več</string>
   <string name="more_string">+%1$s</string>

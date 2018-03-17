@@ -2071,6 +2071,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="key_gesture_function_preview">Pregled gest in tipk</string>
   <string name="key_gesture_function_shortcut">Funkcija bližnice</string>
   <string name="key_none">Nič</string>
+  <string name="key_operation_diagram">Operacijski diagram</string>
   <string name="key_position_cat">Položaj tipk</string>
   <string name="key_settings">Tipke</string>
   <string name="key_settings_title">Tipke</string>
@@ -4189,7 +4190,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_attention_4">"Zapomnite si svoje geslo za zaklepanje zaslona drugače boste morali napraviti popolno obnovitev sistema in izbrisati vse podatke."</string>
   <string name="security_encryption_attention_info">Lahko šifrirate svoje račune, nastavitve, prenešene aplikacije in njihove podatke, medije in ostale datoteke.</string>
   <string name="security_encryption_attention_title">Pomembno</string>
-  <string name="security_encryption_close_dialog_info">Izbira "ne šifrirati naprave" lahko povzroči nedostopnost nekaterih Googlovih uslug.</string>
+  <string name="security_encryption_close_dialog_info">Izbira "ne šifrirati naprave" lahko povzroči nedostopnost nekaterih Googlovih storitev.</string>
   <string name="security_encryption_close_dialog_title">Nazaj na privzeto zaščito</string>
   <string name="security_encryption_diaglog_continue">Naprej</string>
   <string name="security_encryption_is_used">Vključeno</string>
