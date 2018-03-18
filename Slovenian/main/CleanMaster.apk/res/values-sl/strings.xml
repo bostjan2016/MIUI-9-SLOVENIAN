@@ -480,7 +480,7 @@
   <string name="title_delete_large_file">Izbriši velike datoteke</string>
   <string name="title_of_app_manage">Aplik.</string>
   <string name="title_of_auto_launch_manage">Samodejni zagon</string>
-  <string name="title_of_cloud_service">Cloud usluge</string>
+  <string name="title_of_cloud_service">Cloud storitve</string>
   <string name="title_of_garbage_cloud_scan">Cloud Preverjanje</string>
   <string name="title_of_garbage_data_set">Posodobitev baze podatkov Čistilca</string>
   <string name="title_of_network_speed_set">Prikaz hitrosti omrežja v vrstici obvestil</string>

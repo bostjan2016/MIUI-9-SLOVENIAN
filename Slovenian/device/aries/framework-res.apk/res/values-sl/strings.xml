@@ -732,8 +732,8 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_bindRemoteViews">Lastniku omogoča povezovanje z vmesnikom storitve pripomočka najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindTextService">Dovoljuje da se lastnik poveže z vmesnikom besedilne storitve najvišje ravni (npr. SpellCheckerService). Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindTvInput">Omogoča povezovanje na vmesnik najvišje ravni TV vhoda. Ne bi smelo biti potrebno za normalne aplikacije.</string>
-  <string name="permdesc_bindVoiceInteraction">Omogoča povezovanje na vmesnik najvišje ravni usluge glasovne interakcije. Ni potrebno za normalne aplikacije.</string>
-  <string name="permdesc_bindVpnService">Omogoča povezovanje na vmesnik najvišje ravni VPN usluge. Ne bi smelo biti potrebno za normalne aplikacije.</string>
+  <string name="permdesc_bindVoiceInteraction">Omogoča povezovanje na vmesnik najvišje ravni storitve glasovne interakcije. Ni potrebno za normalne aplikacije.</string>
+  <string name="permdesc_bindVpnService">Omogoča povezovanje na vmesnik najvišje ravni VPN storitve. Ne bi smelo biti potrebno za normalne aplikacije.</string>
   <string name="permdesc_bindWallpaper">Imetniku omogoča povezavo z vmesnikom ozadja najvišje ravni. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bind_connection_service">Aplikaciji omogoča uporabo telefonskih storitev za klicanje/sprejemanje klicev.</string>
   <string name="permdesc_bind_incall_service">Aplikaciji omogoča nadzor nad tem kdaj in kako uporabnik vidi zaslon pri klicu.</string>

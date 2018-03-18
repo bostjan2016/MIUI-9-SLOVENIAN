@@ -630,7 +630,7 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="return_to_incall_screen">Vrni se na klic</string>
   <string name="running_process_item_user_label">Uporabnik: %1$s</string>
   <string name="runningservices_settings_summary">Poglejte in nadzirajte zagnane procese</string>
-  <string name="runningservices_settings_title">Zagnane usluge</string>
+  <string name="runningservices_settings_title">Zagnane storitve</string>
   <string name="save_mode_btn_ok">V redu</string>
   <string name="saved_network">Shranjeno od %1$s</string>
   <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipke \"Domov\" in \"Vklop\"."</string>

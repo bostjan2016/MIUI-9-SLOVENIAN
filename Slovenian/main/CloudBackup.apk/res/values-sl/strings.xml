@@ -126,7 +126,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="no_account">Niste prijavljeni v Mi Račun.</string>
   <string name="no_backup">Ni var. kopij v Mi Cloudu</string>
   <string name="notification_channel_remind">Opomnik</string>
-  <string name="notification_channel_service">Usluga</string>
+  <string name="notification_channel_service">Storitev</string>
   <string name="open_backup_switch">Zamenjaj var. kopije</string>
   <string name="network_error">Povežite se na omrežje</string>
   <string name="open_wifi">Vključi WiFi</string>

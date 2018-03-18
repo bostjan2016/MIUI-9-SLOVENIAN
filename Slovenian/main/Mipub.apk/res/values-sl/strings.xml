@@ -50,7 +50,7 @@
   <string name="copy_to_sdcard">Shrani priponko</string>
   <string name="copy_to_sdcard_fail">"Ne morem shraniti priponke"</string>
   <string name="copy_to_sdcard_success">Priponka shranjena</string>
-  <string name="current_service_number">Trenutno število usluge</string>
+  <string name="current_service_number">Trenutno število storitev</string>
   <string name="delete">Izbriši</string>
   <string name="delete_message">Izbrisati</string>
   <string name="delete_unlocked">Izbriši zaklenjena sporočila</string>
@@ -242,6 +242,6 @@
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_hms_details_download">Prevzemanje</string>
   <string name="view_message_details">Prikaži podrobnosti</string>
-  <string name="xiaomi_service_number">Številka usluge</string>
+  <string name="xiaomi_service_number">Številka storitve</string>
   <string name="yes">V redu</string>
 </resources>

@@ -241,7 +241,7 @@ hitrost vzorčenja"</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
   <string name="incall_error_call_failed">"Ni možno usmerjanje klica."</string>
   <string name="incall_error_power_off">Za klicanje izključite letalski način.</string>
-  <string name="incall_error_supp_service_unknown">"Ta usluga ni podprta."</string>
+  <string name="incall_error_supp_service_unknown">"Ta storitev ni podprta."</string>
   <string name="incoming_call_failed_low_battery">Dohodni klic spodletel zaradi slabe baterije.</string>
   <string name="install_other_apps">Namestitev neznanih aplikacij</string>
   <string name="keep_screen_on">Brez zaklepanja</string>
@@ -319,7 +319,7 @@ hitrost vzorčenja"</string>
   <string name="retail_demo_reset_title">Potrebno je geslo</string>
   <string name="running_process_item_user_label">Uporabnik: %1$s</string>
   <string name="runningservices_settings_summary">Poglejte in nadzirajte začete procese</string>
-  <string name="runningservices_settings_title">Začete usluge</string>
+  <string name="runningservices_settings_title">Začete storitve</string>
   <string name="saved_network">Shranjeno: %1$s</string>
   <string name="screen_zoom_summary_custom">Prilagojeno (%d)</string>
   <string name="screen_zoom_summary_default">Privzeto</string>

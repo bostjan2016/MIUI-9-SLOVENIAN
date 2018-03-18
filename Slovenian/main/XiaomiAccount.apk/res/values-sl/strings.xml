@@ -504,7 +504,7 @@
  Poskrbite da boste vedeli odgovore!"</string>
   <string name="select_location_title">Izaberite vašo lokacijo</string>
   <string name="send_email_activate_message">E-pošta za preverbo poslana</string>
-  <string name="service_error">Napaka usluge</string>
+  <string name="service_error">Napaka storitve</string>
   <string name="set_success">Uspešno zamenjano</string>
   <string name="sign_in">Prijavi se</string>
   <string name="sim_changed_notification_msg">Pritisnite za posodobitev vašega telefona in obdržite svoj račun varen.</string>

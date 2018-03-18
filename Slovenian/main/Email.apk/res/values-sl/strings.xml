@@ -572,7 +572,7 @@
   <string name="long_string">dooooooooooooooooooolgo</string>
   <string name="mail">E-pošta</string>
   <string name="mail_body_turncated">To E-poštno sporočilo je preveliko za prenos. Prikaži le del, ostalo pa si oglejte kasneje na računalniku.</string>
-  <string name="mail_description_content">E-pošta je klient e-pošte ki lahko ureja več poštnih nabiralnikov, podpira pošiljanje in prejemanje ter označevanje e-pošte ter ponuja usluge kot npr. način sej, plačanje s pošto, razvrščanje pošte in ostale usluge. Po izbrisu aplikacije bodo podatki e-pošte izbrisani.</string>
+  <string name="mail_description_content">E-pošta je klient e-pošte ki lahko ureja več poštnih nabiralnikov, podpira pošiljanje in prejemanje ter označevanje e-pošte ter ponuja storitve kot npr. način sej, plačanje s pošto, razvrščanje pošte in ostale storitve. Po izbrisu aplikacije bodo podatki e-pošte izbrisani.</string>
   <string name="mail_description_title">O aplikaciji</string>
   <string name="mail_header_network_not_available">Povezava ni vzpostavljena.</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>

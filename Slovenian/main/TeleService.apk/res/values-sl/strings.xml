@@ -1643,9 +1643,9 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="proceed">Nadaljuj</string>
   <string name="product_reflash_button">Osveži…</string>
   <string name="progress_dialog_exiting_ecm">Izhod iz načina povratnega klica v sili</string>
-  <string name="prompt_to_turnoff_volte_when_failed">"VoLTE usluge niso dosegljive. Izključite VoLTE za klicanje."</string>
-  <string name="prompt_to_turnoff_volte_when_supp_service">"Usluga ni dosegljiva. Izključite VoLTE v nastavitvah."</string>
-  <string name="prompt_when_turnon_volte_on_3g_prefered">Predno vključite VoLTE, izberite LTE kot prednostno omrežje.</string>
+  <string name="prompt_to_turnoff_volte_when_failed">"VoLTE storitve niso dosegljive. Izključite VoLTE za klicanje."</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">"Storitev ni dosegljiva. Izključite VoLTE v nastavitvah."</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Preden vključite VoLTE, izberite LTE kot prednostno omrežje.</string>
   <string name="prompt_when_turnon_volte_without_lte">"LTE omrežja niso dostopna. Vklop VoLTE-a vam lahko prepreči normalno klicanje."</string>
   <string name="propmpt_dialog_do_not_ask">Ne kaži več</string>
   <string name="propmpt_dialog_network_failed_title">potekel čas klica</string>

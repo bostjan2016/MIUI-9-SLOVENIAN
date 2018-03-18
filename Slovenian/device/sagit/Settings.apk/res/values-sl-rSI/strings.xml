@@ -609,7 +609,7 @@ Kabel starega telefona priključite v stari telefon. Priključite kabel v novi t
     <string name="night_display_title">Nočna svetloba</string>
     <string name="no_channels">Ta aplikacija ni objavila nobenih obvestil</string>
     <string name="no_default_home">Ni privzetega začetnega zaslona</string>
-    <string name="no_vr_listeners">Nobena nameščena aplikacija ni zahtevala zagona kot pomožna usluga za virtualno resničnost.</string>
+    <string name="no_vr_listeners">Nobena nameščena aplikacija ni zahtevala zagona kot pomožna storitev za virtualno resničnost.</string>
     <string name="not_battery_optimizing">Ne uporablja optimizacije akumulatorja</string>
     <string name="notification_badge_title">Dovoli obvestilno piko</string>
     <string name="notification_badging_title">Dovoli obvestilne pike</string>
@@ -726,7 +726,7 @@ Kabel starega telefona priključite v stari telefon. Priključite kabel v novi t
     <string name="profile_section_header">Obvestila za delovni profil</string>
     <string name="proxy_url_title">"URL datoteke PAC: "</string>
     <string name="quick_settings_developer_tiles">Ploščice razvijalcev za hitre nastavitve</string>
-    <string name="radioInfo_menu_getIMS">Status usluge IMS</string>
+    <string name="radioInfo_menu_getIMS">Status storitve IMS</string>
     <string name="radio_info_cell_info_refresh_rate">Frekvenca osveževanja podatkov o celici:</string>
     <string name="radio_info_data_connection_disable">Onemogočanje podatkovne povezave</string>
     <string name="radio_info_data_connection_enable">Omogočanje podatkovne povezave</string>

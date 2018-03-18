@@ -16,7 +16,7 @@
   <string name="register_automatically">Samodejna prijava…</string>
   <string name="register_on_network">Prijavljeno v %1$s…</string>
   <string name="registration_done">Prijavljeno v omrežje.</string>
-  <string name="roamingTextSearching">Iskanje usluge</string>
+  <string name="roamingTextSearching">Iskanje storitve</string>
   <string name="search_networks">Iskanje omrežja</string>
   <string name="select_automatically">Izberi samodejno</string>
   <string name="sum_select_automatically">Samodejno izberi željeno omrežje</string>

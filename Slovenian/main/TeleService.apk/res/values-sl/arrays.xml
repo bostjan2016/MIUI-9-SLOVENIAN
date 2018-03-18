@@ -45,8 +45,8 @@
 	<string-array name="livetalk_about_info_array">
         <item>- Podpira domače in mednarodne številke telefona.</item>
         <item>"- Vsak klic porabi 1Kb mobilnih podatakov (uporabljaj redno mobilno omrežje ko nimate mobilne podatkovne povezave)."</item>
-        <item>- Vaš operater vam lahko zaračuna gostovanje za uporabo te usluge.</item>
-        <item>- Morate vključiti brezplačno poslušanje za uporabo te usluge, drugače vam operater lahko zaračuna stroške v gostovanju.</item>
+        <item>- Vaš operater vam lahko zaračuna gostovanje za uporabo te storitve.</item>
+        <item>- Morate vključiti brezplačno poslušanje za uporabo te storitve, drugače vam operater lahko zaračuna stroške v gostovanju.</item>
         <item>- Služba za podporo: YunZhiXun, RonLianYunTongXun, LTSC</item>
     </string-array>
 	    <string-array name="wifi_status">

@@ -712,7 +712,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="online_recommend">Seznam</string>
   <string name="online_special">Posebno</string>
   <string name="online_switch">Storitev online vsebine</string>
-  <string name="online_switch_message">Izklop omrežnih storitev bo vplival na VIP usluge in priporočila. Vseeno izključim?</string>
+  <string name="online_switch_message">Izklop omrežnih storitev bo vplival na VIP storitve in priporočila. Vseeno izključim?</string>
   <string name="online_switch_setting">Nastavitve online vsebine</string>
   <string name="open_download">Odpri</string>
   <string name="open_online_service">Vključiti morate uslugo online glasbe, jo vključim?</string>

@@ -856,7 +856,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_authenticateAccounts">Aplikaciji omogoča uporabo možnosti AccountManagera za avtentifikacijo računa, vključno izdelavo računa in nastavljanjem gesel.</string>
   <string name="permdesc_backup">Aplikaciji omogoča urejanje mehanizma izdelave var. kopij in obnove sistema. Ni namenjeno navadnim aplikacijam.</string>
   <string name="permdesc_batteryStats">Aplikacija lahko odčita podatke o trenutni porabi baterije. Tako dobi podrobne informacije o aplikacijah ki jih uporabljate.</string>
-  <string name="permdesc_bindAccessibilityService">Omogoča povezavo na vmesnik najvišjega nivoja usluge dostopnosti. Ne bi smelo biti potrebno za normalne aplikacije.</string>
+  <string name="permdesc_bindAccessibilityService">Omogoča povezavo na vmesnik najvišjega nivoja storitve dostopnosti. Ne bi smelo biti potrebno za normalne aplikacije.</string>
     <string name="permdesc_bindCarrierMessagingService">Imetniku omogoča povezovanje z vmesnikom operaterjeve sporočilne storitve najvišje ravni. To naj ne bi bilo nikoli potrebno za navadne aplikacije.</string>
     <string name="permdesc_bindCarrierServices">Imetniku omogoča povezovanje z operaterjevimi storitvami. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
     <string name="permdesc_bindConditionProviderService">Imetniku omogoča povezovanje z vmesnikom storitve ponudnika pogojev najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
@@ -872,7 +872,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_bindPrintSpoolerService">Imetniku omogoča povezovanje z vmesnikom storitve predpomnjenja izpisa najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacij.</string>
   <string name="permdesc_bindRemoteDisplay">Imetniku omogoča povezovanje z vmesnikom storitve oddaljenega zaslona najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacij.</string>
   <string name="permdesc_bindRemoteViews">Imetniku omogoča povezovanje z vmesnikom storitve pripomočkov najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacij.</string>
-  <string name="permdesc_bindTextService">Imetniku omogoča povezovanje z vmesnikom storitve tekstualne usluge (npr. SpellCheckerService) najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacij.</string>
+  <string name="permdesc_bindTextService">Imetniku omogoča povezovanje z vmesnikom storitve tekstualne storitve (npr. SpellCheckerService) najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacij.</string>
   <string name="permdesc_bindTvInput">Imetniku omogoča povezovanje z vmesnikom storitve TV vhoda najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacij.</string>
   <string name="permdesc_bindVoiceInteraction">Imetniku omogoča povezovanje z vmesnikom storitve glasovne interakcije najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacij.</string>
   <string name="permdesc_bindVpnService">Imetniku omogoča povezovanje z vmesnikom storitve VPN uslugw najvišje ravni. Tega ni treba nikoli uporabiti za navadne aplikacij.</string>

@@ -430,7 +430,7 @@
   <string name="mi_router_label">Router</string>
   <string name="midrive_network_connect_confirm">Midrive potrebuje povezavo s spletom za normalno delo.</string>
   <string name="midrive_space_full">Ni dovolj prostora na Mi Cloudu.</string>
-  <string name="midrive_welcome_message">Vaši Kuaipan podatki uspešno premeščeni. Vi pa ste dobili tri mesece članstva Mi Cloud kot darilo. Mi Cloud in cloud usluge bodo deliti prostor za shranjevanje. Do svijega Mi Cloud prostora za shranjevanje dostopite  na i.mi.com.</string>
+  <string name="midrive_welcome_message">Vaši Kuaipan podatki uspešno premeščeni. Vi pa ste dobili tri mesece članstva Mi Cloud kot darilo. Mi Cloud in cloud storitve bodo delili prostor za shranjevanje. Do svijega Mi Cloud prostora za shranjevanje dostopite  na i.mi.com.</string>
   <string name="midrive_welcome_title">Dobrodošli na Mi Cloud</string>
   <string name="midrop_msg_1">Vključite Mi Drop na drugi napravi</string>
   <string name="midrop_msg_2">Kadar je Mi Drop vključen lahko iščete naprave v bližini in pošiljate datoteke</string>
