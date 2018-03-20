@@ -88,6 +88,7 @@
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutno</string>
   <string name="custom_wallpaper_picker">Po meri</string>
+  <string name="defalut_launcher_title">Privzeti zaganjalnik</string>
   <string name="default_folder_title_game">Igre</string>
   <string name="default_folder_title_recommend">Razno</string>
   <string name="default_folder_title_security">Sistem</string>
@@ -184,13 +185,16 @@
   <string name="invalid_contact_shortcut">Napačen stik</string>
   <string name="is_setting_wallpaper_message">Nastavljam sliko za ozadje…</string>
   <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
+  <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
   <string name="launcher_not_exist">Prišlo je do napake, vrnite se na začetni zaslon in poskusite ponovno.</string>
+  <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
   <string name="like">Všeč mi je</string>
   <string name="liked">Všeč mi je bilo</string>
   <string name="loading_desktop">Samo trenutek…</string>
   <string name="loading_wallpaper">Samo trenutek…</string>
   <string name="local_wallpaper">Prevzeto</string>
   <string name="lock_screen">Zaklenjen zaslon</string>
+  <string name="lock_screen_cells_title">Zakleni razpored zač. zaslona</string>
   <string name="lock_screen_failed_message">"Ne morem nastaviti ozadje zakl. zaslona"</string>
   <string name="lock_screen_success_message">Nastavljeno za ozadje zakl. zaslona</string>
   <string name="lock_screen_wallpaper">Ozadje zakl. zaslona</string>
@@ -217,6 +221,7 @@
   <string name="menu_wallpaper">Ozadje</string>
   <string name="menu_workspace_preview">Predogled začetnih zaslonov</string>
   <string name="mi_wallpaper">MIUI Trgovina Teme</string>
+  <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
   <string name="mtzgadget_missing_text">"Pripomoček ni dostopen"</string>
   <string name="multi_selecting_tips">Če hočete premakniti aplikacijo, odvlecite njeno ikono in jo izpustite tu</string>
   <string name="no_detail_page">Ni podrobnosti strani</string>
@@ -225,6 +230,11 @@
   <string name="notification_installed">Uspešno nameščeno</string>
   <string name="notification_open_button">Odpri</string>
   <string name="online_wallpaper">Mrežno</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Izključi</string>
+  <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati zakl. aplikacij in prejemati posodobitve. Izključim?"</string>
+  <string name="open_personal_assistant_dialog_title">Izključi zakl. aplikacij</string>
+  <string name="open_personal_assistant_title">Vključi zakl. aplikacij</string>
   <string name="out_of_space">Ni več prostora na tem zaslonu</string>
   <string name="permdesc_install_shortcut">Dovoli aplikaciji da doda bližnjice brez uporabnikovega posredovanja.</string>
   <string name="permdesc_install_widget">Programu omogoča dodajanje pripomočkov brez posredovanja uporabnika.</string>
@@ -254,7 +264,9 @@
   <string name="pref_wallpaper_scroll_type_title">Poravnava ozadja</string>
   <string name="preferences_general_title">Dodatne nastavitve</string>
   <string name="preferences_title">Nastavitve vmesnika</string>
+  <string name="preferred_app_settings_not_selected">Ni izbrano</string>
   <string name="process"/>
+  <string name="recents_config_title">Nedavno</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Ni podatka</string>
   <string name="recommend_apps_notice">Priporočene aplik.</string>
@@ -263,6 +275,7 @@
   <string name="recommend_apps_tips">"Ta funkcija za normalno delovanje potrebuje povezavo s spletom. Za izključitev te funkcije se dotaknite imena te mape."</string>
   <string name="recommend_loading">Samo trenutek</string>
   <string name="reset_scene_prompt">Zaslon bo ponovno nastavljen na privzeto postavitev</string>
+  <string name="screen_cells_config_title">Razpored zač. zaslona</string>
   <string name="screen_locked_toast">Razporeditev zač. zaslona je zaklenjena</string>
   <string name="screen_number">Zaslon %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">na strani %1$d, %2$d aplikacij</string>
@@ -275,6 +288,7 @@
   <string name="share">Skupna raba</string>
   <string name="sharedUserId"/>
   <string name="show_all">Prikaži vse</string>
+  <string name="show_mem_info_title">Prikaži status spomina</string>
   <string name="sort_by_abc">Razvrsti po imenu</string>
   <string name="sort_by_frequency">Razvrsti po uporabi</string>
   <string name="sort_by_not_defined">Samodejno sortiranje</string>
@@ -285,6 +299,7 @@
   <string name="status_installing">Nalaganje</string>
   <string name="status_paused">Zaustavljeno</string>
   <string name="status_pending">Na čakanju</string>
+  <string name="title_jeejen">Jeejen začetni zaslon</string>
   <string name="title_select_live_folder">Izberi mapo</string>
   <string name="title_select_shortcut">Izberi bližnjico</string>
   <string name="toast_screen_icons_misplaced">Obnovljeno iz drugih virov, nekatere ikone se lahko izgubijo</string>

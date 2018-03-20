@@ -13,7 +13,7 @@
   <string name="accessibility_action_divider_top_full">Vrh cel zaslon</string>
   <string name="accessibility_airplane_mode">Letalo</string>
   <string name="accessibility_assistant">Asistent na dotik.</string>
-  <string name="accessibility_back">Nazaj</string>
+  <string name="accessibility_back">"Nazaj"</string>
   <string name="accessibility_battery_level">Baterija %d procentov.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth povezan.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth odklopljen.</string>
@@ -212,7 +212,7 @@ hitrost vzorčenja"</string>
   <string name="call_status_holding">Na čakanju</string>
   <string name="call_status_ringing">Zvonjenje</string>
   <string name="camera_key_action_app_title">Odpri aplikacijo</string>
-  <string name="camera_key_action_category_title">Uporabi če aplikacija kamere ni odprta</string>
+  <string name="camera_key_action_category_title">"Uporabi če aplikacija kamera ni odprta"</string>
   <string name="camera_key_action_none_title">Ni ukrepa</string>
   <string name="camera_key_action_setting_title">Mi tipka</string>
   <string name="camera_key_action_shortcut_call">Klic</string>
@@ -457,7 +457,7 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="long_screenshot_top_msg_manual">Obrežite posnetek zaslona in pritisnite tipko za zaključek</string>
   <string name="low_temperature_button_ok">Razumem</string>
   <string name="low_temperature_warning_message">Temperatura je prenizka, telefon se lahko izključi kadarkoli, shranite podatke.</string>
-  <string name="low_temperature_warning_title">Opozorilo o izključitvi</string>
+  <string name="low_temperature_warning_title">Opozorilo nizke temperature</string>
   <string name="managed_profile_foreground_toast">"Uporabite vaš delovni profil"</string>
   <string name="managed_user_title">Vse delujoče aplikacije</string>
   <string name="mdb_entering">Začenjam...</string>

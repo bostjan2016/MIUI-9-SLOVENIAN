@@ -164,7 +164,7 @@
         <item quantity="other">Najdeno novih datotek: %1$d</item>
         <item quantity="zero">Najdeno novih datotek: %1$d</item>
         <item quantity="one">Najdena %1$d nova datoteka</item>
-        <item quantity="two">Najdeno novi datoteki: %1$d</item>
+        <item quantity="two">Najdeni novi datoteki: %1$d</item>
         <item quantity="few">Najdeno novih datotek: %1$d</item>
         <item quantity="many">Najdeno novih datotek: %1$d</item>
     </plurals>
