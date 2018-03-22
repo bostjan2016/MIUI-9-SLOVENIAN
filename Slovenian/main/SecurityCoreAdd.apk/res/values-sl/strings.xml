@@ -15,8 +15,10 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="appData">Nameščene aplikacije</string>
   <string name="app_name">Komponenta varnosti jedra</string>
   <string name="back">Nazaj</string>
+  <string name="bind_device">Dodaj naprave</string>
   <string name="can_not_delete_when_calling">"Ne morem izbrisati prostore med klicem"</string>
   <string name="can_not_switch_when_calling">"Ne morem zamenjati prostore med klicem"</string>
+  <string name="can_not_switch_when_green_kid_active">Preklop v Drugi prostor je omejen s starševškim nadzorom</string>
   <string name="cancelClosePassword">"Ne izključi"</string>
   <string name="cancel_button">Prekliči</string>
   <string name="changePassword">Spremeni geslo</string>
@@ -89,6 +91,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="err_unknown">Neznana napaka</string>
   <string name="err_volume_not_enough">Ni dovolj prostora za shranjevanje</string>
   <string name="exit_private_space">Zamenjaj</string>
+  <string name="experience_more_features">Dodajte napravo da boste videli vse storitve</string>
   <string name="finger_print_num">Prstni odtis %d</string>
   <string name="finger_print_of_use">Uporabi prstni odtis</string>
   <string name="fingerprint_number_upper_limit">Preveč neuspešnih odklepanj</string>
@@ -101,6 +104,12 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="go_on_import">Nadaljuj z uvozom</string>
   <string name="gpg_message">Izdelava dvojnih aplikacij zahteva delo s Google Play igrami. Izdelam dvojno aplikacijo za Google Play igre?</string>
   <string name="gpg_title">Dvojna aplikacija za Google Play igre</string>
+  <string name="green_guard">Starševski nadzor</string>
+  <string name="green_guard_des1">Dodajte naprave da jih boste lahko upravljali na daljavo</string>
+  <string name="green_guard_des2">Vedite kje točno so vse upravljane naprave</string>
+  <string name="green_guard_des3">Urejajte nameščene aplikacije in omejite uporabo</string>
+  <string name="green_guard_title2">Pokaži informacije o lokaciji</string>
+  <string name="green_guard_title3">Urejaj aplikacije</string>
   <string name="guide_contact_sub_title_desc">"Stiki dodani v Drugi prostor bodo zasebni.
 Sporočila se bodo pojavila samo v Drugem prostoru."</string>
   <string name="guide_contact_suc_sub_title_desc">Samo zasebni stiki in sporočila bodo prikazani v Drugem prostoru</string>
@@ -141,6 +150,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="msg_switch_photo">Izbrišem te fotografije v Prvem prostoru ko jih premestite?</string>
   <string name="needSetKeyguardFirst">Nastavite geslo Prvega prostora</string>
   <string name="needSetKeyguardFirstDes">Nastavite geslo Prvega prostora preden nastavite geslo Drugega prostora</string>
+  <string name="need_network_when_bind">Povežite se na omrežje preden dodate napravo</string>
   <string name="need_network_when_create">Pred izdelavo Delovnega prostora se povežite na omrežje</string>
   <string name="need_reset_passwd">Ponastavi geslo Delovnega prostora pred vstopom v Delovni prostor</string>
   <string name="need_set_second_space_desc">Dodajte geslo Drugega prostora pred dodajanjem prstnega odtisa Drugega prostora</string>
