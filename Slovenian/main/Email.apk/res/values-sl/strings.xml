@@ -8,10 +8,6 @@
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">Račun z istim imenom že obstaja</string>
   <string name="account_options_sync_title">Nastavitve sinhronizacije</string>
   <string name="account_password_spaces_error">To geslo se začne ali konča z enim ali več presledki. Številni strežniki ne podpirajo gesel s presledki.</string>
@@ -213,7 +209,6 @@
   <string name="attachment_unknown">%s Datotek</string>
   <string name="attachment_video">Video posnetek</string>
   <string name="attachments_header">Priponke</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">"Po brisanju sporočil prikaži…</string>
   <string name="auto_advance_label">Izbriši potek sporočila</string>
   <string name="auto_advance_summary">Izberite kaj prikazati po brisanju sporočila</string>
@@ -407,7 +402,6 @@
   <string name="email_address">Naslov e-pošte</string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Mail</string>
-  <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">Nastavitve E-pošte</string>
   <string name="email_setting_keywords">Računi;Dodaj račun;računi E-pošte;Dodaj račun E-pošte;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
@@ -552,7 +546,6 @@
   <string name="information_subscribe_first_intro">Kaže da prvič uporabljate "Novice" , izberite katero od oznak ki vas zanima da vam lahko priporočimo vsebino.</string>
   <string name="inline_picture_deleted">Prenos manjkajoče slike…"</string>
   <string name="input_password_prompt">Vpišite geslo</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="interact_with_server_error">"Povezovanje s strežnikom ni uspelo"</string>
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="invalid_recipient_title">Napaka prejemnika</string>
@@ -1003,7 +996,6 @@ Poskusite z ostalo pošto."</string>
   <string name="str_select_none">Odznači vse</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Predmet</string>
-  <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_contacts_fail_per_content">Omogočite dovoljenje za stike</string>
   <string name="sync_contacts_fail_per_title">Sinhronizacija stikov ni uspela</string>
   <string name="sync_contacts_fail_permission">Sinhronizacija stikov ni uspela. V nastavitvah omogočite dovoljenje stikov.</string>
