@@ -46,6 +46,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="disabled">Izklj.</string>
   <string name="empty_title_apps_container_list">Ni aplikacij</string>
   <string name="enable_hide_mode">Vključi Varčevanje baterije</string>
+  <string name="enable_sleep_mode">Vključitev načina mirovanja za optimiziranje nočnega mirovanja</string>
   <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
   <string name="extreme_power_config_mode_category">Ekstremni način</string>
   <string name="extreme_power_config_mode_desc">Sprememba na ekstremni način bo izključila sinhronizacijo, Bluetooth, GPS, NFC, dvojni dotik, osvetlitev tipk, zbujanje zakl. zaslona ob obvestilih, utripajočo lučko obvestil itd in način varčevanja baterije nastavil na ultimativno</string>
@@ -166,6 +167,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_config_ultimate_title">Ultimativno</string>
   <string name="power_config_ultimate_unlock_already">Vse funkcije so odklenjene</string>
   <string name="power_configure_screen_brightness_enable">Nastavite osvetlitev zaslona</string>
+  <string name="power_consume_abnormal_night">Povečana poraba energije ponoči</string>
   <string name="power_customize_giveup_change">Zavržem spremembe?</string>
   <string name="power_dialog_cancel">Prekliči</string>
   <string name="power_dialog_cpu_max_freq_title">Maks. CPU frekvenca</string>
@@ -214,6 +216,11 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="sleep_config_enhance_description">Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, omejil NFC, Bluetooth, GPS, mobilne podatke in WiFi, ravnotako pa ne bo vklopil ekran pri obvestilih</string>
   <string name="sleep_config_enhance_description_non_nfc">"Kadar MIUI odkrije da spite bo zaprl aplikacije v ozadju, Bluetooth, GPS, mobilne podatke in WiFi,ravnotako pa ne bo vklopil ekran pri obvestilih."</string>
   <string name="sleep_config_enhance_title">Način mirovanja</string>
+  <string name="sleepmode_disclaimer_agree">Strinjam se</string>
+  <string name="sleepmode_disclaimer_cancel">Prekini</string>
+  <string name="sleepmode_privacy_content">Ta funkcija bo uporabljala sistem telefona in podatke o napravi, ki ne bodo prenešeni na strežnik</string>
+  <string name="sleepmode_privacy_link">Popolna varnost in zasebnost</string>
+  <string name="sleepmode_privacy_title">Način mirovanja</string>
   <string name="still">Slika</string>
   <string name="sucess">Končano</string>
   <string name="ui">Standardno</string>

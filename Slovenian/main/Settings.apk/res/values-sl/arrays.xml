@@ -421,6 +421,10 @@
         <item>Hitrost animacije 5x</item>
         <item>Hitrost animacije 10x</item>
     </string-array>
+	<string-array name="traffic_type">
+        <item>"Uporaba podatkov "</item>
+        <item>"WiFi uporaba "</item>
+    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animacija izključena</item>
         <item>Hitrost animacije 0,5x</item>
@@ -468,6 +472,24 @@
         <item>Izključeno</item>
         <item>Na zaslonu v obliki črt</item>
         <item>V ukazu adb shell dumpsys gfxinfo</item>
+    </string-array>
+	<string-array name="date_of_app_all">
+        <item>Danes (podatki)</item>
+        <item>Ta mesec (podatki)</item>
+        <item>Pretekli mesec (podatki)</item>
+        <item>Danes WiFi</item>
+        <item>Ta mesec WiFi</item>
+        <item>Pretekli mesec WiFi</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Danes "</item>
+        <item>"Ta mesec "</item>
+        <item>"Pretekli mesec "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Danes: "</item>
+        <item>"Ta mesec: "</item>
+        <item>"Pretekli mesec: "</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
          <item>Izključeno</item>
@@ -1123,4 +1145,8 @@
          <item>Obvestila se bodo prikazala v plošči obvestil</item>
          <item>Obvestila se bodo prikazala v zasebni mapi</item>
      </string-array>
+	 <string-array name="ap_identify">
+         <item>Privzeto</item>	         
+        <item>Mobilna dostopna točka</item>
+	</string-array>
 </resources>

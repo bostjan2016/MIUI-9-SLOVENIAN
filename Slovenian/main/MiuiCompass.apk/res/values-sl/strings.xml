@@ -55,6 +55,7 @@
   <string name="pressure_title">Pritisk</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Stresi za kalibracijo</string>
+  <string name="unit_degree">Stopinje</string>
   <string name="using_camera_confirm_cancel">Končaj</string>
   <string name="using_camera_confirm_ok">Strinjam se</string>
 </resources>

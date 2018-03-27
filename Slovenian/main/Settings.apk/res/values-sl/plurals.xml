@@ -78,6 +78,14 @@
         <item quantity="one">Napačen PIN SIM kartice; imate še %d poskus preden boste morali kontaktirati svojega mobilnega operaterja da odklene vašo napravo.</item>
         <item quantity="few">Napačen PIN SIM kartice; imate še %d poskusa.</item>
 	</plurals>
+	<plurals name="bg_network_allow_count">
+        <item quantity="other">%d aplikacij se lahko poveže z omrežjem</item>
+        <item quantity="one">%d aplikacija se lahko poveže z omrežjem</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d aplikacij se ne more povezati z omrežjem"</item>
+        <item quantity="one">"%d aplikacija se ne more povezati z omrežjem"</item>
+    </plurals>
 	<plurals name="connected_devices_number">
          <item quantity="other">%d naprav</item>
          <item quantity="one">%d naprava</item>
@@ -261,5 +269,9 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
     <plurals name="print_settings_summary">
         <item quantity="other">Število storitev izpisa: %1$d</item>
         <item quantity="one">1 storitev izpisa</item>
+    </plurals>
+	<plurals name="firewall_item_summary">
+        <item quantity="other">Omejena povezava za toliko aplikacij: %s</item>
+        <item quantity="one">Omejena povezava za %s aplikacijo</item>
     </plurals>
 </resources> 

@@ -1145,7 +1145,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="search_simple_mode">Prikaz;info;Fotografije;Stiki</string>
   <string name="search_smart_group_title">Stiki;Prikaz</string>
   <string name="search_wipe_data">Organiziraj;Stiki</string>
-  <string name="searching_vcard_message">"Iskanje vCard podatkov v pomnilniku…"</string>
+  <string name="searching_vcard_message">"Iskanje vCard podatkov v napravi…"</string>
   <string name="select_all">"Izberi vse"</string>
   <string name="select_all_exceed">"Izberite ne več od %1$d, ne morete izbrati vse"</string>
   <string name="select_exceed">Izberite ne več od %1$d</string>

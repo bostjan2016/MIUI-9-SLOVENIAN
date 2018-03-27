@@ -77,6 +77,13 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="dont_import">Ne zdaj</string>
   <string name="downloading_space">Prenašanje…</string>
   <string name="enable">Vključi</string>
+  <string name="encrypt_space_delete_dialog_click_message">"*Če ne morete premestiti podatke, %s"</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">sedaj izbrišite in izdelajte Drugi prostor.</string>
+  <string name="encrypt_space_delete_dialog_message">"Ravnokar boste posodobili Android. Po posodobitvi bodo podatki drugega prostora nekompatibilni. Da se temu izognete, prestavite vse podatke v prvi prostor, izbrišite drugi prostor in ga ponovno izdelajte."</string>
+  <string name="encrypt_space_delete_dialog_positive_text">Prestavi podatke</string>
+  <string name="encrypt_space_delete_dialog_title">Pozor</string>
+  <string name="encrypt_space_delete_notification_message">Izbrišite drugi prostor in izdelajte novega za uspešno posodobitev naprave.</string>
+  <string name="encrypt_space_delete_notification_title">Drugi prostor</string>
   <string name="enter_air_space">Pojdi v Delovni prostor</string>
   <string name="err_copy_contacts">"Ne morem kopirati stikov"</string>
   <string name="err_copy_files">"Ne morem kopirati datotek"</string>

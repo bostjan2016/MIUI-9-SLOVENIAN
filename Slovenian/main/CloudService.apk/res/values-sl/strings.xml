@@ -595,6 +595,8 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="upgrade_space_successful_total">%sGB na voljo</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">Pogoji uporabe</string>
+  <string name="user_agreement_content">"Z uporabo te storitve se strinjate z %s."</string>
+  <string name="user_agreement_link">"Mi Cloud Pogoji uporabe"</string>
   <string name="user_agreement_p5">"
 "</string>
   <string name="user_agreement_p6">"

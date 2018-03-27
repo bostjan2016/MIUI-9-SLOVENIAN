@@ -231,6 +231,7 @@ hitrost vzorčenja"</string>
   <string name="clear_adb_keys">Odpoklic avtorizacije za odpravljanje napak preko USB</string>
   <string name="click_expand">Pritisni za razširitev</string>
   <string name="click_to_return_multi_window">Pritisni za vrnitev v Deljeni zaslon</string>
+  <string name="click_to_return_multi_window_of_notch">Vrnitev v deljeni zaslon</string>
   <string name="confirm_enable_oem_unlock_text">OPOZORILO: storitve zaščite naprave ne bodo delovale, dokler je ta storitev vključena.</string>
   <string name="confirm_enable_oem_unlock_title">Dovolite OEM odklep?</string>
   <string name="connected_via_network_scorer">Samodejno povezan preko %1$s</string>

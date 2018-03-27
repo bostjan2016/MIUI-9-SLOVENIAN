@@ -257,6 +257,7 @@
   <string name="apn_user">Uporabniško ime</string>
   <string name="app_backup">Varnostna kopija</string>
   <string name="app_data_usage">Poraba podatkov aplikacije</string>
+  <string name="app_detail">Podrobnosti</string>
   <string name="app_disable_dlg_positive">Onemogočanje aplikacije</string>
   <string name="app_disable_dlg_text">Če onemogočite to aplikacijo druge aplikacije morda ne bodo več delovale kot bi morale.</string>
   <string name="app_disable_dlg_title">Želite onemogočiti vgrajeno aplikacijo?</string>
@@ -287,7 +288,9 @@
   <string name="app_list_preference_none">Nič</string>
   <string name="app_lock_role_instruction">Zaščitite svoje zasebne aplikacije</string>
   <string name="app_memory_use">Uporaba pomnilnika</string>
+  <string name="app_mobile">Mobilno</string>
   <string name="app_name_label">Aplikacija</string>
+  <string name="app_name_na">Uporaba podatkov</string>
   <string name="app_not_found_dlg_text">Aplikacije ni bilo mogoče najti na seznamu nameščenih aplikacij.</string>
   <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">Aplikacija ni podprta v omejenih profilih</string>
@@ -323,11 +326,13 @@
   <string name="app_restrictions_custom_label">Nastavitev omejitev za aplikacijo</string>
   <string name="app_sees_restricted_accounts">Ta aplikacija lahko dostopa do vaših računov</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Ta aplikacija lahko dostopa do vaših računov. Upravlja jo aplikacija %1$s.</string>
-   <string name="app_settings_link">Dodatne nastavitve v aplikaciji</string>
+  <string name="app_settings_link">Dodatne nastavitve v aplikaciji</string>
   <string name="app_special_disable_dlg_text">Če onemogočite to aplikacijo druge aplikacije morda ne bodo več delovale kot bi morale. Prav tako bodo izbrisani vaši podatki.</string>
   <string name="app_special_disable_dlg_title">Ali želite izbrisati podatke in onemogočiti aplikacijo?</string>
   <string name="app_switch_key">Nedavne</string>
   <string name="app_usage_preference">Nastavitve uporabe aplikacije</string>
+  <string name="app_version">Verzija</string>
+  <string name="app_wifi">WiFi</string>
   <string name="application_forbid_auto_startup">Ustavi %s za zagon v ozadju</string>
   <string name="application_info_label">Podatki o aplikaciji</string>
   <string name="application_item_already_permission">Dovoljeno</string>
@@ -422,6 +427,8 @@
   <string name="background_location_requests_title">Dovoli lociranje v ozadju</string>
   <string name="background_location_select_apps">Izberi vse</string>
   <string name="background_process_stop_description">To je star proces aplikacije ki se še vedno izvaja če bi ga potrebovali. Običajno ga ni treba ustaviti.</string>
+  <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju lahko tej aplikaciji onemogoči da normalno deluje, sprejema obvestila, prenaša vsebino itd. Vseeno omejim?</string>
+  <string name="background_traffic">Promet v ozadju %s</string>
   <string name="backtouch_enable_title">Nastavite glasnost zadaj</string>
   <string name="backup_configure_account_default_summary">Trenutno v nobenem računu niso shranjeni varnostno kopirani podatki</string>
   <string name="backup_configure_account_title">Račun za kopiranje</string>
@@ -829,6 +836,7 @@
   <string name="bt_rarely_used_device_title">Redko uporabljene naprave (%d)</string>
   <string name="bt_trace_log">Dovoli Bluetooth Trace zapisnik</string>
   <string name="bt_trace_log_summary">Bluetooth Trace zapisnik</string>
+  <string name="btn_back">Nazaj</string>
   <string name="bug_report_settings">Povratne inf.</string>
   <string name="bugreport_in_power">Bližnjica za por. o napakah</string>
   <string name="bugreport_in_power_summary">Prikaz gumba za ustvarjanje poročila o napakah v meniju</string>
@@ -853,6 +861,7 @@
   <string name="button_text_ok_timer">V redu (%d)</string>
   <string name="button_text_reboot_now">Ponovni zagon</string>
   <string name="button_text_reject">Zavrni</string>
+  <string name="byteShort">B</string>
   <string name="cache_header_label">Predpomnilnik</string>
   <string name="cache_size_label">Predpomnilnik</string>
   <string name="cached">Predpomnjeni procesi v ozadju</string>
@@ -1310,9 +1319,11 @@
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrišem podatke o prstnem odtisu?</string>
   <string name="delete_rule">Odstrani pravila</string>
   <string name="delete_saved_network">Izbriši shranjena omrežja</string>
+  <string name="deleted_apps">Izbrisane aplikacije</string>
   <string name="demo_mode">Demo način</string>
   <string name="demo_mode_summary">Prikaži ikone določene statusne vrste za demo</string>
   <string name="deny">Zavrni</string>
+  <string name="detail_app_button">Informacije o aplikaciji</string>
   <string name="deny_sms_message">"Zavrni pošiljanje SMS sporočil"</string>
   <string name="deny_sms_title">Zakleni SMS</string>
   <string name="details_subtitle">Podrobnosti uporabe</string>
@@ -1375,9 +1386,16 @@
   <string name="device_status_summary">Številka telefona, signal itd.</string>
   <string name="device_total_memory">Vsega spomina</string>
   <string name="dial_application_title">Izbiraj</string>
-  <string name="dial_pad_tones_title">Toni tipkovnice</string>
+  <string name="dial_pad_tones_title">Toni izbiranja</string>
+  <string name="dialog_chose_item">Izberite predmet za prikaz</string>
   <string name="dialog_content_login">Se želite prijaviti v svoj Mi račun za posodobitve?</string>
   <string name="dialog_no">Ne</string>
+  <string name="dialog_restrict_all_mobile_summary">%s Po tem bo mobilna podatkovna povezava omejena za vse aplikacije.</string>
+  <string name="dialog_restrict_all_mobile_title">Omeji %s mobilno podatkovno povezavo</string>
+  <string name="dialog_restrict_all_wlan_summary">WiFi povezava bo po tem omejena za vse aplikacije.</string>
+  <string name="dialog_restrict_all_wlan_title">Omeji WiFi povezavo</string>
+  <string name="dialog_restrict_negative">Omeji</string>
+  <string name="dialog_restrict_positive">Prekini</string>
   <string name="dialog_not_show_again">Ne kaži več</string>
   <string name="dialog_title_color_calibration">Nastavljena korekcija barv</string>
   <string name="dialog_title_font_size">Velikost pisave</string>
@@ -1558,6 +1576,8 @@
   <string name="drive_mode_title">Avtomobilski način</string>
   <string name="drive_mode_voice_report">Pretvarjanje teksta v govor</string>
   <string name="dtmf_tone_enable_title">Zvok številčnice</string>
+  <string name="dual_setting_simcard1">SIM 1</string>
+  <string name="dual_setting_simcard2">SIM 2</string>
   <string name="edge_mode_back">Nazaj</string>
   <string name="edge_mode_back_summary">Dvakrat se dotaknite roba telefona za nazaj</string>
   <string name="edge_mode_clean">Brisanje predpomnilnika sistema</string>
@@ -1614,7 +1634,7 @@
   <string name="enable_wifi_master_key_service">Vključi WiFi Master ključ</string>
   <string name="enable_wifi_master_key_service_first">Vključi</string>
   <string name="enabled_by_admin">Omogočil skrbnik</string>
-  <string name="enalbe_identify_iPhone">AP identifikacija</string>
+  <string name="enalbe_identify_iPhone">Identifikacija naprave</string>
   <string name="encrypt_dont_require_password">Ne, hvala</string>
   <string name="encrypt_dont_require_pattern">Ne, hvala</string>
   <string name="encrypt_dont_require_pin">Ne, hvala</string>
@@ -1760,6 +1780,28 @@
   <string name="finish_application">Prisilna zaustavitev</string>
   <string name="finish_button">Končano</string>
   <string name="finish_button_label">Končano</string>
+  <string name="firewall_allow_all">Vsem aplikacijam dovoli povezovanje na naslednji način</string>
+  <string name="firewall_allow_data">Dovoli uporabo mobilnih podatkov</string>
+  <string name="firewall_allow_network">Dovoli</string>
+  <string name="firewall_allow_wlan">Dovoli WiFi povezovanje</string>
+  <string name="firewall_applist">Aplikacije</string>
+  <string name="firewall_mobile">Mobilni podatki</string>
+  <string name="firewall_network_allow">Dovoli se %1$s da uporabi %2$s povezavo</string>
+  <string name="firewall_network_restrict_notify_message">Pritisni za spremembo nastavitev.</string>
+  <string name="firewall_network_restrict_notify_mobile">Mobilni podatki</string>
+  <string name="firewall_partial">Nekaterim aplikacijam dovoli povezavo na naslednji način​</string>
+  <string name="firewall_permission">Dovoljenja povezovanja</string>
+  <string name="firewall_restrict_all">Omeji povezovanje za vse aplikacije na sledeči način</string>
+  <string name="firewall_restrict_android_dialog_content">Da ste prepričani da vaša naprava deluje normalno se bo nekoliko aplikacij Android sistema še vedno povezovalo na splet. Te aplikacije bodo uporabljale mobilno podatkovno povezavo in lahko povzročijo majnše stroške.</string>
+  <string name="firewall_restrict_android_dialog_title">Pozor</string>
+  <string name="firewall_restrict_data">Omeji uporabo mobilnih podatkov</string>
+  <string name="firewall_restrict_notify_title">"%s ne more uporabljati omrežje"</string>
+  <string name="firewall_restrict_wlan">Omeji uporabo WiFi omrežja</string>
+  <string name="firewall_set_bg_firewall_default_dialog_summary">"Če omejite povezovanje v ozadju se nove aplikacije ne bodo mogle povezati v splet po namestitvi. Po tem ne boste mogli sprejemati sporočil in prenašati vsebino. Omejim vseeno?"</string>
+  <string name="firewall_set_bg_firewall_default_dialog_title">Omeji povezovanje v ozadju za nove aplikacije</string>
+  <string name="firewall_temp_rule_reason">%2$s je omejil spletno povezavo za %1$s</string>
+  <string name="firewall_wifi">WiFi</string>
+  <string name="firewall_wifi_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet preko WiFi kadar je ta funkcija izključena."</string>
   <string name="firmware_version">Različica sistema Android</string>
   <string name="floating_window_switch_label">Vklopite plavajoča okna</string>
   <string name="floating_window_switch_label_disable">Izklopite plavajoča okna</string>
@@ -1816,6 +1858,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="force_touch_demo">Demo prikaz</string>
   <string name="force_touch_enable">Vključi 3D Touch</string>
   <string name="force_touch_enable_tips">"Dolg pritisk na ikono aplikacije bo prikazal izbiro bližnjic aplikacije dokler je 3D Touch vključen."</string>
+  <string name="foreground_traffic">V ospredju %s</string>
   <string name="forget">Pozabi</string>
   <string name="forget_password_button_text">Pozabljeno geslo</string>
   <string name="forget_pattern">Ali ste pozabili geslo?</string>
@@ -1880,6 +1923,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="giga_hertz">GHz</string>
+  <string name="gigabyteShort">GB</string>
   <string name="global_change_warning">Nastavitev velja za vse uporabnike tega telefona.</string>
   <string name="global_font_change_title">Spremenjena velikost pisave</string>
   <string name="global_locale_change_title">Spremenjen jezik</string>
@@ -2052,6 +2096,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="invalid_location">Mesto namestitve ni veljavno.</string>
   <string name="invalid_size_value">Velikosti paketa ni bilo mogoče izračunati.</string>
   <string name="ipaddr_label">IPaddr:</string>
+  <string name="item_system_app">Sistemske aplikacije</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s in %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
@@ -2143,6 +2188,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keywords_wifi">wifi wifi omrežna povezava</string>
   <string name="keywords_wifi_calling">wifi wifi klic klicanje</string>
   <string name="keywords_write_settings">zapisovanje spreminjanje sistemske nastavitve</string>
+  <string name="kilobyteShort">KB</string>
+  <string name="kilobyte_per_second">KB/s</string>
+  <string name="label_mi_stats">Mi analitika</string>
   <string name="lab_functions_title">Beta funkcije</string>
   <string name="label_global_roaming_settings">Gostovanje nastavitve</string>
   <string name="language_keyboard_settings_title">Jezik in vnos</string>
@@ -2196,6 +2244,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="line_breaking_summary">Optimizirajte odstavek prelamljanja vrstice</string>
   <string name="line_breaking_title">Optimizirajte besedilo</string>
   <string name="link_speed_label">Hitrost povezave:</string>
+  <string name="list_bg_header_text">"Če omejite povezovanje v ozadju se nove aplikacije po namestitvi ne bodo mogle povezati na splet. Po tem ne boste mogli sprejemati sporočila ali prenesti vsebine."</string>
+  <string name="list_empty_text">Prazno</string>
   <string name="loading_notification_apps">Nalaganje aplikacij ...</string>
   <string name="local_auto_backup_off">Izklop</string>
   <string name="local_auto_backup_on">Vklop</string>
@@ -2429,6 +2479,7 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="lockscreen_glogin_password_hint">Geslo</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_summary">Wallpaper carousel visoka kvaliteta</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">Prepreči vnos odgovora ali drugega teksta v obvestila kadar je naprava zaklenjena</string>
   <string name="login_account_dialog_message">Prijavite se z Mi Računom in vključite sinhronizacijo z Mi Cloudom.</string>
@@ -2451,6 +2502,7 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Testiraj omrežje za težave s povezovanjem</string>
   <string name="main_running_process_description">Glavni proces je v uporabi.</string>
+  <string name="main_toolbar_statistic">Statistika uporabe podatkov</string>
   <string name="make_sure_cancel_update">Prekličem posodobitev?</string>
   <string name="man_add_application">Dodaj samodejne aplikacije</string>
   <string name="manage_condition_providers">Podrobnosti pogojev</string>
@@ -2538,6 +2590,8 @@ Na tej napravi je več uporabnikov.
   <string name="media_volume_option_title">Glasnost predstavnosti</string>
   <string name="media_volume_summary">Nastavi glasnost za glasbo in video</string>
   <string name="media_volume_title">Predstavnost</string>
+  <string name="megabyteShort">MB</string>
+  <string name="megabyte_per_second">MB/s</string>
   <string name="medium_font">Srednja</string>
   <string name="mem_details_title">Podrobnosti pomnilnika</string>
   <string name="mem_state_subtitle">Stanje pomnilnika</string>
@@ -2605,6 +2659,7 @@ Na tej napravi je več uporabnikov.
   <string name="menu_stats_total">Skupna poraba</string>
   <string name="menu_stats_unplugged">%1$s od odklepa</string>
   <string name="menu_use_uss">Uporabi Uss</string>
+  <string name="mi_service_app_detail">Podrobnosti uporabe podatkov</string>
   <string name="mi_shopping_mall">Mi Store</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast ni dostupen ker računalnik streama na to napravo</string>
   <string name="miracast_cancelconnect_dialog">Prekini povezavo</string>
@@ -2824,6 +2879,9 @@ Na tej napravi je več uporabnikov.
   <string name="need_reboot_now">Ponovno zaženite napravo za namestitev posodobitve.</string>
   <string name="netcheck_title">Diagnostika omrežja</string>
   <string name="network_assistant">Uporaba podatkov</string>
+  <string name="network_changed_noti_summary">Uporaba mobilnih podatkov</string>
+  <string name="network_changed_noti_title">Prekinjena WiFi povezava</string>
+  <string name="network_control">Prikaz nastavitev aplikacije</string>
   <string name="network_detail">Podrobnosti omrežja %s</string>
   <string name="network_error">Napaka na omrežju</string>
   <string name="network_name_displayed_summary">Ime omrežja prikaži v statusni vrstici</string>
@@ -2835,6 +2893,12 @@ Na tej napravi je več uporabnikov.
   <string name="network_scorer_change_active_dialog_title">Želite zamenjati Pomočnika za WiFi?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Želite za upravljanje omrežnih povezav uporabljati aplikacijo %s?</string>
   <string name="network_settings_title">Mobilna omrežja</string>
+  <string name="network_speed_for_apps_close">Prisilno zaustavi</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Prisilno zaustavim to aplikacijo?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"Ne morem prisilno zaustaviti sistemske aplikacije."</string>
+  <string name="network_speed_for_apps_others">Ostalo</string>
+  <string name="network_speed_for_apps_title">Povezava</string>
+  <string name="network_speed_for_apps_total">Hitrost povezave</string>
   <string name="network_state_label">Stanje omrežja:</string>
   <string name="networkid_label">Omrežni ID:</string>
   <string name="networks">Izbira operaterja</string>
@@ -3336,8 +3400,10 @@ Na tej napravi je več uporabnikov.
   <string name="permission_settings_title">Dovoljenja aplikacij</string>
   <string name="permissions_label">Dovoljenja</string>
   <string name="permit_draw_overlay">Dovoli risanje čez druge aplikacije</string>
+  <string name="permit_running_network">Podatki v ozadju</string>
   <string name="permit_usage_access">Dovoli dostop do podatkov o uporabi</string>
   <string name="permit_write_settings">Dovoli spreminjanje sistemskih nastavitev</string>
+  <string name="person_hotpot">Mobilne dostopne točke</string>
   <string name="personal_data_section_title">Osebni podatki</string>
   <string name="personal_device_admin_title">Osebno</string>
   <string name="personal_section_title">Osebno</string>
@@ -3402,12 +3468,18 @@ Na tej napravi je več uporabnikov.
   <string name="power_usage_summary_title">Baterija &amp; zmogljivost</string>
   <string name="power_wifi">WiFi</string>
   <string name="pre_installed_application">Prednameščene aplikacije</string>
+  <string name="pref_bg_network_title">Povezava v ozadju</string>
   <string name="pref_button_light">Osvetlitev tipk</string>
   <string name="pref_button_light_summary">Osvetlitev tipk Meni, %1$s in Nazaj</string>
   <string name="pref_button_light_summary_sub">Začetna,</string>
   <string name="pref_edge_handgrip">Kontrole roba</string>
+  <string name="pref_key_tethering_setting">Enkratna omejitev podatkov</string>
+  <string name="pref_key_tethering_title">Enkratna omejitev podatkov</string>
+  <string name="pref_manage_bg_network">"Upravljanje z omrežnim povezovanjem v ozadju"</string>
+  <string name="pref_new_installed_preconfig_title">"Privzete nastavitve novih aplikacij"</string>
   <string name="pref_operational_key">Navigacijske tipke</string>
   <string name="pref_title_lang_selection">Nastavitve jezika</string>
+  <string name="pref_title_update_notification">Obvestila uporabe podatkov</string>
   <string name="pref_volume_launch_camera_summary">Pritisnite tipko glasnost - dvakrat za zagon kamere</string>
   <string name="pref_volume_launch_camera_title">Zaženi kamero</string>
   <string name="pref_volume_wake_summary">S pritiskom na tipko za glasnost zbudi napravo</string>
@@ -3762,6 +3834,7 @@ Na tej napravi je več uporabnikov.
   <string name="restore_default_apn_completed">Ponastavitev privzetih nastavitev APN-jev končana</string>
   <string name="restr_pin_enter_admin_pin">Vnesite skrbniški PIN</string>
   <string name="restrict_background_blacklisted">Podatki v ozadju so izključeni</string>
+  <string name="restrict_bg_app">Omeji</string>
   <string name="restrict_background_data_dialog_summary">"Aplikacije v ozadju ne bodo imele možnost prevzeti nova obvestila."</string>
   <string name="restrict_background_data_notification_summary">Aplikacije se ne morejo povezati z omrežjem če so podatki v ozadju omejeni</string>
   <string name="restrict_background_data_title">Omejitev podatkov v ozadju</string>
@@ -3796,6 +3869,7 @@ Na tej napravi je več uporabnikov.
   <string name="roaming_warning_multiuser">"Ko dovolite podatkovno gostovanje lahko pride do velikih stroškov!
 
 To velja za vse uporabnike telefona."</string>
+  <string name="root">ROOT dostop</string>
   <string name="rule_name">Ime</string>
   <string name="running_frequency">Frekvenca</string>
   <string name="running_process_item_removed_user_label">Odstranjen uporabnik</string>
@@ -3865,6 +3939,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_paper_mode_apps_title">Uporabi Način branja</string>
   <string name="screen_paper_mode_global_summary">Uporabi Način branja za vse aplikacije</string>
   <string name="screen_paper_mode_global_title">Vse aplikacije</string>
+  <string name="screen_paper_mode_hdr_toast">"Način branja bo izključen dokler predvajate HDR videozapise. Po koncu predvajanja se bo samodejno vključil."</string>
   <string name="screen_paper_mode_local_summary">Uporabi Način branja za izbrane aplikacije</string>
   <string name="screen_paper_mode_local_title">Izbrane aplikacije</string>
   <string name="screen_paper_mode_off_apps_title">"Ne uporabi Način branja"</string>
@@ -4051,6 +4126,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_hint">Nastavitve iskanja</string>
   <string name="search_home_key">Začetna;Tipka Domov;Tipka Začetna</string>
   <string name="search_input_hint">Nastavitve iskanja</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_key">Tipke;Tipke</string>
   <string name="search_lab_functions_title">Beta funkcije,Lab funkcije</string>
   <string name="search_label">Nastavitve</string>
@@ -4866,10 +4942,18 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="testing_usage_stats">Statistika uporabe</string>
   <string name="testing_wifi_info">WiFi informacije</string>
   <string name="tether_and_hotspot_title">Deljenje povezave &amp; prenosni hotspot</string>
+  <string name="tether_custom_dialog_title">Omejitev mob. podatkov</string>
   <string name="tether_data_usage_limit">Enkratna omejitev podatkov</string>
   <string name="tether_data_usage_limit_summary">Omejitev podatkov bo uporabljena pri naslednji vključitvi dostopne točke</string>
   <string name="tether_devices_management_title">Upravljanje naprav</string>
   <string name="tether_devices_max_number">Omejitev povezanih naprav</string>
+  <string name="tether_limit_dialog_title">Omejitev mob. podatkov</string>
+  <string name="tether_limit_value_custom">Lastno</string>
+  <string name="tether_over_limit_dialog_cancle_btn">Ponastavi dostopno točko</string>
+  <string name="tether_over_limit_dialog_message">Dosegli ste omejitev podatkov za dostopno točko.</string>
+  <string name="tether_over_limit_dialog_title">Opozorilo uporabe podatkov</string>
+  <string name="tether_over_limit_warning_notify_message">Izključi mobilno dostopno točko.</string>
+  <string name="tether_over_limit_warning_notify_title">Dosežena omejitev podatkov za dostopno točko</string>
   <string name="tether_settings_disabled">Prenosna dostopna točka je izključena</string>
   <string name="tether_settings_disabled_on_data_saver">Prenosno dostopno točko ne morem dati v skupno rabo ali uporabljati dokler je vključeno varčevanje prenosa podatkov</string>
   <string name="tether_settings_launch_title">Prenosna dostopna točka</string>
@@ -4941,6 +5025,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Zbudi sledilno kroglico</string>
   <string name="traffic_balance">Način uporabe podatkov</string>
+  <string name="traffic_none">Nič</string>
   <string name="transition_animation_scale_title">Merilo animacije prehoda</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Slo prevod</string>

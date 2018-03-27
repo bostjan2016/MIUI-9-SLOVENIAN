@@ -2092,7 +2092,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="report_only">Izberite sporočilo za prijavo</string>
   <string name="report_success">Sporočilo prijavljeno</string>
   <string name="report_warning">"Prijavim %1$s SMS-e na Mi? Ta sporočila in telefonske številke s katerih so bili poslani bodo oprenešeni na Mi strežnike za pregled. Vsi osebni podatki povezani s temi sporočili vedno ostanejo anonimni."</string>
-  <string name="report_warning_title">Prijavi SMS</string>
+  <string name="report_warning_title">Pozor</string>
   <string name="resource_antispam">Seznam blokiranih</string>
   <string name="resource_antivirus">Preverjanje virusov</string>
   <string name="resource_app_permissions">Dovoljenja aplikacij</string>
@@ -2505,8 +2505,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="sys_app_prot_cracked_title">Varnostno tveganje</string>
   <string name="sys_cpu_title">Uporaba CPU</string>
   <string name="sys_freememory_title">Dostopno</string>
-  <string name="sys_title_gamebooster_unit_gb">G</string>
-  <string name="sys_title_gamebooster_unit_mb">M</string>
+  <string name="sys_title_gamebooster_unit_gb">GB</string>
+  <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Sistemske aplikacije</string>
   <string name="system_application">Sistemske aplikacije</string>
   <string name="system_check_content">%1$d sumljivih predmetov</string>
