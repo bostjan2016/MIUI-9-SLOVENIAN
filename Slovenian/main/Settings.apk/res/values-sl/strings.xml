@@ -1307,6 +1307,7 @@
   <string name="default_for_work">Privzeto za delo</string>
   <string name="default_input_method">Izberite privzeti način vnosa</string>
   <string name="default_keyboard_layout">Privzeto</string>
+  <string name="default_launcher_title">Privzeti zaganjalec</string>
   <string name="default_phone_title">Aplikacija Telefon</string>
   <string name="default_rule_name">Časovnik 1</string>
   <string name="default_sound">Privzeti zvok</string>
@@ -1402,6 +1403,7 @@
   <string name="dialog_title_hdmi_color_calibration">Nastavljanje korekcije barv</string>
   <string name="dialog_title_login">Prijavite se v svoj Mi račun</string>
   <string name="dialog_yes">Da</string>
+  <string name="direct_boot_unaware_dialog_message">"Opomba: po ponovnem zagonu lahko uporabljate to tipkovnico samo če odklenete napravo."</string>
   <string name="dirac_control">Optimizirajte kakovost zvoka</string>
   <string name="dirac_mode_earbuds">Mi slušalke</string>
   <string name="dirac_mode_general">Splošno</string>
@@ -2712,6 +2714,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_screen_config_title">Nastavitve začet. zaslona</string>
   <string name="miui_updater">Posodobitev</string>
+  <string name="miui_userguide">Uporabniški vodič</string>
   <string name="miui_screensaver_show_time">Trajanje</string>
   <string name="miui_screensaver_show_time_select_title">Nastavite trajanje diaprojekcije</string>
   <string name="miui_screensaver_state_off">Izklop</string>
@@ -3084,6 +3087,13 @@ Na tej napravi je več uporabnikov.
   <string name="oem_unlock_enable_summary">Naj bo koda za zagon sistema odklenjena</string>
   <string name="ok_rules">Končano</string>
   <string name="okay">V redu</string>
+  <string name="oldman_app_label">Lite način</string>
+  <string name="oldman_installed_current_btn">Vrni izvirni začetni zaslon</string>
+  <string name="oldman_installed_current_des">"Nastavili ste Lite način kot privzeti začetni zaslon. Pritisnite tipko da se vrnete na izvirni začetni zaslon."</string>
+  <string name="oldman_installed_not_current_btn">Nastavi kot privzeti začetni zaslon</string>
+  <string name="oldman_installed_not_current_des">Lite način je nameščen na vaši napravi. Lahko ga uporabite kot privzeti začetni zaslon.</string>
+  <string name="oldman_uninstalled_btn">Namesti</string>
+  <string name="oldman_uninstalled_des">Lite način onemogoča vizualni nered in ohranja začetni zaslon enostaven in minimalističen.</string>
   <string name="oldman_mode_confirm_title">Ponovni zagon?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Telefon se bo ponovno zagnal za izhod iz Lite načina</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">Telefon se bo ponovno zagnal in vključil Lite način.</string>
@@ -4362,7 +4372,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="set_password_title">Nastavi geslo</string>
   <string name="setting_privacy_password">Nastavite Geslo za zaščito zasebnosti</string>
   <string name="settings_ad_loading">Samo trenutek…</string>
-  <string name="settings_ad_loading_unavailable">"Ne morem prenesti."</string>
+  <string name="settings_ad_loading_unavailable">"Informacije ne morem prenesti."</string>
   <string name="settings_backup">Varnostno kopiranje nastavitev</string>
   <string name="settings_backup_summary">Varnostno kopiranje nastavitev</string>
   <string name="settings_button">Nastavitve</string>
@@ -4942,6 +4952,8 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="testing_usage_stats">Statistika uporabe</string>
   <string name="testing_wifi_info">WiFi informacije</string>
   <string name="tether_and_hotspot_title">Deljenje povezave &amp; prenosni hotspot</string>
+  <string name="tether_auto_disable_summary">Ko ni povezanih naprav dostopno točko izključi samodejno</string>
+  <string name="tether_auto_disable_title">Samodejno izključi dostopno točko</string>
   <string name="tether_custom_dialog_title">Omejitev mob. podatkov</string>
   <string name="tether_data_usage_limit">Enkratna omejitev podatkov</string>
   <string name="tether_data_usage_limit_summary">Omejitev podatkov bo uporabljena pri naslednji vključitvi dostopne točke</string>
@@ -5304,7 +5316,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="use_nuplayer">Uporabi NuPlayer (presk.)</string>
   <string name="use_nuplayer_summary">Uporabi NuPlayer namesto AwesomePlayerja</string>
   <string name="use_personalized_ad_service">Osebna priporočila oglasov</string>
-  <string name="use_personalized_ad_service_summary">Ko je storitev priporočila izključena boste še naprej videli enako količino oglasov, ampak ne prilagojenih vašemu zanimanju.</string>
+  <string name="use_personalized_ad_service_summary">Ko je priporočilo izključeno boste še naprej videli enako količino oglasov kot ko je vključena ampak ne bodo sloneli na vaših podatkoh o obnašanju ali na osebnih podatkih.</string>
   <string name="use_privacy_password_immediate">Uporabi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemski jezik</string>
   <string name="use_this_wlan">Ostani povezan</string>

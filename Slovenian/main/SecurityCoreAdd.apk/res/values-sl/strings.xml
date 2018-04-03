@@ -85,6 +85,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="encrypt_space_delete_notification_message">Izbrišite drugi prostor in izdelajte novega za uspešno posodobitev naprave.</string>
   <string name="encrypt_space_delete_notification_title">Drugi prostor</string>
   <string name="enter_air_space">Pojdi v Delovni prostor</string>
+  <string name="entrance_reopen_toast_msg">Prikaz bližnic Drugega prostora zaradi različnih vrst gesla</string>
   <string name="err_copy_contacts">"Ne morem kopirati stikov"</string>
   <string name="err_copy_files">"Ne morem kopirati datotek"</string>
   <string name="err_copy_photos">"Ne morem kopirati fotografij"</string>
@@ -209,6 +210,9 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="removingSpace">Brisanje…</string>
   <string name="repeat_scanner_fingerprint">Dodaj ponovno</string>
   <string name="reset_passwd_success">Geslo je ospešno ponastavljeno</string>
+  <string name="reset_password_dialog_message">"Uporabljate različne vrste gesel za Prvi in Drugi prostor. Drugi prostor mora uporabljati isto vrsto gesla kot Prvi prostor za bližnico ko bo skrita."</string>
+  <string name="reset_password_dialog_positve_btn_title">Zamenjaj</string>
+  <string name="reset_password_dialog_title">"Ne morem skriti bližnice Drugega prostora"</string>
   <string name="resource_sspace">Drugi prosotor</string>
   <string name="resource_xspace">Dvojne aplikacije</string>
   <string name="restore_normal_show">"Ne prikazuj zasebnih sporočil"</string>
@@ -378,6 +382,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="xspace_guide_title">Izdelaj dvojno aplikacijo</string>
   <string name="xspace_header">Klonirane aplikacije</string>
   <string name="xspace_install_completed">Ikona dodana na začetni zaslon</string>
+  <string name="xspace_install_completed_global">Ikona dodana v predal</string>
   <string name="xspace_install_failed">"Ne morem tega napraviti"</string>
   <string name="xspace_installing">Nameščanje…</string>
   <string name="xspace_introduce">Priporočeno</string>

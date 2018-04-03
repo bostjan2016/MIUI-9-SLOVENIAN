@@ -54,6 +54,9 @@
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_button">Zoom</string>
+  <string name="ai_scene_mode_use_hint_text">"AI kamera samodejno prepozna prizor
+  
+in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="audio_focus_exit_button_text">Izključi</string>
   <string name="beauty_fragment_tab_name_beauty">Olepšaj</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>

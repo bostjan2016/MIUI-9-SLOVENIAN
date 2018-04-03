@@ -804,6 +804,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="diagnostic_attention_dialog_message">"Diagnostika za %1$s je v teku. Počakajte do konca in poskusite ponovno. "</string>
   <string name="dialog_app_roaming_message">"Ko ste v mednarodnem gostovanju podatkovne storitve lahko uporabljajo samo aplikacije ki ste jih dodali na seznam izjem . %1$s ni dodan na seznam dovoljenih."</string>
   <string name="dialog_app_roaming_title">"Gostovanje ni omogočeno za %1$s"</string>
+  <string name="dialog_button_ignore">Prezri</string>
+  <string name="dialog_button_yes">Da</string>
   <string name="dialog_msg_auto_start_declare">Nekatere aplikacije lahko napačno zaznajo da jim je MIUI preprečil zagon. Preverite dovoljenje za posamično aplikacijo v Nastavitve - Aplikacije.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zaustavim varnostno preverjanje plačila?</string>
   <string name="dialog_msg_stop_virus_scan">Želite ustaviti varnostno preverjanje?</string>
@@ -2454,6 +2456,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="suggest_scan_again">Za zagotovitev varnosti predlagamo popolno preverjanje.</string>
   <string name="summary_app_lock_disable">Zaklenite aplikacije da zaščitite svojo zasebnost</string>
   <string name="summary_auto_update">MIUI bo izbral najugodnejši čas za prenos in namestitev posodobitve.</string>
+  <string name="summary_background_connection">Omejili ste povezavo v ozadju za to aplikacijo. Pritisnite za spremembo.</string>
+  <string name="summary_block_calls_from_cantacts">"Uporabljajte seznam blokiranih. Pritisnite za spremembo."</string>
+  <string name="summary_block_calls_from_strangers">Dovolite samo klice od stikov. Pritisnite za spremembo.</string>
   <string name="summary_cleaner_cloudscan">Naloži in primerjaj imena map s spletnimi opredelitvami</string>
   <string name="summary_cloud_account">Dobite največ iz vaše Mi naprave</string>
   <string name="summary_cloud_service">Sinhroniziraj fotografije, imenik in ostalo v vseh vaših napravah</string>
@@ -2464,6 +2469,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_data_flow">Izogibajte se nalaganja podatkov čez mejo mesečnega limita svojega operaterja</string>
   <string name="summary_default_app">"%s ni nastavljena kot privzeta aplikacija sistema"</string>
   <string name="summary_dev">Preprečite aplikacijam dostop do uporabniških podatkov</string>
+  <string name="summary_do_not_disturb">"Uporabljate DND način. Pritisnite za spremembo."</string>
+  <string name="summary_eye_shield">"Uporabljate bralni način. Pritisnite za spremembo."</string>
   <string name="summary_find_device">Najdite in zaklenite svojo napravo od koderkoli</string>
   <string name="summary_flow_notification">Pokažite svoje mesečne mobilne podatke o porabi v obvestilni vrstici</string>
   <string name="summary_flow_purchase">"Kaže da nimate več veliko podatkov. Kupite podatke da ostanete povezani."</string>
@@ -2485,6 +2492,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_permission_root">Vaša naprava in osebni podatki so bolj ranljivi za napad od aplikacij ki imajo root dostop</string>
   <string name="summary_power_optimizer">Zmanjšaj zmogljivost svoje naprave ko je baterija skoraj prazna</string>
   <string name="summary_realname_verify">Potrdite svojo identiteto za varnost vaših plačil.</string>
+  <string name="summary_restrict_data_usage">Za to aplikacijo ste omejili porabo podatkov. Pritisnite za spremembo.</string>
   <string name="summary_saving_switch">Prepreči aplikacijam da uporabljajo mobilne podatke za prenos datotek</string>
   <string name="summary_show_notification">"Pripni Varnost v obvestilno vrstico"</string>
   <string name="summary_telecom_operator">Pridobite svoj mesečni zakup mobilnih podatkov vašega operaterja</string>
@@ -2634,6 +2642,9 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_app_lock_disable">Zakl. aplikacij</string>
   <string name="title_app_update">Dostopne posodobitve</string>
   <string name="title_auto_update">Posodobi samodejno</string>
+  <string name="title_background_connection">"Ne morete uporabljati %s v ozadju?"</string>
+  <string name="title_block_calls_from_cantacts">Zgrešili ste klice vaših stikov?</string>
+  <string name="title_block_calls_from_strangers">Zgrešili ste pomembne klice?</string>
   <string name="title_chain_start">Omeji verižni zagon</string>
   <string name="title_cleaner_cloudscan">Naložite imena map</string>
   <string name="title_cloud_account">Mi Račun</string>
@@ -2650,6 +2661,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_dev_no">Možnost za razvijalce je vklopljena</string>
   <string name="title_dev_yes">Možnost za razvijalce je izklopljena</string>
   <string name="title_device_not_root">"ROOT dostop ni odobren"</string>
+  <string name="title_do_not_disturb">"Ne slišite zvonenja?"</string>
+  <string name="title_eye_shield">"Barva zaslona ni vredu?"</string>
   <string name="title_find_device">Najdi napravo</string>
   <string name="title_flow_notification">Obvestilo porabe podatkov</string>
   <string name="title_flow_purchase">Čas za nakup</string>
@@ -2680,6 +2693,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_permission_yes">Upravitelj dovoljenj vklopljen</string>
   <string name="title_power_optimizer">Varčevanje z baterijo</string>
   <string name="title_realname_verify">Preverjanje ID </string>
+  <string name="title_restrict_data_usage">"%s se ne more povezati s spletom?"</string>
   <string name="title_saving_switch">Varčevanje podatkov</string>
   <string name="title_share_link">Deli povezavo</string>
   <string name="title_show_notification">Kontrole vrstice obvestil</string>
