@@ -113,6 +113,9 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="download_settings">Prenos nastavitev začetnega zaslona %s%%</string>
   <string name="download_settings_fail">"Prenos nastavitev začetnega zaslona ni uspel"</string>
   <string name="error_unknown">Prišlo je do napake</string>
+  <string name="get_device_id_error">"Ne morem dobiti ID naprave"</string>
+  <string name="home_hint_global_launcher">Poco začet. zaslon</string>
+  <string name="home_restore_error">"Ne morem povrniti začet. zaslon"</string>
   <string name="lack_of_storage">Ni prostora za shranitev</string>
   <string name="latest_backup_time_loading">Nalagam…</string>
   <string name="managespace_delete_backup">Izbriši</string>
@@ -162,6 +165,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="restoreing_file_tile">Obnovitev datotek: %d</string>
   <string name="retry">Poskusi ponovno</string>
   <string name="self_phone">Ta telefon</string>
+  <string name="self_phone_home">Ta telefon: %s</string>
   <string name="settings_backup">Nastavitve sistema</string>
   <string name="size_unknown">Neznana velikost</string>
   <string name="start_backup_to_micloud">Varnostno kopiraj aplikacije na Mi Cloud</string>

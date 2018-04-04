@@ -5,6 +5,8 @@
   <string name="account_container_title">Uvoženo iz</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">"Samo telefon, brez sinhronizacije"</string>
+  <string name="account_sdn">SDN</string>
+  <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">SIM kartica</string>
   <string name="account_sim2">SIM kartica %d</string>
   <string name="account_type_format">%1$s stik</string>
@@ -979,6 +981,9 @@ Napravite varnostno kopijo stikov."</string>
   <string name="pref_key_photo_word_title">Dodeli kontaktno sliko</string>
   <string name="pref_key_rebuild_t9_index_message">Obnovi indeks da se odstranijo problemi iskanja</string>
   <string name="pref_key_rebuild_t9_index_title">Obnovi podatke indeksa</string>
+  <string name="pref_key_sdn_manage">Prikaži SDN</string>
+  <string name="pref_key_sdn_manage1">Prikaži SDN kartice 1</string>
+  <string name="pref_key_sdn_manage2">Prikaži SDN kartice 2</string>
   <string name="pref_key_sim_manage">SIM kartice</string>
   <string name="pref_key_sim_manage1">Nastavi SIM kartico 1</string>
   <string name="pref_key_sim_manage2">Nastavi SIM kartico 2</string>
@@ -1117,8 +1122,10 @@ Napravite varnostno kopijo stikov."</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Pomnilnika ni bilo mogoče preveriti</string>
+  <string name="sdnContacts_empty">Ni SDN-a</string>
+  <string name="sdnContacts_emptyLoading">Nalaganje SDN-a…</string>
   <string name="searchHint">"Preišči stike"</string>
-  <string name="search_batch_delete">Organizraj;Stiki</string>
+  <string name="search_batch_delete">Organiziraj;Stiki</string>
   <string name="search_contacts_display">Stiki;Prikaz</string>
   <string name="search_contacts_more">Organiziraj;Stiki</string>
   <string name="search_contacts_recovery">Stiki</string>
@@ -1241,6 +1248,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="social_widget_label">Stik</string>
   <string name="social_widget_loading">Nalagam...</string>
   <string name="solar_calendar">Sončni koledar</string>
+  <string name="special_code_security_exception">Operacija zavrnjena: ni privzet izbirnik</string>
   <string name="splitConfirmation">Ta stik bo razdeljen v več stikov.</string>
   <string name="splitConfirmation_title">Razdelim stik?</string>
   <string name="starredList">"Z zvezdo"</string>
@@ -1251,6 +1259,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="strequentList">Priljubljene</string>
   <string name="success_message_import_from_account">Stik uvožen</string>
   <string name="summary_kind_title">Povzetek</string>
+  <string name="sv">SV</string>
   <string name="t9_search_empty_create_contact">Nov stik</string>
   <string name="t9_search_empty_edit_contact">Dodaj stiku</string>
   <string name="t9_search_empty_send_sms">Pošlji sporočilo</string>

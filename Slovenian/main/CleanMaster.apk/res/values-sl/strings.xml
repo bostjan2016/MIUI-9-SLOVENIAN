@@ -43,6 +43,11 @@
   <string name="apps_sort_type_item_size">Velikost</string>
   <string name="apps_sort_type_item_time">Pogostost uporabe</string>
   <string name="apps_sort_type_title">Razvrsti po</string>
+  <string name="auto_clean_notification_content">Očiščeno %s smeti</string>
+  <string name="auto_clean_notification_title">Opomni za čiščenje</string>
+  <string name="auto_clean_operation_clean_and_alert">Opomni in očisti</string>
+  <string name="auto_clean_operation_dialog_title">Metoda čiščenja</string>
+  <string name="auto_clean_operation_just_clean">Samo očisti</string>
   <string name="authorize_detail">Blokirano %d aplik.</string>
   <string name="auto_clean_switch_off">Izključi</string>
   <string name="auto_clean_switch_on">Vključi</string>
@@ -50,6 +55,10 @@
   <string name="auto_clean_time_fifteen_day">Vsakih 15 dni</string>
   <string name="auto_clean_time_seven_day">Vsakih 7 dni</string>
   <string name="auto_clean_time_three_day">Vsake 3 dni</string>
+  <string name="auto_clean_trigger_dialog_title">Očistite shrambo</string>
+  <string name="auto_clean_trigger_percent_eighty">Ko je 80% zaseden</string>
+  <string name="auto_clean_trigger_percent_ninety">Ko je 90% zaseden</string>
+  <string name="auto_clean_trigger_percent_sixty">Ko je 60% zaseden</string>
   <string name="auto_cleaner_open">Vključi</string>
   <string name="back">Nazaj</string>
   <string name="browser_scan_history_desc">Zgodovina brskalnika</string>
@@ -366,6 +375,7 @@
   <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Iskanje</string>
   <string name="positive_confirm">V redu</string>
+  <string name="pref_category_title_auto_clean_config_settings">Samodejno čiščenje</string>
   <string name="pref_category_title_auto_clean_settings">Opozori za čiščenje</string>
   <string name="pref_category_title_auto_update_cleanup_db">Dodatne nastavitve</string>
   <string name="pref_category_title_cleanup_white_list">Izjeme</string>
@@ -385,8 +395,11 @@
   <string name="pref_summary_garbage_process_mode">Nastavi obvestilo čistilca kadar obratuje</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Pošljite in primerjajte nepoznana imena datotek z online opredelitvami</string>
   <string name="pref_title_apps_cleanup_size">Kadar doseže velikost predpomnilnika</string>
+  <string name="pref_title_auto_clean">Očisti samodejno</string>
   <string name="pref_title_auto_clean_and_alert">Očisti samodejno</string>
   <string name="pref_title_auto_clean_content_choose">Izberi predmete za čiščenje</string>
+  <string name="pref_title_auto_clean_operation">Metoda čiščenja</string>
+  <string name="pref_title_auto_clean_trigger">Očisti shrambo</string>
   <string name="pref_title_auto_update_cleanup_db">Samodejno posodobi</string>
   <string name="pref_title_choose_engine">Definicije</string>
   <string name="pref_title_clean_alert">Opozori za čiščenje</string>

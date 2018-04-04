@@ -19,6 +19,8 @@
   <string name="app_list_title">Izberite aplikacije</string>
   <string name="app_list_total">Aplikacija: %d</string>
   <string name="app_name">Baterija in Zmogljivost</string>
+  <string name="app_preload_policies_summary">Uporabite ML model za predvidevanje aplikacij kater boste uporabljali in za vnaprejšen prenos resursov za očitno izboljšanje izvedbe zagona aplikacije</string>
+  <string name="app_preload_policies_title">AI PreLoad</string>
   <string name="background">Aplikacija se izvaja v ozadju</string>
   <string name="base_info">Osnovne informacije</string>
   <string name="cloud_addr_info">Cloud informacije</string>
@@ -197,6 +199,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_mode_view_user_define_title">Nov dogodek</string>
   <string name="power_optimize_activity_profile_file_error">Napaka Varčevanja z baterijo</string>
   <string name="power_usage">Uporaba energije</string>
+  <string name="pref_config_title">Optimiziranje zmogljivosti</string>
   <string name="ragment_sys_listempty">Ni sistemskih aplikacij</string>
   <string name="reading">Način branja</string>
   <string name="scenario_policies_summary">Uporabite različne strategije varčevanja energije za različne scenarije.</string>
