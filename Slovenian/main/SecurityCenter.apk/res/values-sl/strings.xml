@@ -914,6 +914,15 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="exception_notify_message">"Zaradi napake ne morem izračunati statistične podatke. Ponovno zaženite napravo zaradi povrnitve."</string>
   <string name="exception_titile">Prišlo je do napake</string>
   <string name="exit">Izhod</string>
+  <string name="exit_dialog_garbage_clean_message">Količina smeti na vaši napravi je večja od %s. Očistim smeti?</string>
+  <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
+  <string name="exit_dialog_garbage_clean_title">Očisti smeti</string>
+  <string name="exit_dialog_release_storage_message">Več od 80% prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
+  <string name="exit_dialog_release_storage_positive_button">Sprostite prostor</string>
+  <string name="exit_dialog_release_storage_title">Sprosti prostor</string>
+  <string name="exit_dialog_scan_message">"Rezultat zmogljivosti vaše naprave je nižji od 75 točk. Optimiziram sedaj?"</string>
+  <string name="exit_dialog_scan_positive_button">Optimiziraj</string>
+  <string name="exit_dialog_scan_title">Optimiziraj zmogljivosti</string>
   <string name="finger_remind_message">Zakl. aplikacija podpira odklepanje s pomočjo prstnih odtisov. Dodam prstni odtis?</string>
   <string name="fingerprint_identify_msg">Preverjanje prstnega odtisa…</string>
   <string name="fingerprint_not_identified_msg">Da odklenete napravo vnesite svoje geslo.</string>
