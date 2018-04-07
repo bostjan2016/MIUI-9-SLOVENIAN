@@ -4983,7 +4983,6 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="tether_devices_management_title">Upravljanje naprav</string>
   <string name="tether_devices_max_number">Omejitev povezanih naprav</string>
   <string name="tether_limit_dialog_title">Omejitev mob. podatkov</string>
-  <string name="tether_limit_value_custom">Lastno</string>
   <string name="tether_over_limit_dialog_cancle_btn">Ponastavi dostopno točko</string>
   <string name="tether_over_limit_dialog_message">Dosegli ste omejitev podatkov za dostopno točko.</string>
   <string name="tether_over_limit_dialog_title">Opozorilo uporabe podatkov</string>
