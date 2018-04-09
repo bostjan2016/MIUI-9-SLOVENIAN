@@ -204,6 +204,8 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="radio_button_icon_switch_title">Uporaba bljižnic</string>
   <string name="radio_button_password_switch_title">Uporaba gesla</string>
   <string name="removeSuccess">Uspešno izbrisano</string>
+  <string name="remove_button">Odstrani in ponovno zaženi</string>
+  <string name="remove_button_time">Odstrani in ponovno zaženi(%ds)</string>
   <string name="remove_second_space_msg">Vsi podatki aplikacij Drugega prostora bodo izgubljeni po izbrisu Drugega prostora. Izbrišem Drugi prostor?</string>
   <string name="remove_user_click_message">"*Če nimate nobene pomembne stvari v drugem prostoru, %s"</string>
   <string name="remove_user_click_message_action">lahko zbrišete drugi prostor in ponovno zaženete napravo.</string>
@@ -320,6 +322,8 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="start_new_fingerprint_tips">"Uporabite prstni odtis za Drugi prostor 
 za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="start_setting_guide_desc_title">Nastavite še nekaj stvari</string>
+  <string name="stop_xspace_alert_content">"Izbrisali ste vse dvojne aplikacije. Izbrišem tudi račune za dvojne aplikacije in podatke aplikacije? Po tem boste morali ponovno izdelati dvojne aplikacije ko jih boste rabili."</string>
+  <string name="stop_xspace_alert_title">Brisanje računa dvojne aplikacije</string>
   <string name="summary_switch_apps_settings">Izberite aplikacije uporabljene v Trenutnem prostoru</string>
   <string name="support_desc">Varnostne storitve ponuja Spaces Mobile</string>
   <string name="sure_to_use">Potrdi</string>

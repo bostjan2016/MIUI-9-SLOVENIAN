@@ -2735,6 +2735,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_lab_slogan">Naučite se. Raziščite. Odkrijte.</string>
   <string name="miui_lab_taplus_desc">Pritisnite in držite da boste zagnali opravila</string>
   <string name="miui_lab_taplus_title">Taplus</string>
+  <string name="miui_touch_filtered_warning">Če aplikacija blokira pogovorni okvir za dovoljenje, povlecite predmet ki se prekriva ali zaprite aplikacijo.</string>
   <string name="miui_screen_config_title">Nastavitve začet. zaslona</string>
   <string name="miui_updater">Posodobitev</string>
   <string name="miui_userguide">Uporabniški vodič</string>
@@ -6051,6 +6052,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifiap_turn_on_hint">Za uporabo WiFi wifiap, ga vključite.</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Merilo animacije okna</string>
+  <string name="wireless_connected">Povezano</string>
   <string name="wireless_networks_settings_title">Brezžično in omrežja</string>
   <string name="wireless_off">Izključeno</string>
   <string name="wireless_on">Vključeno</string>

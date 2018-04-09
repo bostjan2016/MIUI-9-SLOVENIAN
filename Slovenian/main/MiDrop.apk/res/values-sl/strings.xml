@@ -6,10 +6,12 @@
   <string name="HIPS_Perm_Location">Pridobiti informacije o lokaciji</string>
   <string name="HIPS_Perm_PhoneID">Pridobiti informacije o napravi</string>
   <string name="HIPS_Perm_Settings">Spremeniti nastavitve sistema</string>
+  <string name="HIPS_Perm_SystemAlert">PrikazPrikaži skočna okna</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Spremeniti WiFi nastavitve</string>
   <string name="HIPS_Perm_background_start_activity">Zagnati v ozadju</string>
   <string name="HIPS_Perm_get_accounts">Dostopati računom na napravi</string>
   <string name="HIPS_Perm_get_installed_apps">pridobiti informacije o nameščenih aplikacijah</string>
+  <string name="HIPS_Perm_show_when_locked">pokaži na Zakl. zaslonu</string>
   <string name="Start">Start</string>
   <string name="Stop">Stop</string>
   <string name="TestReceiver">Test prejemnika</string>
