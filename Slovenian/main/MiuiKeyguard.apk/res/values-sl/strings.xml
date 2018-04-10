@@ -128,6 +128,7 @@
   <string name="keyguard_quick_charging_info_click_to_detail">Hitro polnjenje, pritisni za prikaz</string>
   <string name="keyguard_quickly_charging_info_charging_text">Hitro polnjenje</string>
   <string name="keyguard_torch_cover_text">Če hočete obdržati svetilko prižgano pritisnite tipko za vklop</string>
+  <string name="kg_password_pin_failed">SIM PIN opravilo ni uspelo!</string>
   <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
