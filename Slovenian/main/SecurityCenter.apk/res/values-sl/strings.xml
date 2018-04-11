@@ -918,7 +918,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
   <string name="exit_dialog_garbage_clean_title">Očisti smeti</string>
   <string name="exit_dialog_release_storage_message">Več od 80% prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
-  <string name="exit_dialog_release_storage_positive_button">Sprostite prostor</string>
+  <string name="exit_dialog_homepage_optimise_message">"Rezultat performansa vaše naprave je nižji od 80 točk. Optimiziram zdaj?"</string>
+  <string name="exit_dialog_release_storage_positive_button">Sprosti prostor</string>
   <string name="exit_dialog_release_storage_title">Sprosti prostor</string>
   <string name="exit_dialog_scan_message">"Rezultat zmogljivosti vaše naprave je nižji od 75 točk. Optimiziram sedaj?"</string>
   <string name="exit_dialog_scan_positive_button">Optimiziraj</string>
@@ -1021,6 +1022,12 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gb_description_image_button_reject">Zavrni</string>
   <string name="gb_description_image_button_video_answer">Videoklic</string>
   <string name="gb_new_feature">Nova funkcija</string>
+  <string name="gb_msg_completely_shielded">Skrij sporočila</string>
+  <string name="gb_msg_completely_shielded_summary">Skrij</string>
+  <string name="gb_msg_quickly_answer">Dovoli hitre odgovore</string>
+  <string name="gb_msg_quickly_answer_summary">Hitri odgovori</string>
+  <string name="gb_msg_transparent_dispaly">Obvestila z transparentnim ozadjem</string>
+  <string name="gb_msg_transparent_dispaly_summary">Transparentno</string>
   <string name="gdpr_msg">&lt;Data&gt;"Za uporabo osnovnih funkcij aplikacije Varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke vključno informacije o načinu uporabe funkcij aplikacije Varnost (npr. statistične podatke uporabe mobilnih podatkov, podatke o zlonamernih programih in osnovne informacije o vaši napravi) in druge vrste informacij navedenih v naših &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Zasebnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>

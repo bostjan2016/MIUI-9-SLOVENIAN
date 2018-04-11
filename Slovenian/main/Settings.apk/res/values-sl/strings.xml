@@ -104,6 +104,8 @@
   <string name="accessibility_toggle_speak_password_preference_title">Izgovarjanje gesel</string>
   <string name="accessibility_wifi_off">WiFi izključen.</string>
   <string name="accessibility_wifi_one_bar">WiFi ena črtica.</string>
+  <string name="accessibility_wifi_security_type_none">Odpri omrežje</string>
+  <string name="accessibility_wifi_security_type_secured">Varno omrežje</string>
   <string name="accessibility_wifi_signal_full">WiFi polni signal.</string>
   <string name="accessibility_wifi_three_bars">WiFi tri črtice.</string>
   <string name="accessibility_wifi_two_bars">WiFi dve črtice.</string>
@@ -1054,6 +1056,9 @@
   <string name="confirm_erase">V redu</string>
   <string name="confirm_fingerprint_icon_content_description">Uporabite prstni odtis če želite nadaljevati.</string>
   <string name="confirm_fingerprint_msg">Položite prst na skener prstnih odtisov</string>
+  <string name="confirm_frp_credential_message">Naprava povrnjena na tovarniške nastavitve, lahko jo odklenete z predhodnim načinom.</string>
+  <string name="confirm_frp_credential_skip_txt">UPORABI MOJ GOOGLE RAČUN</string>
+  <string name="confirm_frp_credential_title">Zaščita tovarniških nastavitev</string>
   <string name="confirm_install_and_connect">Namesti &amp; poveži</string>
   <string name="confirm_new_backup_pw_prompt">Znova vnesite novo geslo za popolno varnostno kopiranje</string>
   <string name="confirm_privacy_password">Vnesite Geslo za zaščito zasebnosti</string>
@@ -5990,8 +5995,9 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifi_tether_configure_ap_text">Nastavitev dostopne točke WiFi</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s prenosni</string>
-  <string name="wifi_tether_enabled_subtext">Prenosna dostopna točka %1$s dejavna</string>
-  <string name="wifi_tether_failed_subtext">Napaka prenosne dostopne točke WiFi</string>
+  <string name="wifi_tether_enabled_subtext">Aktiven je %1$s</string>
+  <string name="wifi_tether_enabled_summary">Aktiven je %1$s</string>
+  <string name="wifi_tether_failed_subtext">Napaka prenosne dostopne točke</string>
   <string name="wifi_tether_first_use_message">Nastavi Prenosno dostopno točko pri prvi uporabi</string>
   <string name="wifi_tether_setting_title">Nastavitve</string>
   <string name="wifi_tether_settings_title">Osebni hotspot</string>

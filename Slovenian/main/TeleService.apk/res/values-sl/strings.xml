@@ -1647,7 +1647,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE storitve niso dosegljive. Izključite VoLTE za klicanje."</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Storitev ni dosegljiva. Izključite VoLTE v nastavitvah."</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Preden vključite VoLTE, izberite LTE kot prednostno omrežje.</string>
-  <string name="prompt_when_turnon_volte_without_lte">"LTE omrežja niso dostopna. Vklop VoLTE-a vam lahko prepreči normalno klicanje."</string>
+  <string name="prompt_when_turnon_volte_without_lte">"VoLTE omrežja niso dostopna. Vklop VoLTE-a vam lahko prepreči normalno klicanje."</string>
   <string name="propmpt_dialog_do_not_ask">Ne kaži več</string>
   <string name="propmpt_dialog_network_failed_title">potekel čas klica</string>
   <string name="propmpt_dialog_no_call_back_content">Povezovanje traja predolgo. Prestavljam na navaden klic, ki je lahko obračunan od ponudnika storitev.</string>
@@ -1953,7 +1953,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="sum_xdivert_disabled">X-Divert je izklopljen</string>
   <string name="sum_xdivert_enabled">X-Divert je vklopljen</string>
   <string name="summary_manage_subscriptions">Upravljaj z omrežnimi nastavitvami od vsake naročnine</string>
-  <string name="switch_dds_to_sub_alert">Prestavite mobilne podatke na SIM</string>
+  <string name="switch_dds_to_sub_alert">Nastavi to kartico kot privzeto podatkovno kartico.</string>
   <string name="t9_indexing_method_pinyin">Latinica</string>
   <string name="t9_indexing_method_title">T9 iskanje vnosa</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
@@ -2107,6 +2107,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="verifying">Preverjanje…</string>
   <string name="vibrate_after_connected_summary">Vibriraj pri odgovoru</string>
   <string name="vibrate_after_connected_title">Vibriraj po vzpostavitvi</string>
+  <string name="vice_card_data_in_use_alert">Lahko se generirajo dodatni stroški.</string>
   <string name="vice_slot_volte_data_switch_prompt">Naprava se bo povezala z mobilnim podatkovnim omrežjem s pomočjo sekundarne SIM kartice med VoLTE klicem. To lahko povzroči dodatne stroške za podatke. Kontaktirajte operaterja za podrobnosti.</string>
   <string name="vice_slot_volte_data_switch_summary">Med VoLTE klicem se bo naprava povezala z mobilnim podatkovnim omrežjem s pomočjo sekundarne SIM kartice</string>
   <string name="vice_slot_volte_data_switch_title">Uporabi mobilne podatke med VoLTE klicem na sekundarni SIM kartici</string>
@@ -2155,6 +2156,7 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="volte_switch_summary">Uporabi VoLTE za izboljšanje kvalitete govornih in video klicev</string>
   <string name="volte_switch_summary2">Potrdite da vaš mobilni operater podpira to storitev pred vklopom. Drugače lahko vpliva na normalno klicanje.</string>
   <string name="volte_switch_title">VoLTE omogočen</string>
+  <string name="volte_switch_title_ct">VoLTE omogočen</string>
   <string name="volte_tips_when_turn_on">Storitve China Telecom VoLTE so dostopne samo v področjih pokritih z LTE omrežjem.</string>
   <string name="vpn_settings_not_available">Nastavitve VPN-a niso dostopne uporabniku</string>
   <string name="vvm_unsupported_message_format">Vrsta sporočila ni podprta, pokličite %s za poslušanje.</string>
