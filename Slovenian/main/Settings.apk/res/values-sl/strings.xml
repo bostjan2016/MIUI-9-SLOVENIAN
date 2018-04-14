@@ -142,6 +142,7 @@
   <string name="add_device_admin">Vklopi</string>
   <string name="add_device_admin_msg">Ali želite omogočiti skrbnika naprave?</string>
   <string name="add_facerecoginition_text">Dodaj obraz</string>
+  <string name="add_fingerprint_cancel_button_text">Nazaj</string>
   <string name="add_fingerprint_done_msg">Zdaj lahko odklenete napravo s prstnim odtisom.</string>
   <string name="add_fingerprint_done_title">Končano!</string>
   <string name="add_fingerprint_edge_instruction_msg">Premikajte prst tako da lahko čitalec odčita robove vašega prstnega odtisa.</string>
@@ -1948,8 +1949,6 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gallery_privacy_password_role_instruction">Vaše zasebne fotografije bodo shranjene tukaj.</string>
   <string name="game_controller_settings_category">Krmilnik za igre</string>
   <string name="gesture_wakeup_title">Dvakrat se dotaknite zaslona za bujenje</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_change_warning">Nastavitev velja za vse uporabnike tega telefona.</string>
@@ -1963,6 +1962,19 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="google_wallet">Google denarnica</string>
   <string name="got_it">V redu</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
+  <string name="gxzw_add_fingerprint_continue">Nadaljuj</string>
+  <string name="gxzw_add_fingerprint_edge_message">Premikajte prst tako da bo senzor lahko posnel robove prstnega odtisa.</string>
+  <string name="gxzw_add_fingerprint_edge_title">Premikajte prst počasi</string>
+  <string name="gxzw_add_fingerprint_finish">Končano</string>
+  <string name="gxzw_add_fingerprint_indicate">Pritisnite močneje</string>
+  <string name="gxzw_add_fingerprint_know">Razumem</string>
+  <string name="gxzw_add_fingerprint_message">Prsti in površina zaslona morajo biti čisti</string>
+  <string name="gxzw_add_fingerprint_move_indicate">Premikajte prst počasi</string>
+  <string name="gxzw_add_fingerprint_move_message">Preveč područij z ponavljanjem prstov, počasi pomaknite prst</string>
+  <string name="gxzw_add_fingerprint_move_title">Premikajte prst počasi</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Pritisnite močneje, dvignite po vibraciji in ponovite nekajkrat</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Pritisnite močneje, dvignite po vibraciji</string>
+  <string name="gxzw_add_fingerprint_title">Dodajte prstni odtis</string>
   <string name="hand_mode_notification_summary">Dotaknite se za več.</string>
   <string name="hand_mode_notification_title">Uporabite kontrole roba</string>
   <string name="handy_mode">Delo z eno roko</string>

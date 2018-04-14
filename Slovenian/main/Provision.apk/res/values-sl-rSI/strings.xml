@@ -72,6 +72,7 @@ Prikaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="shut_down">Izklop</string>
   <string name="sim_card_detecting">Preverjam SIM kartico…</string>
   <string name="sim_card_detecting_check">"Ne najdem SIM kartice. Preverite ali je SIM kartica pravilno vstavljena in če imate li dovolj sredstev na svojem računu."</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Dovolim povezovanje z mobilnimi podatkovnimi omrežji? SIM kartica bo uporabljena za povezovanje z mobilnimi podatkovnimi omrežji.</string>
   <string name="sim_card_detecting_title">Preverjanje SIM kartice</string>
   <string name="sim_card_detection">Vstavite SIM kartico</string>
   <string name="sim_card_detection_info">Za vstavitev SIM kartice preberite navodila naprave</string>
