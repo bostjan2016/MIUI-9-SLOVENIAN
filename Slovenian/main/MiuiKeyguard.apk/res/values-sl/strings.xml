@@ -84,7 +84,7 @@
   <string name="forget_password_string">Pozabljeno geslo</string>
   <string name="gxzw_press_harder">Pritisnite malo močneje</string>
   <string name="gxzw_try_more_again">Poskusite ponovno</string>
-  <string name="gxzw_use_password">Uporabite geslo</string>
+  <string name="gxzw_use_password">Uporabite svoje geslo za odklep</string>
   <string name="incorrect_pincode">Napačna PIN številka</string>
   <string name="incorrect_pincode_remaining_attempts">Napačna PIN številka, imate še %d možnosti</string>
   <string name="incorrect_pukcode">Napačna PUK številka</string>

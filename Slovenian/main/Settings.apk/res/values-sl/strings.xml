@@ -954,6 +954,7 @@
   <string name="checking_decryption">Preverjanje ...</string>
   <string name="checking_find_device_status">Preverjanje statusa Najdi napravo…</string>
   <string name="checking_for_updates">Preverjanje za posodobitve...</string>
+  <string name="choose_a_card_to_reset">Izberite SIM kartico za resetiranje</string>
   <string name="childmod_privacy_password_role_instruction">Vključite Otroški način da preprečite neželjena dejanja dokler napravo uporablja otrok</string>
   <string name="children_mode_enable_title">Otroški način</string>
   <string name="children_mode_set_apps_title">Dostopne aplikacije</string>
@@ -1056,10 +1057,10 @@
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
   <string name="confirm_erase">V redu</string>
   <string name="confirm_fingerprint_icon_content_description">Uporabite prstni odtis če želite nadaljevati.</string>
-  <string name="confirm_fingerprint_msg">Položite prst na skener prstnih odtisov</string>
-  <string name="confirm_frp_credential_message">Naprava povrnjena na tovarniške nastavitve, lahko jo odklenete z predhodnim načinom.</string>
-  <string name="confirm_frp_credential_skip_txt">UPORABI MOJ GOOGLE RAČUN</string>
-  <string name="confirm_frp_credential_title">Zaščita tovarniških nastavitev</string>
+  <string name="confirm_fingerprint_msg">Položite prst na čitalec prstnih odtisov</string>
+  <string name="confirm_frp_credential_message">Naprava povrnjena na tovarniške nastavitve. Lahko jo odklenete z predhodnim geslom.</string>
+  <string name="confirm_frp_credential_skip_txt">Namesto tega uporabite Google račun</string>
+  <string name="confirm_frp_credential_title">Odkleni po povrnitvi na tovarniške nastavitve</string>
   <string name="confirm_install_and_connect">Namesti &amp; poveži</string>
   <string name="confirm_new_backup_pw_prompt">Znova vnesite novo geslo za popolno varnostno kopiranje</string>
   <string name="confirm_privacy_password">Vnesite Geslo za zaščito zasebnosti</string>
@@ -1966,14 +1967,14 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gxzw_add_fingerprint_edge_message">Premikajte prst tako da bo senzor lahko posnel robove prstnega odtisa.</string>
   <string name="gxzw_add_fingerprint_edge_title">Premikajte prst počasi</string>
   <string name="gxzw_add_fingerprint_finish">Končano</string>
-  <string name="gxzw_add_fingerprint_indicate">Pritisnite močneje</string>
+  <string name="gxzw_add_fingerprint_indicate">Pritisnite malo močneje</string>
   <string name="gxzw_add_fingerprint_know">Razumem</string>
   <string name="gxzw_add_fingerprint_message">Prsti in površina zaslona morajo biti čisti</string>
   <string name="gxzw_add_fingerprint_move_indicate">Premikajte prst počasi</string>
-  <string name="gxzw_add_fingerprint_move_message">Preveč područij z ponavljanjem prstov, počasi pomaknite prst</string>
+  <string name="gxzw_add_fingerprint_move_message">Ne morem posneti preostala področja odtisa prsta. Prst premikajte počasi.</string>
   <string name="gxzw_add_fingerprint_move_title">Premikajte prst počasi</string>
-  <string name="gxzw_add_fingerprint_put_finger_message">Pritisnite močneje, dvignite po vibraciji in ponovite nekajkrat</string>
-  <string name="gxzw_add_fingerprint_put_finger_title">Pritisnite močneje, dvignite po vibraciji</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Pritisnite malo močneje in po vibraciji dvignite prst. Ponovite nekajkrat</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Pritisnite močneje in dvignite po vibraciji</string>
   <string name="gxzw_add_fingerprint_title">Dodajte prstni odtis</string>
   <string name="hand_mode_notification_summary">Dotaknite se za več.</string>
   <string name="hand_mode_notification_title">Uporabite kontrole roba</string>
@@ -3862,9 +3863,12 @@ Na tej napravi je več uporabnikov.
  Podatkov iz aplikacij ne boste izgubili. </string>
   <string name="reset_app_preferences_title">Želite ponastaviti nastavitve aplikacij?</string>
   <string name="reset_legacy_password_settings_preface_text">Obnoviti morate vaše geslo za zaklepanje zaslona.</string>
+  <string name="reset_network_bluetooth">Bluetooth</string>
   <string name="reset_network_button_text">Ponastavi nastavitve</string>
+  <string name="reset_network_category">To bo ponastavilo vse nastavitve omrežja, vključno:</string>
   <string name="reset_network_complete_toast">Omrežne nastavitve so ponastavljene</string>
   <string name="reset_network_confirm_title">Želite ponastaviti?</string>
+  <string name="reset_network_data">Mobilni podatki</string>
   <string name="reset_network_desc">S tem bodo ponastavljene vse omrežne nastavitve, vključno s temi:
 
 "&lt;li&gt;WiFi&lt;/li&gt;"
@@ -3873,6 +3877,7 @@ Na tej napravi je več uporabnikov.
   <string name="reset_network_final_button_text">Ponastavi nastavitve</string>
   <string name="reset_network_final_desc">Ali želite ponastaviti vse omrežne nastavitve? Tega dejanja ni mogoče razveljaviti.</string>
   <string name="reset_network_title">Ponastavitev omr. nast.</string>
+  <string name="reset_network_wifi">WiFi</string>
   <string name="reset_second_space_passwd">Ponastavi geslo Drugega prostora</string>
   <string name="reset_second_space_passwd_cancel">Prekini</string>
   <string name="reset_second_space_passwd_confirm">Nastavi</string>
@@ -4379,6 +4384,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_application">Izberite aplikacijo</string>
   <string name="select_device_admin_msg">Skrbniki naprave</string>
+  <string name="select_logd_level">Izberite velikost medpomnilnika</string>
   <string name="select_logd_size_dialog_title">Izberite velikost medpomnilnika dnevnika</string>
   <string name="select_logd_size_title">Velikosti medpomn. zapisov. dnevnika</string>
   <string name="select_runtime_dialog_title">Izberi čas delovanja</string>

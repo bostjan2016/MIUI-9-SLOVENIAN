@@ -27,8 +27,8 @@
   <string name="find_device_error_unknown">Neznana napaka (%s).</string>
   <string name="find_device_noise_title">Najdi napravo alarm</string>
   <string name="find_device_notice_p1">Pojdite na</string>
-  <string name="find_device_notice_p3">" da najdete, zaklenite, ali zbrišete svojo napravo na daljavo.
-Če zamenjate SIM kartico bo poslano še eno SMS sporočilo za ponovno aktiviranje te funkcije."</string>
+  <string name="find_device_notice_p3">" da najdete, zaklenite ali zbrišete svojo napravo</string>.
+  <string name="find_device_notice_sms_alert">Če zamenjate SIM kartico bo samodejno poslano še eno SMS sporočilo za ponovno aktiviranje te funkcije."</string>
   <string name="find_device_stop_noise">Dotaknite se V redu da utišate</string>
   <string name="find_device_storage_corrupted">Prostor za shranjevanje Najdi napravo je poškodovan. Vaša naprava ni več varna.</string>
   <string name="find_device_success_title">Najdi napravo</string>
@@ -73,7 +73,7 @@
   <string name="unlock_error_user_name">Napačno up. ime</string>
   <string name="unlock_error_wrong_vcode">Vnešena koda ni pravilna</string>
   <string name="unlock_help">"Ostanite povezani na omrežje
-Preverite pravilnost vstavljene SIM kartice in da vaša naprava ni povezana z neučinkovitim WiFi omrežjem
+Preverite pravilnost vstavljene SIM kartice (če vaša naprava to podpira) in da vaša naprava ni povezana z neučinkovitim WiFi omrežjem
  
  Ste pozabili geslo?
  Pojdite na id.mi.com da boste izničili geslo

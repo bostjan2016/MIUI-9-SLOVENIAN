@@ -13,7 +13,7 @@
   <string name="alert_miasist_occupy_restore">Povrnitev podatkov z uporabo Mi PC Suite… Počakajte dokler podatki niso povrnjeni in poskusite ponovno.</string>
   <string name="alert_phone_occupy_backup">"Ne morem uporabiti Mi PC Suite. Končajte Var. kopijo ali povrnitev podatkov na telefon in poskusite ponovno."</string>
   <string name="alert_second_space_not_support_miasist">"Ne morem uporabiti Mi PC Suite v Drugem prostoru. Prestavite se v Prvi prostor."</string>
-  <string name="alert_title_backup_to_miasist">Izdelam Var. kopiju z uporabo Mi PC Suite?</string>
+  <string name="alert_title_backup_to_miasist">Izdelam Var. kopijo z uporabo Mi PC Suite?</string>
   <string name="alert_title_restore_from_miasist">Vrnem podatke na vaš telefon?</string>
   <string name="already_enable_encrypt">Šifriranje je že vključeno</string>
   <string name="app_name">Varnostna kopija</string>

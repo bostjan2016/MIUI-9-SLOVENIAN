@@ -666,6 +666,7 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="screenshot_toalbum_txt">Pregled</string>
   <string name="search_hint">Išči spletne strani, aplikacije, stike in videoposnetke</string>
   <string name="select_application">Izberite aplikacijo</string>
+  <string name="select_logd_level">Izberite velikost medpomnilnika</string>
   <string name="select_logd_size_dialog_title">Izberite velikost medpomnilnika zapisnika</string>
   <string name="select_logd_size_title">Velikosti medpomnilnika zapisnika</string>
   <string name="select_logpersist_dialog_title">Izberite medpomnilnike zapisnika ki se bodo trajno shranili na napravi</string>

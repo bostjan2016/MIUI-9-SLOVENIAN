@@ -1308,6 +1308,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_traffic_used_text">Izkoriščeno</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Dodajte ročni samod. zagon aplikacije</string>
+  <string name="managed_user_title">Vse delovne aplikacije</string>
   <string name="manual_handle_title">DOSTOPNE FUNKCIJE</string>
   <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="manual_input_traffic">Nastavi porabo podatkov</string>

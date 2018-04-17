@@ -271,7 +271,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_find_device_guide_title">"Prijavite se v &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da najdete, zaklenete ali izbrišete svojo napravo. To vam lahko pomaga da najdete napravo če jo izgubite. &lt;br /&gt;Če izgubite napravo, se lahko obrnete na varnostno službo aplikacija katere pogosto uporabljate (npr. Alipay, WeChat, QQ) da zaščitite svoje račune na &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.""</string>
   <string name="micloud_find_device_open_fail">"Ne morem vključiti Najdi napravo"</string>
   <string name="micloud_find_device_opened">Najdi napravo vključeno</string>
-  <string name="micloud_find_device_opened_content">Prijavite se na %s da najdete svojo napravo</string>
+  <string name="micloud_find_device_opened_content">Poiščite svojo napravo na %s</string>
+  <string name="micloud_find_device_sms_alert">Za aktiviranje te storitve bo mogoče potrebno odhodno SMS sporočilo. Vaš operater vam bo to zaračunal. Če zamenjate SIM kartico bo samodejno poslano sporočilo za vklop te funkcije.</string>
   <string name="micloud_find_device_verify_button">Ponovno aktiviraj Najdi napravo</string>
   <string name="micloud_find_device_verify_close">Izključi Najdi napravo</string>
   <string name="micloud_find_device_verify_fail">"Ne morem ponovno aktivirati Najdi napravo"</string>

@@ -1115,6 +1115,14 @@
         <item>4 MB</item>
         <item>16 MB</item>
      </string-array>
+	 <string-array name="select_logd_system_levels">
+        <item>Izključeno</item>
+        <item>Napaka</item>
+        <item>Opozori</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+    </string-array>
      <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
         <item>Baterija</item>
