@@ -3,8 +3,8 @@
   <string name="accessibility_calllog_detail">Podrobnosti zgodovine klicev</string>
   <string name="accessibility_contact_detail">Podrobnosti o stiku</string>
   <string name="account_container_title">Uvoženo iz</string>
-  <string name="account_default">Telefon</string>
-  <string name="account_phone">"Samo telefon, brez sinhronizacije"</string>
+  <string name="account_default">Lokalno</string>
+  <string name="account_phone">"Samo naprava, brez sinhronizacije"</string>
   <string name="account_sdn">SDN</string>
   <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">SIM kartica</string>
@@ -57,7 +57,7 @@
   <string name="button_join_service_number">Dodaj številko storitve</string>
   <string name="button_my_center">Profil</string>
   <string name="button_scan">Znova skeneraj</string>
-  <string name="caching_vcard_message">Shranjevanje vCard v odložišče. Uvoz se bo začel kmalu...</string>
+  <string name="caching_vcard_message">Shranjevanje vCard v odložišče...</string>
   <string name="caching_vcard_title">Shranjevanje v odložišče</string>
   <string name="callAgain">Ponovno pokliči</string>
   <string name="callBack">"Povratni klic"</string>
@@ -193,7 +193,7 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">"Ni bilo mogoče pridobiti informacij iz podatkovne baze."</string>
-  <string name="composer_has_no_exportable_contact">"Ni stikov za izvoz. Če imate stike v telefonu nekateri ponudniki podatkov ne dovoljujejo izvoza podatkov iz telefona."</string>
+  <string name="composer_has_no_exportable_contact">"Ni stikov za izvoz. Če imate stike v napravi nekateri ponudniki podatkov ne dovoljujejo izvoza podatkov iz telefona."</string>
   <string name="composer_not_initialized">"vCard se ni zagnala pravilno."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
@@ -379,7 +379,7 @@ Vizitke stikov so izključene"</string>
   <string name="device_import_progress_toast">%1$d stikov uvoženih</string>
   <string name="device_import_title">Uvozi</string>
   <string name="device_list_title">Izberi telefon</string>
-  <string name="device_other_guide">"ali drugi telefon podpira Bluetooth?"</string>
+  <string name="device_other_guide">"Druga naprav podpira Bluetooth?"</string>
   <string name="device_other_title">Uvozi iz drugega telefona</string>
   <string name="device_paired_dialog_message">Pridobivanje stikov…</string>
   <string name="device_paired_dialog_title">Pridobivanje stikov…</string>
@@ -559,7 +559,7 @@ Razlog: \"%s\""</string>
   <string name="import_contact_card_button">Uvozi stik</string>
   <string name="import_failure_no_vcard_file">"V pomnilniku ni nobene vCard datoteke."</string>
   <string name="import_from_onekey_migrate">Uvozi z MiMover</string>
-  <string name="import_from_other_phone">Uvozi iz drugega telefona</string>
+  <string name="import_from_other_device">Uvozi iz druge naprave</string>
   <string name="import_from_sdcard">Uvozi iz pomnilnika</string>
   <string name="import_from_sim">Uvozi iz SIM kartice</string>
   <string name="import_from_sim1">Uvozi iz SIM kartice 1</string>
@@ -577,7 +577,7 @@ Razlog: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_message">Uvažam…</string>
   <string name="import_to_xiaomi_account_progress_title">Uvozi stike na Mi račun</string>
   <string name="import_to_xiaomi_account_title">Uvozim izbrane stike na vaš Mi račun?</string>
-  <string name="import_vcard_description">Uvozi stike iz pomnilnika vašega telefona</string>
+  <string name="import_vcard_description">Uvozi stike iz pomnilnika vaše naprave</string>
   <string name="import_vcard_dialog_message">Uvozim vCard?</string>
   <string name="import_weibo_dialog_title">Uvozi Weibo stike</string>
   <string name="import_weibo_error_no_matched_contacts">Ni ujemajočih stikov</string>
@@ -630,7 +630,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="invalid_contacts_excluded_to_save_to_group">Samo zapisi s stiki bodo shranjeni v skupino</string>
   <string name="invalid_contacts_to_save_to_group">"Ne morem shraniti neznanih številk"</string>
   <string name="keep_local">"Ne sinhr."</string>
-  <string name="keep_local_btn">Uporabi notranji pomnilnik telefona</string>
+  <string name="keep_local_btn">Uporabi notranji pomnilnik naprave</string>
   <string name="label_custom_type">"Po meri"</string>
   <string name="label_no_duplicate_contacts">Ni najdenih podvojenih stikov</string>
   <string name="label_notes">Beležke</string>
@@ -1015,7 +1015,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_key_trash_bin_title">Obnovite stike</string>
   <string name="preference_others">Ostalo</string>
   <string name="preference_other">Ostalo</string>
-  <string name="preference_phone">Telefon</string>
+  <string name="preference_phone">"Naprava"</string>
   <string name="preference_phone_more_title">Nastavitve klicev</string>
   <string name="preference_remove_duplicate">Združi podvojene stike</string>
   <string name="preference_show_yellowpage_tab_description">Yellow Pages storitev ne bo delala pravilno če izključite to storitev</string>
@@ -1248,7 +1248,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="social_widget_label">Stik</string>
   <string name="social_widget_loading">Nalagam...</string>
   <string name="solar_calendar">Sončni koledar</string>
-  <string name="special_code_security_exception">Operacija zavrnjena: ni privzet izbirnik</string>
+  <string name="special_code_security_exception">Operacija zavrnjena. To ni vaš privzet izbirnik</string>
   <string name="splitConfirmation">Ta stik bo razdeljen v več stikov.</string>
   <string name="splitConfirmation_title">Razdelim stik?</string>
   <string name="starredList">"Z zvezdo"</string>
@@ -1279,8 +1279,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="toast_copy_done">Končano</string>
   <string name="toast_copying">Kopiram...</string>
   <string name="toast_displaying_all_contacts">Prikazujem vse stike</string>
-  <string name="toast_finish_delete_call_log">Zgodovina klicev izbrisana</string>
-  <string name="toast_finish_delete_selected_call_log">Zgodovina klicev izbrisana</string>
+  <string name="toast_finish_delete_call_log">"Uspešno izbrisano"</string>
+  <string name="toast_finish_delete_selected_call_log">Uspešno izbrisano</string>
   <string name="toast_for_failed_saving_nickname">Vzdevka ni bilo mogoče shraniti</string>
   <string name="toast_for_saving_nickname">Vzdevek shranjen</string>
   <string name="toast_join_with_empty_contact">Vnesite ime stika preden ga združite z drugim</string>

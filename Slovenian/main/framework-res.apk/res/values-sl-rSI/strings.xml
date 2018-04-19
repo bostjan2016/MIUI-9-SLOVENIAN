@@ -779,6 +779,7 @@ Znova poskusite čez %d s."</string>
   <string name="mmiFdnError">Operacija je omejena na dovoljene telefonske številke, za katere ne velja zapora odhodnega klica.</string>
   <string name="month_day_year" formatted="false">%d. %B %Y</string>
   <string name="more_item_label">Več</string>
+  <string name="move_button_text">Zamenjaj</string>
   <string name="muted_by">&gt;Zvok je izklj. tretja stran %1$s</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti vnesite kodo PUK.</string>
   <string name="needPuk2">Če želite odstraniti blokiranje kartice SIM vnesite PUK2.</string>

@@ -16,6 +16,7 @@
   <string name="abandon">Opusti</string>
   <string name="accept">Sprejmi</string>
   <string name="accept_or_deny">%1$s deli album %2$s s teboj.</string>
+  <string name="actionbar_overflow_item_desc">Več opcij</string>
   <string name="add_automatically_alert_msg">Dodam fotografije od \"%1$s\" v ta album samodejno?</string>
   <string name="add_automatically_alert_title">Dodaj fotografije samodejno</string>
   <string name="add_secret_ensure_title">Skrij</string>
@@ -33,6 +34,7 @@
   <string name="add_to_secret_failed_with_reason">"Ne more biti dodano v skriti album. %1$s."</string>
   <string name="add_to_secret_successful">Dodano v skriti album</string>
   <string name="add_to_share_album_not_delete">"Ne morem izbrisati fotografije v deljenem albumu"</string>
+  <string name="added_to_favorites">Dodano v priljubljene</string>
   <string name="added_to_favorites_tip">Dodano v album \"Priljubljeno\"</string>
   <string name="adding">Dodajanje</string>
   <string name="adding_recipients">Dodajanje prejemnikov…</string>
@@ -109,6 +111,7 @@
   <string name="app_name_edit_picture">Uredi sliko</string>
   <string name="app_name_view_picture">Prikaži sliko</string>
   <string name="app_name_view_video">Pregled videoposnetkov</string>
+  <string name="application_icon">Ikona aplikacije</string>
   <string name="apply">Nastavi</string>
   <string name="assistant_page_label">Asistent</string>
   <string name="aspect_ratio_format" formatted="false">%d:%d</string>
@@ -132,12 +135,14 @@
   <string name="baby_album_needs_auto_backup_tip">"Ne morem izključiti var. kopijo za otroški album"</string>
   <string name="baby_album_new_photo_remind">Imate nove fotografije v vašem otroškem albumu.</string>
   <string name="baby_album_setting_title">Informacije o otroku</string>
+  <string name="baby_album_settings">Nastavitve otroškega albuma</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
 %3$s %4$s je podelil %5$s album s teboj"</string>
   <string name="baby_album_sharer_recommand_face">Dodati obstoječo fotografijo od %1$s?</string>
   <string name="baby_album_sharers_page_title">Podelite z družino</string>
   <string name="baby_birthday">Rojstni dan</string>
-  <string name="baby_lock_wallpaper">Slika Zakl. zaslona</string>
+  <string name="baby_face_desc">Otroški album</string>
+  <string name="baby_lock_wallpaper">Slika zakl. zaslona</string>
   <string name="baby_lock_wallpaper_cancelled">Vrnjeno na privzeto ozadje zakl. zaslona</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Uporabim trenutne nastavitve?</string>
   <string name="baby_lock_wallpaper_title">"Uporabi fotografijo otroka kot ozadje zakl. zaslona"</string>
@@ -148,6 +153,7 @@
   <string name="baby_nick_name">Vzdevek</string>
   <string name="baby_sexy">Spol</string>
   <string name="baby_suffix">Otrok</string>
+  <string name="back">Nazaj</string>
   <string name="backup_automatically_summary">Izdelaj var. kopijo fotografij in videoposnetkov na vseh napravah na Mi Cloud. Lahko varno pregledujete, sortirate, urejate in delite fotografije in videoposnetke na vseh napravah.</string>
   <string name="backup_automatically_title">Samodejno izdelaj var. kopijo</string>
   <string name="backup_battery_low_desc">Še vedno lahko izberete nadaljevanje izdelave var. kopije stvari</string>
@@ -251,6 +257,8 @@
   <string name="cleaner_stop_scan">Ustavi skeniranje</string>
   <string name="click_download_gif">Tapnite za prenos GIF-a</string>
   <string name="click_top_right">Tapnite to ikono</string>
+  <string name="close">Zapri</string>
+  <string name="close_dialog_desc">Zapri dialoški okvir</string>
   <string name="cloud_camera_display_name">Fotografije kamere</string>
   <string name="cloud_guide_auto_backup_title">Izberite albume ki bodo shranjeni na Mi Cloud</string>
   <string name="cloud_guide_login_title">Samodejno izdelaj var. kopijo fotografij in videoposnetkov</string>
@@ -275,6 +283,7 @@
   <string name="cloudfolder_contain_invalidate_char">"Ime albuma ne more vsebovati '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Vnesi ime Albuma.</string>
   <string name="cloudfolder_name_reserved">Ime mape je rezervirano</string>
+  <string name="collage__talkback_effect">Efekt %d</string>
   <string name="collage_choose">Izberi</string>
   <string name="collage_margin_text">Okvirji</string>
   <string name="collage_mirror">Zrcalo</string>
@@ -313,6 +322,9 @@
   <string name="context_menu_add_contact">Dodaj v stike</string>
   <string name="context_menu_copy">Kopiraj</string>
   <string name="context_menu_copy_notice">Kopirano v odložišče</string>
+  <string name="correct_photo_time">Popravi datum in čas za fotografije</string>
+  <string name="correct_time_success">Uspešno popravljeno</string>
+  <string name="correct_time_tip">Popravljanje datuma in časa…</string>
   <string name="contrast">Kontrast</string>
   <string name="contrast_abbr">K</string>
   <string name="cool">Cool</string>
@@ -336,7 +348,8 @@
   <string name="custom_select_title_quickly_share">Deli</string>
   <string name="custom_select_title_select_all">Izberi vse</string>
   <string name="custom_select_title_select_item">Izberi stvari</string>
-  <string name="debugging_tip">Generiranje debug podatkov</string>
+  <string name="debugging_info">Podatki o odpravljanju napak so uspešno generirani. Tapnite V redu za odpiranje mape.</string>
+  <string name="debugging_tip">Generiranje podatkov o odpravljanju napak</string>
   <string name="defalt_local_mobile">Mobilno</string>
   <string name="default_album_name">Novi album</string>
   <string name="default_relation_name">Nova skupina</string>
@@ -489,6 +502,7 @@
   <string name="exit_share_in_process">Izhod iz albuma "%s"…</string>
   <string name="exit_share_successfully">Iztopil iz %1$s</string>
   <string name="exit_video_play">Izhod</string>
+  <string name="expand_desc">Več</string>
   <string name="expand_people">Prikaži več oseb</string>
   <string name="face_album_detecting_tip">Samo trenutek…</string>
   <string name="face_album_empty">"Ni dovolj fotografij za prepoznavanje osebe.
@@ -515,6 +529,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="fail_to_pick_email">E-pošta je nepravilna</string>
   <string name="fail_to_sync_album">"Albuma ni bilo mogoče sinhronizirati. Preveri svojo podatkovno povezavo in poskusi ponovno."</string>
   <string name="family_member_invitation_text">Ostali člani družine</string>
+  <string name="fancy_color_desc">Barve</string>
   <string name="fast_share_auto_render">Olepšanje</string>
   <string name="fast_share_auto_render_finish">Olepšano</string>
   <string name="filter_bi_memory">Spomin</string>
@@ -531,6 +546,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="filllight">Dodatna osvetlitev</string>
   <string name="filter_category_film">Film</string>
   <string name="filter_category_food">Hrana</string>
+  <string name="filter_category_master">Master</string>
   <string name="filter_category_portrait">Portret</string>
   <string name="filter_category_scene">Pokrajina</string>
   <string name="filter_film_blackwhite">B&amp;W</string>
@@ -538,6 +554,11 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="filter_film_fade">Fade</string>
   <string name="filter_film_film">Film</string>
   <string name="filter_film_grey">Grey</string>
+  <string name="filter_master_hazy">Hazy</string>
+  <string name="filter_master_mellow">Mellow</string>
+  <string name="filter_master_memoire">Memoire</string>
+  <string name="filter_master_rise">Rise</string>
+  <string name="filter_master_somber">Somber</string>
   <string name="filter_film_quiet">Tišina</string>
   <string name="filter_film_style">Poetika</string>
   <string name="filter_film_time">Čas</string>
@@ -556,15 +577,18 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="filter_people_japanese">Fresh</string>
   <string name="filter_people_maze">Maze</string>
   <string name="filter_people_mint">Mint</string>
+  <string name="filter_people_movie">Film</string>
   <string name="filter_people_nature">Narava</string>
   <string name="filter_people_pink">Blush</string>
+  <string name="filter_people_riddle">Riddle</string>
   <string name="filter_people_roman">Romantika</string>
+  <string name="filter_people_story">Story</string>
   <string name="filter_scene_city">Mesto</string>
   <string name="filter_scene_df">Mist</string>
   <string name="filter_scene_koizora">Amour</string>
   <string name="filter_scene_lomo">LOMO</string>
   <string name="filter_scene_neon">Neon</string>
-  <string name="filter_scene_series">Reflections</string>
+  <string name="filter_scene_series">Odsevi</string>
   <string name="filter_scene_vivid">Vivid</string>
   <string name="filter_scene_warm">Sonce</string>
   <string name="finish_create_baby_album_toast">Izdelan je \"%s\" album v Mi Cloudu</string>
@@ -572,6 +596,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="fisheye">Ribje oko</string>
   <string name="flash_off">Brez blisk.</string>
   <string name="flash_on">Blisk. sprožena</string>
+  <string name="free_view_desc">3D prikaz</string>
   <string name="flip">Obrni</string>
   <string name="flip_tooltip">Povleci sliko za obrat</string>
   <string name="focal_length">Goriščna razdalja</string>
@@ -596,7 +621,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="has_invalid_recipient">Neveljavni prejemnik: %1$s</string>
   <string name="have_known">Razumem</string>
   <string name="hidden_album_display_name">Skriti album</string>
-  <string name="highlight">Povdarki</string>
+  <string name="highlight">Poudarki</string>
   <string name="highlight_abbr">I</string>
   <string name="home_menu_cleaner">Sprostite prostor</string>
   <string name="home_menu_collage">Kolaž</string>
@@ -856,7 +881,28 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="photo_editor_rotate">Obrni</string>
   <string name="photo_editor_saving">Shranjevanje…</string>
   <string name="photo_editor_sticker">Nalepka</string>
-  <string name="photo_editor_text">Tekst</string>
+  <string name="photo_editor_talkback_cancel">Prekliči</string>
+  <string name="photo_editor_talkback_confirm">Potrdi</string>
+  <string name="photo_editor_talkback_crop_16_9">Šestnajst do devet</string>
+  <string name="photo_editor_talkback_crop_1_1">Ena do ena</string>
+  <string name="photo_editor_talkback_crop_3_4">Tri do štiri</string>
+  <string name="photo_editor_talkback_crop_4_3">Štiri do tri</string>
+  <string name="photo_editor_talkback_crop_9_16">Devet do šestnajst</string>
+  <string name="photo_editor_talkback_crop_free">Prosto</string>
+  <string name="photo_editor_talkback_crop_mirror">Ogledalo</string>
+  <string name="photo_editor_talkback_crop_original">Original</string>
+  <string name="photo_editor_talkback_crop_rotate">Zavrti</string>
+  <string name="photo_editor_talkback_doodle_arrow">Puščica</string>
+  <string name="photo_editor_talkback_doodle_circular">Krog</string>
+  <string name="photo_editor_talkback_doodle_line">Črta</string>
+  <string name="photo_editor_talkback_doodle_path">Čopič</string>
+  <string name="photo_editor_talkback_doodle_rectangle">Pravokotnik</string>
+  <string name="photo_editor_talkback_effect">%d efekt</string>
+  <string name="photo_editor_talkback_eraser">Izbriši</string>
+  <string name="photo_editor_talkback_recently">Nedavo uporabljeno</string>
+  <string name="photo_editor_talkback_redo">Povrni</string>
+  <string name="photo_editor_talkback_undo">Razveljavi</string>
+  <string name="photo_editor_text">Besedilo</string>
   <string name="photo_page_save_uri_image_fail">"Ni bilo možno shraniti v Galerijo"</string>
   <string name="photo_page_save_uri_image_ok">Slika shranjena v Galerijo</string>
   <string name="photo_print_menu_loading">Nalagam dodatek…</string>
@@ -909,6 +955,8 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="picker_title_specify_format_one">Izbrano %d fotografij</string>
   <string name="picker_title_unlimit">Izberite fotografijo</string>
   <string name="places_album_empty_title">Fotografije so lahko razvrščene glede na lokacijo</string>
+  <string name="play_gif_desc">Predvajaj GIF</string>
+  <string name="play_video_desc">Predvajaj video</string>
   <string name="posterize">Posterize</string>
   <string name="preparing_data">Trenutek…</string>
   <string name="projection_cancel">Prekliči</string>
@@ -936,6 +984,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="recovery_merge_or_rename">Združi albume</string>
   <string name="recovery_merge_or_rename_message">"Že obstaja album z istim imenom. Združim?"</string>
   <string name="recovery_rename">Preimenuj</string>
+  <string name="refocus_desc">Fokusiraj ponovno</string>
   <string name="redeye">Rdeče oči</string>
   <string name="redeye_tooltip">Tapni za odstranitev rdečih oči</string>
   <string name="relation_text_empty_alert">Dodaj podrobnosti razmerja</string>
@@ -1043,6 +1092,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="search_setting_title">Najdi fotografije v Galeriji</string>
   <string name="search_syncing">Sinhronizacija podatkov, vrnite se malo kasneje</string>
   <string name="search_title_album">Album</string>
+  <string name="search_title_app_screenshot">Posnetek zaslona aplikacije</string>
   <string name="search_title_history">Preišči zgodovino</string>
   <string name="search_title_location">Lokacije</string>
   <string name="search_title_more">Več</string>
@@ -1073,9 +1123,12 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="see_ignore_faces">"Pokaži ignorirane osebe"</string>
   <string name="select_item_face">"Na fotog. je %s"</string>
   <string name="select_origin_tip">Izvirna datoteka (%s)</string>
+  <string name="send_file_beautify_failed">"Ne morem poslati"</string>
   <string name="send_invitation_fail">"Ne morem poslati vabila"</string>
   <string name="send_multiple_files_hint_format">Pošlji (%s)</string>
   <string name="send_public_url">Pošlji povezavo albuma</string>
+  <string name="send_secret_file_failed">"Ne morem poslati"</string>
+  <string name="send_secret_file_space_low">Ni dovolj prostora za shranjevanje</string>
   <string name="send_too_many_files_error">"Ne morem poslati toliko predmetov (maks. %d)."</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Nastavi za ozadje zakl. zaslona</string>
@@ -1093,6 +1146,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="share">Deli</string>
   <string name="share_album">Deli album</string>
   <string name="share_album_needs_auto_upload_tip">"Ne morem izključiti var. kopijo za deljene albume"</string>
+  <string name="share_album_qr_code">"QR koda albuma"</string>
   <string name="share_app_is_launching">{0,choice,0#Zagon aplikacije\u2026|1#%s se zaganja\u2026}</string>
   <string name="share_by_email_start">Deli %1$s v ozadju</string>
   <string name="share_by_email_successfully">Deljeno %1$s</string>
@@ -1285,6 +1339,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="view_baby_album">Prikaži otroški album</string>
   <string name="view_by_gallery_tip">MIUI Galerija</string>
   <string name="view_face_album">Prikaži album</string>
+  <string name="view_more_face_desc">Prikaži več oseb</string>
   <string name="view_queuing_status">Preverite status</string>
   <string name="vignette">Vinjeta</string>
   <string name="welcome_to_micloud">Dobro došli v Mi Cloud</string>

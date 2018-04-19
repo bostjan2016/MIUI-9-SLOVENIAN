@@ -52,6 +52,7 @@
   <string name="accessibility_captioning_title">Napisi</string>
   <string name="accessibility_category_personal">Računi za osebne profile</string>
   <string name="accessibility_category_work">Računi za delovne profile – %s</string>
+  <string name="accessibility_close_tab">Zapri trenutni zavihek</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">To je preizkusna funkcija in lahko vpliva na učinkovitost delovanja.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Preizkusno) Lahko vpliva na učinkovitost delovanja</string>
@@ -74,6 +75,7 @@
   <string name="accessibility_lock_screen_progress">Št. uporabljenih znakov: %1$d od %2$d</string>
   <string name="accessibility_long_press_timeout_preference_title">Dotaknite se in pridržite</string>
   <string name="accessibility_menu_item_settings">Nastavitve</string>
+  <string name="accessibility_more_settings">Dodatne nastavitve</string>
   <string name="accessibility_no_services_installed">Nameščena ni nobena storitev</string>
   <string name="accessibility_no_wifi">WiFi izključen.</string>
   <string name="accessibility_personal_account_title">Osebni račun – %s</string>
@@ -102,6 +104,7 @@
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Samodejno posodobi povečavo zaslona</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Povečava zaslona</string>
   <string name="accessibility_toggle_speak_password_preference_title">Izgovarjanje gesel</string>
+  <string name="accessibility_vpn_settings_info">VPN konfiguracija</string>
   <string name="accessibility_wifi_off">WiFi izključen.</string>
   <string name="accessibility_wifi_one_bar">WiFi ena črtica.</string>
   <string name="accessibility_wifi_security_type_none">Odpri omrežje</string>
@@ -503,6 +506,7 @@
   <string name="battery_info_status_charging">Polnjenje</string>
   <string name="battery_info_status_charging_ac">Polnjenje s polnilcem</string>
   <string name="battery_info_status_charging_ac_short">Polnjenje</string>
+  <string name="battery_info_status_charging_lower">Polnjenje</string>
   <string name="battery_info_status_charging_usb">Polnj. prek USB-ja</string>
   <string name="battery_info_status_charging_usb_short">Polnjenje</string>
   <string name="battery_info_status_charging_wireless">Brezžično polnjenje</string>
@@ -985,7 +989,8 @@
   <string name="close_gesture">Premik za zapiranje</string>
   <string name="close_install_and_connect">Ne hvala</string>
   <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
-  <string name="close_miui_optimization_warning_message">Vaša naprava bo ponovno zagnana za uporabo te spremembe. Opomba: izklop te funkcije bo spremenil razpored in druge elemente UI.</string>
+  <string name="close_optimization_message">Morda bo vplivalo na videz besedila, račune in ostale dele MIUI-ja po izklopu te storitve.</string>
+  <string name="close_optimization_option">Izključi</string>  
   <string name="close_sdcard_optimization_title">Izključi optimizacijo SD kartice</string>
   <string name="close_sdcard_optimization_warning_message">Vaša naprava se bo ponovno zagnala.</string>
   <string name="cloud_backup_section_title">Mi Cloud var. kopija</string>
@@ -3158,7 +3163,8 @@ Na tej napravi je več uporabnikov.
   <string name="open_demo_mode_warning_message">Ko je Demo način vključen se bo ura v vrstici stanja ustavila, baterija in ikone signala bodo prikazane kot polne. Lahko izključite Demo način ali ponovno zaženete napravo da spremenite.</string>
   <string name="open_anr_debug">Vključi ANR odpravljanje napak</string>
   <string name="open_miui_optimization_title">Vključi MIUI optimizacijo</string>
-  <string name="open_miui_optimization_warning_message">Vaša naprava se bo ponovno zagnala za uveljavitev sprememb</string>
+  <string name="open_optimization_message">Vključi optimizacijo da boste uživali v uglajenem in hitrem UI.</string>
+  <string name="open_optimization_option">Vključi</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Izključi</string>
   <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati zakl. aplikacij in prejemati posodobitev. Izključim?"</string>
@@ -5784,6 +5790,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifi_frequency">Frekvenca</string>
   <string name="wifi_gateway">Prehod</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_hide_password">Skrij geslo</string>
   <string name="wifi_hotspot_checkbox_text">Dostopna točka WiFi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Uporaba mobil. povezave za omrežje WiFi</string>
   <string name="wifi_hotspot_configure_ap_text">Nastavitev dostopne toč. WiFi</string>
@@ -5827,7 +5834,8 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifi_multiple_cert_added">(dodano več certifikatov)</string>
   <string name="wifi_network_prefix_length">Dolžina predpone omrežja</string>
   <string name="wifi_no_domain_warning">Morate navesti domeno.</string>
-  <string name="wifi_no_internet">Ni zaznanega dostopa do spleta; samodejna vnovična vzpostavitev povezave se ne bo izvedla.</string>
+  <string name="wifi_no_internet">"Ne mogu se povezati na omrežje"</string>
+  <string name="wifi_no_internet_no_reconnect">"Ne morem se samodejno povezati”</string>
   <string name="wifi_not_in_range">Ni v obsegu</string>
   <string name="wifi_notify_cmcc_connected_summary">Pokaži obvestilo ko je povezano na CMCC omrežje</string>
   <string name="wifi_notify_cmcc_connected_title">Obvestila CMCC omrežij</string>
