@@ -1872,7 +1872,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="font_size_summary1">Če je besedilo vašega sistema še vedno premajhno poskusite</string>
   <string name="font_size_summary2"/>
   <string name="forbidden_switch_apn_string">"Izbrane APN nastavitve ne odgovarjajo trenutni vrsti omrežja"</string>
-  <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
+  <string name="force_allow_on_external">Prisilno dovoli aplikacijam zapis v zunanji pomnilnik</string>
   <string name="force_allow_on_external_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsako aplikacijo zapisati v zunanjo shrambo</string>
   <string name="force_hw_ui">Vsili upodabljanje z GPE-jem</string>
   <string name="force_hw_ui_summary">Za risanje 2D vsili uporabo grafičnega procesorja</string>

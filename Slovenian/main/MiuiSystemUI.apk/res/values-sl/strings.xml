@@ -344,7 +344,7 @@ hitrost vzorčenja"</string>
   <string name="failed_to_open_app_settings_toast">Odpiranje nastavitev za aplikacijo %1$s ni uspela</string>
   <string name="float_incall_ignore">Ignoriraj</string>
   <string name="float_incall_message">Sporočilo</string>
-  <string name="force_allow_on_external">Prisilno dovoli aplikacije v zunanjem pomnilniku</string>
+  <string name="force_allow_on_external">Prisilno dovoli aplikacijam zapis v zunanji pomnilnik</string>
   <string name="force_allow_on_external_summary">Aplikacije se lahko zapišejo v zunanji pomnilnik neodvisno od vrednosti manifesta</string>
   <string name="force_hw_ui">Vsili GPU renderiranje</string>
   <string name="force_hw_ui_summary">Vsili uporabo GPU za 2D risbe</string>

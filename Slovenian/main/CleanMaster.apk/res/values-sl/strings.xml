@@ -229,6 +229,14 @@
   <string name="go_to">Nadaljuj</string>
   <string name="goto_set">Nastavi</string>
   <string name="grabage_rank_title">Očiščeno danes</string>
+  <string name="guide_secure_dialog_message">Rezultat optimizacije vaše naprave je manjši od 80 točk. Optimiziram zdaj?</string>
+  <string name="guide_secure_dialog_negative">Prekliči</string>
+  <string name="guide_secure_dialog_positive">Optimiziraj</string>
+  <string name="guide_secure_dialog_title">Optimiziraj performanse</string>
+  <string name="guide_virus_dialog_message">Skeniranje aplikacij in namestitvenih paketov ščiti vašo napravo pred virusi in zlonamernimi programi. Želite zdaj skenirati napravo?</string>
+  <string name="guide_virus_dialog_negative">Prekliči</string>
+  <string name="guide_virus_dialog_positive">Skeniraj</string>
+  <string name="guide_virus_dialog_title">Antivirusno skeniranje</string>
   <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
   <string name="header_optimizer">Z uporabo te funkcije pristajate na %s.</string>
   <string name="hint_clean_select_items">Brisanje dvojnikov…</string>
@@ -319,6 +327,7 @@
   <string name="low_memory_warning_dialog_ok_button">Očisti</string>
   <string name="low_memory_warning_dialog_title">Ni dovolj prostora</string>
   <string name="main_title_filesize">Smeti %1$s</string>
+  <string name="mainbtn_text_no_trash">Preskoči</string>
   <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
   <string name="megabyteShort">MB</string>
