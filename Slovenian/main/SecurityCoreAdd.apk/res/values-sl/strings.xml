@@ -366,6 +366,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="transferImage">Fotografije iz Drugega prostora bodo premeščene v album \"Drugi prostor\" v Prvem prostoru</string>
   <string name="transferMessage">Sporočila iz Drugega prostora bodo premeščena v Prvi prostor</string>
   <string name="tryNow">Poskusite zdaj</string>
+  <string name="use_xiaoai_open">Zbudi s pomočjo glasovnega pomočnika</string>
   <string name="wating">Samo trenutek…</string>
   <string name="weibo_send">Pošlji na Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>

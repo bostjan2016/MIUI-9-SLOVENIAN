@@ -106,6 +106,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="add_whitelist">Dodaj v izjeme</string>
   <string name="address">Naslov</string>
   <string name="address_choose_hint">%1$s, %2$s, in %3$d drugih lokacij</string>
+  <string name="adjust_sms_cmd">"Prilagodi kalibracijo SMS predloge"</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Posodobljeno pred več kot enim mesecem</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Posodobljeno pred več kot enim tednom</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Posodobljeno pred enim tednom</string>
@@ -819,6 +820,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dialog_restrict_positive">Prekliči</string>
   <string name="dialog_roaming_message">Aplikacije na seznamu dovoljenih se bodo lahko povezovale na podatkovne storitve v mednarodnem gostovanju. Dodam to aplikacijo na seznam dovoljenih?</string>
   <string name="dialog_roaming_title">Gostovanje</string>
+  <string name="dialog_roaming_warning_checkbox">"Ne prikazuj ponovno"</string>
+  <string name="dialog_roaming_warning_message">Po vklopu podatkovnega gostovanja vam bo operater zaračunal nadomestilo. Vključim vseeno?</string>
+  <string name="dialog_roaming_warning_ok">Vključi</string>
   <string name="dialog_text">Napravi bližnjico začetnega zaslona za pohitritev igranja</string>
   <string name="dialog_title_attention">Pozor</string>
   <string name="dialog_title_auto_start_declare">O samodejnem zagonu</string>
@@ -2270,6 +2274,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sms_contact_block">Blokiraj SMS od stika</string>
   <string name="sms_delete_hint">Izbrišem vsa blokirana sporočila s te številke?</string>
   <string name="sms_delete_title">Izbriši sporočila</string>
+  <string name="sms_detail_correct_success_text">"To so statistični podatki predhodne kalibracije (%1$s):"</string>
   <string name="sms_detail_fragment_title_bill">Stanje računa</string>
   <string name="sms_detail_fragment_title_traffic">Preostali podatki</string>
   <string name="sms_filter">Smart Filter</string>
@@ -2545,6 +2550,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tab_guide">Vodič</string>
   <string name="tab_sms">SMS</string>
   <string name="tab_title">Seznam blokiranih</string>
+  <string name="tc_cmd_invalid">Predloga ni veljavna</string>
   <string name="tc_diagnostic_all_error_notification_summary">Tapnite da prijavite težavo</string>
   <string name="tc_diagnostic_all_error_notification_title">"Ne morem dokončati diagnostike"</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Tapnite za nastavitev vrste omrežja</string>
@@ -2584,8 +2590,12 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Omrezje in znamka sta pravilno nastavljeni&lt;br/&gt;&lt;br/&gt;Ne morem dokončati nastavitve:&lt;br/&gt;1. Statistika operaterja mogoče ni zanesljiva na začetku in na koncu mesec.&lt;br/&gt;2. Funkcije aplikacije Varnost niso posodobljene.&lt;br/&gt;&lt;br/&gt;Prijavite to težavo da pomagate izboljšati diagnostična orodja&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Diagnostika omrežja</string>
   <string name="tc_diagnostic_upload_button">Prijavi</string>
-  <string name="tc_diagnostic_upload_no_network">Hvala vam za povratno informacijo! Your report will be submitted when you connect to network.</string>
+  <string name="tc_diagnostic_upload_no_network">Hvala vam za povratno informacijo! Vaše poročilo bo poslano ko se boste povezali v omrežje.</string>
   <string name="tc_diagnostic_upload_success">Hvala vam za povratno informacijo!</string>
+  <string name="tc_get_cmd_error">"Ne morem dobiti predloge"</string>
+  <string name="tc_parse_error">"Ne morem analizirati SMS"</string>
+  <string name="tc_receive_timeout">Kalibracija je potekla</string>
+  <string name="tc_send_sms_error">"Ne morem poslati SMS"</string>
   <string name="tc_sms_report_direction">SMS zahteva za kodo</string>
   <string name="tc_sms_report_do_report">Pošlji</string>
   <string name="tc_sms_report_get_default">"Ne boste nosili stroške uporabe SMS sporočil za pridobitev stanja porabe podatkov vašega mobilnega operaterja."</string>
@@ -2623,6 +2633,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_type">Vrsta poročila</string>
   <string name="tc_sms_report_upload_success">"SMS poročilo porabe podatkov sprejet."</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratno informacijo!</string>
+  <string name="tc_web_correct_error">"Ne morem kalibrirati"</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% od mes. podatkov)</string>
   <string name="tether_custom_dialog_title">Omejitev mobilnih podatkov</string>

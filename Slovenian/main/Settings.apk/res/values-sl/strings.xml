@@ -1954,6 +1954,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gadget_wifi">WiFi</string>
   <string name="gallery_privacy_password_role_instruction">Vaše zasebne fotografije bodo shranjene tukaj.</string>
   <string name="game_controller_settings_category">Krmilnik za igre</string>
+  <string name="game_mode_settings">Igračarski način</string>
+  <string name="game_storage_settings">Igre</string>
   <string name="gesture_wakeup_title">Dvakrat se dotaknite zaslona za bujenje</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>

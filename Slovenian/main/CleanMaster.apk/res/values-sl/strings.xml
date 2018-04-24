@@ -359,7 +359,7 @@
   <string name="msg_update_error_code_network_error">"Ne morem se povezati na omrežje"</string>
   <string name="msg_update_error_code_no_newer_db">Čistilec je v teku s posodobitvami</string>
   <string name="msg_update_error_code_success">Končano</string>
-  <string name="msg_update_error_code_unknown_error">Neznana napaka</string>
+  <string name="msg_update_error_code_unknown_error">Strežniki so zasedeni, poskusite kasneje</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">Pravila o zasebnosti</string>
   <string name="nb_clear_set">Počisti predpomnilnik, prikaži baterijo in listo blokiranih v plošči obvestil</string>
