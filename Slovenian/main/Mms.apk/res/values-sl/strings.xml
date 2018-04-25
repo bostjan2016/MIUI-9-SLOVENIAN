@@ -58,6 +58,16 @@
   <string name="bookmark_confirm_delete_message">Odznači izbrana sporočila?</string>
   <string name="bookmark_empty">Ni označenih sporočil</string>
   <string name="bookmark_list_title">Označeno</string>
+  <string name="button_emoji_creature">Animal emojis</string>
+  <string name="button_emoji_lifestyle">Življenje</string>
+  <string name="button_emoji_smiley">Obrazi</string>
+  <string name="button_emoji_symbol">Simbol</string>
+  <string name="button_emoji_text">Besdilo</string>
+  <string name="button_fold">Fold</string>
+  <string name="button_next_slide">Naprej</string>
+  <string name="button_pre_slide">Nazaj</string>
+  <string name="button_resend_message">Pošlji ponovno</string>
+  <string name="button_unfold">Razgrni</string>
   <string name="call_sender">Pokliči pošiljatelja</string>
   <string name="cannot_add_picture_and_video">Ne morem dodati videa in fotografije v en diapozitiv.</string>
   <string name="cannot_add_slide_anymore">Ne morem dodati diapozitivov.</string>
@@ -508,7 +518,7 @@
   <string name="privacy_password_title4">Geslo je posodobljeno</string>
   <string name="private_message">Privatna sporočila</string>
   <string name="private_new_notification">Obvestilo o sporočilu</string>
-  <string name="private_protect">Geslo</string>
+  <string name="private_protect">Zaščita zasebnosti</string>
   <string name="private_settings">Privatne nastavitve sporočil</string>
   <string name="processing">Obdelujem...</string>
   <string name="prvate_contact">Privatni stiki</string>

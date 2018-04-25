@@ -2801,6 +2801,11 @@ Na tej napravi je več uporabnikov.
   <string name="move_app_to_sdcard">Premakni na zunanji pomnilnik</string>
   <string name="move_error_device_admin">Administrator naprave se ne more namestiti na zunanji pomnilnik.</string>
   <string name="moving">Premikanje</string>
+  <string name="mqs_privacy_automatically_upload">Samodejno preberi</string>
+  <string name="mqs_privacy_dialog_cancel">Prekliči</string>
+  <string name="mqs_privacy_dialog_confirm">Preberi</string>
+  <string name="mqs_privacy_dialog_content">Preberem dnevnike za rešitev problema? Lahko vsebujejo vaše osebne podatke, vključno informacije o vaši lokaciji.</string>
+  <string name="mqs_privacy_dialog_title">Prišlo je do napake</string>
   <string name="msd_driver_download">Prenesite gonilnik</string>
   <string name="msd_driver_download_mac">"Za Mac prenesite upravljalski program in kliknite AndroidFileTransfer.dmg za namestitev"</string>
   <string name="msd_driver_download_mac_url">Prenos datoteke na http://www.android.com/filetransfer/</string>

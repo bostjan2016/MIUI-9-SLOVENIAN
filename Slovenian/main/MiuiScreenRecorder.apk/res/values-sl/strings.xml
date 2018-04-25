@@ -14,13 +14,17 @@
   <string name="button_confirm">V redu</string>
   <string name="button_goon_recorder">Nadaljuj</string>
   <string name="cancel_edit">Prekini</string>
+  <string name="cannot_change_frames">Število slik se lahko prilagodi samo za posnetke z fiksnim številom slik.</string>
   <string name="cannot_change_parames">"Parametrov ne morem menjati med snemamjem"</string>
   <string name="cannot_record">"Ne morem posneti, poskusite ponovno kasneje."</string>
+  <string name="close_screen_record">Snemanje je ustavljeno</string>
   <string name="date_day"/>
   <string name="description_content">Snemanje zaslona ponuja možnost snemanja na sistemskem nivoju. To opravilo pomeni da boste odstranili funkcijo snemanja zaslona. Potrdite za nadaljevanje.</string>
   <string name="description_title">O aplikaciji</string>
   <string name="deselect_all">Prekliči izbiro</string>
   <string name="error_open_file_failed_no_app_found">"Ne morem najti aplikacijo za obdelavo tega opravila"</string>
+  <string name="fixed_frame_rate">Fiksno število slik</string>
+  <string name="fixed_frame_rate_summary">Snemanje videoposnetkov z fiksno hitrostjo slik izboljša predvajanje na platformah družbenih omrežij in zmanjšuje trajanje baterije.</string>
   <string name="frames">Število slik</string>
   <string name="frames_summary">Čim večje število slik v sekundi povečuje ostrino</string>
   <string name="frequently_click_toast">Samo trenutek…</string>
@@ -32,6 +36,9 @@
   <string name="hint_volume_down">Glasnost -</string>
   <string name="hint_volume_up">Glasnost +</string>
   <string name="home_title_none">Izberite stvari</string>
+  <string name="is_checked">Izbrano</string> 
+  <string name="is_go_home">Nazaj v snemanje zaslona</string>
+  <string name="is_go_home_summary">"Odpri začetno stran snemanja zaslona po končanem snemanju"</string>
   <string name="loopback_sound">Zvočnik</string>
   <string name="low_battery">Pred začetkom snemanja napolnite baterijo</string>
   <string name="low_battery_title">Slaba baterija</string>
@@ -58,6 +65,7 @@
   <string name="screen_record_option">Možnosti snemanja</string>
   <string name="screen_record_params">Parametri snemanja</string>
   <string name="select_all">Izberi vse</string>
+  <string name="settings">Nastavitve</string>
   <string name="show_hard_key">Vizualiziraj navigacijske tipke</string>
   <string name="show_hard_key_summary">Prikaži vprašaj pri pritisku na tipke Začetna, Meni in Nazaj</string>
   <string name="show_screen_touch">Prikaži geste dotika</string>
@@ -68,6 +76,8 @@
   <string name="start_recording">Začni snemanje</string>
   <string name="stop_by_second_space">Zamenjava prostora bo zaustavila snemanje</string>
   <string name="stop_recording">Ustavi snemanje</string>
+  <string name="storage_location">Pomnilnik</string>
+  <string name="storage_location_summary">Izberite željeno različico shranjevanja</string>
   <string name="stop_record_while_locking">Ustavi snemanje ob zakl. zaslona</string>
   <string name="stop_record_while_locking_summary">Končaj snemanje in shrani videoposnetek ko se zaklene zaslon</string>
   <string name="timer_format">%s</string>

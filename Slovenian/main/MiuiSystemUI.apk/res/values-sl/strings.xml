@@ -322,6 +322,10 @@ hitrost vzorčenja"</string>
   <string name="enable_webview_multiprocess">Večprocesni spletni prikaz</string>
   <string name="enable_webview_multiprocess_desc">Upodabljalnike spletnega prikaza zaženi zasebno</string>
   <string name="enabled_by_admin">Omogočil administrator</string>
+  <string name="enter_special_mode_message">Po ponovnem zagonu aplikacije bo vsebina aplikacije razširjena.</string>
+  <string name="enter_special_mode_title">Ponovno zaženite aplikacijo in razširite prostor za prikaz</string>
+  <string name="exit_special_mode_message">Po ponovnem zagonu aplikacije bo prostor za prikaz aplikacije vrnjen v privzeti način.</string>
+  <string name="exit_special_mode_title">Ponovno zaženi aplikacijo</string>
   <string name="expanded_confirm_disable_notification">Skrij</string>
   <string name="expanded_notification_manager">Upravljaj z obvestili</string>
   <string name="ext_media_badremoval_notification_message">Izvrzite USB pomnilnik pred odstranitvijo da preprečite izgubo podatkov.</string>
@@ -699,6 +703,8 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="show_touches">Prikaži dotike</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dotike</string>
   <string name="simulate_color_space">Simuliraj barvnega prostora</string>
+  <string name="special_mode_cancel">Prekliči</string>
+  <string name="special_mode_ok">Ponovno zaženi</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
   <string name="status_bar_accessibility_dismiss_recents">Zavrzi nedavne aplikacije</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>

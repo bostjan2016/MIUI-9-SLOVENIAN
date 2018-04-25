@@ -1403,6 +1403,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_mark">Prijavi številko</string>
   <string name="menu_remove">Izbriši</string>
   <string name="menu_report">Prijavi napako</string>
+  <string name="menu_setting_traffic">Nastavi ročno</string>
   <string name="menu_restore">Vrni v prejeto</string>
   <string name="menu_sms">Pošlji SMS</string>
   <string name="menu_text_antispam">Seznam blokad</string>

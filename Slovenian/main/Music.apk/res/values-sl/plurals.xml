@@ -13,7 +13,7 @@
         <item quantity="one">%d skladba</item>
     </plurals>
 	<plurals name="dialog_confirm_delete_downloads_message">
-         <item quantity="other">Izbrišem predmete %d?</item>
+         <item quantity="other">Izbrišem predmete: %d?</item>
          <item quantity="one">Izbrišem %d predmet?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
@@ -61,6 +61,12 @@
     <plurals name="dialog_delete_descript">
         <item quantity="other">Izbrišem %d skladb?</item>
         <item quantity="one">Izbrišem %d skladbo?</item>
+    </plurals>
+	<plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Izbrišem stvari: %d?
+Opomba: Datoteke bodo izbrisane tudi iz te naprave."</item>
+        <item quantity="one">"Izbrišem %d stvar?
+Napomena: Datoteka bo izbrisana tudi iz te naprave."</item>
     </plurals>
     <plurals name="dialog_remove_descript">
         <item quantity="other">Odstranim %d skladbe?</item>
