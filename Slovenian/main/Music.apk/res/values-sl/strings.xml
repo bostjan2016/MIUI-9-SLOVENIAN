@@ -900,8 +900,8 @@ predvsem nudi Ultimate Inc.</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_device">Izberi napravo</string>
   <string name="select_displayed_folders">Izberi mape za prikaz</string>
-  <string name="select_local_album">Izberi album</string>
-  <string name="select_local_lyric">Izberi besedilo</string>
+  <string name="select_local_cover">Izberi lokalni ovitek</string>
+  <string name="select_local_lyric_file">Izberi lokalno datoteko besedila</string>
   <string name="select_lyric">Izberi besedilo</string>
   <string name="select_none">Prekliči izbrano</string>
   <string name="select_operation_items">Izberite predmete</string>

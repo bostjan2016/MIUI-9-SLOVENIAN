@@ -81,4 +81,5 @@
   <string name="stop_record_while_locking">Ustavi snemanje ob zakl. zaslona</string>
   <string name="stop_record_while_locking_summary">Končaj snemanje in shrani videoposnetek ko se zaklene zaslon</string>
   <string name="timer_format">%s</string>
+  <string name="unchecked">Ni izbrano</string>
 </resources>
