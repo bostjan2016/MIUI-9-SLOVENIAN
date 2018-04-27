@@ -93,6 +93,7 @@
   <string name="life_post_weather_degree_invalid">--</string>
   <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
+  <string name="life_post_weather_description_third">%1$s，%2$s</string>
   <string name="life_post_weather_invalid">Ne morem dobiti podatkov o vremenu, pritisni za ponoven poskus</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
   <string name="loading_ringtone">Nalagam zvonenja…</string>

@@ -25,6 +25,7 @@
   <string name="deleting_message">Brisanje…</string>
   <string name="details">Podrobnosti</string>
   <string name="dialog_content_storage_full">Snemanje se je ustavilo ker ni dovolj prostora na vašem notranjem pomnilniku naprave.</string>
+  <string name="dialog_privacy_revoke_tips">"Po odpoklicu avtorizacije bo aplikacija nehala zbirati podatke, stari podatki pa bodo izbrisani iz strežnika. To lahko povzroči neuporabnost. Vseeno odpokličem? Da boste zavarovali varnost računa se prijavite na i.mi.com pred odpoklicem za storitve Mi Cloud."</string>
   <string name="dialog_title_storage_full">Ni dovolj prostora</string>
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>

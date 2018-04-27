@@ -3,5 +3,9 @@
      <plurals name="delete_selection">
         <item quantity="other">Izbrišem izbrane predmete?</item>
         <item quantity="one">Izbrišem izbrani predmet?</item>
+    </plurals>
+	<plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Fokusirano. Najdeno %d obrazov</item>
+        <item quantity="one">Fokusirano. Najden %d obraz</item>
      </plurals>
 </resources>

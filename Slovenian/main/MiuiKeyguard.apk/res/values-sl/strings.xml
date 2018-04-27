@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Tapnite da odprete Glasbo</string>
+  <string name="app_name">Zakl. zaslon</string>
   <string name="btn_camera">Fotografirajte svoj obraz</string>
   <string name="change_to_ac_charging">Spremenjeno na žično polnjenje</string>
   <string name="click_to_enter_text">Dotaknite se za pregled</string>

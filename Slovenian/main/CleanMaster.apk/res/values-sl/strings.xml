@@ -335,6 +335,7 @@
   <string name="menu_add_to_white_list">Dodaj v izjeme</string>
   <string name="menu_clear">Očisti</string>
   <string name="menu_install">Namesti to aplikacijo</string>
+  <string name="menu_open">Odpri</string>
   <string name="menu_view">Prikaži v mapi</string>
   <string name="micloud_find_device_close_alert_content">"Če izključite to funkcijo ne boste mogli najti napravo če jo izgubite."</string>
   <string name="micloud_find_device_close_alert_negtive">Izključi vseeno</string>
@@ -484,6 +485,13 @@
   <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Preberi imena map</string>
   <string name="there_is_no">Vse izgleda dobro, vrnite se kasneje</string>
+  <string name="tips_low_storage_dialog_cancel">Prekliči</string>
+  <string name="tips_low_storage_dialog_msg_qq">Velikost QQ spomina je dosegla 3 GB. To lahko upočasni vašo napravo. Želite  očistiti QQ predpomnilnik?</string>
+  <string name="tips_low_storage_dialog_msg_storage">"Uporabljate 90% prostora za shranjevanje. Odstranite aplikacije ki jih ne uporabljate."</string>
+  <string name="tips_low_storage_dialog_msg_wechat">Velikost WeChat memorije je dosegla 3 GB. To lahko upočasni vašo napravo. Želite očistiti WeChat predpomnilnik?</string>
+  <string name="tips_low_storage_dialog_ok">Očisti</string>
+  <string name="tips_low_storage_dialog_ok_storage">Osvobodite prostor</string>
+  <string name="tips_low_storage_dialog_title">Prostor za shranjevanje je nizek</string>
   <string name="tips_of_app_manage">Izbrišite redko uporabljene aplikacije za prihranek prostora za shranjevanje</string>
   <string name="tips_of_auto_launch_manage">Preprečite redko uporabljanim aplikacijam samodejni zagon</string>
   <string name="tips_of_cloud_service">Prijavite se s svojim Mi Računom za uporabo več Mi storitev</string>

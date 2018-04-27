@@ -326,6 +326,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_query_error_title">"Ne morem dobiti stanje sinhronizacije"</string>
   <string name="micloud_main_resume_sync_soon">Nadljuj z sinhr. kmalu</string>
   <string name="micloud_main_set_internet">Omrežje</string>
+  <string name="micloud_main_see_unsynced_data">Preverite podatke za sinhronizacijo</string>
   <string name="micloud_main_space_full">Ni dovolj prostora za shranjevanje</string>
   <string name="micloud_main_space_full_message">Kupite več prostora za shranjevanje na Mi Cloudu</string>
   <string name="micloud_main_space_full_title">Ni dovolj prostora za shranjevanje, sinhronizaciju pavzirana</string>

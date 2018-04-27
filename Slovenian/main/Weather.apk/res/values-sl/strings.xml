@@ -39,6 +39,8 @@
   <string name="aqi_publish_time">Posodobljeno %1$s</string>
   <string name="aqi_quality_detail_15_days">15-dnevna napoved</string>
   <string name="aqi_quality_detail_48_hours">48-urna napoved</string>
+  <string name="aqi_station_best_quality_station">Najboljša postaja</string>
+  <string name="aqi_station_min_distance_station">Najbližja postaja</string>
   <string name="button_abandon">Opusti spremembe</string>
   <string name="button_add_city">Dodaj mesto</string>
   <string name="button_allow">V redu</string>
@@ -51,6 +53,7 @@
   <string name="button_settings_confirm_to_revoke_title">Prekličem avtorizacijo?</string>
   <string name="button_sure_abandon">Zavržem spremembe?</string>
   <string name="change_alert">Preverite omrežno povezavo in poskusite ponovno</string>
+  <string name="china_version_first_start_network_msg">"Z uporabe sprejemate Xiaomi %1$s in %2$s. Aplikacija potrebuje dostop do spleta in lokacije."</string>
   <string name="city_exceeded_warning">Lahko dodate do 10 mest</string>
   <string name="close">Zapri</string>
   <string name="commercial">Komercialno</string>
@@ -134,6 +137,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="menu_location">Lokacije</string>
   <string name="menu_minute_rain">Dvourna napoved padavin</string>
   <string name="menu_speeker">Glasovno predvajanje</string>
+  <string name="menu_speaker">Glasovno predvajanje</string>
   <string name="minute_rain_after_an_hour">Uro kasneje</string>
   <string name="minute_rain">Natančna napoved</string>
   <string name="minute_rain_after_two_hour">Dve ure kasneje</string>
@@ -163,6 +167,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="particulate_matter_exceeded">Visoko</string>
   <string name="particulate_matter_not_exceeded">Normalno</string>
   <string name="particulate_matter_serious_exceeded">Previsoko</string>
+  <string name="policy_settings">Pogoji in pravila</string>
   <string name="precipitation_degree_five">nevihta</string>
   <string name="precipitation_degree_four">ploha</string>
   <string name="precipitation_degree_one">brez dežja</string>
