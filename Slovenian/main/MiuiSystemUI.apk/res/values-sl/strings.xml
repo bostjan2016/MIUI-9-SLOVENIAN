@@ -45,8 +45,8 @@
   <string name="accessibility_desc_reconfirm_block">Skrijem zdaj?</string>
   <string name="accessibility_desc_select_block_notification">Izberite obvestila za skrivanje</string>
   <string name="accessibility_desc_uncheck_block_notification">"Preklicana izbira %1$s obvestil"</string>
-  <string name="accessibility_desc_work_lock">Delovni Zaklj. zaslon</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Ta funkcija je eksperimentalna in lahko vpliva na zmogljivost.</string>
+  <string name="accessibility_desc_work_lock">Delovni Zakl. zaslon</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Ta storitev je eksperimentalna in lahko vpliva na zmogljivost.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravki barve</string>
   <string name="accessibility_divider">Delitelj razdeljenega zaslona</string>
   <string name="accessibility_drag_hint_message">Prestavite stvari na vrh zaslona</string>
