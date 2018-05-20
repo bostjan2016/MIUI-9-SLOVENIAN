@@ -3054,6 +3054,8 @@ Na tej napravi je več uporabnikov.
   <string name="normal_smartcover_title">Neprozorni sprednji pokrov</string>
   <string name="not_battery_optimizing">Ne uporablja optimizacijo baterije</string>
   <string name="not_installed">Ni nameščeno</string>
+  <string name="notch_force_black_desc">Ko je vključeno je področje zoba zaslona črno</string>
+  <string name="notch_force_black_title">Skrij zob zaslona</string>
   <string name="notes_privacy_password_role_instruction">Vaše zasebne beležke bodo shranjene tukaj.</string>
   <string name="notification_app_settings_button">Nastavitve obvestil</string>
   <string name="notification_breathing_light_color_title">Barvno svetlobno obvestilo</string>

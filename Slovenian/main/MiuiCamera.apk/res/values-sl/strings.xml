@@ -2,6 +2,8 @@
 <resources>
   <string name="Import">Uvoz</string>
   <string name="access_sd_fail">"Dostop do zunanjega pomnilnika ni mogoč."</string>
+  <string name="accessibility_ai_scene_off">AI kamera je izključena</string>
+  <string name="accessibility_ai_scene_on">AI kamera</string>
   <string name="accessibility_audio_shutter_bg">Ozadje zvoka sprožilca</string>
   <string name="accessibility_back_preview_status">Pregled zadnje kamere</string>
   <string name="accessibility_beauty_panel_closed">Meni Beautify je skrit</string>
@@ -15,7 +17,7 @@
   <string name="accessibility_camera_picker_finish">Kamere so uspešno spremenjene</string>
   <string name="accessibility_camera_shutter_finish">Fotografija uspešno izdelana</string>
   <string name="accessibility_closed">Izključeno</string>
-  <string name="accessibility_countdown">Tipka odbrojavanja</string>
+  <string name="accessibility_countdown">Tipka odštevanja</string>
   <string name="accessibility_effect_mode_button">Gumb za efekte</string>
   <string name="accessibility_filter_close_panel">Meni filtrov je zaprt</string>
   <string name="accessibility_filter_open_panel">Meni filtrov je odprt</string>
@@ -54,7 +56,7 @@
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_button">Zoom</string>
-  <string name="ai_scene_mode_use_hint_text">"AI kamera samodejno prepozna prizor
+  <string name="ai_scene_mode_use_hint_text">"AI kamera samodejno prepozna prizore
   
 in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="audio_focus_exit_button_text">Izključi</string>

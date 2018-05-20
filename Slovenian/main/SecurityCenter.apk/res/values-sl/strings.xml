@@ -1028,6 +1028,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gb_new_feature">Nova funkcija</string>
   <string name="gb_msg_completely_shielded">Skrij sporočila</string>
   <string name="gb_msg_completely_shielded_summary">Skrij</string>
+  <string name="gb_msg_not_shielded_summary">Prikaži</string>
   <string name="gb_msg_quickly_answer">Dovoli hitre odgovore</string>
   <string name="gb_msg_quickly_answer_summary">Hitri odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obvestila z transparentnim ozadjem</string>
