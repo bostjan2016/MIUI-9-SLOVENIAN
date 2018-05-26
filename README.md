@@ -1,10 +1,10 @@
-<dl><dd><img src="http://i.imgur.com/JCMdFeD.png" border="0" alt="MIUI9_logo"></a></dd></dl>
+<dl><dd><img src="https://i.imgur.com/PDpAAjL.png" border="0" alt="MIUI9_logo"></a></dd></dl>
 
 
-MA-XML-9.0-SLOVENIAN-master
+MA-XML-10.0-SLOVENIAN
 ==========================
 
-SLOVENIAN Translation For Xiaomi MIUI V9 Android Based OS
+SLOVENIAN Translation For Xiaomi MIUI V10 Android Based OS
 
 
  MIUI Translation: **BOSTJAN, MARKO**
