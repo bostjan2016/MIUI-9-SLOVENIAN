@@ -93,8 +93,8 @@ Tipkovnica in vrstica obvestil se ne moreta povečati."</string>
     <string name="app_notification_override_dnd_title">Preglasitev načina »Ne moti«</string>
     <string name="app_notification_visibility_override_title">Na zaklenjenem zaslonu</string>
     <string name="app_notifications_off_desc">Prikazovanje obvestil te aplikacije je izklopljeno v tej napravi Android.</string>
-    <string name="app_settings_link">Dodatne postavke u aplikaciji</string>
-    <string name="apps_summary">Broj instaliranih aplikacija: %1$d</string>
+    <string name="app_settings_link">Dodatne nastavitve v aplikaciji</string>
+    <string name="apps_summary">Število nameščenih aplikacij: %1$d</string>
     <string name="apps_summary_example">Nameščenih je 24 aplikacij</string>
     <string name="assist_flash_summary">Utripanje robov zaslona, ko aplikacija za pomoč dostopa do besedila z zaslona ali posnetka zaslona</string>
     <string name="assist_flash_title">Utripanje zaslona</string>
@@ -130,7 +130,7 @@ Tipkovnica in vrstica obvestil se ne moreta povečati."</string>
     <string name="automatic_storage_manager_days_title">Varnostno kopirane fotografije in videoposnetki</string>
     <string name="automatic_storage_manager_deactivation_warning">"Želite izklopiti funkcijo »Pametna shramba«? 
 
-Pametna shramba ne boosvobodila prostor če je prostor za shranjevanje skoraj poln."</string>
+Pametna shramba ne bo osvobodila prostor če je prostor za shranjevanje skoraj poln."</string>
     <string name="automatic_storage_manager_downloads_days_title">Varnostno kopirani prenosi</string>
     <string name="automatic_storage_manager_freed_bytes">"Skupaj dostopno: %1$s
 

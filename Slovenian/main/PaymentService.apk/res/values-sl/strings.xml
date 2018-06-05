@@ -21,7 +21,7 @@
   <string name="passport_btn_return">Nazaj</string>
   <string name="passport_button_cancel">Prekini</string>
   <string name="passport_change_account">Sprememba računa</string>
-  <string name="passport_change_phone_number">Sprememba broja</string>
+  <string name="passport_change_phone_number">Sprememba številke</string>
   <string name="passport_checking_account">Kontrola gesla…</string>
   <string name="passport_checking_input">Kontrola vnosa…</string>
   <string name="passport_choose_which_one_sim">Izberite številko telefona</string>
@@ -88,7 +88,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto
   <string name="passport_login_check_find_device_failed_title">Ne morem preveriti podatkov o varnosti naprave.</string>
   <string name="passport_login_failed">"Ne morem se prijaviti"</string>
   <string name="passport_login_find_device_bind">Ta naprava je povezana z obstoječim ID Mi Računa (%s).</string>
-  <string name="passport_login_instead_reg">Uporablja to številko broj</string>
+  <string name="passport_login_instead_reg">Uporablja to številko</string>
   <string name="passport_login_instead_reg_with_email">Uporablja to E-pošto</string>
   <string name="passport_login_notice">Prijava…</string>
   <string name="passport_login_prompt">En Mi Račun. Vse Mi storitve.</string>

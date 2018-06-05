@@ -159,7 +159,7 @@
   <string name="bugreport_in_power">Bližnica poročila o napakah</string>
   <string name="bugreport_in_power_summary">Prikaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
   <string name="button_convert_fbe">Izbriši in pretvori…</string>
-  <string name="call_status_dialing">"Biranje broja"</string>
+  <string name="call_status_dialing">"Klicanje"</string>
   <string name="call_status_ringing">Zvonjenje</string>
   <string name="camera_key_action_app_title">"Odpri aplikacijo"</string>
   <string name="camera_key_action_category_title">Uporabi če aplikacija Kamera ni odprta</string>
