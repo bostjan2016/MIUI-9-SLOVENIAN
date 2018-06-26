@@ -3620,7 +3620,7 @@ Uporaba pripenjanja:
   <string name="security_encryption_progress_dialog_close">Dešifriranje…</string>
   <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla zakl. zaslona</string>
-  <string name="security_keyguard_category_name">Zaklenjen zaslona</string>
+  <string name="security_keyguard_category_name">Zaklenjen zaslon</string>
   <string name="security_password_category_name">Zakl. zaslona</string>
   <string name="security_passwords_title">Gesla</string>
   <string name="security_patch">Raven popravkov za varnost v Androidu</string>
